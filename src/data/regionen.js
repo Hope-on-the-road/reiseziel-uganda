@@ -53,10 +53,10 @@ export const regionen = {
   entebbe: {
     isTouristDestination: true,
     slug: '/regionen/entebbe',
-    title: 'Entebbe Uganda 2026 -- Sehenswuerdigkeiten, Flughafen, Victoriasee & Schuhschnabel',
+    title: 'Entebbe, Uganda -- Tor zur Perle Afrikas am Viktoriasee',
     h1: 'Entebbe -- Sehenswuerdigkeiten & Reisetipps',
-    subtitle: 'Ugandas Tor zur Welt am Victoriasee: Flughafen, Botanischer Garten, Mabamba Swamp und die schoensten Straende',
-    metaDescription: 'Entebbe Uganda 2026: Alle Sehenswuerdigkeiten -- Flughafen EBB, Botanischer Garten (seit 1898), Mabamba Schuhschnabel-Touren, Victoriasee-Straende, UWEC Zoo, Ngamba Island. Anreise, Hotels, Kosten.',
+    subtitle: 'Ugandas Einreisepunkt am Victoriasee: Internationaler Flughafen, Botanischer Garten, Mabamba Swamp und die schoensten Straende',
+    metaDescription: 'Entebbe: Ugandas Einreisepunkt mit internationalem Flughafen, Viktoriasee-Lage und Wildtierpark. 1,27 Mio. Besucher reisten 2023 durch Uganda ein.',
     breadcrumbs: [{ label: 'Regionen', href: '/#regionen' }, { label: 'Entebbe' }],
     photoFilter: 'landschaft',
     kurzantwort: 'Entebbe ist Ugandas internationale Flughafen-Stadt am Ufer des Victoriasees und fuer die meisten Reisenden der erste und letzte Ort in Uganda. Die ruhige, gruene Stadt auf einer Halbinsel im groessten See Afrikas bietet den 1898 gegruendeten Botanischen Garten, palmenumsaeumte Straende am Victoriasee, das Uganda Wildlife Education Centre (UWEC) mit ueber 200 Tierarten und ist Ausgangspunkt fuer die weltbesten Schuhschnabel-Touren im Mabamba Swamp (Sichtungsrate ueber 90 Prozent). Entebbes entspannte Atmosphaere steht im wohltuenden Kontrast zum hektischen Kampala, das nur 40 Kilometer entfernt liegt. Als ehemalige Hauptstadt Ugandas (bis 1962) hat Entebbe historische Bedeutung, und der Entebbe International Airport (EBB) ist das Drehkreuz fuer alle internationalen Fluege nach Uganda.',
@@ -73,6 +73,11 @@ export const regionen = {
       { label: 'Klima', value: '22-27 Grad C ganzjaehrig, tropisch-feucht' },
     ],
     sections: [
+      {
+        id: 'einreise-tourismus',
+        title: 'Entebbe als Einreisepunkt: Ugandas Tourismus 2023',
+        content: 'Entebbe liegt am noerdlichen Ufer des Victoriasees und beherbergt den Entebbe International Airport (EBB) -- den einzigen internationalen Flughafen Ugandas. Wer Uganda bereist, landet hier. Im Jahr 2023 verzeichnete Uganda insgesamt 1.274.210 internationale Touristenankuenfte -- ein Anstieg von 56,4 Prozent gegenueber dem Vorjahr. Allein ueber den Luftweg reisten 270.160 Besucher ein, ein Wachstum von 37,8 Prozent gegenueber 2022.\n\nVon Entebbe aus erreichen Reisende alle wichtigen Destinationen Ugandas: die Hauptstadt Kampala liegt rund 40 Kilometer entfernt, der Bwindi Impenetrable National Park fuer Gorilla-Trekking ist eine Tagesfahrt entfernt. Internationale Besucher blieben 2023 durchschnittlich 7,6 Naechte in Uganda. Die Bettenauslastung in ugandischen Unterkuenften lag 2023 bei 50,4 Prozent, die Zimmerauslastung bei 53,9 Prozent.\n\nDer Tourismussektor Ugandas waechst: Die internen Tourismusgesamtausgaben betrugen 2023 rund 9.157 Milliarden Uganda-Schilling. Unterkunftsservices verzeichneten dabei ein Wachstum von 77,9 Prozent gegenueber 2022. Mit Uganda Airlines betreibt das Land eine eigene nationale Fluggesellschaft, die internationale Verbindungen nach Entebbe ausbaut.\n\nQuelle: Uganda Tourism Satellite Account Report, Maerz 2025 (Uganda Bureau of Statistics / Ministry of Tourism, Wildlife and Antiquities)',
+      },
       {
         id: 'ueberblick',
         title: 'Entebbe: Ugandas gruene Flughafenstadt am Victoriasee',
@@ -114,6 +119,11 @@ export const regionen = {
       },
     ],
     faqs: [
+      { q: 'Ist Entebbe die Hauptstadt von Uganda?', a: 'Nein. Die Hauptstadt Ugandas ist Kampala. Entebbe ist jedoch die Stadt mit dem einzigen internationalen Flughafen des Landes -- dem Entebbe International Airport (EBB) -- und liegt rund 40 Kilometer suedlich von Kampala am Victoriasee. Die Verwechslung ist haeufig, da Entebbe historisch bis 1962 als Verwaltungssitz unter britischer Kolonialherrschaft diente.' },
+      { q: 'Wie viele Touristen kommen jaehrlich nach Uganda?', a: 'Im Jahr 2023 reisten 1.274.210 internationale Besucher nach Uganda -- ein Anstieg von 56,4 Prozent gegenueber 812.508 Ankuenften im Jahr 2022. Davon kamen 270.160 Besucher per Flugzeug, was einem Wachstum von 37,8 Prozent entspricht. Alle Flugreisenden landen am Entebbe International Airport. Quelle: Uganda Tourism Satellite Account Report, Maerz 2025.' },
+      { q: 'Wie lange sollte ich in Entebbe bleiben?', a: 'Entebbe eignet sich als ein- bis zweitaegiger Aufenthalt zu Beginn oder Ende einer Uganda-Reise. Internationale Besucher blieben 2023 durchschnittlich 7,6 Naechte in Uganda insgesamt. Entebbe selbst bietet den Botanischen Garten (seit 1898), das Uganda Wildlife Education Centre, Straende am Victoriasee und die weltbesten Schuhschnabel-Touren im Mabamba Swamp.' },
+      { q: 'Welche Fluggesellschaft fliegt nach Entebbe?', a: 'Uganda Airlines ist die nationale Fluggesellschaft und baut internationale Verbindungen zum Entebbe International Airport aus. Aus Europa fliegen ausserdem KLM (Amsterdam), Brussels Airlines (Bruessel) und Turkish Airlines (Istanbul). Aus dem Nahen Osten: Emirates und flydubai (Dubai), Qatar Airways (Doha). Regional: Ethiopian Airlines, Kenya Airways, RwandAir. 2023 stiegen die Flugankuenfte um 37,8 Prozent auf 270.160.' },
+      { q: 'Was gibt es in Entebbe zu sehen?', a: 'Entebbe bietet: Entebbe Botanical Gardens (seit 1898, 40 Hektar direkt am Victoriasee), Uganda Wildlife Education Centre (200+ Tierarten), Straende und Bootstouren am Victoriasee, das Ngamba Island Schimpansen-Schutzgebiet sowie die weltbesten Schuhschnabel-Touren im Mabamba Swamp (Sichtungsrate 90%+). Geplant ist ausserdem ein Vogel-Beobachtungsturm mit kreisfoermigem Design, der Vogelbeobachtung ueber die gesamte Halbinsel ermoeglicht.' },
       { q: 'Wie weit ist es vom Flughafen Entebbe nach Kampala?', a: '40 Kilometer, etwa 1 Stunde Fahrzeit auf dem Entebbe Expressway. Im Berufsverkehr kann es bis zu 2 Stunden dauern. Lizenzierte Flughafentaxis kosten 80.000-150.000 UGX (22-40 USD), Uber ist mit 30.000-60.000 UGX (8-16 USD) deutlich guenstiger. Viele Hotels bieten Shuttle-Service an.' },
       { q: 'Lohnt es sich, in Entebbe zu uebernachten statt in Kampala?', a: 'Ja, besonders bei spaeter Ankunft oder fruehem Abflug. Entebbe ist ruhiger, gruener und sicherer als Kampala. Die Naehe zum Flughafen (10-15 Minuten) spart Stress, und mit Botanischem Garten, UWEC und Victoriasee-Straenden gibt es genug fuer einen vollen Tag.' },
       { q: 'Wo sehe ich den Schuhschnabel bei Entebbe?', a: 'Im Mabamba Bay Wetland, ca. 1 Stunde westlich von Entebbe. Kanu-Touren starten frueh morgens (Abfahrt gegen 6 Uhr) und kosten 30-50 USD pro Person. Die Sichtungsrate liegt bei ueber 90 Prozent. Das Mabamba Swamp ist der zuverlaessigste Schuhschnabel-Standort weltweit.' },
