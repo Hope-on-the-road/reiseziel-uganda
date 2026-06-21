@@ -1,0 +1,10 @@
+# 301 Redirects -- alte URLs aus Search Console auf neue Seiten
+/entebbe                    /regionen/entebbe           301
+/kampala                    /regionen/kampala            301
+/jinja                      /regionen/jinja              301
+/murchison-nationalpark     /nationalparks/murchison_falls  301
+/nationalparks              /nationalparks-uganda        301
+/stiftung                   /spenden                    301
+
+# SPA catch-all (muss am Ende stehen)
+/*    /index.html   200

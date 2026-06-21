@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "reiseziel-uganda",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["vite", "--port", "5180", "--strictPort"],
+      "port": 5180,
+      "autoPort": false,
+      "cwd": "/Users/marksuer/Library/CloudStorage/GoogleDrive-suer@hopeontheroad.de/Meine Ablage/Misty Gorilla Expeditions/Reiseziel-Uganda"
+    }
+  ]
+}

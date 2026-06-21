@@ -1,0 +1,30 @@
+{
+  "name": "Reiseziel Uganda",
+  "short_name": "Uganda",
+  "description": "Der komplette deutschsprachige Uganda-Reisefuehrer: Nationalparks, Gorilla Trekking, Safari-Tipps und Reiseplanung.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a472a",
+  "theme_color": "#1a472a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "lang": "de",
+  "categories": ["travel", "education"]
+}

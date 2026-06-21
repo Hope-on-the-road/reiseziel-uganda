@@ -1,0 +1,149 @@
+export const flughaefen = {
+  'flughaefen-uganda': {
+    slug: '/flughaefen-uganda',
+    title: 'Flughaefen in Uganda -- Alle Airports fuer deine Reise 2026',
+    h1: 'Flughaefen in Uganda',
+    subtitle: 'Internationale und Inlandsfluege fuer deine Uganda-Reise',
+    metaDescription: 'Alle Flughaefen Ugandas im Ueberblick: Entebbe International, Inlandsfluege nach Bwindi, Kidepo und Murchison Falls. Fluggesellschaften, Tipps und Transfer.',
+    breadcrumbs: [{ label: 'Flughaefen Uganda' }],
+    kurzantwort: 'Uganda verfuegt ueber einen internationalen Flughafen in Entebbe am Victoriasee und ein gut ausgebautes Netz aus Inlandsflugplaetzen. Fuer Touristen sind vor allem die Buschflugplaetze in der Naehe der grossen Nationalparks relevant: Kihihi und Kisoro fuer das Gorilla Trekking in Bwindi, Pakuba fuer Murchison Falls und Kidepo fuer den abgelegenen Nordosten. Inlandsfluege sparen auf manchen Strecken einen ganzen Reisetag und eroeffnen spektakulaere Ausblicke aus der Vogelperspektive.',
+    fakten: [
+      { label: 'Internationaler Flughafen', value: 'Entebbe International Airport (EBB)' },
+      { label: 'Wichtigste Airlines', value: 'Turkish Airlines, Emirates, KLM, Ethiopian Airlines, Brussels Airlines, RwandAir, Kenya Airways' },
+      { label: 'Inlandsflug-Anbieter', value: 'Aerolink Uganda, Fly Uganda' },
+      { label: 'Inlandsflug-Preise', value: '150-350 USD pro Strecke' },
+      { label: 'Flugzeit Inlands', value: '45-90 Minuten je nach Ziel' },
+      { label: 'Gepaeck Inlands', value: '15 kg Soft Bag (keine Hartschalenkoffer)' },
+      { label: 'Wichtigste Airstrips', value: 'Kihihi, Kisoro, Kasese, Pakuba, Apoka' },
+      { label: 'Visum', value: 'E-Visa vorab oder Visa on Arrival (50 USD)' },
+    ],
+    sections: [
+      {
+        id: 'entebbe-international-airport',
+        title: 'Entebbe International Airport (EBB)',
+        content: 'Der Entebbe International Airport ist Ugandas einziger internationaler Flughafen und das Tor zu Ostafrika. Er liegt auf der Entebbe-Halbinsel direkt am Ufer des Victoriasees, rund 40 Kilometer suedlich von Kampala. Die einzigartige Lage am groessten See Afrikas macht bereits die Landung zu einem besonderen Erlebnis.\n\nDer Flughafen wurde in den 1950er-Jahren erbaut und erlangte 1976 internationale Bekanntheit durch die israelische Geiselbefreiungsaktion Operation Entebbe. Heute ist EBB ein moderner Flughafen mit zwei Terminals: einem internationalen Terminal fuer alle Auslandsfluege und einem kleineren Domestic Terminal fuer Inlandsfluege und Chartermaschinen.\n\nZahlreiche internationale Airlines fliegen Entebbe direkt an. Turkish Airlines verbindet Entebbe taeglich mit Istanbul und damit mit dem europaeischen Drehkreuz. Emirates bedient die Strecke Dubai-Entebbe, KLM fliegt ueber Kigali ab Amsterdam, Brussels Airlines verbindet Entebbe mit Bruessel, und Ethiopian Airlines bietet ueber Addis Abeba Anschluesse weltweit. RwandAir und Kenya Airways decken die regionalen Verbindungen ab. Fuer Reisende aus dem deutschsprachigen Raum bieten Turkish Airlines und Brussels Airlines die bequemsten Verbindungen.\n\nBei der Ankunft durchlaeuft man zunaechst die Gesundheitskontrolle, anschliessend die Einreise. Ein Visum kann vorab als E-Visa online beantragt werden -- das empfehlen wir dringend, da es die Abfertigung beschleunigt. Alternativ ist ein Visa on Arrival fuer 50 USD moeglich, hier muss man allerdings mit Wartezeiten rechnen. Fuer eine Kombireise Uganda-Ruanda-Kenia lohnt sich das East Africa Tourist Visa fuer 100 USD.\n\nIn der Ankunftshalle gibt es Forex-Bueros zum Geldwechsel, Geldautomaten (Stanbic, Centenary Bank) sowie Staende fuer SIM-Karten von MTN und Airtel. Wir empfehlen, direkt am Flughafen eine SIM-Karte zu kaufen -- mobiles Internet ist fuer Navigation und Kommunikation in Uganda unverzichtbar.\n\nDer Transfer vom Flughafen kostet per Taxi etwa 15-20 USD nach Entebbe Town und 30-50 USD nach Kampala, je nach Tageszeit und Verhandlungsgeschick. Viele Hotels und Lodges bieten einen Abholservice an. Wer am naechsten Morgen einen fruehen Inlandsflug hat, uebernachtet am besten direkt in Entebbe -- empfehlenswerte Hotels nahe dem Flughafen sind das Imperial Resort Beach Hotel, das Protea Hotel by Marriott und das Papyrus Guest House fuer kleinere Budgets.',
+      },
+      {
+        id: 'kajjansi-airfield',
+        title: 'Kajjansi Airfield',
+        content: 'Der Kajjansi Airfield liegt nur 14 Kilometer suedlich von Kampalas Stadtzentrum und ist der wichtigste Ausgangspunkt fuer Inlandsfluege in Uganda. Der kleine Flugplatz dient als Basis fuer Aerolink Uganda und Fly Uganda, die von hier aus die touristisch relevanten Ziele im ganzen Land anfliegen.\n\nFuer Reisende, die in Kampala uebernachten, ist Kajjansi deutlich praktischer als der internationale Flughafen in Entebbe. Die Fahrt von den meisten Hotels in Kampala dauert je nach Verkehr 30 bis 45 Minuten. Wer hingegen in Entebbe uebernachtet, kann seine Inlandsfluege auch direkt ab Entebbe antreten, da die meisten Routen einen Zwischenstopp in Entebbe einlegen oder dort starten.\n\nDas Terminal in Kajjansi ist bewusst einfach gehalten -- ein kleines Abfertigungsgebaeude mit einer Waage fuer das Gepaeck und einer ueberdachten Wartezone. Die Atmosphaere erinnert eher an einen Aeroclub als an einen kommerziellen Flughafen, was den Charme des ugandischen Buschflug-Erlebnisses ausmacht. Einchecken sollte man mindestens 45 Minuten vor Abflug. Es gibt keine Verpflegung am Flugplatz, daher empfiehlt es sich, Snacks und Wasser mitzubringen.\n\nChartergesellschaften bieten von Kajjansi aus auch private Fluege zu jedem Airstrip des Landes an. Das ist besonders fuer Gruppen eine interessante Option, da sich die Kosten aufteilen lassen und man zeitlich voellig flexibel ist.',
+      },
+      {
+        id: 'kihihi-airstrip',
+        title: 'Kihihi Airstrip',
+        content: 'Der Kihihi Airstrip ist das Tor zum weltberuehmten Bwindi Impenetrable National Park und damit einer der meistgenutzten Buschflugplaetze Ugandas. Die Piste liegt im Suedwesten des Landes, unweit der kongolesischen Grenze, und bedient vor allem die noerdlichen Bwindi-Sektoren Buhoma und Ruhija.\n\nDer Flug von Entebbe oder Kajjansi nach Kihihi dauert etwa 75 bis 90 Minuten und fuehrt ueber den Queen Elizabeth National Park -- bei gutem Wetter kann man aus der Luft Elefanten, Bueffel und den Kazinga-Kanal erkennen. Im Vergleich zur Ueberlandfahrt, die je nach Strassenzustand 8 bis 10 Stunden dauert, spart der Inlandsflug einen kompletten Reisetag. Das ist gerade bei kurzen Reisen ein unschaetzbarer Vorteil.\n\nAerolink Uganda bedient die Strecke taeglich mit Morgen- und Nachmittagsfluegen. Die Maschinen sind kleine Cessna Caravan mit 12 bis 14 Sitzplaetzen. Die Landung auf der kurzen Grasbahn inmitten der gruenen Huegel ist ein Erlebnis fuer sich.\n\nVom Airstrip organisieren die Lodges den Weitertransfer. Nach Buhoma dauert die Fahrt etwa 1,5 bis 2 Stunden auf teils unbefestigten Strassen. Ruhija ist in etwa einer Stunde erreichbar. Die meisten gehobenen Lodges wie die Buhoma Lodge, Sanctuary Gorilla Forest Camp oder Mahogany Springs stellen eigene Fahrzeuge bereit. Wer kein Lodge-Arrangement hat, kann vor Ort ein Boda-Boda oder einen lokalen Fahrer organisieren -- das sollte jedoch vorab geklaert sein.',
+      },
+      {
+        id: 'kisoro-airstrip',
+        title: 'Kisoro Airstrip',
+        content: 'Der Kisoro Airstrip bedient den suedlichsten Zipfel Ugandas an der Grenze zu Ruanda und der Demokratischen Republik Kongo. Kisoro ist das Sprungbrett zum Mgahinga Gorilla National Park am Fuss der Virunga-Vulkane und zu den suedlichen Bwindi-Sektoren Rushaga und Nkuringo.\n\nDie Kleinstadt Kisoro liegt auf etwa 1.900 Metern Hoehe und bietet eine atemberaubende Kulisse: Drei der acht Virunga-Vulkane -- Muhabura, Gahinga und Sabinyo -- ragen direkt hinter dem Ort auf. Der Airstrip befindet sich am Stadtrand und wird von Aerolink Uganda regelmaessig angeflogen. Die Flugzeit ab Entebbe betraegt etwa 90 Minuten, mit einem Zwischenstopp in Kihihi.\n\nFuer Reisende, die ein Gorilla Permit in den Bwindi-Sektoren Rushaga oder Nkuringo gebucht haben, ist Kisoro die naechstgelegene Flugverbindung. Der Transfer von Kisoro zu den Lodges in Rushaga dauert etwa eine Stunde, nach Nkuringo rund 1,5 Stunden. Zum Mgahinga National Park sind es nur 30 Minuten.\n\nKisoro hat auch strategische Bedeutung fuer Reisende, die Uganda mit Ruanda kombinieren. Die ruandische Grenze in Cyanika ist nur 12 Kilometer entfernt. Von dort erreicht man den Volcanoes National Park in Ruanda in etwa zwei Stunden -- ideal fuer ein laenderuebergreifendes Gorilla-Erlebnis. Einige Lodges in der Region bieten auch Ausfluege zum nahegelegenen Lake Mutanda an, einem der schoensten Seen Ugandas.',
+      },
+      {
+        id: 'kasese-airstrip',
+        title: 'Kasese Airstrip',
+        content: 'Der Kasese Airstrip ist das Eingangstor zum Queen Elizabeth National Park und zu den legendaeren Rwenzori Mountains, den sagenumwobenen Mondbergen Afrikas. Die Distriktshauptstadt Kasese liegt am Osthang der Rwenzoris auf rund 1.000 Metern Hoehe.\n\nDer Flug von Entebbe nach Kasese dauert etwa 60 bis 70 Minuten und bietet unterwegs spektakulaere Ausblicke auf den Victoriasee, die Kraterseen des westlichen Riftvalleys und die schneebedeckten Gipfel der Rwenzoris. Aerolink Uganda fliegt die Strecke mehrmals woechentlich, je nach Saison und Nachfrage.\n\nVom Airstrip in Kasese sind es nur 30 Minuten zum Nordeingang des Queen Elizabeth National Parks. Wer die beruehmten baumkletternden Loewen im Ishasha-Sektor besuchen moechte, muss allerdings noch etwa drei Stunden Fahrt in den Sueden des Parks einplanen. Die Rwenzori Mountains mit dem Central Circuit Trail beginnen direkt bei Kasese -- das Rwenzori Mountaineering Services Buero liegt in der Stadt.\n\nFuer Safari-Reisende, die den Queen Elizabeth National Park mit Bwindi kombinieren, bietet sich Kasese als Einstiegspunkt an. Die Route fuehrt dann ueber Ishasha weiter nach Bwindi, wobei man unterwegs die eindrucksvolle Landschaft des Rift Valley durchquert. Alternativ kann man von Kasese aus einen Tagesausflug zum Kibale National Park fuer Schimpansen-Trekking unternehmen -- der Park liegt etwa 1,5 Stunden noerdlich.',
+      },
+      {
+        id: 'pakuba-airfield',
+        title: 'Pakuba Airfield',
+        content: 'Der Pakuba Airfield hat eine Besonderheit, die keinen anderen Airstrip in Uganda auszeichnet: Er liegt direkt innerhalb des Murchison Falls National Parks, Ugandas groesstem und aeltestem Nationalpark. Die Landung auf der roten Laterit-Piste mit Blick auf die weite Savanne und gelegentlich am Rand grasende Antilopen ist ein unvergessliches Erlebnis.\n\nMurchison Falls liegt im Nordwesten Ugandas, und die Fahrt von Kampala dauert fuenf bis sechs Stunden. Der Inlandsflug nach Pakuba verkuerzt die Anreise auf rund 60 Minuten und bietet aus der Luft einen ersten Blick auf den maechtigen Nil, der sich durch den Park schlaengelt. Aerolink Uganda fliegt Pakuba regelmaessig an.\n\nVom Airstrip aus sind die wichtigsten Lodges am Suedufer des Nils in 20 bis 40 Minuten erreichbar: das Paraa Safari Lodge, Chobe Safari Lodge und Baker\'s Lodge liegen alle in der Naehe der Paraa-Faehre. Die Top-Sights des Parks -- die gewaltigen Murchison Falls, die Bootsfahrt zu den Faellen und die Pirschfahrten in der Buligi-Ebene -- lassen sich ideal ab Pakuba erkunden.\n\nBesonders reizvoll ist der Scenic Flight: Einige Anbieter offerieren Rundfluege ueber die Murchison Falls und das Nildelta am Lake Albert. Aus der Luft erkennt man die gewaltige Kraft des Wassers, das sich durch eine nur sieben Meter breite Felsspalte zwängt, noch eindrucksvoller als vom Boden.',
+      },
+      {
+        id: 'apoka-airstrip-kidepo',
+        title: 'Apoka Airstrip -- Kidepo Valley',
+        content: 'Der Apoka Airstrip, auch als Kidepo Airstrip bekannt, ist die Lebensader fuer den Tourismus im abgelegenen Kidepo Valley National Park im aeussersten Nordosten Ugandas. Ohne den Flugplatz waere dieser spektakulaere Park fuer die meisten Reisenden schlicht unerreichbar -- die Fahrt von Kampala dauert 10 bis 12 Stunden, groesstenteils auf schwierigen Strassen.\n\nDer Flug von Entebbe nach Apoka dauert etwa 90 Minuten und fuehrt ueber die weiten Ebenen Nordugandas. Die Landung auf der Piste inmitten der wilden Savanne, umgeben von den Bergen Sudans und Kenias am Horizont, ist der dramatischste Auftakt aller ugandischen Parks.\n\nKidepo wird haeufig als einer der schoensten Nationalparks Afrikas bezeichnet -- und das voellig zu Recht. Das Narus-Tal beherbergt grosse Herden von Bueffeln, Zebras, Straussen und mit etwas Glueck die seltenen Geparden, die es sonst nirgendwo in Uganda gibt. Gleichzeitig empfaengt der Park nur einen Bruchteil der Besucher des Queen Elizabeth Parks, was eine exklusive Safari-Erfahrung garantiert.\n\nDie Apoka Safari Lodge liegt nur wenige Gehminuten vom Airstrip entfernt und gehoert zu den besten Unterkuenften des Landes. Alternativ bietet das UWA-Bandas einfachere Unterkunft. Aerolink Uganda fliegt Apoka mehrmals woechentlich an. Aufgrund der abgelegenen Lage empfehlen wir mindestens zwei Naechte im Park, um die einzigartige Wildnis und die faszinierende Karamojong-Kultur der Region erleben zu koennen.',
+      },
+      {
+        id: 'jinja-airfield',
+        title: 'Jinja Airfield',
+        content: 'Der kleine Jinja Airfield liegt in der Naehe der historischen Nilquelle in Jinja, Ugandas zweitgroesster Stadt und Abenteuersport-Hauptstadt. Der Flugplatz wird hauptsaechlich fuer Charterfluge und gelegentliche Linienverbindungen genutzt.\n\nJinja ist von Kampala aus in etwa zwei Stunden ueber eine gut ausgebaute Strasse erreichbar, weshalb die meisten Reisenden den Landweg waehlen. Der Airfield gewinnt jedoch an Bedeutung fuer Reisende, die Jinja mit entfernteren Zielen kombinieren moechten, ohne nach Kampala zurueckkehren zu muessen.\n\nDie Stadt selbst ist bekannt fuer Wildwasser-Rafting auf dem Nil, Bungee-Jumping, Kayaking und den Besuch der Nilquelle, wo der laengste Fluss Afrikas den Victoriasee verlaesst. Wer von Jinja aus weiterfliegen moechte, kann einen Charterflug zum Beispiel nach Kidepo oder Murchison Falls buchen -- eine zeitsparende Option fuer anspruchsvolle Reiserouten.',
+      },
+      {
+        id: 'gulu-airport',
+        title: 'Gulu Airport',
+        content: 'Der Gulu Airport im noerdlichen Uganda gewinnt fuer den Tourismus zunehmend an Bedeutung. Die Stadt Gulu ist die groesste Siedlung Nordugandas und dient als Ausgangspunkt fuer Besuche der Murchison Falls von Norden her sowie fuer Reisen in die noch wenig erschlossenen Wildnisgebiete der Region.\n\nGulu verfuegt ueber eine asphaltierte Start- und Landebahn und wird gelegentlich von Chartermaschinen angeflogen. Die ugandische Regierung hat Plaene, den Flughafen auszubauen und regelmaessige Inlandsverbindungen einzurichten. Fuer Reisende, die den noerdlichen Teil des Murchison Falls National Parks erkunden oder die kulturellen Staetten der Acholi besuchen moechten, kann Gulu ein sinnvoller Anflugpunkt sein.\n\nDie Fahrt von Gulu nach Murchison Falls dauert etwa drei Stunden. Auch die Ziwa Rhino Sanctuary, wo Ugandas wiederangesiedelte Nashoemmer leben, ist von Gulu aus gut erreichbar. Die Region um Gulu hat sich nach den schwierigen Jahren der LRA-Konflikte voellig erholt und ist heute sicher und gastfreundlich.',
+      },
+      {
+        id: 'soroti-airport',
+        title: 'Soroti Airport',
+        content: 'Der Soroti Airport liegt im Osten Ugandas und bietet eine alternative Zugangsroute zu den Naturschoenheiten der Region. Soroti ist die Hauptstadt der Teso-Region und verfuegt ueber einen kleinen Flugplatz mit befestigter Piste, der gelegentlich von Charter- und Hilfsfluegen genutzt wird.\n\nFuer Touristen ist Soroti interessant als alternativer Ausgangspunkt fuer die Sipi Falls am Mount Elgon, einen der eindrucksvollsten Wasserfaelle Ostafrikas. Die Sipi Falls liegen etwa zwei Stunden suedlich von Soroti und bieten spektakulaere Wanderungen, Kaffee-Touren und beeindruckende Panoramen. Der konventionelle Zugang ueber Mbale ist zwar ueblicher, doch wer aus dem Norden anreist, kann Soroti als praktischen Zwischenstopp nutzen.\n\nDer Flughafen hat auch Potenzial als Tor zum Pian Upe Wildlife Reserve, dem zweitgroessten Schutzgebiet Ugandas, das weitgehend unbekannt und kaum besucht ist. Fuer Entdecker abseits der ueblichen Routen bietet die Region um Soroti authentische Einblicke in das laendliche Uganda.',
+      },
+      {
+        id: 'inlandsflug-anbieter',
+        title: 'Inlandsflug-Anbieter in Uganda',
+        content: 'Zwei Fluggesellschaften dominieren den ugandischen Inlandsflugmarkt und machen die entlegenen Nationalparks bequem erreichbar.\n\nAerolink Uganda ist der fuehrende Scheduled-Carrier und bietet taegliche Linienflüge zu den wichtigsten touristischen Zielen. Die Flotte besteht aus robusten Cessna Grand Caravan mit 12 bis 14 Sitzplaetzen -- perfekt fuer die kurzen Buschpisten. Aerolink bedient regelmaessig die Strecken Entebbe/Kajjansi nach Kihihi, Kisoro, Kasese, Pakuba und Apoka. Die Abflugzeiten sind typischerweise am fruehen Morgen (gegen 7:00 Uhr) und am fruehen Nachmittag. Buchungen sollten moeglichst fruehzeitig erfolgen, da die Maschinen klein sind und in der Hochsaison schnell ausgebucht. Die Preise liegen zwischen 150 und 350 USD pro Strecke, wobei Fruehbucher-Tarife guenstiger ausfallen.\n\nFly Uganda positioniert sich als flexiblere Alternative und bietet sowohl Linien- als auch Charterfluege an. Die Gesellschaft ist besonders stark im Charterbereich und kann individuelle Routen und Zeitplaene anbieten. Fly Uganda nutzt ebenfalls Cessna-Maschinen und fliegt die gleichen Airstrips an.\n\nFuer die Buchung empfehlen wir, ueber den Reiseveranstalter oder direkt auf den Webseiten der Airlines zu buchen. Eine Bestaetigung per E-Mail sollte man sich immer geben lassen. Umbuchungen sind in der Regel bis 48 Stunden vor Abflug kostenfrei moeglich. Wer flexibel ist, kann manchmal Last-Minute-Plaetze zu reduzierten Preisen ergattern.',
+      },
+      {
+        id: 'charterfluege',
+        title: 'Charterfluege in Uganda',
+        content: 'Private Charterfluege sind in Uganda eine ernstzunehmende Alternative zu den Linienfluegen und koennen unter bestimmten Umstaenden sogar die wirtschaftlichere Wahl sein.\n\nEin typischer Charterflug mit einer Cessna Caravan (bis 12 Passagiere) kostet zwischen 1.500 und 3.500 USD fuer die gesamte Maschine, je nach Strecke und Flugdauer. Fuer eine Gruppe von sechs bis acht Reisenden kann der Preis pro Person also durchaus mit den regulaeren Linientarifen konkurrieren -- bei voelliger Flexibilitaet hinsichtlich Abflugzeit und Route.\n\nCharterfluege sind besonders sinnvoll in diesen Situationen: bei Gruppenreisen ab fuenf Personen, wenn die Linienflugzeiten nicht zum Reiseplan passen, fuer Kombinationsrouten mit mehreren Stopps an einem Tag (zum Beispiel Kihihi und Pakuba), oder wenn kurzfristig keine regulaeren Plaetze mehr verfuegbar sind.\n\nAnbieter wie Fly Uganda, Bar Aviation und Uganda Air Cargo bieten Charterdienste an. Die Buchung erfolgt in der Regel ueber den Reiseveranstalter, der auch die Landeerlaubnisse fuer die jeweiligen Airstrips organisiert. Bei der Planung sollte man beachten, dass Charterfluege wetterabhaengig sind -- in der Regenzeit kann es zu kurzfristigen Verschiebungen kommen. Eine flexible Reiseplanung mit Pufferzeiten ist daher ratsam.',
+      },
+      {
+        id: 'inlandsflug-vs-selbstfahren',
+        title: 'Inlandsflug vs. Selbstfahren: Der Vergleich',
+        content: 'Die Entscheidung zwischen Inlandsflug und Ueberlandfahrt haengt von mehreren Faktoren ab. Beide Optionen haben ihre Vorzuege, und fuer viele Reisende ist eine Kombination aus beidem die beste Loesung.\n\nZeitvergleich: Die Zeitersparnis durch Inlandsfluege ist erheblich. Nach Bwindi fliegt man 90 Minuten statt 8-10 Stunden Fahrt. Nach Kidepo sind es 90 Minuten statt 10-12 Stunden. Selbst nach Murchison Falls spart man mit dem Flug gut vier Stunden. Wer nur zwei Wochen fuer die gesamte Reise hat, gewinnt durch Fluege wertvolle Tage fuer die eigentlichen Erlebnisse.\n\nKostenvergleich: Ein Inlandsflug kostet 150-350 USD pro Strecke und Person. Eine Ueberlandfahrt mit Fahrer und Gelaendewagen kostet etwa 100-150 USD pro Tag inklusive Sprit. Auf den ersten Blick ist die Fahrt guenstiger, doch wenn man Hotelkosten fuer die Uebernachtung unterwegs, Verpflegung und die verlorene Urlaubszeit einrechnet, relativiert sich der Unterschied.\n\nKomfort und Erlebnis: Die Fahrt durch Uganda ist selbst ein Erlebnis -- man durchquert Teeplantagen, Fischerdoerfer und dramatische Landschaften. Wer Zeit hat, sollte mindestens eine Strecke auf dem Landweg zuruecklegen. Der Flug bietet dafuer spektakulaere Luftaufnahmen und schont die Kraefte fuer das eigentliche Abenteuer.\n\nUnsere Empfehlung: Wer Bwindi oder Kidepo besucht, sollte mindestens eine Strecke fliegen. Fuer Murchison Falls und Queen Elizabeth lohnt sich die Fahrt, weil man unterwegs interessante Stopps einlegen kann. Die beliebteste Kombination: Hinflug nach Bwindi, Rueckfahrt ueber Queen Elizabeth und Kibale Forest.',
+      },
+      {
+        id: 'gepaeck-inlandsfluege',
+        title: 'Gepaeck bei Inlandsfluegen',
+        content: 'Die Gepaeckregeln auf ugandischen Inlandsfluegen unterscheiden sich grundlegend von dem, was man von internationalen Fluegen kennt. Wer hier nicht vorbereitet ist, steht am Flugplatz vor einem Problem.\n\nDie zentrale Regel: Maximal 15 Kilogramm Gepaeck pro Person in einer weichen Reisetasche. Hartschalenkoffer sind auf Buschfluegen nicht erlaubt. Der Grund ist simpel und sicherheitsrelevant: Die kleinen Cessna Caravan haben begrenzte Ladekapazitaet, und das Gepaeck wird manuell in den schmalen Frachtraum verstaut. Sperrige Hartschalenkoffer passen schlicht nicht hinein und koennten bei Turbulenzen zur Gefahr werden.\n\nWas man braucht, ist eine zusammenfaltbare Reisetasche (Duffel Bag) ohne starren Rahmen. Viele Safari-Lodges stellen Waschservice zur Verfuegung, sodass man mit erstaunlich wenig Gepaeck auskommt. Zur Grundausstattung gehoeren: leichte, langaermlige Kleidung in gedeckten Farben (Khaki, Oliv, Braun), feste Wanderschuhe fuer das Gorilla Trekking, eine Regenjacke, Sonnenschutz und eine Stirnlampe.\n\nKamera-Ausruestung zaehlt zum Handgepaeck und wird separat mitgefuehrt. Fernglas und Wertsachen gehoeren ebenfalls ins Handgepaeck. Wer mit schwerem Fotoequipment reist, sollte dies vorab mit der Airline klaeren -- in der Regel ist man kulant, solange das Gesamtgewicht stimmt.\n\nEin praktischer Tipp: Nicht benoetigtes Gepaeck kann im Hotel in Entebbe oder Kampala sicher eingelagert werden, waehrend man die Safari-Runde fliegt. Fast alle Hotels bieten diesen Service kostenlos an.',
+      },
+    ],
+    faqs: [
+      {
+        q: 'Welcher Flughafen wird fuer Uganda genutzt?',
+        a: 'Der Entebbe International Airport (IATA-Code: EBB) ist Ugandas einziger internationaler Flughafen. Er liegt etwa 40 Kilometer suedlich von Kampala direkt am Victoriasee. Alle internationalen Fluege landen und starten hier. Fuer Inlandsfluege gibt es zusaetzlich den Kajjansi Airfield bei Kampala sowie zahlreiche Buschflugplaetze nahe den Nationalparks.',
+      },
+      {
+        q: 'Wie komme ich vom Flughafen Entebbe nach Kampala?',
+        a: 'Vom Entebbe International Airport nach Kampala gibt es mehrere Optionen. Ein Taxi kostet 30-50 USD und dauert je nach Verkehrslage 45 Minuten bis 2 Stunden. Viele Hotels bieten einen Shuttleservice an, der vorab gebucht werden sollte. Es gibt auch guenstigere Minibus-Taxis fuer erfahrene Reisende. Wir empfehlen, den Transfer vorab ueber das Hotel oder den Reiseveranstalter zu organisieren, besonders bei Ankunft nach Einbruch der Dunkelheit.',
+      },
+      {
+        q: 'Brauche ich fuer Uganda ein Visum?',
+        a: 'Ja, deutsche, oesterreichische und Schweizer Staatsbuerger benoetigen ein Visum fuer Uganda. Am einfachsten ist das E-Visa, das vorab online auf visas.immigration.go.ug beantragt wird und etwa 50 USD kostet. Alternativ kann man ein Visa on Arrival am Flughafen Entebbe erhalten, muss aber mit laengeren Wartezeiten rechnen. Fuer eine Kombireise durch Uganda, Ruanda und Kenia empfiehlt sich das East Africa Tourist Visa fuer 100 USD.',
+      },
+      {
+        q: 'Wie viel kostet ein Inlandsflug in Uganda?',
+        a: 'Inlandsfluege in Uganda kosten zwischen 150 und 350 USD pro Strecke und Person, abhaengig von Ziel und Buchungszeitpunkt. Die Strecke Entebbe-Kihihi (Bwindi) liegt typischerweise bei 250-300 USD. Fruehbucher-Tarife sind guenstiger, und Hin- und Rueckflug zusammen gebucht ergibt oft einen besseren Preis. Kinder zahlen den gleichen Tarif. Charterflüge fuer die gesamte Maschine kosten 1.500-3.500 USD.',
+      },
+      {
+        q: 'Wie schwer darf mein Gepaeck auf Inlandsfluegen sein?',
+        a: 'Auf ugandischen Inlandsfluegen gilt ein striktes Limit von 15 Kilogramm pro Person. Das Gepaeck muss in einer weichen Reisetasche (Duffel Bag) verpackt sein -- Hartschalenkoffer sind nicht erlaubt, da sie nicht in den Frachtraum der kleinen Buschflugzeuge passen. Kamera und Wertsachen duerfen als Handgepaeck separat mitgefuehrt werden. Ueberschreitungen fuehren zu Zusatzkosten oder dazu, dass Gepaeck zurueckgelassen werden muss.',
+      },
+      {
+        q: 'Lohnt sich ein Inlandsflug nach Bwindi?',
+        a: 'Definitiv ja, besonders bei kurzen Reisen. Die Ueberlandfahrt von Kampala nach Bwindi dauert 8-10 Stunden auf teils schwierigen Strassen. Der Flug dauert nur 90 Minuten und bietet spektakulaere Ausblicke. Man spart einen kompletten Reisetag, den man stattdessen fuer ein zusaetzliches Gorilla Trekking oder andere Aktivitaeten nutzen kann. Die Mehrkosten von etwa 250 USD pro Strecke sind angesichts der gewonnenen Zeit gut investiert.',
+      },
+      {
+        q: 'Wann fliegen die Inlandsfluege in Uganda?',
+        a: 'Die regulaeren Linienflüge von Aerolink Uganda starten typischerweise am fruehen Morgen zwischen 7:00 und 8:00 Uhr und am fruehen Nachmittag gegen 13:00-14:00 Uhr. Die genauen Zeiten variieren je nach Route und Saison. Morgenfluege sind generell zu bevorzugen, da die Sichtverhaeltnisse besser sind und das Wetter in den Bergen nachmittags oft zurueckgeht. Charterfluege koennen zu individuellen Zeiten gebucht werden.',
+      },
+      {
+        q: 'Wie komme ich am besten nach Kidepo Valley?',
+        a: 'Der mit Abstand beste Weg nach Kidepo Valley ist der Inlandsflug von Entebbe zum Apoka Airstrip. Die Flugzeit betraegt etwa 90 Minuten. Die alternative Ueberlandfahrt dauert 10-12 Stunden auf groesstenteils unbefestigten Strassen und ist extrem anstrengend. Aerolink Uganda fliegt Apoka mehrmals woechentlich an. Wir empfehlen, die Fluege fruehzeitig zu buchen und mindestens zwei Naechte im Park einzuplanen, damit sich der Aufwand lohnt.',
+      },
+      {
+        q: 'Gibt es WLAN am Flughafen Entebbe?',
+        a: 'Ja, der Entebbe International Airport bietet kostenloses WLAN im Abflug- und Ankunftsbereich. Die Geschwindigkeit ist fuer grundlegende Aufgaben wie E-Mails und Messaging ausreichend, fuer groessere Downloads oder Videoanrufe jedoch oft zu langsam. Wir empfehlen, direkt bei der Ankunft eine lokale SIM-Karte von MTN oder Airtel zu kaufen (erhaeltlich in der Ankunftshalle). Mobile Daten sind in Uganda guenstig und das Netz in den Staedten zuverlaessig.',
+      },
+      {
+        q: 'Welche Airlines fliegen direkt nach Entebbe?',
+        a: 'Zahlreiche internationale Airlines fliegen den Entebbe International Airport an. Aus Europa gibt es Direktverbindungen mit Turkish Airlines (Istanbul), Brussels Airlines (Bruessel) und KLM (Amsterdam, via Kigali). Emirates fliegt ab Dubai, Ethiopian Airlines ab Addis Abeba, und Qatar Airways ab Doha. Regional sind RwandAir, Kenya Airways und EgyptAir vertreten. Fuer Reisende aus Deutschland, Oesterreich und der Schweiz bieten Turkish Airlines und Brussels Airlines die praktischsten Verbindungen mit guten Anschlusszeiten.',
+      },
+      {
+        q: 'Sind die Buschfluege in Uganda sicher?',
+        a: 'Ja, die Buschfluege in Uganda haben einen guten Sicherheitsstandard. Aerolink Uganda und Fly Uganda unterliegen der Aufsicht der Uganda Civil Aviation Authority (UCAA) und muessen internationale Sicherheitsstandards einhalten. Die eingesetzten Cessna Grand Caravan sind robuste, vielfach bewaehrte Buschflugzeuge. Die Piloten sind erfahren und kennen die lokalen Wetterbedingungen genau. Bei schlechtem Wetter werden Fluege verzoegert oder umgeleitet -- Sicherheit hat immer Vorrang. Turbulenzen ueber den Bergen sind normal und kein Grund zur Sorge.',
+      },
+      {
+        q: 'Kann ich mein uebriges Gepaeck irgendwo lassen, wenn ich einen Inlandsflug nehme?',
+        a: 'Ja, fast alle Hotels in Entebbe und Kampala bieten einen kostenlosen Gepaeck-Aufbewahrungsservice an. Man laesst den grossen Koffer sicher im Hotel und nimmt nur die weiche Reisetasche mit 15 Kilogramm auf den Buschflug mit. Auch der Reiseveranstalter kann die Aufbewahrung organisieren. Dieses Vorgehen ist Standard und wird von den meisten Reisenden so gehandhabt. Am Ende der Safari kehrt man nach Entebbe zurueck und hat sein Gepaeck wieder.',
+      },
+    ],
+    quellen: ['Uganda Civil Aviation Authority', 'Entebbe International Airport', 'Aerolink Uganda', 'Fly Uganda'],
+    related: [
+      { href: '/reiseplanung/transport', title: 'Transport in Uganda', desc: 'Alle Transportmittel im Ueberblick.' },
+      { href: '/regionen/entebbe', title: 'Entebbe', desc: 'Die Flughafen-Stadt am Victoriasee.' },
+      { href: '/rundreisen/14-tage', title: '14 Tage Rundreise', desc: 'Die beliebteste Route mit Inlandsfluegen.' },
+    ],
+  },
+}

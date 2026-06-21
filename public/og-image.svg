@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2e1a"/>
+      <stop offset="50%" stop-color="#1a472a"/>
+      <stop offset="100%" stop-color="#0d2814"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c4983a"/>
+      <stop offset="50%" stop-color="#d4a843"/>
+      <stop offset="100%" stop-color="#c4983a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Decorative circles -->
+  <circle cx="1050" cy="120" r="200" fill="#d4a843" opacity="0.04"/>
+  <circle cx="150" cy="500" r="150" fill="#d4a843" opacity="0.03"/>
+  <!-- Top accent line -->
+  <rect x="80" y="80" width="120" height="3" fill="#d4a843" opacity="0.6" rx="1.5"/>
+  <!-- Subtitle -->
+  <text x="80" y="220" font-family="Georgia, serif" font-size="22" fill="#d4a843" opacity="0.8" letter-spacing="6">DIE PERLE AFRIKAS</text>
+  <!-- Main title -->
+  <text x="80" y="300" font-family="Georgia, serif" font-size="72" fill="white" font-weight="700">Reiseziel</text>
+  <text x="80" y="390" font-family="Georgia, serif" font-size="72" fill="white" font-weight="300" font-style="italic">Uganda</text>
+  <!-- Description -->
+  <text x="80" y="460" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="white" opacity="0.5">Nationalparks &middot; Gorilla Trekking &middot; Safari &middot; Reiseplanung</text>
+  <!-- Stats bar -->
+  <rect x="80" y="510" width="700" height="1" fill="white" opacity="0.1"/>
+  <text x="80" y="560" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="white" opacity="0.4">10 Nationalparks</text>
+  <text x="280" y="560" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="white" opacity="0.4">1.063 Berggorillas</text>
+  <text x="510" y="560" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="white" opacity="0.4">1.090+ Vogelarten</text>
+  <!-- Bottom accent -->
+  <rect x="0" y="620" width="1200" height="10" fill="url(#gold)" opacity="0.8"/>
+  <!-- Domain -->
+  <text x="1120" y="560" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="white" opacity="0.3" text-anchor="end">reiseziel-uganda.de</text>
+</svg>
