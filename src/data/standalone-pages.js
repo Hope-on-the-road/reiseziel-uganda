@@ -122,13 +122,13 @@ export const standalonePages = {
 
   'der-nil-in-uganda': {
     slug: '/der-nil-in-uganda',
-    title: 'Der Nil in Uganda 2026: Nilquelle Jinja, Rafting, Murchison Falls & Bootsfahrten',
+    title: 'Der Nil in Uganda: Nilquelle Jinja & Murchison Falls',
     h1: 'Der Nil in Uganda -- Vom Victoriasee bis Murchison Falls',
     subtitle: 'Die Reise des laengsten Flusses Afrikas durch die Perle Afrikas: Nilquelle, Stromschnellen, Wasserfaelle und einzigartige Tierwelt',
-    metaDescription: 'Der Nil in Uganda 2026: Nilquelle Jinja, Wildwasser-Rafting Klasse V, Murchison Falls, Schuhschnabel-Sichtung. 7 Reiserouten im Komplett-Guide.',
+    metaDescription: 'Nilquelle in Jinja, Wildwasser-Rafting & Murchison Falls: Der Nil durchquert Uganda auf 1.274 km. Alle Sehenswuerdigkeiten, Aktivitaeten & Reiseinfos.',
     breadcrumbs: [{ label: 'Der Nil in Uganda' }],
     publishedTime: '2025-02-20',
-    modifiedTime: '2026-06-08',
+    modifiedTime: '2026-06-21',
     photoFilter: 'wildlife',
     kurzantwort: 'Der Weisse Nil beginnt seine 6.650 Kilometer lange Reise in Jinja, wo er den Victoriasee -- den groessten See Afrikas mit 68.800 Quadratkilometern -- verlaesst. In Uganda durchfliesst der Nil ueber 500 Kilometer: von der historischen Nilquelle (entdeckt von John Hanning Speke am 28. Juli 1862) ueber den Lake Kyoga und durch den Murchison Falls National Park, wo er als donnernde Murchison Falls durch eine nur sieben Meter schmale Felsspalte 43 Meter in die Tiefe stuerzt. Der ugandische Nil bietet Lebensraum fuer ueber 800 Flusspferde, Nilkrokodile bis zu fuenf Meter Laenge und den seltenen Schuhschnabel. Fuer Reisende ist der Nil ein roter Faden durch Uganda: Weltklasse-Wildwasser-Rafting (Klasse III-V, ab 125 USD) in Jinja, die legendaere Bootsfahrt zu den Murchison Falls, Schuhschnabel-Touren im Mabamba Swamp und Angel-Safaris am Albertsee.',
     fakten: [
@@ -195,6 +195,11 @@ export const standalonePages = {
         showPhotos: false,
       },
       {
+        id: 'uganda-tourismus-zahlen',
+        title: 'Uganda-Tourismus 2023: Zahlen und Fakten',
+        content: 'Der Nil ist Ugandas bedeutendster Fluss und einer der stärksten Treiber des Tourismus im Land. Er entspringt am Viktoriasee in Jinja, fliesst durch den Murchison Falls National Park und verlaesst Uganda ueber den Lake Albert in Richtung Norden. Uganda empfing 2023 insgesamt 1.274.210 internationale Besucher -- ein Anstieg von 56,4 Prozent gegenueber dem Vorjahr. Die Nilquelle in Jinja zaehlt zu den meistbesuchten Einzelattraktionen des Landes.\n\nDie wirtschaftliche Bedeutung des Tourismus waechst kontinuierlich. Die internationalen Tourismuseinnahmen stiegen 2023 auf 3.818,6 Milliarden Uganda-Schilling -- ein Plus von 48,5 Prozent. Die durchschnittliche Aufenthaltsdauer betraegt 7,6 Naechte. Flugankuenfte am Entebbe International Airport nahmen um 37,8 Prozent auf 270.160 zu.\n\nQuelle: Uganda Tourism Satellite Account Report, März 2025 (Uganda Bureau of Statistics / Ministry of Tourism, Wildlife and Antiquities)',
+      },
+      {
         id: 'albertsee-delta',
         title: 'Das Nildelta am Albertsee: Schuhschnabel und stille Wildnis',
         content: 'Nach seinem spektakulaeren Sturz ueber die Murchison Falls beruhigt sich der Nil und muendet wenige Kilometer weiter in den Lake Albert (Albertsee) -- den zweitgroessten See Ugandas mit 5.300 Quadratkilometern Flaeche, der die Grenze zur Demokratischen Republik Kongo bildet. Das Nildelta am Albertsee ist eine voellig andere Welt als die Stromschnellen bei Jinja: weite Papyrusssuempfe, stille Lagunen und eine Vogelwelt von ueberwaetigender Vielfalt.\n\nDas Delta ist einer der zuverlaessigsten Standorte fuer die Sichtung des Schuhschnabels ausserhalb des Mabamba Swamps bei Entebbe. Spezialisierte Vogelguides aus den Fischerdoerfern am Seeufer fuehren mehrstuendige Kanutouren durch die Papyruslagunen. Die Abgeschiedenheit des Deltas bedeutet weniger Touristen und oft laengere, intimere Begegnungen mit den Voegeln. Neben dem Schuhschnabel sind Papyrus-Gonolek, Sattelstorch, Schreiseeadler, Rosaflilumingo (saisonal) und zahlreiche Reiherarten zu sehen.\n\nFuer Angler ist der Albertsee ein erstklassiges Revier. Der Nilbarsch (Lates niloticus) -- mit Exemplaren von ueber 100 Kilogramm einer der groessten Suesswasserfische der Welt -- ist die Hauptzielart. Tilapia, Wels und verschiedene Buntbarsch-Arten ergaenzen das Angebot. Mehrere Lodges am Suedufer des Sees bieten Angel-Safaris an, bei denen Catch-and-Release-Angeln mit Pirschfahrten im Murchison Falls National Park kombiniert wird.\n\nDer Albertsee ist auch geologisch bemerkenswert: Er liegt im westlichen Arm des Ostafrikanischen Grabenbruchs (Rift Valley) auf nur 621 Metern Hoehe -- deutlich tiefer als der Rest Ugandas. Am Westufer des Sees erheben sich die dramatischen Klippen des Rift Valley, die in der Abendsonne ein spektakulaeres Panorama bieten. Vom Albertsee aus fliesst der Nil als Albert-Nil weiter nach Norden in den Suedsudan, wo er schliesslich als Weisser Nil nach Khartum und dann als Nil nach Kairo und ins Mittelmeer stroemt.',
@@ -241,6 +246,26 @@ export const standalonePages = {
       {
         q: 'Wo sehe ich den Schuhschnabel am Nil?',
         a: 'Die besten Standorte fuer Schuhschnabel-Sichtungen am Nil-System sind: Mabamba Bay Wetland bei Entebbe (ueber 90% Sichtungsrate, 30-50 USD Kanuntour), das Nildelta am Albertsee im Murchison Falls National Park (weniger Touristen, spezialisierte Guides) und die Papyrusssuempfe am Lake Kyoga. Mabamba ist am leichtesten erreichbar und zuverlaessigsten.',
+      },
+      {
+        q: 'Welche Sehenswuerdigkeiten gibt es in Jinja am Nil?',
+        a: 'Jinja liegt an der Nilquelle am Victoriasee und ist die Abenteuer-Hauptstadt Ostafrikas. Die wichtigsten Sehenswuerdigkeiten sind die Nilquelle selbst (Source of the Nile, mit Speke-Denkmal), das Gandhi-Memorial am Flussufer sowie die Stromschnellen fuer Wildwasser-Rafting der Klassen III bis V. Ergaenzend buchbar: Kayaking, Bungee-Jumping ueber dem Nil und Bootsfahrten zur Nilquelle. Jinja ist von Entebbe und Kampala in etwa zwei Stunden erreichbar.',
+      },
+      {
+        q: 'Durch welche Laender fliesst der Nil?',
+        a: 'Der Nil beginnt in Uganda am Victoriasee in Jinja, fliesst durch den Murchison Falls National Park und verlaesst Uganda ueber den Lake Albert. Er fliesst dann weiter durch den Suedsudan (als Weisser Nil), Sudan und Aegypten, wo er als Nil ins Mittelmeer muendet. Der ugandische Abschnitt -- der Victoria Nile -- umfasst ueber 500 Kilometer und zaehlt mit seinen Wasserfaellen und der Tierwelt zu den landschaftlich spektakulaersten.',
+      },
+      {
+        q: 'Was ist die Hauptstadt von Uganda?',
+        a: 'Die Hauptstadt Ugandas ist Kampala. Sie liegt auf sieben Huegeln am Nordufer des Victoriasees und ist das wirtschaftliche und kulturelle Zentrum des Landes. Der internationale Flughafen Entebbe befindet sich etwa 40 Kilometer suedlich. Von Kampala aus sind die Nilquelle in Jinja (ca. 2 Stunden) und der Murchison Falls National Park (ca. 5-6 Stunden) gut erreichbar.',
+      },
+      {
+        q: 'Wie viele Touristen besuchen Uganda jaehrlich?',
+        a: 'Uganda verzeichnete 2023 insgesamt 1.274.210 internationale Ankuenfte -- ein Wachstum von 56,4 Prozent gegenueber 812.508 Ankuenften im Jahr 2022. Die durchschnittliche Aufenthaltsdauer betrug 7,6 Naechte. Flugankuenfte in Entebbe stiegen um 37,8 Prozent auf 270.160. Quelle: Uganda Tourism Satellite Account Report, Maerz 2025.',
+      },
+      {
+        q: 'Welche Aktivitaeten gibt es am Nil in Uganda?',
+        a: 'Der Nil in Uganda bietet vielfaeltige Aktivitaeten: Wildwasser-Rafting (Klassen III-V, Jinja, ab 125 USD), Kayaking und Bungee-Jumping ueber dem Nil in Jinja, die dreistuendige Bootsfahrt zu den Murchison Falls (ca. 30-40 USD), Vogelbeobachtung auf Kanufahrten im Nildelta am Albertsee sowie Angel-Safaris auf Nilbarsch am Albertsee. Jinja gilt als Abenteuer-Hauptstadt Ostafrikas.',
       },
       {
         q: 'Welche Staudaemme gibt es am Nil in Uganda?',
