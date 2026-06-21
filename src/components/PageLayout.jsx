@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import autoLinkText from '../utils/autolink.jsx'
+import { photoAlt } from '../utils/photoAlt.js'
 import Head from './seo/Head.jsx'
 import { ArticleJsonLd, FaqJsonLd, BreadcrumbJsonLd, TouristDestinationJsonLd, RecipeJsonLd } from './seo/JsonLd.jsx'
 import MistyPartner from './MistyPartner.jsx'
@@ -207,7 +208,7 @@ function PhotoGallery({ photos, maxItems = 6 }) {
         >
           <img
             src={photo.thumbnail_url}
-            alt={photo.title || ''}
+            alt={photoAlt(photo)}
             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
             loading="lazy"
           />
@@ -235,7 +236,7 @@ function FullWidthPhotoStrip({ photos }) {
           <div key={photo.id} className="flex-1 min-w-0 relative group">
             <img
               src={photo.thumbnail_url}
-              alt={photo.title || ''}
+              alt={photoAlt(photo)}
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
               loading="lazy"
             />

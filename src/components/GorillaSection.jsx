@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { photoAlt } from '../utils/photoAlt.js'
 
 const FACTS = [
   { value: '1.063', label: 'Berggorillas weltweit' },
@@ -66,7 +67,7 @@ export default function GorillaSection({ photos }) {
               }`}>
                 <img
                   src={photo.thumbnail_url}
-                  alt={photo.title || 'Gorilla'}
+                  alt={photoAlt(photo, 'Gorilla Trekking Uganda')}
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                   loading="lazy"
                 />

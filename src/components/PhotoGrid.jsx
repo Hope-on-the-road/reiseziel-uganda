@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { photoAlt } from '../utils/photoAlt.js'
 
 function PhotoCard({ photo, size = 'md' }) {
   const [loaded, setLoaded] = useState(false)
@@ -9,7 +10,7 @@ function PhotoCard({ photo, size = 'md' }) {
       {photo.thumbnail_url && (
         <img
           src={photo.thumbnail_url}
-          alt={photo.title || photo.file_name}
+          alt={photoAlt(photo)}
           className={`w-full h-full object-cover transition-all duration-700 group-hover:scale-105 ${loaded ? 'opacity-100' : 'opacity-0'}`}
           loading="lazy"
           onLoad={() => setLoaded(true)}
@@ -70,7 +71,7 @@ export function PhotoHero({ photo, overlay }) {
     <div className="relative h-[400px] sm:h-[500px] rounded-3xl overflow-hidden bg-earth-100">
       <img
         src={photo.thumbnail_url}
-        alt={photo.title || ''}
+        alt={photoAlt(photo)}
         className={`w-full h-full object-cover transition-opacity duration-700 ${loaded ? 'opacity-100' : 'opacity-0'}`}
         loading="lazy"
         onLoad={() => setLoaded(true)}

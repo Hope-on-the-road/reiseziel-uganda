@@ -1,5 +1,6 @@
 import { useState, useMemo } from 'react'
 import SectionHeader from './SectionHeader.jsx'
+import { photoAlt } from '../utils/photoAlt.js'
 
 const FILTERS = [
   { key: 'all', label: 'Alle' },
@@ -57,7 +58,7 @@ export default function GalerieSection({ photos }) {
             >
               <img
                 src={photo.thumbnail_url}
-                alt={photo.title || photo.file_name}
+                alt={photoAlt(photo)}
                 className="w-full h-auto object-cover group-hover:scale-[1.03] transition-transform duration-700"
                 loading="lazy"
               />
