@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build"
+  command = "npm run build:sitemap && npm run build:prerender"
   publish = "dist"
 
 [[headers]]
@@ -49,6 +49,16 @@
 [[redirects]]
   from = "/stiftung"
   to = "https://hopeontheroad.de"
+  status = 301
+
+[[redirects]]
+  from = "/wanderung-zu-den-sipi-falls"
+  to = "/sipi-falls"
+  status = 301
+
+[[redirects]]
+  from = "/land-und-leute-uganda"
+  to = "/land-und-leute"
   status = 301
 
 # SPA catch-all

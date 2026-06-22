@@ -5,6 +5,8 @@
 /murchison-nationalpark     /nationalparks/murchison_falls  301
 /nationalparks              /nationalparks-uganda        301
 /stiftung                   /spenden                    301
+/wanderung-zu-den-sipi-falls  /sipi-falls               301
+/land-und-leute-uganda      /land-und-leute             301
 
 # SPA catch-all (muss am Ende stehen)
 /*    /index.html   200
