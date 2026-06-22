@@ -4,6 +4,12 @@ import { Link } from 'react-router-dom'
 // Sorted longest-first so multi-word terms match before single-word ones
 const LINK_RULES = [
   { pattern: /Bwindi\s+Impenetrable/gi, path: '/nationalparks/bwindi' },
+  { pattern: /Oekotourismus[\s-](?:in\s+)?Uganda/gi, path: '/oekotourismus-uganda' },
+  { pattern: /\bOekotourismus\b/gi, path: '/oekotourismus-uganda' },
+  { pattern: /Community[\s-]Lodges?\s+(?:in\s+)?Uganda/gi, path: '/oekotourismus-uganda' },
+  { pattern: /Unterkuenfte\s+(?:in\s+)?Uganda/gi, path: '/unterkunft-uganda' },
+  { pattern: /Lodges?\s+(?:in\s+)?Bwindi/gi, path: '/lodges-bwindi-lake-bunyonyi' },
+  { pattern: /Lake[\s-]Bunyonyi[\s-](?:Lodge|Unterkunft)/gi, path: '/lodges-bwindi-lake-bunyonyi' },
   { pattern: /Gorilla[\s-]Unterarten/gi, path: '/gorilla-arten-uganda' },
   { pattern: /Gorilla[\s-]Arten\b/gi, path: '/gorilla-arten-uganda' },
   { pattern: /Berggorilla[\s-]Population/gi, path: '/gorilla-population-uganda' },

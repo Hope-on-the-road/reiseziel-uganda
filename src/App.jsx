@@ -166,6 +166,10 @@ export default function App() {
           <Route path="/uganda-tourismus-statistik" element={<StandalonePage photos={photos} clusters={clusters} pageId="uganda-tourismus-statistik" />} />
           <Route path="/pangolin-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="pangolin-uganda" />} />
           <Route path="/berggorilla-naturschutz" element={<StandalonePage photos={photos} clusters={clusters} pageId="berggorilla-naturschutz" />} />
+          <Route path="/unterkunft-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="unterkunft-uganda" />} />
+          <Route path="/lodges-bwindi-lake-bunyonyi" element={<StandalonePage photos={photos} clusters={clusters} pageId="lodges-bwindi-lake-bunyonyi" />} />
+          <Route path="/hotels-uganda-regionen" element={<StandalonePage photos={photos} clusters={clusters} pageId="hotels-uganda-regionen" />} />
+          <Route path="/oekotourismus-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="oekotourismus-uganda" />} />
           <Route path="/gorilla-arten-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-arten-uganda" />} />
           <Route path="/gorilla-trekking-buhoma" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-trekking-buhoma" />} />
           <Route path="/gorilla-population-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-population-uganda" />} />
