@@ -4,6 +4,10 @@ import { Link } from 'react-router-dom'
 // Sorted longest-first so multi-word terms match before single-word ones
 const LINK_RULES = [
   { pattern: /Bwindi\s+Impenetrable/gi, path: '/nationalparks/bwindi' },
+  { pattern: /Gorilla[\s-]Unterarten/gi, path: '/gorilla-arten-uganda' },
+  { pattern: /Gorilla[\s-]Arten\b/gi, path: '/gorilla-arten-uganda' },
+  { pattern: /Berggorilla[\s-]Population/gi, path: '/gorilla-population-uganda' },
+  { pattern: /Gorilla[\s-]Trekking\s+(?:von\s+|in\s+)?Buhoma/gi, path: '/gorilla-trekking-buhoma' },
   { pattern: /Gorilla[\s-]Trekking/gi, path: '/gorilla-trekking' },
   { pattern: /Murchison\s+Falls/gi, path: '/nationalparks/murchison_falls' },
   { pattern: /Queen\s+Elizabeth/gi, path: '/nationalparks/queen_elizabeth' },
