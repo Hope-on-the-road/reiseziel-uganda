@@ -139,6 +139,7 @@ export default function App() {
           <Route path="/katogo-fruehstueck" element={<StandalonePage photos={photos} clusters={clusters} pageId="katogo-fruehstueck" />} />
           <Route path="/uganda-ostafrika-vergleich" element={<StandalonePage photos={photos} clusters={clusters} pageId="uganda-ostafrika-vergleich" />} />
           <Route path="/beste-reisezeit-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="beste-reisezeit-uganda" />} />
+          <Route path="/primaten-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="primaten-uganda" />} />
           <Route path="/schimpansen-trekking" element={<StandalonePage photos={photos} clusters={clusters} pageId="schimpansen-trekking" />} />
           <Route path="/uganda-als-frau-allein-reisen" element={<StandalonePage photos={photos} clusters={clusters} pageId="uganda-als-frau-allein-reisen" />} />
           <Route path="/uganda-mit-kindern" element={<StandalonePage photos={photos} clusters={clusters} pageId="uganda-mit-kindern" />} />

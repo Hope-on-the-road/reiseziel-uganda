@@ -48,6 +48,7 @@ const ROUTES = [
   '/katogo-fruehstueck',
   '/uganda-ostafrika-vergleich',
   '/beste-reisezeit-uganda',
+  '/primaten-uganda',
   '/schimpansen-trekking',
   '/uganda-als-frau-allein-reisen',
   '/uganda-mit-kindern',

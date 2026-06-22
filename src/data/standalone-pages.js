@@ -6586,4 +6586,102 @@ export const standalonePages = {
       { href: '/uganda-tourismus-statistik', title: 'Uganda Tourismus Statistik 2025', desc: 'Besucherzahlen, Einnahmen und Trends.' },
     ],
   },
+
+  'primaten-uganda': {
+    slug: '/primaten-uganda',
+    title: 'Primaten Uganda: 20 Arten – Gorillas, Schimpansen & mehr',
+    h1: 'Primaten in Uganda: Berggorillas, Schimpansen und 20 weitere Arten im Ueberblick',
+    subtitle: 'Uganda ist die artenreichste Primatendestination Ostafrikas -- mit mehr als der Haelfte aller Berggorillas weltweit und der groessten Schimpansenpopulation der Region',
+    metaDescription: 'Uganda beherbergt rund 20 Primatenarten. Berggorillas in Bwindi, Schimpansen in Kibale, Goldene Affen in Mgahinga – alle Arten, Nationalparks und Beobachtungstipps.',
+    breadcrumbs: [{ label: 'Tiere', href: '/tiere-uganda' }, { label: 'Primaten Uganda' }],
+    publishedTime: '2026-06-22',
+    modifiedTime: '2026-06-22',
+    photoFilter: 'wildlife',
+    kurzantwort: 'Uganda ist eine der artenreichsten Primatendestinationen der Welt. Rund 20 Primatenarten leben hier -- darunter ueber die Haelfte aller Berggorillas weltweit (Bwindi Impenetrable National Park und Mgahinga Gorilla National Park), die groesste Schimpansenpopulation Ostafrikas (Kibale National Park, ca. 1.500 Tiere) sowie die seltenen Goldenen Affen, vier Colobus-Arten und Olivpaviane. In einer einzigen Uganda-Reise ist es moeglich, alle drei ostafrikanischen Menschenaffenarten zu sehen -- Berggorillas, Schimpansen und Goldene Affen -- ohne das Land zu verlassen.',
+    fakten: [
+      { label: 'Primatenarten Uganda', value: 'Ca. 20 verschiedene Arten' },
+      { label: 'Berggorillas weltweit', value: 'Mehr als 50% aller Berggorillas in Uganda' },
+      { label: 'Schimpansen Kibale', value: 'Ca. 1.500 Tiere -- groesste Population Ostafrikas' },
+      { label: 'Gorilla-Permit', value: '800 USD pro Person (Stand 2026)' },
+      { label: 'Schimpansen-Permit Kibale', value: '250 USD pro Person (Stand 2026)' },
+      { label: 'Goldene-Affen-Permit', value: '100 USD pro Person (Stand 2026)' },
+      { label: 'Habituierte Gorilla-Familien', value: 'Ueber 20 in Bwindi' },
+      { label: 'UNESCO-Welterbe', value: 'Bwindi Impenetrable Forest seit 1994' },
+      { label: 'Primaten in Kibale', value: '13 Arten -- weltweiter Rekord fuer ein Schutzgebiet' },
+    ],
+    sections: [
+      {
+        id: 'warum-uganda',
+        title: 'Warum Uganda die beste Primatendestination Ostafrikas ist',
+        content: 'Uganda liegt am Schnittpunkt zweier grosser Oekosysteme: dem Kongobecken im Westen und den ostafrikanischen Savannen im Osten. Dieser Uebergangsbereich schuf ideale Bedingungen fuer aussergewoehnliche Primaten-Biodiversitaet. Rund 20 Primatenarten hat Uganda -- mehr als Kenia, Tansania oder Ruanda einzeln bieten koennen.\n\nDas Besondere an Uganda: Es ist das einzige Land der Welt, in dem du alle drei ostafrikanischen Menschenaffenarten in habituierten Gruppen beobachten kannst -- Berggorillas in Bwindi, Schimpansen in Kibale und Goldene Affen in Mgahinga. Diese Kombination macht Uganda zur Primatendestination ohne Konkurrenten.\n\nWaehrend unserer mehrfachen Aufenthalte in Uganda seit Oktober 2024 -- insgesamt mehrere Monate ueber Reisen bis Mai 2026 -- haben wir diese Artenvielfalt immer wieder unmittelbar erlebt: Gorillas in Bwindi im Januar 2026, Schimpansen in Kibale, Olivpaviane auf Strassensperren im Murchison Falls Nationalpark. Jede Reise zeigt neue Facetten.',
+        showPhotos: false,
+      },
+      {
+        id: 'berggorillas',
+        title: 'Berggorillas: Mehr als die Haelfte aller Tiere in Uganda',
+        content: 'Der Berggorilla (Gorilla beringei beringei) ist Ugandas bekanntestes Wildtier. Der Bwindi Impenetrable National Park beherbergt heute ueber 500 der weltweit ca. 1.000 verbliebenen Berggorillas -- verteilt auf mehr als 20 habituierte Familien. Kein anderer Standort der Welt bietet mehr Gorilla-Trekking-Optionen.\n\nGorilla-Trekking laeuft immer gleich: Eine Gruppe von maximal acht Personen wandert mit einem Uganda Wildlife Authority (UWA) Ranger und einem lokalen Guide durch den Regenwald, bis die Gorilla-Familie gefunden ist. Dann: eine Stunde stille Beobachtung, zehn Meter Mindestabstand. Ein Permit kostet 800 USD pro Person (Stand 2026).\n\nProsper, Guide in Buhoma, fuehrt seit Jahren internationale Gruppen in den Bwindi-Regenwald. Er kennt die individuellen Gorilla-Familien, ihre Wanderrouten und die kleinen Zeichen, die verraten wo die Tiere schlafen. Emily Assimwe betreibt in Buhoma einen kleinen Laden -- und erlebt taeglich, wie Reisende aus aller Welt dort ankommen, um genau dieser Begegnung willen.\n\nNeben Bwindi liegt der Mgahinga Gorilla National Park im suedwestlichen Zipfel Ugandas. Hier lebt die Nyakagezi-Familie -- kleiner, aber mit einem Alleinstellungsmerkmal: Mgahinga ist der einzige Ort in Uganda, wo auch Goldene Affen zu sehen sind.\n\nIm April 2026 besuchten wir Bwindi in der Regenzeit -- nassem Boden, dichtem Nebel und einer der eindringlichsten Gorilla-Begegnungen dieser Reisen. Die Regenzeit hat ihren eigenen Charakter.',
+        showPhotos: false,
+      },
+      {
+        id: 'schimpansen',
+        title: 'Schimpansen: Ostafrikas groesste Population im Kibale',
+        content: 'Der Schimpanse (Pan troglodytes schweinfurthii) teilt rund 98,7 Prozent der DNA mit dem Menschen. Uganda beherbergt rund 5.000 Schimpansen -- der Kibale National Park allein ca. 1.500 Tiere, die hoechste Dichte Ostafrikas.\n\nSchimpansen-Tracking in Kibale funktioniert aehnlich wie Gorilla-Trekking: maximal acht Personen, ein Ranger, eine Stunde bei der habituierten Gruppe. Die Erfolgsquote liegt bei ueber 90 Prozent. Ein Permit kostet 250 USD (Stand 2026). Der Kibale-Vorteil: Schimpansen bewegen sich schneller und lauter als Gorillas -- die Begegnung ist lebhafter, laermiger, chaotischer. Faszinierend anders.\n\nFuer einen weniger touristischen Kontext bietet sich der Budongo Forest im Murchison Falls Nationalpark an: einer der groessten Regenwaelder Ostafrikas ausserhalb des Kongobeckens, mit einer eigenen habituierten Schimpansen-Gruppe.\n\nEin drittes, dramatisches Erlebnis liefert die Kyambura Gorge im Queen Elizabeth Nationalpark -- eine spektakulaere Schlucht, in deren Tiefe eine isolierte Schimpansen-Gruppe lebt. Die Wanderung entlang des Schluchtrandweges, mit dem Rufen der Affen aus der Tiefe, ist unvergesslich.',
+        showPhotos: true,
+      },
+      {
+        id: 'goldene-affen',
+        title: 'Goldene Affen: Ugandas seltenste Primaten in Mgahinga',
+        content: 'Die Goldenen Affen (Cercopithecus kandti) gehoeren zu den seltensten Primaten Afrikas. Sie leben ausschliesslich in den Bambuswaeldern der Virunga-Vulkane -- einem schmalen Hochlandstreifen durch Uganda, Ruanda und die Demokratische Republik Kongo. In Uganda sind sie nur im Mgahinga Gorilla Nationalpark zu beobachten.\n\nGoldene Affen sind kleiner als Gorillas, dafuer ausgesprochen lebhaft und mit leuchtendem orange-goldenem Fell eines der fotogensten Primaten Afrikas. Die habituierte Gruppe im Mgahinga umfasst rund 80 bis 100 Tiere. Ein Permit kostet 100 USD (Stand 2026) -- deutlich weniger als Gorilla- oder Schimpansen-Permits.\n\nViele Reisende kombinieren Mgahinga mit Bwindi: Einen Tag Gorillas, einen Tag Goldene Affen, beide Parks im suedwestlichen Uganda innerhalb weniger Fahrtstunden erreichbar.',
+        showPhotos: false,
+      },
+      {
+        id: 'colobus-und-weitere',
+        title: 'Colobus-Affen, Paviane und zehn weitere Arten',
+        content: 'Neben den drei Menschenaffenarten begegnen Uganda-Reisenden noch zehn weitere Primatenarten -- oft unverhofft und umso eindrucksvoller.\n\nDer Schwarzweisse Colobus (Colobus guereza) ist mit seinem kontrastierenden schwarz-weissen Fell und langen Mantel einer der auffaelligsten Affen Afrikas -- haeufig in Bwindi, Kibale und entlang des Lake Bunyonyi. Der Ugandische Rote Colobus (Procolobus tephrosceles), gefaehrdet und selten, kommt vor allem in Kibale vor.\n\nDer Grauwangen-Mangabe (Lophocebus albigena) lebt baumstark in den mittleren Kronenbereichen vieler Regenwaelder und ist durch seinen lauten Ruf leicht zu orten. LHoests Affe (Allochrocebus lhoesti) ist dagegen eher bodennah und scheuer.\n\nOlivpaviane (Papio anubis) sind weit verbreitet und haeufig entlang von Strasssenraendern in Parks anzutreffen. Gruene Meerkatzen (Chlorocebus pygerythrus) tauchen in fast allen Nationalparks auf, oft direkt im Lodge-Gelaende. Patas-Affen (Erythrocebus patas) -- die schnellsten Primaten der Welt -- leben in den trockenen Savannen Nordugandas rund um die Karamoja-Region.\n\nIm Oktober 2024 stoppten wir bei einem Game Drive im Murchison Falls Nationalpark -- in demselben Park, in dem wir vom Boot aus Nilkrokodile auf den Sandbaenken des Nils beobachteten und eine Rothschild-Giraffe durch das Savannengras schreiten sahen -- wegen einer grossen Olivpavian-Gruppe, die die Piste blockierte. Uganda verbindet Primaten, Savanne und Flusswildnis auf engstem Raum.',
+        showPhotos: true,
+      },
+      {
+        id: 'beobachtungsorte',
+        title: 'Welcher Park fuer welche Primatenart?',
+        content: 'Bwindi Impenetrable National Park (Suedwesten): Berggorillas (ueber 20 habituierte Familien), Schwarzweisser Colobus, LHoests Affe, Olivpavian. Pflichtstation fuer jeden der Gorillas sehen will.\n\nKibale National Park (Westzentral): Schimpansen (groesste Population), Ugandischer Roter Colobus, Schwarzweisser Colobus, Grauwangen-Mangabe -- insgesamt 13 Primatenarten. Weltweiter Rekord fuer ein einzelnes Schutzgebiet.\n\nMgahinga Gorilla National Park (Suedwesten): Berggorillas (Nyakagezi-Familie), Goldene Affen (einziger Standort in Uganda). Kleinerer Park, weniger Touristendruck.\n\nQueen Elizabeth National Park (Westzentral): Schimpansen in der Kyambura Gorge, Schwarzweisser Colobus, Olivpavian.\n\nMurchison Falls National Park (Norden): Schimpansen im Budongo Forest, Olivpavian, Gruene Meerkatze, Patas-Affe.\n\nFuer maximale Artenvielfalt: Bwindi + Kibale + Mgahinga. Diese drei Parks decken alle ostafrikanischen Menschenaffenarten und mindestens 15 weitere Primatenarten ab.',
+        showPhotos: false,
+      },
+      {
+        id: 'naturschutz',
+        title: 'Primatenschutz: Wie Tourismus Gorillas rettet',
+        content: 'In den 1980er Jahren lebten weltweit noch etwa 250 Berggorillas. Heute sind es rund 1.000 -- einer der wenigen Faelle in der Naturschutzgeschichte, in dem eine Grossaffen-Population wieder gewachsen ist. Der Schluessel: Revenue Sharing.\n\n20 Prozent der Einnahmen aus Gorilla-Permits fliessen direkt in Entwicklungsprojekte der umliegenden Gemeinden -- Schulen, Kliniken, Wasserversorgung. Fuer die Gemeinden um Bwindi bedeutet das: Wer ein Gorilla-Permit kauft, finanziert gleichzeitig den Schutz des Lebensraums und die Lebensqualitaet der Menschen, die neben diesem Lebensraum wohnen. Das ist der Grund, warum die Gemeinden ein Interesse daran haben, den Wald zu schuetzen.\n\nDie Habituierung -- der Prozess, wilde Primaten an Menschengruppen zu gewoehnen -- dauert bei Gorillas zwei bis drei Jahre, bei Schimpansen ein bis zwei Jahre. Die Uganda Wildlife Authority (UWA) koordiniert diesen Prozess gemeinsam mit NGOs wie dem Dian Fossey Gorilla Fund. Das Ergebnis sind zuverlaessige, sichere Beobachtungen und eine Grundlage fuer den Schutz der Tiere ueber Generationen.',
+        showPhotos: false,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Wie viele Primatenarten gibt es in Uganda?',
+        a: 'Uganda beherbergt rund 20 verschiedene Primatenarten -- mehr als jedes andere ostafrikanische Reiseland. Darunter Berggorillas, Schimpansen, Goldene Affen, vier Colobus-Arten, Olivpaviane, Gruene Meerkatzen und Patas-Affen. Der Kibale National Park allein beherbergt 13 Primatenarten -- ein weltweiter Rekord fuer ein einzelnes Schutzgebiet.',
+      },
+      {
+        q: 'Wo kann ich in Uganda Berggorillas sehen?',
+        a: 'Berggorillas leben in Uganda ausschliesslich im Bwindi Impenetrable National Park (ueber 20 habituierte Familien) und im Mgahinga Gorilla National Park (eine Familie). Ein Gorilla-Permit kostet 800 USD pro Person (Stand 2026). Bwindi bietet die groesste Auswahl; Mgahinga hat weniger Touristendruck und zusaetzlich Goldene Affen.',
+      },
+      {
+        q: 'Was ist der Unterschied zwischen Gorilla-Trekking und Schimpansen-Tracking?',
+        a: 'Gorilla-Trekking fuehrt zu Berggorillas in Bwindi oder Mgahinga (Permit: 800 USD). Schimpansen-Tracking bezeichnet die entsprechende Tour in Kibale, Budongo oder Kyambura Gorge (Permit: 250 USD). Beide Touren dauern einen Tag mit maximal einer Stunde bei der Primatengruppe. Gorillas sind groesser und ruhiger, Schimpansen schneller und lautstaerker -- beides unvergesslich und sehr verschieden.',
+      },
+      {
+        q: 'Welcher Park in Uganda hat die meisten Primatenarten?',
+        a: 'Der Kibale National Park gilt mit 13 dokumentierten Primatenarten als primaatenreichstes Schutzgebiet der Welt. Die Schimpansen-Population zaehlt ca. 1.500 Tiere -- die groesste in Ostafrika. Fuer Berggorillas ist Bwindi die erste Adresse. Wer maximale Vielfalt sucht, kombiniert Kibale (Schimpansen) + Bwindi (Gorillas) + Mgahinga (Goldene Affen).',
+      },
+      {
+        q: 'Muss ich Gorilla-Permits lange im Voraus buchen?',
+        a: 'Ja -- idealerweise mehrere Monate vor der Reise, in der Hauptsaison (Juni-September) oft ein Jahr im Voraus. Die Buchung laeuft ueber die Uganda Wildlife Authority (UWA) direkt oder ueber lizenzierte Safariveranstalter. Das Permit kostet 800 USD pro Person (Stand 2026) und ist nicht erstattbar. Fruehzeitige Buchung sichert den Wunschtermin.',
+      },
+    ],
+    related: [
+      { href: '/gorilla-trekking', title: 'Gorilla-Trekking Uganda', desc: 'Permits, Vorbereitung und Parks im Ueberblick.' },
+      { href: '/schimpansen-trekking', title: 'Schimpansen-Trekking', desc: 'Kibale, Budongo und Kyambura Gorge im Vergleich.' },
+      { href: '/goldene-affen-uganda', title: 'Goldene Affen Uganda', desc: 'Die seltensten Primaten Ugandas im Mgahinga.' },
+      { href: '/nationalparks/bwindi', title: 'Bwindi Nationalpark', desc: 'Heimat von mehr als 500 Berggorillas.' },
+      { href: '/nationalparks/kibale', title: 'Kibale Nationalpark', desc: 'Die Primaaten-Hauptstadt der Welt mit 13 Arten.' },
+      { href: '/colobus-affe-uganda', title: 'Colobus-Affe Uganda', desc: 'Schwarzweisser und Roter Colobus in Uganda.' },
+    ],
+  },
 }
