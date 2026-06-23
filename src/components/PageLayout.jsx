@@ -446,7 +446,7 @@ function ReadingTime({ sections, kurzantwort }) {
 }
 
 function ShareBar({ title, slug }) {
-  const url = `https://www.reiseziel-uganda.de${slug}`
+  const url = `https://reiseziel-uganda.de${slug}`
   const text = `${title} -- Reiseziel Uganda`
   const [copied, setCopied] = useState(false)
 
@@ -522,7 +522,7 @@ function AuthorBox() {
 }
 
 export default function PageLayout({ page, heroPhoto, contentPhotos = [] }) {
-  const baseUrl = 'https://www.reiseziel-uganda.de'
+  const baseUrl = 'https://reiseziel-uganda.de'
   const breadcrumbItems = (page.breadcrumbs || []).map(b => ({
     ...b, url: b.href ? `${baseUrl}${b.href}` : undefined,
   }))

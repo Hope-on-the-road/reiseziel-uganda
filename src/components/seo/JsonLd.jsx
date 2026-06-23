@@ -1,4 +1,4 @@
-const SITE = 'https://www.reiseziel-uganda.de'
+const SITE = 'https://reiseziel-uganda.de'
 const PUBLISHER = {
   '@type': 'Organization',
   name: 'Reiseziel Uganda',

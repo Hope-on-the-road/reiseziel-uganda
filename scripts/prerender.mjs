@@ -266,7 +266,7 @@ async function prerender() {
       // Keep the module script for hydration, but mark root for React
       html = html.replace(
         /http:\/\/localhost:\d+/g,
-        'https://www.reiseziel-uganda.de'
+        'https://reiseziel-uganda.de'
       )
 
       // Write to dist folder

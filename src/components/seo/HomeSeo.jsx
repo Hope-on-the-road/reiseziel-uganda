@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 
-const SITE = 'https://www.reiseziel-uganda.de'
+const SITE = 'https://reiseziel-uganda.de'
 const TITLE = 'Reiseziel Uganda 2026 | Gorilla Trekking & Safaris'
 const DESC = 'Uganda Reisefuehrer 2026: 10 Nationalparks, Gorilla Trekking ab 800 USD, Safari-Tipps, Visa, Kosten, beste Reisezeit. Dein kompletter Guide.'
 

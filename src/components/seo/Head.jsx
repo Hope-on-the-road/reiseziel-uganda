@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 
-const SITE = 'https://www.reiseziel-uganda.de'
+const SITE = 'https://reiseziel-uganda.de'
 const SITE_NAME = 'Reiseziel Uganda'
 
 export default function Head({ title, description, canonical, ogImage, ogType = 'article', noindex = false, publishedTime = '2025-01-15T00:00:00+00:00', modifiedTime = '2026-06-08T00:00:00+00:00' }) {

@@ -21,7 +21,7 @@ if (!routesMatch) {
 }
 const ROUTES = Array.from(routesMatch[1].matchAll(/'([^']+)'/g), m => m[1])
 
-const BASE_URL = 'https://www.reiseziel-uganda.de'
+const BASE_URL = 'https://reiseziel-uganda.de'
 const today = new Date().toISOString().split('T')[0]
 
 function getMeta(route) {

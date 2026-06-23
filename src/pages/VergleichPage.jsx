@@ -31,7 +31,7 @@ export default function VergleichPage({ photos }) {
           name={page.h1}
           description={page.metaDescription}
           items={comparisonItems}
-          url={`https://www.reiseziel-uganda.de${page.slug}`}
+          url={`https://reiseziel-uganda.de${page.slug}`}
         />
       )}
       <PageLayout page={page} heroPhoto={heroPhoto || null} contentPhotos={[]} />
