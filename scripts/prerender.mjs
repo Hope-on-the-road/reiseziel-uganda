@@ -223,8 +223,49 @@ function startServer() {
   })
 }
 
+const CONCURRENCY = 6
+
+async function renderRoute(browser, route, counters) {
+  try {
+    const page = await browser.newPage()
+
+    await page.setRequestInterception(true)
+    page.on('request', (req) => {
+      if (['image', 'font'].includes(req.resourceType())) {
+        req.abort()
+      } else {
+        req.continue()
+      }
+    })
+
+    await page.goto(`http://localhost:${PORT}${route}`, {
+      waitUntil: 'load',
+      timeout: 15000,
+    })
+
+    await page.waitForSelector('h1, h2, .kurzantwort, [class*="Hero"]', { timeout: 6000 }).catch(() => {})
+    await new Promise(r => setTimeout(r, 200))
+
+    let html = await page.content()
+    html = html.replace(/http:\/\/localhost:\d+/g, 'https://reiseziel-uganda.de')
+
+    const dir = route === '/' ? DIST : join(DIST, route)
+    mkdirSync(dir, { recursive: true })
+    const filePath = route === '/' ? join(DIST, 'index.html') : join(dir, 'index.html')
+    writeFileSync(filePath, html)
+
+    counters.success++
+    process.stdout.write(`  [${counters.success}/${ROUTES.length}] ${route}\n`)
+
+    await page.close()
+  } catch (err) {
+    counters.failed++
+    console.error(`  FEHLER ${route}: ${err.message}`)
+  }
+}
+
 async function prerender() {
-  console.log(`\nPrerendering ${ROUTES.length} routes...\n`)
+  console.log(`\nPrerendering ${ROUTES.length} routes (concurrency: ${CONCURRENCY})...\n`)
 
   const server = await startServer()
   const browser = await puppeteer.launch({
@@ -232,63 +273,17 @@ async function prerender() {
     args: ['--no-sandbox', '--disable-setuid-sandbox'],
   })
 
-  let success = 0
-  let failed = 0
+  const counters = { success: 0, failed: 0 }
 
-  for (const route of ROUTES) {
-    try {
-      const page = await browser.newPage()
-
-      // Block images to speed up rendering
-      await page.setRequestInterception(true)
-      page.on('request', (req) => {
-        if (['image', 'font'].includes(req.resourceType())) {
-          req.abort()
-        } else {
-          req.continue()
-        }
-      })
-
-      await page.goto(`http://localhost:${PORT}${route}`, {
-        waitUntil: 'networkidle0',
-        timeout: 15000,
-      })
-
-      // Wait for React to render content
-      await page.waitForSelector('h1, h2, .kurzantwort, [class*="Hero"]', { timeout: 8000 }).catch(() => {})
-
-      // Small extra delay for async data
-      await new Promise(r => setTimeout(r, 500))
-
-      let html = await page.content()
-
-      // Clean up: remove scripts that would cause double-execution issues
-      // Keep the module script for hydration, but mark root for React
-      html = html.replace(
-        /http:\/\/localhost:\d+/g,
-        'https://reiseziel-uganda.de'
-      )
-
-      // Write to dist folder
-      const dir = route === '/' ? DIST : join(DIST, route)
-      mkdirSync(dir, { recursive: true })
-      const filePath = route === '/' ? join(DIST, 'index.html') : join(dir, 'index.html')
-      writeFileSync(filePath, html)
-
-      success++
-      process.stdout.write(`  [${success}/${ROUTES.length}] ${route}\n`)
-
-      await page.close()
-    } catch (err) {
-      failed++
-      console.error(`  FEHLER ${route}: ${err.message}`)
-    }
+  for (let i = 0; i < ROUTES.length; i += CONCURRENCY) {
+    const batch = ROUTES.slice(i, i + CONCURRENCY)
+    await Promise.all(batch.map(route => renderRoute(browser, route, counters)))
   }
 
   await browser.close()
   server.close()
 
-  console.log(`\nFertig: ${success} gerendert, ${failed} Fehler\n`)
+  console.log(`\nFertig: ${counters.success} gerendert, ${counters.failed} Fehler\n`)
 }
 
 prerender().catch(console.error)

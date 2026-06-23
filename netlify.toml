@@ -2,6 +2,14 @@
   command = "npm run build:sitemap && npx puppeteer browsers install chrome && npm run build:prerender"
   publish = "dist"
 
+[build.environment]
+  PUPPETEER_CACHE_DIR = "/opt/buildhome/.cache/puppeteer"
+
+[[plugins]]
+  package = "netlify-plugin-cache"
+  [plugins.inputs]
+    paths = ["/opt/buildhome/.cache/puppeteer"]
+
 [[headers]]
   for = "/*"
   [headers.values]
