@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build:sitemap && npm run build:prerender"
+  command = "npm run build:sitemap && npx puppeteer browsers install chrome && npm run build:prerender"
   publish = "dist"
 
 [[headers]]
