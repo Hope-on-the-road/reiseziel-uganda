@@ -181,6 +181,13 @@ export default function App() {
           <Route path="/lake-bunyonyi-community" element={<StandalonePage photos={photos} clusters={clusters} pageId="lake-bunyonyi-community" />} />
           <Route path="/vulkane-mgahinga" element={<StandalonePage photos={photos} clusters={clusters} pageId="vulkane-mgahinga" />} />
           <Route path="/kisoro" element={<StandalonePage photos={photos} clusters={clusters} pageId="kisoro" />} />
+          <Route path="/leonard-sharp-bwama-island" element={<StandalonePage photos={photos} clusters={clusters} pageId="leonard-sharp-bwama-island" />} />
+          <Route path="/community-tourismus-bwindi" element={<StandalonePage photos={photos} clusters={clusters} pageId="community-tourismus-bwindi" />} />
+          <Route path="/anreise-bwindi" element={<StandalonePage photos={photos} clusters={clusters} pageId="anreise-bwindi" />} />
+          <Route path="/bwindi-wellness" element={<StandalonePage photos={photos} clusters={clusters} pageId="bwindi-wellness" />} />
+          <Route path="/lake-mutanda-mulehe" element={<StandalonePage photos={photos} clusters={clusters} pageId="lake-mutanda-mulehe" />} />
+          <Route path="/batwa-trail-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="batwa-trail-uganda" />} />
+          <Route path="/virunga-conservation-area" element={<StandalonePage photos={photos} clusters={clusters} pageId="virunga-conservation-area" />} />
           <Route path="/baumkletternde-loewen" element={<StandalonePage photos={photos} clusters={clusters} pageId="baumkletternde-loewen" />} />
           <Route path="/nashorn-rueckkehr-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="nashorn-rueckkehr-uganda" />} />
           <Route path="/goldene-affen-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="goldene-affen-uganda" />} />
