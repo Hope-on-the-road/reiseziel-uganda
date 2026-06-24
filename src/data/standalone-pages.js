@@ -8632,6 +8632,139 @@ export const standalonePages = {
     ],
   },
 
+  'grenzen-uganda-ruanda-kongo': {
+    title: 'Uganda-Grenzen Ruanda & Kongo: Visa und Einreise',
+    h1: 'Grenzuebergaenge im suedwestlichen Uganda: Ruanda und DR Kongo',
+    subtitle: 'Katuna, Cyanika, Bunagana — Visa, Sicherheitslage und praktische Einreiseinformationen',
+    slug: '/grenzen-uganda-ruanda-kongo',
+    metaDescription: 'Grenzen Uganda zu Ruanda (Katuna, Cyanika) und DR Kongo (Bunagana): Visa, Sicherheit, Fahrtzeiten. Praktischer Guide fuer den suedwestlichen Uganda.',
+    breadcrumbs: [
+      { label: 'Startseite', href: '/' },
+      { label: 'Reiseplanung', href: '/reiseplanung' },
+      { label: 'Grenzen Uganda Ruanda Kongo', href: '/grenzen-uganda-ruanda-kongo' },
+    ],
+    publishedTime: '2026-06-25T00:00:00Z',
+    modifiedTime: '2026-06-25T00:00:00Z',
+    kurzantwort: 'Im suedwestlichen Uganda fuehren drei relevante Grenzuebergaenge ins Ausland: Katuna/Gatuna (20 km von Kabale) und Cyanika (rund 10 km von Kisoro) nach Ruanda, sowie Bunagana (rund 10 km von Kisoro) in die Demokratische Republik Kongo. Die Ruanda-Uebergaenge sind fuer Touristen problemlos passierbar. Die Kongo-Grenze bei Bunagana ist wegen der volatilen Sicherheitslage in Ostkongo fuer Reisende grundsaetzlich mit grosser Vorsicht zu behandeln — aktuelle Reisewarnungen des Auswaertigen Amts vor jeder Grenzueberquerung prufen.',
+    fakten: [
+      { label: 'Katuna/Gatuna (Uganda-Ruanda)', value: '20 km von Kabale (Quelle: Reisefuehrer Uganda 2020)' },
+      { label: 'Cyanika (Uganda-Ruanda)', value: 'ca. 10 km von Kisoro; 25 km weiter bis Musanze (Quelle: Reisefuehrer Uganda 2020)' },
+      { label: 'Bunagana (Uganda-DR Kongo)', value: 'ca. 10 km von Kisoro (Quelle: Reisefuehrer Uganda 2020)' },
+      { label: 'Uganda E-Visum', value: '50 USD, online erforderlich (Stand: Reisefuehrer Uganda 2020 — vor Reise aktuellen Preis pruefen)' },
+      { label: 'Matatu Kabale-Kisoro', value: 'ca. 12.000 UGX, 2–3 Stunden (Quelle: Reisefuehrer Uganda 2020)' },
+      { label: 'Bus Kisoro-Kampala', value: 'ca. 45.000 UGX, 8–9 Stunden (Quelle: Reisefuehrer Uganda 2020)' },
+      { label: 'Oeffentlicher Transport Kisoro-Cyanika', value: 'Matatus fahren taeglich, ueberqueren Grenze NICHT selbst' },
+    ],
+    sections: [
+      {
+        heading: 'Drei Grenzen, drei sehr unterschiedliche Situationen',
+        paragraphs: [
+          'Der aeusserste Suedwesten Ugandas ist ein Dreilaender-Eck: Uganda, Ruanda und die Demokratische Republik Kongo grenzen hier eng zusammen. Kisoro, die suedswestlichste Kleinstadt Ugandas, liegt nach Angaben im Reisefuehrer Uganda 2020 (Teil 13) rund 10 Kilometer von der kongolesischen Grenze bei Bunagana und etwa 10 Kilometer von der ruandischen Grenze bei Cyanika entfernt. Der wichtigste Uebergang zwischen Uganda und Ruanda liegt allerdings weiter oestlich: Katuna/Gatuna, rund 20 Kilometer suedlich von Kabale.',
+          'Fuer Reisende mit Ziel Gorilla-Trekking oder Lake Bunyonyi ist das Verstaendnis dieser Grenzsituation praktisch relevant: Wer von Kigali einreist, passiert Katuna. Wer das Gorilla-Trekking im ruandischen Volcanoes National Park mit Uganda kombiniert, nutzt meistens Cyanika. Die DR-Kongo-Grenze bei Bunagana ist fuer Touristen aufgrund der andauernden Sicherheitsprobleme in Ostkongo keine empfohlene Reiseoption.',
+        ],
+      },
+      {
+        heading: 'Katuna/Gatuna: Der Hauptuebergang zwischen Uganda und Ruanda',
+        paragraphs: [
+          'Katuna auf ugandischer Seite (Gatuna auf ruandischer Seite) ist der meistgenutzte Grenzuebergang zwischen Uganda und Ruanda. Er liegt 20 Kilometer suedlich von Kabale auf asphaltierter Strasse und ist gut ausgebaut. Dieser Uebergang ist die Hauptroute fuer Reisende, die von Kigali nach Sueduganda oder in Richtung Bwindi Impenetrable National Park fahren.',
+          'Der Grenzuebergang laeuft in der Regel ohne groessere Wartezeiten ab. Reisende melden sich auf beiden Seiten an den jeweiligen Immigrationsstationen. Gepaeck wird gelegentlich stichprobenartig kontroliiert, selten gruendlicher durchsucht. Ruandische Grenzbeamte sind bekannt fuer Effizienz — die ruandische Seite der Grenze gilt als einer der am besten organisierten Grenzposten Ostafrikas.',
+          'Wer von Kigali kommend mit dem Bus reist, kann mit Cross Country und anderen Anbietern direkt bis Kabale durchfahren. Matatus auf oeffentlichen Linien enden meistens kurz vor der Grenze — auf der anderen Seite nehmen frische Fahrzeuge die Reisenden auf. [ZITAT: Busfahrer oder Grenzbeamter ueber taeqliche Grenzroutine]',
+        ],
+      },
+      {
+        heading: 'Cyanika: Die kuerzere Route nach Ruanda fuer Kisoro-Reisende',
+        paragraphs: [
+          'Der Grenzuebergang Cyanika liegt rund 10 Kilometer suedlich von Kisoro und ist die naeherliegende Option fuer Reisende, die das Gorilla-Trekking in Uganda mit einem Besuch im ruandischen Volcanoes National Park kombinieren. Laut Reisefuehrer Uganda 2020 (Teil 33) sind es von Cyanika auf ruandischer Seite noch rund 25 Kilometer bis Musanze (frueher Ruhengeri), dem Ausgangspunkt fuer Gorilla-Besuche im Volcanoes National Park.',
+          'Wichtig fuer die Planung: Oeffentliche Transportmittel ueberqueren die Grenze nicht selbst. Matatus aus Kisoro enden kurz vor Cyanika. Auf ruandischer Seite kosten lokale Transportmittel von der Grenze nach Musanze rund 500 RWF (Stand: Reisefuehrer Uganda 2020, Teil 33 — vor Reise aktuell pruefen). Wer mit einem privaten Fahrzeug reist, passiert die Grenze ohne Umstieg.',
+          'Die Strecke von Kabale nach Kisoro fuehrt laut Reisefuehrer Uganda 2020 (Teil 13) durch das hügelige Hochland von Kigezi auf einer Asphaltstrasse in gutem Zustand — diese Angabe stammt aus 2020, aktuelle Strassenbedingungen vor Reise pruefen. Matatus zwischen Kabale und Kisoro kosten rund 12.000 UGX und benoetigen 2 bis 3 Stunden (Quelle: Reisefuehrer Uganda 2020, Teil 13).',
+        ],
+      },
+      {
+        heading: 'Bunagana: Die Kongo-Grenze — nur mit aktuellen Sicherheitsinfos',
+        paragraphs: [
+          'Bunagana liegt rund 10 Kilometer westlich von Kisoro und ist der naechstgelegene Grenzuebergang zur Demokratischen Republik Kongo. Die Kleinstadt Kisoro erlebte nach Angaben des Reisefuehrers Uganda 2020 (Teil 12) bis etwa 2004 mehrfach Uebergriffe kongolesischer Milizen und hat sich seitdem wirtschaftlich durch Handel mit dem Kongo und Tourismus erholt. Die wirtschaftliche Erholung Kisoros ist laut derselben Quelle real — gleichzeitig bleibt Ostkongo eine der instabilsten Regionen des afrikanischen Kontinents.',
+          'Fuer Touristen ist ein Grenzuebergang nach Ostkongo bei Bunagana grundsaetzlich mit hohem Sicherheitsrisiko verbunden. Die Region rund um Rutshuru und Bunagana war in den vergangenen Jahren mehrfach Schauplatz bewaffneter Konflikte, unter anderem durch die M23-Rebellenbewegung. Vor jeder geplanten Einreise in die DR Kongo die aktuellen Reisewarnungen des Auswaertigen Amts (auswaertiges-amt.de) prufen — diese werden regelmaessig aktualisiert.',
+          'Vom Kisoro Booking Office des Mgahinga Gorilla Nationalparks aus fahren Boda-Bodas und Special Hires zu den Grenzueberfaehren nach Bunagana und Cyanika (Quelle: Reisefuehrer Uganda 2020, Teil 13). Kisoro liegt laut Reisefuehrer Uganda 2020 (Teil 13) rund 520 Kilometer von Kampala entfernt, mit Fahrzeit von 6 bis 8 Stunden mit eigenem Fahrzeug — diese Angabe sollte vor Reise verifiziert werden.',
+        ],
+      },
+      {
+        heading: 'Einreise Uganda: E-Visum und was du wissen musst',
+        paragraphs: [
+          'Die Einreise nach Uganda ist seit Juli 2016 nur noch mit einem vorher online beantragten Visum ueber das Uganda E-Immigration System moeglich. Der Preis betrug laut Reisefuehrer Uganda 2020 (Teil 33) 50 USD — dieser Betrag sollte vor Buchung auf der offiziellen Seite des ugandischen Einwanderungsamts (visas.immigration.go.ug) geprueft werden, da Gebuehren sich angepasst haben koennen. Das Visum muss beantragt und bestaetigt sein, bevor man die Grenze ueberquert — ein Visum on arrival ist nicht mehr moeglich.',
+          'Buerger der Europaeischen Union benoetigen fuer Uganda ein Touristenvisum. Die Gelbfieberimpfung ist bei Einreise aus Laendern mit Gelbfieberrisiko Pflicht und muss durch das Internationale Impfzertifikat (Gelbfieberpass) nachgewiesen werden. Auch wenn Uganda selbst nicht zum Gelbfieber-Risikogebiet der WHO zaehlt, verlangen manche Nachbarlaender den Nachweis bei Weiterreise.',
+          'Wichtig fuer Mehrfach-Einreisende: Wer Uganda in Kombination mit Ruanda bereist und dabei mehrfach die Grenze ueberquert, sollte ein Mehrfachvisum (Multiple Entry Visa) beantragen. Das Einzelvisum erlaubt nur eine Einreise.',
+        ],
+      },
+      {
+        heading: 'Einreise Ruanda: Visum und praktische Hinweise',
+        paragraphs: [
+          'Ruanda ist eine der einfachsten Einreise-Destinationen in Ostafrika. Buerger der meisten Staaten erhalten ein Touristenvisum bei Ankunft (Visa on Arrival) oder koennen es vorab online beantragen. Die Gebuehr betraegt [RECHERCHE NOETIG: aktueller Visum-Preis Ruanda fuer EU-Buerger 2026]. Mitglieder der Ostafrikanischen Gemeinschaft (EAC) koennen mit ihrem nationalen Ausweis einreisen.',
+          'Ruanda ist bekannt fuer strikte Zollvorschriften: Plastiktueten sind im Land verboten — wer mit Plastiktueten einreist, muss diese an der Grenze abgeben. Das gilt als streng durchgesetzt. Ausserdem ist Kamouflage-Kleidung fuer Zivilpersonen in Ruanda nicht erlaubt. Wer Trekking-Ausruestung mitfuehrt, sollte entsprechende Farben waehlen.',
+          'Die Waehrung in Ruanda ist der Ruandische Franc (RWF). USD werden in Touristengebieten und Hotels weitgehend akzeptiert. Geldwechsel direkt an der Grenze sollte mit Vorsicht erfolgen — Kurs und Gebuhren variiieren stark. In Musanze und Kigali gibt es zuverlaessige Geldautomaten.',
+        ],
+      },
+      {
+        heading: 'Sicherheitslage in der Grenzregion: Was du wissen solltest',
+        paragraphs: [
+          'Die ugandisch-ruandische Grenzregion gilt 2026 als sicher fuer Touristen. Kabale, Kisoro und der gesamte Suedwesten Ugandas sind etablierte Touristendestinationen mit gutem Sicherheitsniveau. Wir waren in dieser Region mehrfach unterwegs — im Oktober 2024 und mehrfach im Januar 2026 — und haben zu keinem Zeitpunkt Sicherheitsprobleme erlebt.',
+          'Anders ist die Lage an der Kongo-Grenze: Ostkongo, insbesondere die Provinz Nord-Kivu rund um Bunagana und Rutshuru, ist weiterhin von bewaffneten Konflikten betroffen. Die Situation aendert sich haeufig. Das Auswaertige Amt Deutschland hat fuer grosse Teile Ostkongos eine Reisewarnung ausgegeben — diese ist vor jeder Reise in das Grenzgebiet zu pruefen und sehr ernst zu nehmen.',
+          'Die ugandische Seite der Grenze bei Bunagana ist formal sicher. Das Problem liegt auf kongolesischer Seite. Wer nur nach Uganda einreist und das Kisoro-Gebiet besucht, ist von der Kongo-Situation nicht betroffen. Wer ein Kongo-Abenteuer plant, sollte das unter Einbeziehung spezialisierter Reisebueoros oder NGO-Kontakte tun.',
+        ],
+      },
+      {
+        heading: 'Anreise nach Kisoro und Kabale: Transport in der Grenzregion',
+        paragraphs: [
+          'Kabale erreicht man aus Kampala ueber eine rund 400 Kilometer lange asphaltierte Strasse via Mbarara in 6 bis 7 Stunden mit eigenem Fahrzeug (Quelle: Reisefuehrer Uganda 2020, Teil 10). Ueberlandbusse kosten etwa 30.000 UGX (Stand: Reisefuehrer Uganda 2020, Teil 10 — aktuellen Preis vor Reise prufen). Von Kabale nach Kisoro sind es weitere 75 Kilometer, die Matatus in rund 2 Stunden fuer ca. 12.000 UGX zuruecklegen (Quelle: Reisefuehrer Uganda 2020, Teil 13).',
+          'Kisoro verfuegt auch ueber einen kleinen Flugplatz, 4 Kilometer oestlich des Stadtzentrums. Chartergesellschaften wie AeroLink und Eagle Air fliegen Kisoro regelmaessig ab Entebbe an — Hin- und Rueckflug kosten laut Reisefuehrer Uganda 2020 (Teil 13) etwa 200 USD. Fuer Reisende mit wenig Zeit ist dieser Flug eine ernstzunehmende Alternative zum langen Landweg.',
+          'Wer von Kigali nach Kisoro fahren moechte, reist ueber Katuna nach Kabale und von dort nach Kisoro — Gesamtfahrzeit mit Umstieg und Grenzabfertigung rund 4 bis 6 Stunden. Alternativ ueber Cyanika direkt Richtung Kisoro, allerdings ueberqueren oeffentliche Matatus die Grenze nicht selbst.',
+        ],
+      },
+      {
+        heading: 'Was bedeutet der Name Lake Bunyonyi?',
+        paragraphs: [
+          'Der Name Lake Bunyonyi stammt aus der Sprache der Bakiga, dem Volk das die Kigezi-Hochlandregion um Kabale und Kisoro bewohnt. Bunyonyi bedeutet laut Reisefuehrer Uganda 2020 (Teil 10) "Ort der vielen kleinen Voegel" — und der Name haelt was er verspricht: Am See sind ueber 200 Vogelarten beheimatet (Quelle: Reisefuehrer Uganda 2020, Teil 10). Der See liegt auf 1.950 Metern Hoehe, etwa 10 Kilometer westlich von Kabale, mit einer geschaetzten Tiefe von bis zu 900 Metern und einer Wassertemperatur von rund 20 Grad Celsius.',
+          'Der Lake Bunyonyi ist wegen seines hohen Mineralsalzgehalts nahezu bilharziose-frei — Baden gilt hier als vergleichsweise sicher, was an vielen Seen Ostafrikas ungewoehnlich ist. Die 29 Inseln des Sees, erreichbar per Einbaum oder Motorboot, bieten zudem ruhige Unterkunftsoptionen. Fuer Reisende, die das Gorilla-Trekking mit Erholung kombinieren moechten, ist der See eine der besten Optionen im suedwestlichen Uganda.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Welchen Grenzuebergang nutzt man von Kigali nach Bwindi?',
+        a: 'Von Kigali nach Bwindi wird ueblicherweise Katuna/Gatuna genutzt — 20 Kilometer suedlich von Kabale. Von Kigali nach Kabale sind es rund 4 bis 5 Stunden mit Bus oder Mietwagen. Ab Kabale sind es rund 120 Kilometer bis Bwindi. Wer von Musanze (Volcanoes National Park) kommt, kann alternativ Cyanika nach Kisoro nehmen und von dort Richtung Bwindi fahren.',
+      },
+      {
+        q: 'Kann man von Kisoro einfach in die DR Kongo einreisen?',
+        a: 'Formal ja — Bunagana liegt rund 10 Kilometer von Kisoro entfernt. Praktisch ist die Einreise in Ostkongo fuer Touristen wegen der volatilen Sicherheitslage nicht empfehlenswert. Vor jeder Einreise in die DR Kongo aktuelle Reisewarnungen des Auswaertigen Amts (auswaertiges-amt.de) prufen. Die ugandische Seite der Grenze ist sicher; das Risiko liegt in der kongolesischen Grenzregion.',
+      },
+      {
+        q: 'Braucht man fuer Uganda ein Visum?',
+        a: 'Ja. Deutsche und EU-Buerger benoetigen ein Uganda-Visum, das online beantragt werden muss (visas.immigration.go.ug). Ein Visum on arrival ist seit Juli 2016 nicht mehr moeglich. Wer mehrfach einreist (z.B. Ruanda-Uganda-Ruanda), benoetigt ein Mehrfachvisum (Multiple Entry Visa). Den aktuellen Preis auf der offiziellen Website pruefen — zuletzt 50 USD (Quelle: Reisefuehrer Uganda 2020).',
+      },
+      {
+        q: 'Was bedeutet der Name Lake Bunyonyi?',
+        a: 'Bunyonyi bedeutet in der Sprache der Bakiga "Ort der vielen kleinen Voegel". Der See liegt rund 10 Kilometer westlich von Kabale auf 1.950 Metern Hoehe und beheimatet tatsaechlich ueber 200 Vogelarten (Quelle: Reisefuehrer Uganda 2020, Teil 10). Er gilt als nahezu bilharziose-frei und ist einer der wenigen grossen Seen Ostafrikas, in denen Baden als verhaeltnismaessig sicher gilt.',
+      },
+      {
+        q: 'Wie lange dauert die Fahrt von Kisoro nach Kabale?',
+        a: 'Matatus verbinden Kisoro und Kabale in rund 2 Stunden (Quelle: Reisefuehrer Uganda 2020, Teil 10), Busse etwas laenger mit 2 bis 3 Stunden. Die Strecke ueber das Hochland von Kigezi ist malerisch und fuehrt auf asphaltierter Strasse durch gruene Huegel mit Blicken auf den Lake Bunyonyi. Die Kosten lagen 2020 bei rund 12.000 UGX — aktuellen Preis vor Ort prufen.',
+      },
+    ],
+    related: [
+      { href: '/kisoro', title: 'Kisoro', desc: 'Die suedwestlichste Stadt Ugandas — Tor zum Mgahinga und zu zwei Grenzen.' },
+      { href: '/hotel-ruanda-geschichte-kigalis', title: 'Kigali und Hotel Ruanda', desc: 'Kigali als Transitpunkt — Geschichte und praktische Infos.' },
+      { href: '/kabale-bwindi', title: 'Von Kabale nach Bwindi', desc: 'Die Route von der Grenze Richtung Gorilla-Trekking.' },
+      { href: '/virunga-conservation-area', title: 'Virunga Conservation Area', desc: 'Das Dreilaenderschutzgebiet Uganda-Ruanda-Kongo mit 434 Quadratkilometern.' },
+      { href: '/regionen/kabale', title: 'Kabale', desc: 'Die Hauptstadt der Kigezi-Region und Ausgangspunkt fuer den suedwestlichen Uganda.' },
+    ],
+    quellen: [
+      'Reisefuehrer Uganda 2020 -- Teil 10 (Kabale, Kisoro, Lake Bunyonyi, Grenzuebergang Katuna)',
+      'Reisefuehrer Uganda 2020 -- Teil 13 (Mgahinga, Kisoro, Grenzen Cyanika und Bunagana)',
+      'Reisefuehrer Uganda 2020 -- Teil 33 (Grenzuebergang Cyanika, E-Visum Uganda)',
+      'Reisefuehrer Uganda 2020 -- Teil 12 (Sicherheitslage Kisoro)',
+      'Auswaertiges Amt Deutschland: Reise- und Sicherheitshinweise DR Kongo (aktuelle Fassung pruefen)',
+    ],
+  },
+
   'packliste-gorilla-tracking-uganda': {
     title: 'Packliste Gorilla-Trekking Uganda 2026 — was du brauchst',
     h1: 'Packliste fuer das Gorilla-Trekking in Uganda: Was du wirklich brauchst',
