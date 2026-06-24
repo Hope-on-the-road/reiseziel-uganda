@@ -130,6 +130,7 @@ const ROUTES = [
   '/batwa-trail-uganda',
   '/virunga-conservation-area',
   '/vogelbeobachten-kibale-bigodi',
+  '/mabira-forest-voegel',
   '/baumkletternde-loewen',
   '/nashorn-rueckkehr-uganda',
   '/goldene-affen-uganda',

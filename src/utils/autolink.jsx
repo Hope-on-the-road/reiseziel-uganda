@@ -48,6 +48,7 @@ const LINK_RULES = [
   { pattern: /Bigodi\s+Wetlands?/gi, path: '/vogelbeobachten-kibale-bigodi' },
   { pattern: /Vogelbeobacht(?:en|ung)\s+(?:bei|im)\s+Kibale/gi, path: '/vogelbeobachten-kibale-bigodi' },
   { pattern: /Katonga\s+Wildlife\s+Reserve/gi, path: '/vogelbeobachten-kibale-bigodi' },
+  { pattern: /Mabira\s+Forest/gi, path: '/mabira-forest-voegel' },
   { pattern: /\bKisoro\b/gi, path: '/kisoro' },
   { pattern: /Gorilla[\s-]Trekking/gi, path: '/gorilla-trekking' },
   { pattern: /Murchison\s+Falls/gi, path: '/nationalparks/murchison_falls' },
