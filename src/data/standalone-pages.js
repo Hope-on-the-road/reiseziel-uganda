@@ -7287,4 +7287,98 @@ export const standalonePages = {
       'Eigene Besuche und Beobachtungen: Oktober 2024, Januar 2026 (Buhoma, Bwindi, Butiru, Jinja, Kampala)',
     ],
   },
+
+  'inseln-lake-bunyonyi': {
+    title: 'Die Inseln des Lake Bunyonyi: Geschichte, Mythen und Unterkuenfte',
+    h1: 'Die 29 Inseln des Lake Bunyonyi: Von Lepra-Stationen bis zur Punishment Island',
+    subtitle: '29 Inseln, jahrhundertealte Geschichten und einige der stimmungsvollsten Lodges Ugandas — alles auf einem der hoechstgelegenen Seen Afrikas.',
+    slug: '/inseln-lake-bunyonyi',
+    metaDescription: '29 Inseln im Lake Bunyonyi: Bwama Island mit Lepra-Geschichte (1921), Punishment Island der Bakiga, Unterkuenfte und Kanu-Tipps fuer deinen Besuch.',
+    breadcrumbs: [
+      { label: 'Lake Bunyonyi', href: '/regionen/lake-bunyonyi' },
+      { label: 'Inseln des Lake Bunyonyi' },
+    ],
+    publishedTime: '2026-06-24',
+    modifiedTime: '2026-06-24',
+    kurzantwort: 'Der Lake Bunyonyi besitzt 29 Inseln, die sich hauptsaechlich im mittleren Teil des 25 Kilometer langen Sees konzentrieren. Die bekanntesten sind Bwama Island mit dem historischen Lepra-Krankenhaus von 1921, Sharp Island (Njuyeera) als ehemaliger Wohnsitz des Missionars Leonard Sharp und Akampene, die sogenannte Punishment Island der Bakiga.',
+    fakten: [
+      { label: 'Inseln gesamt', value: '29' },
+      { label: 'See-Laenge', value: '25 km' },
+      { label: 'See-Breite', value: '7 km' },
+      { label: 'Lepra-Krankenhaus eroeffnet', value: '1921 (Leonard Sharp)' },
+      { label: 'Max. Patienten Bwama Island', value: 'bis zu 5.000 (1980er Jahre)' },
+      { label: 'Anreise zu den Inseln', value: 'Kanu oder Motorboot' },
+      { label: 'Quelle', value: 'Reisefuehrer Uganda 2020' },
+    ],
+    sections: [
+      {
+        id: 'ueberblick',
+        title: 'Der Lake Bunyonyi und seine Inseln im Ueberblick',
+        content: 'Der Lake Bunyonyi im Suedwesten Ugandas gilt als einer der schoensten Binnenseen Afrikas. Auf 25 Kilometern Laenge und 7 Kilometern Breite erstreckt sich sein tiefblaugruenes Wasser zwischen bewaldeten Huegeln und terrassierten Haengen der Bakiga (Quelle: Reisefuehrer Uganda 2020). Im mittleren Seebereich konzentrieren sich 29 Inseln -- manche gross genug fuer ein Resort mit Dutzenden Zimmern, andere kaum groesser als ein Felsbrocken mit ein paar Baeumen.\n\nBei unserem Besuch im Oktober 2024 haben wir die wichtigsten Inseln per Motorboot erkundet. Aus der Entfernung wirken sie wie dunkelgruene Punkte auf einer Wasserflaeche ohne sichtbaren Horizont -- der See ist so gross, dass man das gegenueberliegende Ufer kaum erkennt. Die Stimmung ist ruhig, fast meditativ. Was man von aussen nicht sieht: Hinter dieser Stille liegt eine dichte Geschichte aus Krankheit, Ausgrenzung, Hoffnung und sozialer Transformation.\n\n[BILD: Ein stiller Weg durch ein ugandisches Dorf]',
+        showPhotos: false,
+      },
+      {
+        id: 'bwama-island',
+        title: 'Bwama Island: Vom Lepra-Krankenhaus zur Schule',
+        content: 'Bwama Island ist die geschichtstraechtigste Insel des Lake Bunyonyi. Im Jahr 1921 gruendete der schottische Missionar und Arzt Leonard Sharp hier ein Krankenhaus fuer Leprapatienten -- eine humanitaere Entscheidung in einer Zeit, in der Lepra in Uganda weit verbreitet war und Betroffene gesellschaftlich vollstaendig ausgegrenzt wurden.\n\nDas Krankenhaus wuchs zur groessten Lepra-Station der Region. Auf dem Hoehepunkt der Epidemie in den 1980er Jahren zaehlte es laut Reisefuehrer Uganda 2020 bis zu 5.000 erkrankte Patienten gleichzeitig -- eine enorme Zahl fuer eine Insel dieser Groesse. Die Isolation auf Bwama Island war gewollt: Sie schuetzte die Umgebungsbevoelkerung und gab den Patienten zugleich einen Ort ausserhalb der sozialen Ausgrenzung in den Doerfern.\n\nMit der Entwicklung wirksamer Lepra-Therapien in den 1980er Jahren verliessen die Patienten Bwama Island Schritt fuer Schritt. Die Behandlung war nun ambulant moeglich -- die Isolation wurde ueberfluessig. Heute steht auf der Insel ein Schulstandort mit Internat. Kinder aus den umliegenden Bakiga-Gemeinden kommen hierher zum Lernen. Bwama Island hat sich von einem Ort der Krankheit und des Ausschlusses in einen Ort der Bildung verwandelt -- eine der bewegendsten Transformationsgeschichten am gesamten See.',
+        showPhotos: false,
+      },
+      {
+        id: 'sharp-island',
+        title: 'Sharp Island (Njuyeera): Das Erbe des Missionars als Lodge',
+        content: 'Njuyeera -- von Touristen fast ausschliesslich als Sharp Island bezeichnet -- verdankt ihren Namen dem Missionar Leonard Sharp, der das Lepra-Krankenhaus auf Bwama Island gruendete und auf dieser benachbarten Insel lebte. Das Hauptgebaeude der heutigen Sharp Island Gorilla Lodge war urspruenglich seine persoenliche Behausung (laut Reisefuehrer Uganda 2020).\n\nDie Verbindung beider Inseln ist raeumlich wie historisch eng: Bwama Island mit dem Krankenhaus liegt in direkter Sichtweite. Sharp ueberquerte regelmaessig das Wasser, um nach seinen Patienten zu sehen. Wer heute auf Sharp Island uebernachtet, schlaeft buchstaeblich in den Raeumen eines Mannes, der vor ueber 100 Jahren Menschen behandelte, die anderswo keine Aufnahme fanden.\n\nFuer Reisende, die sowohl Komfort als auch historische Tiefe suchen, ist Sharp Island eine aussergewoehnliche Wahl -- kein gesichtsloses Hotel, sondern ein Ort, an dem Geschichte greifbar ist.',
+        showPhotos: false,
+      },
+      {
+        id: 'punishment-island',
+        title: 'Akampene: Die Punishment Island der Bakiga',
+        content: 'Die kleinste bekannte Insel des Lake Bunyonyi traegt den dramatischsten Namen: Akampene, im Touristenjargon Punishment Island. Die Geschichte dieser winzigen Landzunge spiegelt die strengen sozialen Normen der Bakiga-Gesellschaft in vorkolonialer Zeit wider.\n\nMaedchen, die unverheiratet schwanger wurden, galten als Schande fuer die gesamte Familie. Als Strafe wurden sie auf Akampene ausgesetzt -- ohne Nahrung, ohne Unterstand, auf einer so kleinen Insel, dass Flucht kaum moeglich war. Einige wurden von armen Maennern gerettet, die keinen Brautpreis aufbringen konnten und die Frauen so als Ehefrauen gewannen. Viele ueberlebten nicht.\n\nDie Praxis endete in der Kolonialzeit. Heute ist Akampene vor allem ein Erinnerungsort. Viele lokale Guides erzaehlen die Geschichte differenziert -- als Zeugnis einer gesellschaftlichen Ordnung, die vergangen ist, aber als Teil der muendlichen Ueberlieferung der Bakiga bewahrt bleiben soll. Ein Kanu-Ausflug zu Akampene ist keine touristische Sensation, sondern eine Einladung zu einer ehrlichen Auseinandersetzung mit der Geschichte dieser Region.',
+        showPhotos: false,
+      },
+      {
+        id: 'unterkuenfte',
+        title: 'Unterkuenfte auf den Inseln: Lodge, Resort, Campingplatz',
+        content: 'Mehrere Inseln des Lake Bunyonyi beherbergen Unterkuenfte mit einem der stimmungsvollsten Seeblicke Ugandas. Das Angebot reicht von komfortablen Resorts bis zum guenstigen Campingplatz.\n\nDie **Arcadia Lodge** verfuegt ueber 25 moderne Cottages, alle mit Terrassen und direktem Blick auf See und Inseln. Das **Birdnest Resort Bunyonyi** ist kleiner und intimer: 15 Zimmer und sieben Cottages -- ein ruhiger Rueckzugsort abseits des Mainstreams. Das **Bunyonyi Safari Resort** ist das groesste Angebot am See: 40 Zimmer, drei Mehrbettzimmer in einem dreistoeckigen Block sowie sechs Ufer-Cottages fuer insgesamt rund 49 Schlafplaetze. Alle Angaben laut Reisefuehrer Uganda 2020.\n\nFuer Budget-Reisende bietet die **Bunyonyi Lodge Kalebas** Camping in einfachen Zelten auf Stelzen mit Holzplattform ab 30 US$ oder einen Campingplatz fuer 15 US$ pro Person. Alle Inseln sind ausschliesslich per Kanu oder Motorboot erreichbar -- die Anreise ist gleichzeitig der erste Teil des Erlebnisses.',
+        showPhotos: false,
+      },
+      {
+        id: 'kanu-tipps',
+        title: 'Kanu-Touren und praktische Tipps fuer den Inselbesuch',
+        content: 'Bwama Island, Sharp Island und Akampene lassen sich am besten im Rahmen einer gefuehrten Kanu-Tour besuchen. Lokale Guides, die die Geschichte der Bakiga kennen und erklaeren, machen den Unterschied zwischen einem reinen Bootsausflug und einem echten Verstaendnis dieser Inselwelt. Buchungen sind direkt am Ufer in Rutindo oder ueber die meisten Lodges am See moeglich.\n\nDie traditionellen Einbaeume (Dugout Canoes) der Bakiga sind noch immer das haeufigste Fortbewegungsmittel zwischen den Inseln -- langsam, ruhig und nah am Wasser. Motorboote werden vor allem von Lodge-Gaesten genutzt.\n\nEin praktischer Vorteil des Lake Bunyonyi: Er gilt als bilharziose-frei -- ein seltener Umstand unter ostafrikanischen Suessgewasserseen. Schwimmen ist damit unbedenklicher als in vielen anderen ugandischen Seen. Die beste Reisezeit deckt sich mit den ugandischen Trockenzeiten: Juni bis September und Dezember bis Februar. Bei unserem Besuch im Oktober 2024 war das Wetter angenehm, aber die Zufahrtsstrassen zum See koennen in der Regenzeit anspruchsvoll werden.',
+        showPhotos: false,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Wie viele Inseln hat der Lake Bunyonyi?',
+        a: 'Der Lake Bunyonyi besitzt 29 Inseln, die sich hauptsaechlich im mittleren Teil des Sees konzentrieren. Er ist 25 Kilometer lang und 7 Kilometer breit. Die Inseln sind per Kanu oder Motorboot erreichbar. (Quelle: Reisefuehrer Uganda 2020)',
+      },
+      {
+        q: 'Was ist die Punishment Island am Lake Bunyonyi?',
+        a: 'Akampene -- auf Englisch Punishment Island -- ist eine kleine Insel im Lake Bunyonyi. In der vorkolonialen Bakiga-Gesellschaft wurden hier unverheiratete schwangere Frauen als Strafe ausgesetzt. Die Praxis endete in der Kolonialzeit. Heute ist sie ein Erinnerungsort, der im Rahmen von Kanu-Touren besucht wird.',
+      },
+      {
+        q: 'Was hat Leonard Sharp mit dem Lake Bunyonyi zu tun?',
+        a: 'Der schottische Missionar und Arzt Leonard Sharp gruendete 1921 auf Bwama Island ein Krankenhaus fuer Leprapatienten, das auf dem Hoehepunkt bis zu 5.000 Patienten zaehlte (1980er Jahre). Sharp lebte auf der benachbarten Njuyeera-Insel, die heute als Sharp Island bekannt ist. Sein ehemaliges Wohnhaus ist heute Teil der Sharp Island Gorilla Lodge.',
+      },
+      {
+        q: 'Welche Unterkuenfte gibt es am Lake Bunyonyi?',
+        a: 'Auf den Inseln des Lake Bunyonyi liegen unter anderem die Arcadia Lodge (25 Cottages), das Birdnest Resort Bunyonyi (15 Zimmer und 7 Cottages) und das Bunyonyi Safari Resort (ca. 49 Schlafplaetze). Camping bietet die Bunyonyi Lodge Kalebas ab 15 US$ pro Person.',
+      },
+      {
+        q: 'Ist Schwimmen im Lake Bunyonyi sicher?',
+        a: 'Ja. Der Lake Bunyonyi gilt als einer der wenigen Suessgewasserseen Ostafrikas, der als bilharziose-frei eingestuft wird. Schwimmen ist damit deutlich unbedenklicher als in vielen anderen ugandischen Seen.',
+      },
+    ],
+    related: [
+      { href: '/regionen/lake-bunyonyi', title: 'Lake Bunyonyi', desc: 'Alles zum schoensten See Ugandas: Lage, Anreise, Aktivitaeten und Unterkuenfte.' },
+      { href: '/lodges-bwindi-lake-bunyonyi', title: 'Lodges Bwindi und Lake Bunyonyi', desc: 'Vergleich der besten Lodges in der Region.' },
+      { href: '/regionen/kabale', title: 'Kabale', desc: 'Die naechste Stadt zum Lake Bunyonyi als Ausgangspunkt.' },
+      { href: '/oekotourismus-uganda', title: 'Oekotourismus Uganda', desc: 'Nachhaltiger Tourismus und Community-Lodges in Uganda.' },
+    ],
+    quellen: [
+      'Reisefuehrer Uganda 2020 -- Teil 10',
+      'Eigene Besuche: Oktober 2024 (Lake Bunyonyi, Suedwest-Uganda)',
+    ],
+  },
 }

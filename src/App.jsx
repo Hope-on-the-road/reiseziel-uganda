@@ -174,6 +174,7 @@ export default function App() {
           <Route path="/gorilla-trekking-buhoma" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-trekking-buhoma" />} />
           <Route path="/gorilla-population-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-population-uganda" />} />
           <Route path="/bodaboda-buhoma" element={<StandalonePage photos={photos} clusters={clusters} pageId="bodaboda-buhoma" />} />
+          <Route path="/inseln-lake-bunyonyi" element={<StandalonePage photos={photos} clusters={clusters} pageId="inseln-lake-bunyonyi" />} />
           <Route path="/baumkletternde-loewen" element={<StandalonePage photos={photos} clusters={clusters} pageId="baumkletternde-loewen" />} />
           <Route path="/nashorn-rueckkehr-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="nashorn-rueckkehr-uganda" />} />
           <Route path="/goldene-affen-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="goldene-affen-uganda" />} />
