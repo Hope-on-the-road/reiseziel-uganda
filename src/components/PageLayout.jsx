@@ -151,7 +151,7 @@ function PhotoHero({ photo, title, subtitle, breadcrumbs }) {
       {/* Background */}
       <div className="absolute inset-0">
         {photo?.thumbnail_url ? (
-          <img src={photo.thumbnail_url} alt={title} className="w-full h-full object-cover" loading="eager" style={imgRotationStyle(photo.orientation)} />
+          <img src={photo.thumbnail_url} alt={title} className="w-full h-full object-cover" loading="eager" />
         ) : (
           <div className="w-full h-full bg-gradient-to-br from-jungle-800 via-jungle-900 to-earth-900" />
         )}
