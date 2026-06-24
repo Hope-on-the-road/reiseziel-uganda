@@ -129,6 +129,7 @@ const ROUTES = [
   '/lake-mutanda-mulehe',
   '/batwa-trail-uganda',
   '/virunga-conservation-area',
+  '/vogelbeobachten-kibale-bigodi',
   '/baumkletternde-loewen',
   '/nashorn-rueckkehr-uganda',
   '/goldene-affen-uganda',

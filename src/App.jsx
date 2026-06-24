@@ -188,6 +188,7 @@ export default function App() {
           <Route path="/lake-mutanda-mulehe" element={<StandalonePage photos={photos} clusters={clusters} pageId="lake-mutanda-mulehe" />} />
           <Route path="/batwa-trail-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="batwa-trail-uganda" />} />
           <Route path="/virunga-conservation-area" element={<StandalonePage photos={photos} clusters={clusters} pageId="virunga-conservation-area" />} />
+          <Route path="/vogelbeobachten-kibale-bigodi" element={<StandalonePage photos={photos} clusters={clusters} pageId="vogelbeobachten-kibale-bigodi" />} />
           <Route path="/baumkletternde-loewen" element={<StandalonePage photos={photos} clusters={clusters} pageId="baumkletternde-loewen" />} />
           <Route path="/nashorn-rueckkehr-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="nashorn-rueckkehr-uganda" />} />
           <Route path="/goldene-affen-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="goldene-affen-uganda" />} />
