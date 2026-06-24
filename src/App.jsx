@@ -175,6 +175,12 @@ export default function App() {
           <Route path="/gorilla-population-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-population-uganda" />} />
           <Route path="/bodaboda-buhoma" element={<StandalonePage photos={photos} clusters={clusters} pageId="bodaboda-buhoma" />} />
           <Route path="/inseln-lake-bunyonyi" element={<StandalonePage photos={photos} clusters={clusters} pageId="inseln-lake-bunyonyi" />} />
+          <Route path="/kabale-bwindi" element={<StandalonePage photos={photos} clusters={clusters} pageId="kabale-bwindi" />} />
+          <Route path="/gorilla-familien-bwindi" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-familien-bwindi" />} />
+          <Route path="/gorilla-trekking-sicherheit" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-trekking-sicherheit" />} />
+          <Route path="/lake-bunyonyi-community" element={<StandalonePage photos={photos} clusters={clusters} pageId="lake-bunyonyi-community" />} />
+          <Route path="/vulkane-mgahinga" element={<StandalonePage photos={photos} clusters={clusters} pageId="vulkane-mgahinga" />} />
+          <Route path="/kisoro" element={<StandalonePage photos={photos} clusters={clusters} pageId="kisoro" />} />
           <Route path="/baumkletternde-loewen" element={<StandalonePage photos={photos} clusters={clusters} pageId="baumkletternde-loewen" />} />
           <Route path="/nashorn-rueckkehr-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="nashorn-rueckkehr-uganda" />} />
           <Route path="/goldene-affen-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="goldene-affen-uganda" />} />

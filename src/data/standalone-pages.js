@@ -7381,4 +7381,492 @@ export const standalonePages = {
       'Eigene Besuche: Oktober 2024 (Lake Bunyonyi, Suedwest-Uganda)',
     ],
   },
+
+  'kabale-bwindi': {
+    title: 'Von Kabale nach Bwindi: Transport, Zeiten & Tipps',
+    h1: 'Von Kabale nach Bwindi Impenetrable National Park: Alle Transportoptionen',
+    subtitle: 'Rund 120 Kilometer durch den ugandischen Suedwesten — Privatfahrer, Matatu oder Shuttle? Was fuer dein Gorilla-Trekking am besten passt.',
+    slug: '/kabale-bwindi',
+    metaDescription: 'Von Kabale nach Bwindi: 120 km, 3-4 Stunden. Privatfahrer, Matatu oder Shuttle? Kosten, Fahrtzeiten und praktische Tipps fuer dein Gorilla-Trekking.',
+    breadcrumbs: [
+      { label: 'Gorilla-Trekking', href: '/gorilla-trekking' },
+      { label: 'Von Kabale nach Bwindi' },
+    ],
+    publishedTime: '2026-06-24',
+    modifiedTime: '2026-06-24',
+    kurzantwort: 'Von Kabale nach Bwindi (Buhoma-Sektor) sind es rund 120 Kilometer mit 3 bis 4 Stunden Fahrtzeit per Privatwagen. Die empfohlene Option ist ein privater Fahrer-Guide. Wer zum Mgahinga Gorilla National Park will, faehrt ueber Kisoro (75 km westlich von Kabale, ca. 2 Stunden).',
+    fakten: [
+      { label: 'Kabale → Buhoma (Bwindi)', value: '~120 km, 3-4 Std.' },
+      { label: 'Kabale → Kisoro', value: '75 km westwaerts' },
+      { label: 'Kabale → Mgahinga', value: '85 km, ca. 2 Stunden' },
+      { label: 'Nkuringo → Buhoma/Rushaga', value: 'ca. 45 Minuten' },
+      { label: 'Traeger beim Trekking', value: 'ca. 20 USD' },
+      { label: 'Mindestalter Gorilla-Trekking', value: '15 Jahre' },
+      { label: 'Quelle', value: 'Reisefuehrer Uganda 2020' },
+    ],
+    sections: [
+      {
+        id: 'ueberblick',
+        title: 'Kabale als Ausgangspunkt fuer Bwindi und Mgahinga',
+        content: 'Kabale ist die groesste Stadt im suedwestlichen Uganda und der natuerliche Ausgangspunkt fuer den Bwindi Impenetrable National Park sowie den Mgahinga Gorilla National Park. Beide Parks liegen in unterschiedlicher Richtung: Bwindi (Buhoma-Sektor) nordwestlich, Mgahinga suedwestlich ueber die Kleinstadt Kisoro.\n\nDie Strecke von Kabale nach Bwindi fuehrt durch eine der schoensten Landschaften des Landes -- terrassierte Huegel, Teegaerten, Doefer und Blicke auf den Lake Bunyonyi. Ab der Abzweigung zum Park wird die Strasse zur Lateritpiste. In der Regenzeit koennen diese Abschnitte anspruchsvoll sein.\n\n[BILD: Ranger im Regenwald waehrend Gorilla Trekking]',
+        showPhotos: false,
+      },
+      {
+        id: 'privatfahrer',
+        title: 'Privatfahrer: Die empfohlene Option',
+        content: 'Ein privater Fahrer-Guide ist fuer die meisten Reisenden die beste Wahl. Vorteile: flexible Abfahrtszeit, direkter Weg ohne Umstiege, Ortskenntnis und ein Ansprechpartner fuer die gesamte Tour. Viele Reisende buchen den Fahrer-Guide fuer die komplette Uganda-Reise -- die Strecke Kabale-Bwindi ist dann Teil des Gesamtpakets.\n\nWer den Transfer separat organisiert, kann direkt bei in Buhoma ansaessigen Touroperatoren anfragen. Frueh starten ist Pflicht: Das Gorilla-Trekking beginnt um 7:30 Uhr am Besucherzentrum. Mit 3-4 Stunden Fahrtzeit bedeutet das Abfahrt spaetestens um 3:30 bis 4:00 Uhr. Viele Reisende uebernachten deshalb die Nacht vor dem Trekking direkt in Buhoma.',
+        showPhotos: false,
+      },
+      {
+        id: 'oeffentlich',
+        title: 'Matatu: Guenstig aber aufwendig',
+        content: 'Oeffentlicher Transport ist moeglich, aber kombinationsreich. Vom Kabale-Busbahnhof fahren Matatus (Minibusse) in Richtung Ruhija und Kisoro. Die letzte Verbindung direkt nach Buhoma ist nicht immer gewaehrleistet -- oft muessen Reisende ab einem Knotenpunkt per BodaBoda weiterfahren.\n\nFuer erfahrene Rucksackreisende ist das machbar. Fuer einen Gorilla-Trekking-Tag mit Fruehstart und gebuchtem Permit empfiehlt sich jedoch ein verlasslicherer Transfer. Ein verspaeteter Anruf beim Uganda Wildlife Authority (UWA) kann das Permit verfallen lassen, ohne Rueckerstattung.',
+        showPhotos: false,
+      },
+      {
+        id: 'traeger',
+        title: 'Traeger: Lohnt sich',
+        content: 'Beim Trekking selbst kann in Buhoma am Besucherzentrum ein Traeger fuer den Tagesrucksack gebucht werden -- laut Reisefuehrer Uganda 2020 kostet das rund 20 USD pro Person. Das Gelaende im Bwindi Impenetrable Forest ist steil, rutschig und stellenweise sehr anspruchsvoll.\n\nBei unserem Gorilla-Trekking im Januar 2026 hat sich die Entscheidung fuer Ranger-Begleitung bewaehrt: Zwei bewaffnete Ranger halfen am schwierigen Aufstieg und kannten jeden Pfad. Die Atmosphaere war entspannt und professionell -- kein Gefuehl von Gefahr, sondern von sehr guter Betreuung im Wald.\n\nKinder unter 15 Jahren duerfen laut Reisefuehrer Uganda 2020 nicht am Gorilla-Trekking teilnehmen.',
+        showPhotos: false,
+      },
+      {
+        id: 'mgahinga-route',
+        title: 'Wer zum Mgahinga will: Ueber Kisoro',
+        content: 'Der Mgahinga Gorilla National Park ist von Kabale ueber Kisoro erreichbar: 75 Kilometer westlich nach Kisoro, von dort weitere 14 Kilometer suedlich zum Park -- Gesamtfahrzeit laut Reisefuehrer Uganda 2020 rund 2 Stunden fuer die 85 Kilometer.\n\nWichtig: Die Permits fuer Mgahinga koennen maximal 14 Tage im Voraus gebucht werden. Grund: Die einzige habituierte Gorilla-Familie im Mgahinga, die Nyakagezi-Gruppe, bewegt sich teilweise zwischen Uganda, Ruanda und der Demokratischen Republik Kongo. Ihre Anwesenheit im ugandischen Parkabschnitt kann nicht garantiert werden (Quelle: Reisefuehrer Uganda 2020).',
+        showPhotos: false,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Wie lange dauert die Fahrt von Kabale nach Bwindi?',
+        a: 'Von Kabale nach Bwindi (Buhoma-Sektor) dauert die Fahrt mit einem Privatwagen rund 3 bis 4 Stunden auf etwa 120 Kilometern. Per oeffentlichem Transport mit Umstiegen koennen es 4 bis 6 Stunden werden.',
+      },
+      {
+        q: 'Wie komme ich von Kabale nach Mgahinga?',
+        a: 'Von Kabale nach Mgahinga sind es laut Reisefuehrer Uganda 2020 rund 85 Kilometer ueber Kisoro mit etwa 2 Stunden Fahrtzeit. Kisoro liegt 75 Kilometer westlich von Kabale, der Park 14 Kilometer suedlich davon.',
+      },
+      {
+        q: 'Sollte ich einen Traeger beim Gorilla-Trekking buchen?',
+        a: 'Empfehlenswert, aber nicht Pflicht. Das Gelaende in Bwindi ist steil und anspruchsvoll. Traeger koennen am Besucherzentrum in Buhoma fuer rund 20 USD gebucht werden und tragen den Tagesrucksack. Das erleichtert den Aufstieg erheblich.',
+      },
+      {
+        q: 'Wie frueh muss ich von Kabale abfahren?',
+        a: 'Das Gorilla-Trekking beginnt um 7:30 Uhr. Mit 3-4 Stunden Fahrtzeit von Kabale bedeutet das Abfahrt zwischen 3:30 und 4:00 Uhr. Viele Reisende uebernachten deshalb die Nacht vor dem Trekking direkt in Buhoma.',
+      },
+    ],
+    related: [
+      { href: '/gorilla-trekking', title: 'Gorilla-Trekking Uganda', desc: 'Permits, Buchung und Vorbereitung fuer dein Gorilla-Trekking.' },
+      { href: '/gorilla-trekking-buhoma', title: 'Gorilla-Trekking Buhoma', desc: 'Kompletter Guide fuer den historischen Buhoma-Sektor.' },
+      { href: '/regionen/kabale', title: 'Kabale', desc: 'Die groesste Stadt im Suedwesten Ugandas als Ausgangspunkt.' },
+      { href: '/nationalparks/bwindi', title: 'Bwindi Impenetrable National Park', desc: 'Alles zum Bwindi -- Sektoren, Gorillas und Anreise.' },
+    ],
+    quellen: [
+      'Reisefuehrer Uganda 2020 -- Teil 10, 13',
+      'Eigene Besuche: Januar 2026 (Gorilla-Trekking Buhoma)',
+    ],
+  },
+
+  'gorilla-familien-bwindi': {
+    title: 'Gorilla-Familien in Bwindi: Die habituierten Gruppen',
+    h1: 'Die habituierten Gorilla-Familien in Bwindi: Portraets aller Trekking-Gruppen',
+    subtitle: 'Rund 400 Berggorillas, vier Sektoren, neun habituierte Familien -- wer lebt wo im Bwindi Impenetrable National Park und was macht jede Gruppe besonders?',
+    slug: '/gorilla-familien-bwindi',
+    metaDescription: 'Alle habituierten Gorilla-Familien in Bwindi: Mubare, Habinyanja, Rushegura (Buhoma), Nshongi, Mishaya, Kahungye (Rushaga), Bitukura, Oruzogo (Ruhija). Tipps fuer die Buchung.',
+    breadcrumbs: [
+      { label: 'Gorilla-Trekking', href: '/gorilla-trekking' },
+      { label: 'Gorilla-Familien Bwindi' },
+    ],
+    publishedTime: '2026-06-24',
+    modifiedTime: '2026-06-24',
+    kurzantwort: 'Im Bwindi Impenetrable National Park leben laut Reisefuehrer Uganda 2020 rund 400 Berggorillas. Fuer das Trekking habituiert und zugaenglich sind mehrere Familien in vier Sektoren: Buhoma (Mubare, Habinyanja, Rushegura), Nkuringo, Rushaga (Nshongi, Mishaya, Kahungye, Busingye, Bweza) und Ruhija (Bitukura, Oruzogo).',
+    fakten: [
+      { label: 'Berggorillas in Bwindi', value: '~400 (Reisefuehrer Uganda 2020)' },
+      { label: 'Habituierte Sektoren', value: 'Buhoma, Nkuringo, Rushaga, Ruhija' },
+      { label: 'Mindestabstand zu Gorillas', value: '7 Meter (UWA-Regelung)' },
+      { label: 'Max. Zeit bei der Gruppe', value: '1 Stunde' },
+      { label: 'Mindestalter', value: '15 Jahre' },
+      { label: 'Traegers verfuegbar', value: 'ca. 20 USD' },
+    ],
+    sections: [
+      {
+        id: 'ueberblick',
+        title: 'Bwindi: 400 Berggorillas, vier Sektoren',
+        content: 'Der Bwindi Impenetrable National Park ist mit rund 400 Berggorillas (laut Reisefuehrer Uganda 2020) das groesste Schutzgebiet fuer diese Art weltweit -- isoliert von der Virunga-Population, die sich auf die Vulkane zwischen Ruanda, Kongo und Uganda verteilt. Bwindi ist damit einzigartig: Eine eigenstaendige Gorilla-Population in einem anderen Habitat als die Virunga-Gorillas.\n\nFuer das Trekking zugaenglich sind habituierte Familien -- Gruppen, die ueber mehrere Jahre an die Anwesenheit von Menschen gewoehnt wurden und entsprechend ruhig reagieren. Der Mindestabstand betraegt 7 Meter (Uganda Wildlife Authority), die Zeit bei der Gruppe ist auf eine Stunde begrenzt.\n\n[BILD: Mountain Gorilla Peering Through Dense Forest Foliage]',
+        showPhotos: false,
+      },
+      {
+        id: 'buhoma-sektor',
+        title: 'Buhoma-Sektor: Der historische Einstieg',
+        content: 'Der Buhoma-Sektor im Norden des Parks ist der aelteste Trekking-Standort in Bwindi. Die Mubare-Gruppe war die erste habituierte Gorilla-Familie Bwindis -- die Habituierung begann in den fruehen 1990er Jahren, das offizielle Gorilla-Trekking startete 1993. Buhoma hat heute drei fuer das Trekking zugaengliche Familien: Mubare, Habinyanja und Rushegura.\n\nDer Buhoma-Sektor ist besonders zugaenglich und hat die groesste Auswahl an Unterkuenften und Infrastruktur. Das Gelaende variiert stark -- manche Trekking-Touren sind kurz (1-2 Stunden), andere fordern den vollen Tag. Bei unserem Trekking im Januar 2026 stiessen wir nach einer Stunde Wanderung auf einen Silberrücken, der hoch oben in einem Baum Blaetter frass -- ein aussergewoehnlicher Anblick, der uns alle zum Stehenbleiben brachte. Nach drei Stunden erreichten wir die groessere Gruppe -- friedlich und voellig unbeeindruckt von unserer Anwesenheit.\n\n[BILD: Berggorilla frisst Blaetter im Baumkronendach]',
+        showPhotos: false,
+      },
+      {
+        id: 'nkuringo-sektor',
+        title: 'Nkuringo-Sektor: Am westlichen Parkrand',
+        content: 'Der Nkuringo-Sektor liegt am westlichen Rand des Parks, am Hang oberhalb des Kivu-Rifts mit spektakulaeren Ausblicken in Richtung Kongo. Er ist von Buhoma und Rushaga laut Reisefuehrer Uganda 2020 etwa 45 Minuten Fahrtzeit entfernt.\n\nDas Trekking im Nkuringo-Sektor gilt als eines der kraeftezerendsden in Bwindi -- das Gelaende ist steil, und der Abstieg zurueck ist oft anspruchsvoller als der Aufstieg. Dafuer sind die Gruppen hier manchmal weniger stark frequentiert als in Buhoma. Die Nkuringo Bwindi Gorilla Lodge bietet eine Baumpflanzinitiative an, die Gaeste mit 20 USD unterstuetzen koennen (laut Reisefuehrer Uganda 2020) -- ein kleines, direktes Zeichen fuer Conservation.',
+        showPhotos: false,
+      },
+      {
+        id: 'rushaga-ruhija',
+        title: 'Rushaga und Ruhija: Die groessten Gruppen',
+        content: 'Der Rushaga-Sektor im Sueden des Parks beherbergt die meisten habituierten Familien: Nshongi (die groesste Gorilla-Familie in Bwindi), Mishaya (urspruenglich aus der Nshongi-Familie abgespalten), Kahungye, Busingye und Bweza. Fuer Reisende, die moeglichst viele Gorillas innerhalb einer Stunde erleben wollen, ist Nshongi die statistisch beste Wahl -- mehr Individuen bedeuten mehr Sichtungen.\n\nIm Ruhija-Sektor im Osten gibt es zwei habituierte Familien: Bitukura und Oruzogo. Ruhija liegt auf groesserer Hoehe als die anderen Sektoren und hat ein kuehles Klima. Das Trekking hier ist oft weniger ueberlaufen, was die Erfahrung ruhiger macht. Spezifische Gruppengroessen: [RECHERCHE NOETIG -- aktuelle UWA-Zahlen einholen].',
+        showPhotos: false,
+      },
+      {
+        id: 'welche-gruppe',
+        title: 'Welche Gruppe sollte ich buchen?',
+        content: 'Die Wahl der Gorilla-Familie haengt von deinen Prioritaeten ab: Buhoma bietet historische Bedeutung und beste Infrastruktur, Nkuringo dramatisches Gelaende mit Ausblicken, Rushaga die groessten Gruppen, Ruhija Ruhe und Hoehenklima.\n\nFuer die Buchung gilt: Permits werden ueber das Uganda Wildlife Authority (UWA) vergeben und sollten fruehzeitig reserviert werden. In der Hochsaison (Juni-September, Dezember-Februar) sind Permits Wochen im Voraus vergriffen. Alle Sektoren verlangen dasselbe Permit -- 800 USD in Bwindi (Stand 2026). Der Mindestabstand zu den Gorillas betraegt 7 Meter (UWA-Regelung). Wer sich nicht sicher ist, kann ueber einen lokalen Touroperator buchen, der auch die Sektorzuweisung optimiert.',
+        showPhotos: false,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Wie viele Gorilla-Familien gibt es in Bwindi?',
+        a: 'Im Bwindi Impenetrable National Park gibt es in den vier Sektoren Buhoma, Nkuringo, Rushaga und Ruhija insgesamt neun und mehr habituierte Gorilla-Familien: u.a. Mubare, Habinyanja, Rushegura (Buhoma), Nshongi, Mishaya, Kahungye, Busingye, Bweza (Rushaga) sowie Bitukura und Oruzogo (Ruhija).',
+      },
+      {
+        q: 'Welche Gorilla-Familie ist die beste in Bwindi?',
+        a: 'Das haengt von deinen Prioritaeten ab. Fuer groesste Gruppen: Nshongi im Rushaga-Sektor. Fuer historische Bedeutung: Mubare in Buhoma (erste habituierte Gruppe, seit 1993 zugaenglich). Fuer spektakulaere Landschaft: Nkuringo am westlichen Parkrand.',
+      },
+      {
+        q: 'Was ist der Mindestabstand zu den Gorillas?',
+        a: 'Der Mindestabstand betraegt laut Uganda Wildlife Authority (UWA) 7 Meter. Die Zeit bei der Gorilla-Familie ist auf eine Stunde begrenzt. Kinder unter 15 Jahren duerfen nicht am Trekking teilnehmen. (Quelle: Reisefuehrer Uganda 2020)',
+      },
+      {
+        q: 'Wie unterscheidet sich Bwindi von Mgahinga fuer Gorilla-Trekking?',
+        a: 'In Bwindi gibt es mehrere habituierte Familien in vier Sektoren, das Permit kostet 800 USD. In Mgahinga gibt es nur eine Familie (Nyakagezi), das Permit kostet 600 USD (450 USD Nebensaison, laut Reisefuehrer Uganda 2020). Mgahinga-Permits koennen maximal 14 Tage im Voraus gebucht werden, da die Familie grenzuebergreifend zieht.',
+      },
+    ],
+    related: [
+      { href: '/gorilla-trekking', title: 'Gorilla-Trekking Uganda', desc: 'Permits, Preise und Vorbereitung fuer das Trekking.' },
+      { href: '/gorilla-trekking-buhoma', title: 'Gorilla-Trekking Buhoma', desc: 'Kompletter Guide fuer den Buhoma-Sektor.' },
+      { href: '/nationalparks/bwindi', title: 'Bwindi Impenetrable National Park', desc: 'Alles zum Park -- Lage, Sektoren, Anreise.' },
+      { href: '/mgahinga-vs-bwindi', title: 'Mgahinga vs. Bwindi', desc: 'Vergleich beider Gorilla-Destinationen Ugandas.' },
+    ],
+    quellen: [
+      'Reisefuehrer Uganda 2020 -- Teil 11, 12',
+      'Eigene Besuche: Januar 2026 (Gorilla-Trekking Buhoma)',
+    ],
+  },
+
+  'gorilla-trekking-sicherheit': {
+    title: 'Gorilla-Trekking Sicherheit: Geschichte & aktuelle Lage',
+    h1: 'Sicherheit beim Gorilla-Trekking in Bwindi: Geschichte, Massaker 1999 und heute',
+    subtitle: 'Gorilla-Trekking in Bwindi ist heute sehr sicher -- aber das war nicht immer so. Was 1999 passierte, was sich seither veraendert hat, und was Reisende wissen muessen.',
+    slug: '/gorilla-trekking-sicherheit',
+    metaDescription: 'Ist Gorilla-Trekking in Bwindi sicher? Geschichte des Tourismus seit 1993, das Massaker 1999 und wie sich die Sicherheitslage entwickelt hat. Aktuelle Tipps.',
+    breadcrumbs: [
+      { label: 'Gorilla-Trekking', href: '/gorilla-trekking' },
+      { label: 'Sicherheit & Geschichte' },
+    ],
+    publishedTime: '2026-06-24',
+    modifiedTime: '2026-06-24',
+    kurzantwort: 'Gorilla-Trekking in Bwindi ist heute sehr sicher. Das schwerwiegendste Sicherheitsereignis war das Massaker vom Maerz 1999, bei dem Rebellen aus dem Kongo 14 Menschen toeteten. Seitdem hat Uganda das Sicherheitsprotokoll grundlegend ueberarbeitet. Bewaffnete Ranger, Kommunikationssysteme und regionale Zusammenarbeit machen Bwindi heute zu einer der ueberwachten Trekking-Destinationen Afrikas.',
+    fakten: [
+      { label: 'Gorilla-Tourismus gestartet', value: '1993 (Buhoma-Sektor)' },
+      { label: 'Massaker Bwindi', value: 'Maerz 1999' },
+      { label: 'Bewaffnete Ranger', value: 'Pflicht bei jedem Trekking' },
+      { label: 'Mindestabstand Gorillas', value: '7 Meter' },
+      { label: 'Masken Pflicht bei Krankheit', value: 'Ja (Infektionsschutz)' },
+      { label: 'Quelle', value: 'Reisefuehrer Uganda 2020 -- Teil 11' },
+    ],
+    sections: [
+      {
+        id: 'aktuelle-lage',
+        title: 'Die aktuelle Sicherheitslage: Sehr gut',
+        content: 'Gorilla-Trekking in Bwindi ist 2026 sehr sicher. Die Uganda Wildlife Authority (UWA) setzt bei jedem Trekking bewaffnete Ranger ein -- nicht als Drohkulisse, sondern als ausgebildetes Sicherheits- und Orientierungspersonal. Die Ranger kennen das Parkgelaende besser als jeden anderen und sind gleichzeitig erfahrene Wildtier-Tracker.\n\nBei unserem Trekking im Januar 2026 wurden wir von einem Guide und zwei bewaffneten Rangern begleitet. Die Waffen wirkten anfangs ungewohnt -- man erwartet das nicht auf einer Naturwanderung. Aber die Ranger waren professionell, entspannt und haben am schwierigen Aufstieg aktiv geholfen. Das Sicherheitsgefuehl im Wald war durchgehend gut.\n\n[BILD: Ranger im Regenwald waehrend Gorilla Trekking]',
+        showPhotos: false,
+      },
+      {
+        id: 'anfaenge',
+        title: 'Geschichte: Gorilla-Tourismus in Bwindi seit 1993',
+        content: 'Das offizielle Gorilla-Trekking in Bwindi begann 1993 mit der Eroeffnung des Buhoma-Sektors fuer internationale Besucher. Die Mubare-Gruppe war die erste habituierte Familie -- ein jahrelanger Prozess, bei dem Forscher die Tiere langsam an menschliche Anwesenheit gewoehnen. Uganda erkannte frueh, dass Gorilla-Tourismus ein wirtschaftlich nachhaltiger Naturschutz-Ansatz ist: Permit-Einnahmen finanzieren Ranger, Forschung und Community-Programme.\n\nBis Ende der 1990er Jahre hatte sich Bwindi als eine der aufregendsten Wildtier-Destinationen Ostafrikas etabliert. Dann aenderte sich alles.',
+        showPhotos: false,
+      },
+      {
+        id: 'massaker-1999',
+        title: 'Das Massaker von 1999: Was passierte',
+        content: 'Im Maerz 1999 drangen Rebellen der Interahamwe -- Milizen aus der Demokratischen Republik Kongo, die mit dem Voelkermord in Ruanda 1994 in Verbindung stehen -- in den Bwindi-Park ein und ueberwaeeltigten eine Gruppe von Touristen und Rangern in Buhoma. 14 Menschen wurden getoetet, darunter acht auslaendische Touristen aus Grossbritannien, Neuseeland und den USA sowie sechs ugandische Parkangestellte.\n\nDas Massaker war ein schwerer Schlag fuer den ugandischen Tourismus. Bwindi wurde fuer Monate fuer Besucher gesperrt. International wurde die Frage laut, ob Gorilla-Trekking verantwortungsvoll moeglich ist in einer Region, die so nah an einer der instabilsten Grenzen Afrikas liegt.',
+        showPhotos: false,
+      },
+      {
+        id: 'sicherheit-heute',
+        title: 'Sicherheitsprotokoll heute: Was sich veraendert hat',
+        content: 'Die ugandische Regierung reagierte auf das Massaker mit einer grundlegenden Ueberarbeitung der Sicherheitsstrategie fuer alle Nationalparks. Seither gibt es bei jedem Gorilla-Trekking bewaffnete Ranger-Begleitung als Standard-Protokoll. Kommunikationssysteme wurden ausgebaut, die Zusammenarbeit mit kongolesischen Streitkraeften und der MONUSCO-Mission intensiviert.\n\nDie Grenzregion zwischen Uganda und der DR Kongo bleibt politisch komplex -- das ist eine ehrliche Einschaetzung. Aber Bwindi selbst wird intensiv ueberwacht, und in den mehr als zwei Jahrzehnten seither gab es keine vergleichbaren Sicherheitsvorfaelle fuer Touristen im Park. Reisewarnungen des Auswaertigen Amts sollte man vor der Reise pruefen, aber Gorilla-Trekking in Bwindi ist fuer die grosse Mehrheit der Reisenden eine sichere Erfahrung.',
+        showPhotos: false,
+      },
+      {
+        id: 'regeln',
+        title: 'Verhaltensregeln: Was Reisende wissen muessen',
+        content: 'Neben der Sicherheit vor externen Bedrohungen gibt es auch Regeln zum Schutz der Gorillas selbst. Der Mindestabstand betraegt 7 Meter -- Gorillas sind anfaellig fuer menschliche Krankheiten, besonders Atemwegsinfektionen. Wer krank ist (Husten, Erkaltung, Fieber), muss eine Maske tragen oder darf nicht trekken. Die Gorillas haben Prioritaet.\n\nWeitere Regeln: keine Blitzfotografie, kein Essen oder Trinken in Anwesenheit der Gorillas, kein lautes Sprechen oder ploetzliche Bewegungen. Der Guide erklaert alle Regeln vor dem Aufbruch am Besucherzentrum. Strenge Einhaltung schuetzt sowohl Reisende als auch Tiere.',
+        showPhotos: false,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Ist Gorilla-Trekking in Bwindi sicher?',
+        a: 'Ja. Bwindi wird intensiv von der Uganda Wildlife Authority (UWA) ueberwacht. Bei jedem Trekking gibt es bewaffnete Ranger-Begleitung. Seit dem Massaker 1999 gab es keine vergleichbaren Sicherheitsvorfaelle. Das Auswaertige Amt-Reisehinweise sollten vor der Reise geprueft werden.',
+      },
+      {
+        q: 'Was war das Massaker von Bwindi 1999?',
+        a: 'Im Maerz 1999 drangen Rebellen der Interahamwe aus dem Kongo in den Bwindi-Park ein und toeteten 14 Menschen -- 8 auslaendische Touristen und 6 ugandische Parkangestellte. Das Ereignis fuehrte zur grundlegenden Ueberarbeitung des Sicherheitsprotokolls in allen ugandischen Nationalparks.',
+      },
+      {
+        q: 'Darf man trekken wenn man krank ist?',
+        a: 'Bei Erkaltung, Husten oder Fieber ist Masken-Pflicht oder Ausschluss vom Trekking vorgesehen. Gorillas sind hochgradig anfaellig fuer menschliche Atemwegserkrankungen. Die Regel schuetzt die Tiere -- und wird konsequent durchgesetzt.',
+      },
+      {
+        q: 'Warum sind Ranger beim Trekking bewaffnet?',
+        a: 'Bewaffnete Ranger gehoeren seit 1999 zum Sicherheitsstandard bei jedem Gorilla-Trekking in Bwindi. Sie sind gleichzeitig Wildtier-Tracker und erfahrene Waldguides. Die Waffen wirken auf Besucher anfangs ungewohnt -- in der Praxis sind die Ranger entspannt und professionell.',
+      },
+    ],
+    related: [
+      { href: '/gorilla-trekking', title: 'Gorilla-Trekking Uganda', desc: 'Permits, Buchung und Vorbereitung fuer das Trekking.' },
+      { href: '/gorilla-familien-bwindi', title: 'Gorilla-Familien in Bwindi', desc: 'Alle habituierten Gruppen und ihre Sektoren.' },
+      { href: '/nationalparks/bwindi', title: 'Bwindi Impenetrable National Park', desc: 'Alles zum Park -- Geschichte, Natur, Anreise.' },
+      { href: '/ranger-uganda', title: 'Ranger in Uganda', desc: 'Die Arbeit der Ranger -- zwischen Schutz und Tourismus.' },
+    ],
+    quellen: [
+      'Reisefuehrer Uganda 2020 -- Teil 11',
+      'Eigene Besuche: Januar 2026 (Gorilla-Trekking Buhoma)',
+    ],
+  },
+
+  'lake-bunyonyi-community': {
+    title: 'Lake Bunyonyi: Nachhaltiger Tourismus & Community',
+    h1: 'Nachhaltiger Tourismus am Lake Bunyonyi: Wie Reisen lokalen Gemeinden hilft',
+    subtitle: 'Am Lake Bunyonyi verbindet sich Naturschoenheit mit Community-Projekten, Eco-Camps und einem Tourismus-Modell, das direkt in die Bakiga-Gemeinden zurueckfliesst.',
+    slug: '/lake-bunyonyi-community',
+    metaDescription: 'Nachhaltiger Tourismus am Lake Bunyonyi: Bushara Island Camp, Eco-Resorts und Community-Projekte der Bakiga. Wie du als Reisender bewusst beitraegst.',
+    breadcrumbs: [
+      { label: 'Lake Bunyonyi', href: '/regionen/lake-bunyonyi' },
+      { label: 'Nachhaltiger Tourismus' },
+    ],
+    publishedTime: '2026-06-24',
+    modifiedTime: '2026-06-24',
+    kurzantwort: 'Der Lake Bunyonyi hat sich zu einem Modellstandort fuer Community-Tourismus in Uganda entwickelt. Das Bushara Island Camp ist eines der bekanntesten Beispiele: Ein Eco-Camp, das von einer lokalen Genossenschaft betrieben wird und Einnahmen direkt in Gesundheits- und Bildungsprojekte der umliegenden Bakiga-Gemeinden leitet.',
+    fakten: [
+      { label: 'Bekanntes Community-Camp', value: 'Bushara Island Camp' },
+      { label: 'See-Laenge', value: '25 km' },
+      { label: 'Inseln', value: '29' },
+      { label: 'See gilt als', value: 'bilharziose-frei' },
+      { label: 'Quelle', value: 'Reisefuehrer Uganda 2020' },
+    ],
+    sections: [
+      {
+        id: 'was-ist-community-tourismus',
+        title: 'Was ist Community-Tourismus am Lake Bunyonyi?',
+        content: 'Community-Tourismus bedeutet: Tourismuseinnahmen fliessen direkt in lokale Gemeinden -- nicht ueber Zwischenhaendler oder auslaendische Touroperatoren, sondern an die Menschen, die im und um den See leben. Am Lake Bunyonyi hat sich dieses Modell besonders gut entwickelt, weil die Bakiga-Gemeinden eng mit der Inselstruktur des Sees verbunden sind und Tourismus als Ergaenzung zur Landwirtschaft entwickeln konnten.\n\nDas Prinzip ist einfach: Wer in einem Community-Camp uebernachtet, einen lokalen Kanu-Guide bucht oder handwerkliche Produkte kauft, unterstuetzt direkt die Familien vor Ort. Das unterscheidet sich grundlegend von grossen Resort-Ketten, deren Gewinne das Land verlassen.',
+        showPhotos: false,
+      },
+      {
+        id: 'bushara-island',
+        title: 'Bushara Island Camp: Das bekannteste Eco-Camp',
+        content: 'Das Bushara Island Camp auf einer der 29 Inseln des Lake Bunyonyi gilt als eines der bekanntesten Beispiele fuer Community-Tourismus in Uganda. Das Camp wird von einer lokalen Genossenschaft betrieben -- Einnahmen fliessen in Gesundheitsversorgung, Schulprojekte und Infrastruktur der umliegenden Bakiga-Gemeinden.\n\nDas Angebot ist einfach und bewusst gehalten: Huetten und Zeltplaetze statt Luxus-Cottages, Kanus statt Motorboote, lokale Kueche statt internationales Buffet. Fuer Reisende, die aktiv in Kontakt mit ugandischem Alltagsleben kommen wollen, ist Bushara Island eine der direktesten Optionen am See. Spezifische Preise: [RECHERCHE NOETIG -- aktuelle Preisliste einholen].',
+        showPhotos: false,
+      },
+      {
+        id: 'oeko-resorts',
+        title: 'Weitere Eco-Resorts und nachhaltige Unterkuenfte',
+        content: 'Neben Bushara Island gibt es am Lake Bunyonyi weitere Unterkuenfte mit Community-Fokus. Die Arcadia Lodge, das Birdnest Resort und das Bunyonyi Safari Resort beschaeftigen lokale Mitarbeiter und beziehen Lebensmittel aus der Region. Der Unterschied liegt im Grad der direkten Community-Beteiligung: Kooperativen-betriebene Camps wie Bushara Island geben Einnahmen direkter weiter als Privatunternehmen, die nach lokalen Einkauf-Entscheidungen variieren.\n\nFuer Reisende gilt: Lokale Guides buchen statt internationale Agenturen, handwerkliche Produkte direkt bei Produzenten kaufen, und bei Unterkuenften fragen ob und wie sie Community-Projekte unterstuetzen.',
+        showPhotos: false,
+      },
+      {
+        id: 'kanu-kultur',
+        title: 'Kanu-Touren und Kulturprogramme',
+        content: 'Die traditionellen Einbaeume (Dugout Canoes) der Bakiga sind nicht nur Transportmittel -- sie sind Teil eines Kultur-Tourismus-Angebots, das am Lake Bunyonyi besonders gut entwickelt ist. Lokale Kanu-Guides erklaeren die Geschichte der Inseln, die Bakiga-Traditionen und die Bedeutung des Sees fuer die Gemeinden.\n\nKulturprogramme gibt es direkt an mehreren Orten rund um den See: traditionelle Kochkurse, Einblicke in die Terrassenbau-Technik der Bakiga, Dorfbesuche und Schulbesuche. Diese Angebote sind oft ueber die Unterkuenfte buchbar und kostet einen Bruchteil dessen, was organisierte Touren verlangen wuerden.',
+        showPhotos: false,
+      },
+      {
+        id: 'bewusst-reisen',
+        title: 'Wie man am Lake Bunyonyi bewusst reist',
+        content: 'Bewusstes Reisen am Lake Bunyonyi beginnt mit einfachen Entscheidungen: Kanu statt Motorboot waehlen, beim lokalen Markt statt im Resort-Shop einkaufen, und Guides direkt bezahlen statt ueber Vermittler.\n\nWer darueber hinaus aktiv unterstuetzen will, kann Community-Projekte direkt vor Ort ansprechen. Am Lake Bunyonyi gibt es Schulprojekte, Gesundheitsstationen und Aufforstungsinitiativen, die auf externe Unterstuetzung angewiesen sind. Fragen kostet nichts -- und direkte Gespraeche am See fuehren oft zu den ehrlichsten Einblicken in das, was wirklich benoetigt wird.',
+        showPhotos: false,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Was ist das Bushara Island Camp am Lake Bunyonyi?',
+        a: 'Das Bushara Island Camp ist ein von einer lokalen Genossenschaft betriebenes Eco-Camp auf einer der 29 Inseln des Lake Bunyonyi. Einnahmen fliessen direkt in Gesundheits- und Bildungsprojekte der umliegenden Bakiga-Gemeinden. Es gilt als eines der bekanntesten Beispiele fuer Community-Tourismus in Uganda.',
+      },
+      {
+        q: 'Wie kann ich am Lake Bunyonyi nachhaltig reisen?',
+        a: 'Lokale Guides direkt buchen statt ueber internationale Agenturen, Kanu statt Motorboot waehlen, in Community-betriebenen Unterkuenften uebernachten und handwerkliche Produkte direkt von Produzenten kaufen. Jede dieser Entscheidungen haelt Tourismuseinnahmen in der Gemeinde.',
+      },
+      {
+        q: 'Gibt es am Lake Bunyonyi Kulturprogramme?',
+        a: 'Ja. Viele Unterkuenfte bieten oder vermitteln Kanu-Touren mit Guides, traditionelle Kochkurse, Dorfbesuche und Einblicke in die Bakiga-Kultur. Diese Angebote sind oft direkt buchbar und guenstiger als organisierte Touren.',
+      },
+    ],
+    related: [
+      { href: '/regionen/lake-bunyonyi', title: 'Lake Bunyonyi', desc: 'Alles zum See: Lage, Anreise, Inseln und Unterkuenfte.' },
+      { href: '/inseln-lake-bunyonyi', title: 'Die Inseln des Lake Bunyonyi', desc: 'Bwama Island, Punishment Island und alle 29 Inseln.' },
+      { href: '/oekotourismus-uganda', title: 'Oekotourismus Uganda', desc: 'Community-Lodges und nachhaltiger Tourismus in Uganda.' },
+      { href: '/revenue-sharing-nationalparks-uganda', title: 'Revenue Sharing', desc: 'Wie Nationalpark-Einnahmen in ugandische Gemeinden zurueckfliessen.' },
+    ],
+    quellen: [
+      'Reisefuehrer Uganda 2020 -- Teil 11',
+      'Eigene Besuche: Oktober 2024 (Lake Bunyonyi)',
+    ],
+  },
+
+  'vulkane-mgahinga': {
+    title: 'Vulkane im Mgahinga: Muhavura, Gahinga & Sabinyo',
+    h1: 'Drei Vulkane im Mgahinga Gorilla National Park: Muhavura, Gahinga und Sabinyo',
+    subtitle: 'Wanderungen auf die Virunga-Vulkane in Ugandas kleinstem Nationalpark -- mit Hoehenprofilen, Vegetationszonen und allem was du fuer die Besteigung wissen musst.',
+    slug: '/vulkane-mgahinga',
+    metaDescription: 'Vulkane im Mgahinga Gorilla National Park: Muhavura (4.127m), Gahinga (3.474m), Sabinyo (3.645m). Schwierigkeitsgrade, Vegetationszonen und Buchungs-Tipps 2026.',
+    breadcrumbs: [
+      { label: 'Mgahinga Gorilla National Park', href: '/nationalparks/mgahinga' },
+      { label: 'Vulkane besteigen' },
+    ],
+    publishedTime: '2026-06-24',
+    modifiedTime: '2026-06-24',
+    kurzantwort: 'Im Mgahinga Gorilla National Park (30 km², kleinster Nationalpark Ugandas) koennen drei Virunga-Vulkane bestiegen werden: Muhavura (4.127 m, hoechster), Gahinga (3.474 m, leichtester) und Sabinyo (3.645 m, technisch anspruchsvollster). Alle Wanderungen starten am Park-HQ und erfordern einen offiziellen Guide der Uganda Wildlife Authority (UWA).',
+    fakten: [
+      { label: 'Parkgroesse Mgahinga', value: '30 km² (kleinster NP Ugandas)' },
+      { label: 'Muhavura', value: '4.127 m' },
+      { label: 'Sabinyo', value: '3.645 m' },
+      { label: 'Gahinga', value: '3.474 m' },
+      { label: 'Goldmeerkatzen-Tracking', value: '50 USD inkl. Parkeintritt und Guide' },
+      { label: 'Gorilla-Permit Mgahinga', value: '600 USD (450 USD Nebensaison)' },
+      { label: 'Quelle', value: 'Reisefuehrer Uganda 2020 -- Teil 13' },
+    ],
+    sections: [
+      {
+        id: 'mgahinga-ueberblick',
+        title: 'Mgahinga: Ugandas kleinster Nationalpark',
+        content: 'Der Mgahinga Gorilla National Park umfasst laut Reisefuehrer Uganda 2020 rund 30 Quadratkilometer -- er ist damit der kleinste Nationalpark Ugandas. Trotz seiner kompakten Groesse ist er aussergewoehnlich dicht: Drei Vulkane der Virunga-Kette, Berggorillas, Goldmeerkatzen und eine artenreiche alpine Vegetation passen sich auf engstem Raum.\n\nDer Park liegt nahe der Kleinstadt Kisoro im Suedwesten Ugandas, direkt an der Grenze zu Ruanda und der DR Kongo. Wer Mgahinga besucht, steht buchstaeblich an einem der geographisch und politisch komplexesten Punkte Ostafrikas.',
+        showPhotos: false,
+      },
+      {
+        id: 'muhavura',
+        title: 'Muhavura: Der hoechste der drei Vulkane',
+        content: 'Muhavura (4.127 m) ist der hoechste der drei ugandischen Virunga-Vulkane. Der Name bedeutet in Kinyarwanda "Wegweiser" -- der Gipfel war historisch ein Navigationspunkt fuer Reisende im gesamten Grenzgebiet. Die Besteigung ist technisch nicht schwierig, aber koerperlich anspruchsvoll: Der Aufstieg fuehrt durch Bambus-Zonen, afroalpine Heide und offene Graslandschaften. Bei klarem Wetter bietet der Gipfel Ausblicke auf die anderen Virunga-Vulkane bis nach Ruanda und Kongo.\n\nDauer und Schwierigkeit: [RECHERCHE NOETIG -- aktuelle UWA-Zeiten einholen]. Alle Wanderungen starten am Park-HQ und erfordern einen UWA-Guide.',
+        showPhotos: false,
+      },
+      {
+        id: 'gahinga',
+        title: 'Gahinga: Der zugaenglichste Vulkan',
+        content: 'Gahinga (3.474 m) ist der kleinste der drei Vulkane und gilt als zugaenglichste Option fuer Reisende mit begrenzter Wandererfahrung. Der Krater auf dem Gipfel beherbergt einen kleinen Sumpf -- ein unerwarteter Anblick nach dem Aufstieg durch alpine Vegetation.\n\nGahinga ist besonders interessant als Kombination mit Goldmeerkatzen-Tracking: Die Goldmeerkatzen (Golden Monkeys), eine bedrohte Art, leben in den Bambuswaeeldern des Parks. Ein Tracking-Permit kostet laut Reisefuehrer Uganda 2020 50 USD pro Person inklusive Parkeintritt und Guide -- eine der guenstigsten Primate-Erfahrungen in Uganda.',
+        showPhotos: false,
+      },
+      {
+        id: 'sabinyo',
+        title: 'Sabinyo: Der technisch anspruchsvollste Gipfel',
+        content: 'Sabinyo (3.645 m) ist der technisch herausforderndste der drei Vulkane. Der Name bedeutet "alte Zaehne des Alten" -- die zerklueeftete Gipfelregion mit mehreren Zacken erklaert den Namen visuell. Die Wanderung erfordert Kletterpassagen mit Leitern und Sicherungsseilen in den oberen Abschnitten.\n\nDer besondere Reiz von Sabinyo: Vom Hauptgipfel aus kann man -- mit einem Fuss in jedem -- gleichzeitig in Uganda, Ruanda und der DR Kongo stehen. Das Dreilaender-Gebiet auf 3.645 Metern ist einer der ungewoehnlichsten geographischen Punkte in ganz Afrika.',
+        showPhotos: false,
+      },
+      {
+        id: 'praktisch',
+        title: 'Buchung, Kosten und praktische Tipps',
+        content: 'Alle Vulkan-Wanderungen muessen im Voraus ueber die Uganda Wildlife Authority (UWA) oder direkt am Park-HQ gebucht werden. Ein offizieller Guide ist Pflicht -- kein Aufstieg ohne UWA-Begleitung.\n\nFuer Gorilla-Trekking im Mgahinga gilt: Das Permit kostet 600 USD pro Person (450 USD in der Nebensaison, laut Reisefuehrer Uganda 2020). Die Buchung ist maximal 14 Tage im Voraus moeglich, da die einzige habituierte Familie des Parks grenzuebergreifend zieht. Wer gezielt Gorillas sehen will und sicher gehen will, ist in Bwindi besser aufgehoben -- dort gibt es mehrere habituierte Familien und langfristige Buchungsmoeglichkeiten.',
+        showPhotos: false,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Welche Vulkane kann man im Mgahinga besteigen?',
+        a: 'Im Mgahinga Gorilla National Park koennen drei Vulkane bestiegen werden: Muhavura (4.127 m, hoechster), Sabinyo (3.645 m, technisch anspruchsvollster) und Gahinga (3.474 m, zugaenglichster). Alle Wanderungen erfordern einen UWA-Guide.',
+      },
+      {
+        q: 'Wie gross ist der Mgahinga Gorilla National Park?',
+        a: 'Der Mgahinga Gorilla National Park umfasst rund 30 Quadratkilometer und ist damit der kleinste Nationalpark Ugandas. (Quelle: Reisefuehrer Uganda 2020)',
+      },
+      {
+        q: 'Was kostet Goldmeerkatzen-Tracking im Mgahinga?',
+        a: 'Das Goldmeerkatzen-Tracking im Mgahinga Gorilla National Park kostet laut Reisefuehrer Uganda 2020 50 USD pro Person inklusive Parkeintritt und Guide. Es ist eine der guenstigsten Primate-Erfahrungen in Uganda.',
+      },
+      {
+        q: 'Kann man vom Mgahinga Gorilla-Trekking machen?',
+        a: 'Ja. Das Gorilla-Permit im Mgahinga kostet 600 USD (450 USD Nebensaison). Buchungen sind maximal 14 Tage im Voraus moeglich, da die einzige habituierte Gorilla-Familie des Parks grenzuebergreifend zwischen Uganda, Ruanda und DR Kongo zieht. (Quelle: Reisefuehrer Uganda 2020)',
+      },
+    ],
+    related: [
+      { href: '/nationalparks/mgahinga', title: 'Mgahinga Gorilla National Park', desc: 'Alles zum kleinsten Nationalpark Ugandas.' },
+      { href: '/mgahinga-vs-bwindi', title: 'Mgahinga vs. Bwindi', desc: 'Welche Gorilla-Destination passt besser zu deiner Reise?' },
+      { href: '/kisoro', title: 'Kisoro', desc: 'Die naechste Stadt zum Mgahinga -- Unterkuenfte und Anreise.' },
+      { href: '/gorilla-familien-bwindi', title: 'Gorilla-Familien in Bwindi', desc: 'Alle habituierten Gruppen im groesseren Bwindi-Park.' },
+    ],
+    quellen: [
+      'Reisefuehrer Uganda 2020 -- Teil 13',
+    ],
+  },
+
+  'kisoro': {
+    title: 'Kisoro: Ausgangspunkt im Suedwesten Ugandas',
+    h1: 'Kisoro: Die Kleinstadt am Fuss der Virunga-Vulkane',
+    subtitle: '75 Kilometer westlich von Kabale, umgeben von Vulkanen, Seen und Regenwald -- Kisoro ist der Ausgangspunkt fuer Mgahinga, Gorilla-Trekking und Vulkan-Wanderungen.',
+    slug: '/kisoro',
+    metaDescription: 'Kisoro im Suedwesten Ugandas: Ausgangspunkt fuer Mgahinga, 75 km von Kabale. Unterkuenfte, Anreise und Ausfluege zu Vulkanen, Mutanda-See und Bwindi.',
+    breadcrumbs: [
+      { label: 'Regionen', href: '/regionen' },
+      { label: 'Kisoro' },
+    ],
+    publishedTime: '2026-06-24',
+    modifiedTime: '2026-06-24',
+    kurzantwort: 'Kisoro liegt 75 Kilometer westlich von Kabale im aeussersten Suedwesten Ugandas, umgeben von den Virunga-Vulkanen. Die Kleinstadt ist der wichtigste Ausgangspunkt fuer den Mgahinga Gorilla National Park (14 km suedlich) und ein alternativer Ausgangspunkt fuer das Bwindi-Trekking.',
+    fakten: [
+      { label: 'Entfernung von Kabale', value: '75 km westwaerts' },
+      { label: 'Entfernung Mgahinga', value: '14 km suedlich' },
+      { label: 'Hoehenlage', value: 'ca. 1.800-1.900 m' },
+      { label: 'Sehenswuerdigkeit', value: 'Lake Mutanda, Virunga-Vulkane' },
+      { label: 'Quelle', value: 'Reisefuehrer Uganda 2020 -- Teil 13' },
+    ],
+    sections: [
+      {
+        id: 'lage',
+        title: 'Lage und Charakter der Stadt',
+        content: 'Kisoro liegt im Dreilaender-Winkel zwischen Uganda, Ruanda und der Demokratischen Republik Kongo. Die Stadt befindet sich auf rund 1.800 bis 1.900 Metern Hoehe -- kuehl, gruenpflanzenreich, mit direktem Blick auf die Vulkane der Virunga-Kette. Was von aussen wie eine Durchgangsstation wirkt, ist in Wirklichkeit ein funktionierender Marktort mit eigenem Charakter.\n\nKisoro ist 75 Kilometer westlich von Kabale gelegen (laut Reisefuehrer Uganda 2020). Wer von Kampala anreist, faehrt entweder ueber Kabale oder auf der direkten Route ueber Ntungamo. Der Mgahinga Gorilla National Park liegt 14 Kilometer suedlich von Kisoro.',
+        showPhotos: false,
+      },
+      {
+        id: 'unterkuenfte',
+        title: 'Unterkuenfte in Kisoro',
+        content: 'Kisoro hat ein wachsendes Angebot an Unterkuenften, das sich vor allem auf Gorilla-Trekking-Touristen ausrichtet. Es gibt einfache Guesthouses in der Innenstadt sowie komfortablere Lodges am Stadtrand mit Blick auf die Vulkane.\n\nSpezifische Hotel-Empfehlungen: [RECHERCHE NOETIG -- aktuelle Unterkuenfte und Preise einholen]. Fuer Reisende, die frueh zum Mgahinga-Trekking starten muessen, ist eine Uebernachtung in Kisoro sinnvoll -- der Park liegt nur 20 bis 30 Minuten entfernt.',
+        showPhotos: false,
+      },
+      {
+        id: 'markt-alltag',
+        title: 'Markt und lokales Leben',
+        content: 'Kisoro hat einen lebhaften Wochenmarkt, der das wirtschaftliche Zentrum der Region ist. Haendler aus den umliegenden Doerfern, aber auch aus dem Grenzgebiet Ruanda und Kongo kommen hierher. Das Warenangebot reicht von Lebensmitteln und Gewuerzen bis zu Handwerk und Kleidung.\n\nDie kleinen Laeden entlang der Hauptstrasse aehneln denen in anderen ugandischen Kleinststaedten: oft nur 15 bis 20 Quadratmeter gross, mit Grundversorgungsmitteln und lokalen Produkten. Frauen sind haeufig die Inhaberinnen -- ein Muster, das sich in der ganzen Region beobachten laesst und das lokale wirtschaftliche Empowerment widerspiegelt.\n\n[BILD: Kleiner Laden in Buhoma: Alltaegliches Geschaeftsleben]',
+        showPhotos: false,
+      },
+      {
+        id: 'ausfluege',
+        title: 'Ausfluege von Kisoro: Vulkane, Seen und Bwindi',
+        content: 'Von Kisoro aus lassen sich mehrere Tages- und Halbtagesausfluege unternehmen:\n\n**Mgahinga Gorilla National Park** (14 km, 20-30 Minuten): Gorilla-Trekking, Goldmeerkatzen-Tracking (50 USD, Reisefuehrer Uganda 2020), Vulkan-Wanderungen auf Muhavura, Gahinga und Sabinyo.\n\n**Lake Mutanda**: Ein kleiner Kratersee in der Naehe von Kisoro mit schoenen Ausblicken auf die Vulkane. Kanu-Touren sind buchbar.\n\n**Bwindi (Nkuringo-Sektor)**: Von Kisoro aus ist der Nkuringo-Sektor des Bwindi Impenetrable National Park erreichbar -- alternative Route fuer Reisende, die beide Gorilla-Destinationen kombinieren wollen.',
+        showPhotos: false,
+      },
+      {
+        id: 'anreise',
+        title: 'Anreise nach Kisoro',
+        content: 'Von Kabale nach Kisoro: 75 Kilometer westwaerts, Fahrtzeit mit Privatwagen rund 1,5 bis 2 Stunden. Matatus (Minibusse) fahren regelmaessig zwischen beiden Staedten.\n\nVon Kampala: Die Direktstrecke ueber Ntungamo und Kabale dauert 7 bis 8 Stunden mit Privatwagen. Inlandsfluge nach Kisoro gibt es -- [RECHERCHE NOETIG: aktuelle Flugverbindungen pruefen, da Kleinflugplaetze in Uganda variierende Verbindungen haben]. Wer Zeit hat, ist mit Privatfahrer durch die Hugellandschaft des suedwestlichen Uganda besser bedient als mit dem Flug.',
+        showPhotos: false,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Wie weit ist Kisoro von Kabale entfernt?',
+        a: 'Kisoro liegt 75 Kilometer westlich von Kabale mit einer Fahrtzeit von rund 1,5 bis 2 Stunden per Privatwagen oder Matatu. (Quelle: Reisefuehrer Uganda 2020)',
+      },
+      {
+        q: 'Welche Sehenswuerdigkeiten gibt es in Kisoro?',
+        a: 'Kisoro ist vor allem Ausgangspunkt: Mgahinga Gorilla National Park (14 km suedlich), Lake Mutanda fuer Kanu-Touren, und der Nkuringo-Sektor des Bwindi-Parks. Die Stadt selbst hat einen lebhaften Wochenmarkt und Blicke auf die Virunga-Vulkane.',
+      },
+      {
+        q: 'Kann ich Gorilla-Trekking von Kisoro aus machen?',
+        a: 'Ja, auf zwei Arten: Direkt vom Mgahinga Gorilla National Park (14 km suedlich, Permit 600 USD) oder vom Nkuringo-Sektor des Bwindi-Parks (etwas weiter, Permit 800 USD). Fuer Mgahinga sind Permits maximal 14 Tage im Voraus buchbar.',
+      },
+    ],
+    related: [
+      { href: '/nationalparks/mgahinga', title: 'Mgahinga Gorilla National Park', desc: 'Gorillas, Goldmeerkatzen und Vulkane suedlich von Kisoro.' },
+      { href: '/vulkane-mgahinga', title: 'Vulkane im Mgahinga', desc: 'Muhavura, Gahinga und Sabinyo besteigen.' },
+      { href: '/regionen/kabale', title: 'Kabale', desc: 'Die groesste Stadt im Suedwesten als Ausgangspunkt.' },
+      { href: '/kabale-bwindi', title: 'Von Kabale nach Bwindi', desc: 'Transport und Tipps fuer die Strecke zu den Gorillas.' },
+    ],
+    quellen: [
+      'Reisefuehrer Uganda 2020 -- Teil 13',
+    ],
+  },
 }
