@@ -6,6 +6,14 @@ import Head from './seo/Head.jsx'
 import { ArticleJsonLd, FaqJsonLd, BreadcrumbJsonLd, TouristDestinationJsonLd, RecipeJsonLd } from './seo/JsonLd.jsx'
 import MistyPartner from './MistyPartner.jsx'
 
+function imgRotationStyle(orientation) {
+  if (!orientation) return {}
+  if (orientation.includes('(90)')) return { transform: 'rotate(90deg)' }
+  if (orientation.includes('(270)')) return { transform: 'rotate(-90deg)' }
+  if (orientation.includes('(180)')) return { transform: 'rotate(180deg)' }
+  return {}
+}
+
 function Breadcrumb({ items }) {
   return (
     <nav aria-label="Breadcrumb" className="mb-6 sm:mb-8">
@@ -143,7 +151,7 @@ function PhotoHero({ photo, title, subtitle, breadcrumbs }) {
       {/* Background */}
       <div className="absolute inset-0">
         {photo?.thumbnail_url ? (
-          <img src={photo.thumbnail_url} alt={title} className="w-full h-full object-cover" loading="eager" />
+          <img src={photo.thumbnail_url} alt={title} className="w-full h-full object-cover" loading="eager" style={imgRotationStyle(photo.orientation)} />
         ) : (
           <div className="w-full h-full bg-gradient-to-br from-jungle-800 via-jungle-900 to-earth-900" />
         )}
@@ -211,6 +219,7 @@ function PhotoGallery({ photos, maxItems = 6 }) {
             alt={photoAlt(photo)}
             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
             loading="lazy"
+            style={imgRotationStyle(photo.orientation)}
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
           {photo.title && (
@@ -239,6 +248,7 @@ function FullWidthPhotoStrip({ photos }) {
               alt={photoAlt(photo)}
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
               loading="lazy"
+              style={imgRotationStyle(photo.orientation)}
             />
             <div className="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors duration-500" />
           </div>
