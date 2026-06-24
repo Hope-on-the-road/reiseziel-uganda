@@ -49,6 +49,8 @@ const LINK_RULES = [
   { pattern: /Vogelbeobacht(?:en|ung)\s+(?:bei|im)\s+Kibale/gi, path: '/vogelbeobachten-kibale-bigodi' },
   { pattern: /Katonga\s+Wildlife\s+Reserve/gi, path: '/vogelbeobachten-kibale-bigodi' },
   { pattern: /Mabira\s+Forest/gi, path: '/mabira-forest-voegel' },
+  { pattern: /Bushara\s+Island\s+Camp/gi, path: '/bushara-island-camp' },
+  { pattern: /\bLBDC\b/gi, path: '/bushara-island-camp' },
   { pattern: /Grenzen?\s+(?:Uganda[s]?\s+(?:zu|nach|in|Richtung)\s+)?(?:Ruanda|Kongo)/gi, path: '/grenzen-uganda-ruanda-kongo' },
   { pattern: /\bCyanika\b/gi, path: '/grenzen-uganda-ruanda-kongo' },
   { pattern: /\bBunagana\b/gi, path: '/grenzen-uganda-ruanda-kongo' },

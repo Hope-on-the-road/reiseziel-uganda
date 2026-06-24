@@ -8632,6 +8632,116 @@ export const standalonePages = {
     ],
   },
 
+  'bushara-island-camp': {
+    title: 'Bushara Island Camp: Eco-Resort am Lake Bunyonyi',
+    h1: 'Bushara Island Camp am Lake Bunyonyi — nachhaltiges Reisen mit Gemeinschaftsnutzen',
+    subtitle: 'Das von der NGO LBDC gefuehrte Eco-Resort auf einer Insel im Lake Bunyonyi unterstuetzt Gemeinden durch Agrarforstwirtschaft und Handwerkskooperationen',
+    slug: '/bushara-island-camp',
+    metaDescription: 'Bushara Island Camp am Lake Bunyonyi: Eco-Resort der NGO LBDC, nachhaltiger Tourismus, Gemeinschaftsprojekte. Praktische Infos & Anreise 2026.',
+    breadcrumbs: [
+      { label: 'Startseite', href: '/' },
+      { label: 'Unterkuenfte', href: '/unterkunft-uganda' },
+      { label: 'Bushara Island Camp', href: '/bushara-island-camp' },
+    ],
+    publishedTime: '2026-06-25T00:00:00Z',
+    modifiedTime: '2026-06-25T00:00:00Z',
+    kurzantwort: 'Das Bushara Island Camp ist ein Eco-Resort auf einer Insel im Lake Bunyonyi im suedwestlichen Uganda. Es wird von der lokalen NGO LBDC (Lake Bunyonyi Development Company) betrieben. Die Gewinne fliessen direkt in Gemeinschaftsprojekte: Agrarforstwirtschaft und Handwerkskooperationen fuer die Anrainergemeinden. Das Camp ist eine der bekanntesten Adressen fuer nachhaltigen Tourismus am Bunyonyi und verbindet Naturerlebnis mit echter lokaler Wirkung.',
+    fakten: [
+      { label: 'Betreiber', value: 'LBDC (Lake Bunyonyi Development Company), lokale NGO' },
+      { label: 'Lage', value: 'Insel im Lake Bunyonyi, suedwestliches Uganda' },
+      { label: 'Nachhaltigkeit', value: 'Gewinne fuer Agrarforstwirtschaft und Handwerkskooperationen' },
+      { label: 'See-Hoehe', value: '1.950 Meter ueber dem Meeresspiegel' },
+      { label: 'Vogelarten am See', value: 'ueber 200 (Quelle: Reisefuehrer Uganda 2020)' },
+      { label: 'Abstand Kabale', value: 'ca. 10 km westlich (Rutinda als Startpunkt, 9 km ab Kabale)' },
+      { label: 'Abstand Kisoro', value: 'ca. 40 km oestlich (Quelle: Reisefuehrer Uganda 2020)' },
+      { label: 'Preis', value: '[RECHERCHE NOETIG: aktuelle Preise 2026 beim Camp direkt erfragen]' },
+    ],
+    sections: [
+      {
+        heading: 'Was ist das Bushara Island Camp?',
+        paragraphs: [
+          'Das Bushara Island Camp liegt auf einer der 29 Inseln im Lake Bunyonyi im suedwestlichen Uganda. Es ist kein gewoehnliches Urlaubsresort — es wird von der lokalen NGO LBDC (Lake Bunyonyi Development Company) betrieben, einem Zusammenschluss aus lokalen Gemeindevertretern und Naturschutzaktivisten. Was das Camp von anderen Unterkuenften am See unterscheidet: Die wirtschaftlichen Erloes aus dem Tourismusbetrieb gehen nicht an externe Investoren, sondern fliessen direkt in Gemeindeprojekte. Konkret: Agrarforstwirtschaft fuer Kleinbauern in der Region und Handwerkskooperationen, die lokalen Handwerkerinnen einen strukturierten Markt bieten (Quelle: Reisefuehrer Uganda 2020, Teil 11).',
+          'Das Modell ist kein Marketing-Konzept, sondern strukturell verankert. Die LBDC ist Eigentuemerin und Betreiberin. Wer in Bushara uebernachtet, subventioniert im woertlichen Sinne die landwirtschaftliche Entwicklung der Region und den Aufbau von Frauenkooperativen. Das ist der Unterschied zu Hotels, die "Community-Tourismus" als Schlagwort nutzen, ohne institutionelle Verankerung.',
+          '[ZITAT: LBDC-Mitarbeiter oder Gaestefuehrerin ueber den Zusammenhang zwischen Toerismus und Gemeinschaft am Bunyonyi]',
+        ],
+      },
+      {
+        heading: 'Der Lake Bunyonyi — der See hinter dem Camp',
+        paragraphs: [
+          'Der Lake Bunyonyi liegt rund 10 Kilometer westlich von Kabale auf 1.950 Metern Hoehe. Sein Name stammt aus der Bakiga-Sprache und bedeutet "Ort der vielen kleinen Voegel" — laut Reisefuehrer Uganda 2020 (Teil 10) sind tatsaechlich ueber 200 Vogelarten am See beheimatet. Der See ist einer der wenigen in Ostafrika, an denen Baden als vergleichsweise sicher gilt: Sein hoher Mineralsalzgehalt macht ihn nahezu bilharziose-frei.',
+          'Der Bunyonyi hat 29 Inseln. Manche sind bewohnt, andere beheimaten Lodges und Camps, eine (Akampene) ist als "Punishment Island" historisch bekannt — dort wurden unverheiratete Schwaengere einst ausgesetzt. Diese Geschichte ist Teil des kulturellen Gedaechtnisses der Bakiga und wird von manchen Guides bei Seenrundfahrten erklaert.',
+          'Die Wassertemperatur liegt trotz der Hoehenlage bei angenehmen 20 Grad Celsius. Morgens liegt oft Nebel ueber dem Wasser, der sich gegen 9 Uhr lichtet — einer der szenischsten Momente am Bunyonyi. Aktivitaeten am See umfassen Kajak-Trekking (1 bis 5 Tage), Wanderungen auf Huegel, Vogelbeobachtung und Besuche in lokalen Homestays (Quelle: Reisefuehrer Uganda 2020, Teil 10).',
+        ],
+      },
+      {
+        heading: 'Das LBDC-Modell: Wie Tourismus lokale Entwicklung traegt',
+        paragraphs: [
+          'Der Bunyonyi-Bereich ist eine der dichtbevoelkerten Regionen Ugandas. Agrarflaechenangebot und Bevoelkerungswachstum stehen in einem strukturellen Spannungsverhaeltnis. Die LBDC setzt hier an: Agrarforstwirtschaft — die Kombination von Baumpflanzung und landwirtschaftlicher Nutzung — verbessert Bodenfruchtbarkeit, schuetzt Hanglagen vor Erosion und schafft langfristige Einkommensquellen. Der Tourismus am Bushara Island Camp finanziert diese Programme mit.',
+          'Handwerkskooperationen — meist von Frauen betrieben — stellen lokale Textilien, Koerbe und Holzarbeiten her. Wer im Camp einkauft, unterstuetzt direkt diesen Wirtschaftskreislauf. [RECHERCHE NOETIG: aktuelle Liste der Kooperationen und Produkte direkt beim LBDC erfragen]',
+          'Das Konzept hat Modellcharakter fuer andere Regionen Ugandas. Es zeigt, dass Tourismus nicht nur Umwelt belastet (Infrastruktur, Abfall, Bootsbetrieb), sondern strukturell als Finanzierungsquelle fuer Naturschutz und Gemeindeentwicklung eingebaut werden kann. Oekoturist und Sozialinvestor fallen hier in einer Buchung zusammen.',
+          '[BILD: Lokale Haendlerin in ihrem kleinen Laden in Buhoma]',
+        ],
+      },
+      {
+        heading: 'Was erwartet Gaeste im Camp',
+        paragraphs: [
+          'Das Bushara Island Camp liegt auf einer Insel — die An- und Abreise erfolgt per Boot, was schon der erste Teil des Erlebnisses ist. Der See bei Sonnenaufgang, die Stille auf dem Wasser, das Vogelkonzert aus den Uferbueqschen: Diese Details rechtfertigen das Eco-Camp-Konzept gegenueber modernen Lodges am Festland.',
+          'Unterkunftsform und Komfortstandard sollten direkt beim Camp angefragt werden — das Angebot reicht je nach aktueller Belegung von Campingpltzen bis zu einfachen Bandas (Rundhaeusern). [RECHERCHE NOETIG: aktuelles Unterkunftsangebot, Preise, Verfuegbarkeit direkt beim LBDC anfragen]. Das Camp ist nicht fuer Reisende gedacht, die gehobenen Komfort erwarten — es ist fuer Menschen, die bewusst einfach reisen und wissen wollen, wohin ihr Geld fliesst.',
+          'Aktivitaeten von der Insel aus: Kajak-Touren zu benachbarten Inseln, geluehrte Vogelbeobachtung, Besuche in Gemeinschaftsprojekten der LBDC. [ZITAT: Guide im Camp ueber die beliebteste Aktivitaet bei deutschsprachigen Gaesten]',
+        ],
+      },
+      {
+        heading: 'Nachhaltiger Tourismus in Uganda: Einordnung',
+        paragraphs: [
+          'Uganda hat eine starke Tradition im Community-Tourismus — aber nicht alle Angebote halten, was sie versprechen. Das Bushara Island Camp ist eines der gut dokumentierten Beispiele, bei dem die NGO-Struktur tatsaechlich Eigentuemerin ist. Das unterscheidet es von Modellen, bei denen westliche Investoren eine "Community Lodge" bauen und den lokalen Gemeinden einen Prozentsatz der Gewinne auszahlen.',
+          'Vergleichbare Ansaetze gibt es in Uganda: das Batwa-Programm im Mgahinga Gorilla Nationalpark, das Ride 4 a Woman-Programm in Bwindi, das Iby\' Iwacu Village in Ruanda nahe dem Volcanoes National Park. Jedes dieser Modelle hat andere Staerken und Schwaechen — was sie eint, ist der Anspruch, Tourismus als Entwicklungswerkzeug zu nutzen und nicht als Extractionsmechanismus.',
+          'Fuer Reisende, die in Uganda bewusst entscheiden wollen wo ihr Geld bleibt, sind diese Angebote aktiv zu bevorzugen gegenueber internationalen Hotelketten. Das Geld fuer eine Nacht im Bushara Island Camp bleibt in der Region Bunyonyi.',
+        ],
+      },
+      {
+        heading: 'Anreise nach Rutinda und zum Camp',
+        paragraphs: [
+          'Rutinda liegt 9 Kilometer von Kabale entfernt und ist der wichtigste Ausgangspunkt fuer Besucher des Lake Bunyonyi (Quelle: Reisefuehrer Uganda 2020, Teil 10). Ab Rutinda geht es per Boot weiter zur jeweiligen Insel — das Bushara Island Camp ist per Motorboot oder Einbaum erreichbar. Fahrtzeit: abhaengig von der Insellage, in der Regel 10 bis 30 Minuten.',
+          'Kabale erreicht man aus Kampala auf rund 400 Kilometern asphaltierter Strasse ueber Mbarara in 6 bis 7 Stunden. Ab Kabale bringt ein Special Hire (Mietwagen) oder Boda-Boda dich nach Rutinda. Die Entfernung von Kisoro betraegt laut Reisefuehrer Uganda 2020 (Teil 10) rund 40 Kilometer in oestlicher Richtung — wer also nach dem Gorilla-Trekking im Mgahinga entspannen moechte, hat eine kurze Weiterfahrt.',
+          'Kabale liegt auf 1.867 Metern Hoehe (Quelle: Reisefuehrer Uganda 2020, Teil 10) — morgens und abends kann es spuerbar kuehl werden. Einen Pullover im Gepaeck ist auch in der Trockenzeit sinnvoll.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Was ist das Bushara Island Camp und wer betreibt es?',
+        a: 'Das Bushara Island Camp ist ein Eco-Resort auf einer der 29 Inseln im Lake Bunyonyi im suedwestlichen Uganda. Es wird von der lokalen NGO LBDC (Lake Bunyonyi Development Company) betrieben. Die Gewinne des Camps fliessen in Gemeinschaftsprojekte: Agrarforstwirtschaft und Handwerkskooperationen fuer die Anrainergemeinden (Quelle: Reisefuehrer Uganda 2020, Teil 11).',
+      },
+      {
+        q: 'Wie kommt man zum Bushara Island Camp?',
+        a: 'Ausgangspunkt ist Rutinda, 9 Kilometer von Kabale entfernt (Quelle: Reisefuehrer Uganda 2020). Ab Rutinda geht es per Boot zur Insel. Kabale ist aus Kampala in 6 bis 7 Stunden auf asphaltierter Strasse erreichbar. Von Kisoro (nach Gorilla-Trekking im Mgahinga) sind es rund 40 Kilometer nach Osten zum See.',
+      },
+      {
+        q: 'Was macht das Bushara Island Camp zu einem nachhaltigen Reiseziel?',
+        a: 'Die institutionelle Struktur: Die LBDC ist Eigentuemerin und Betreiberin — keine externe Investorenstruktur mit Community-Prozentsatz. Einnahmen gehen direkt in Agrarforstwirtschaftsprogramme (Bodenverbesserung, Erosionsschutz) und Handwerkskooperationen. Wer bucht, unterstuetzt aktiv die lokale Gemeinschaft.',
+      },
+      {
+        q: 'Kann man im Lake Bunyonyi schwimmen?',
+        a: 'Ja. Der Lake Bunyonyi gilt als nahezu bilharziose-frei dank seines hohen Mineralsalzgehalts, der den fuer Bilharziose verantwortlichen Suesswasserschnecken kaum Lebensraum bietet. Die Wassertemperatur liegt bei angenehmen 20 Grad Celsius. Baden ist eine der Attraktionen des Sees — an einem der wenigen grossen Seen Ostafrikas, an denen das moeglich ist.',
+      },
+      {
+        q: 'Welche Aktivitaeten gibt es am Lake Bunyonyi?',
+        a: 'Kajak-Trekking (1 bis 5 Tage), Wanderungen auf umliegende Huegel, Vogelbeobachtung (ueber 200 Arten), Besuche in lokalen Homestays und Gemeinschaftsprojekten. Auch Jet-Skiing und Quad-Biking werden am See angeboten (Quelle: Reisefuehrer Uganda 2020, Teil 10). Das Bushara Island Camp organisiert gefuehrte Touren zu Nachbarinseln.',
+      },
+    ],
+    related: [
+      { href: '/regionen/lake-bunyonyi', title: 'Lake Bunyonyi', desc: 'Ueberblick ueber den gesamten See — Inseln, Unterkuenfte, Anreise.' },
+      { href: '/oekotourismus-uganda', title: 'Oekotourismus Uganda', desc: 'Nachhaltiger Tourismus in Uganda — Projekte und Modelle.' },
+      { href: '/community-tourismus-bwindi', title: 'Community-Tourismus in Bwindi', desc: 'Ride 4 a Woman und andere Gemeinschaftsprojekte in Bwindi.' },
+      { href: '/inseln-lake-bunyonyi', title: 'Inseln im Lake Bunyonyi', desc: 'Die 29 Inseln des Sees — von bewohnten Fischerinseln bis zu Lodge-Inseln.' },
+      { href: '/regionen/kabale', title: 'Kabale', desc: 'Ausgangspunkt fuer den Lake Bunyonyi — Stadt und Umgebung.' },
+    ],
+    quellen: [
+      'Reisefuehrer Uganda 2020 -- Teil 11 (Bushara Island Camp, LBDC)',
+      'Reisefuehrer Uganda 2020 -- Teil 10 (Lake Bunyonyi, Rutinda, Kabale, Entfernungen)',
+    ],
+  },
+
   'grenzen-uganda-ruanda-kongo': {
     title: 'Uganda-Grenzen Ruanda & Kongo: Visa und Einreise',
     h1: 'Grenzuebergaenge im suedwestlichen Uganda: Ruanda und DR Kongo',

@@ -181,6 +181,7 @@ const ROUTES = [
   '/zoonosen-wildlife-uganda',
   '/illegaler-holzeinschlag-uganda',
   '/wildlife-crime-terrorismus-uganda',
+  '/bushara-island-camp',
   '/grenzen-uganda-ruanda-kongo',
   '/packliste-gorilla-tracking-uganda',
   '/hotel-ruanda-geschichte-kigalis',
