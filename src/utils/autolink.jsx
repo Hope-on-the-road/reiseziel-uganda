@@ -49,6 +49,7 @@ const LINK_RULES = [
   { pattern: /Vogelbeobacht(?:en|ung)\s+(?:bei|im)\s+Kibale/gi, path: '/vogelbeobachten-kibale-bigodi' },
   { pattern: /Katonga\s+Wildlife\s+Reserve/gi, path: '/vogelbeobachten-kibale-bigodi' },
   { pattern: /Mabira\s+Forest/gi, path: '/mabira-forest-voegel' },
+  { pattern: /Packliste\s+(?:fuer\s+)?(?:das\s+)?Gorilla[\s-]Trekking/gi, path: '/packliste-gorilla-tracking-uganda' },
   { pattern: /H[oô]tel\s+(?:des\s+Mille\s+Collines|Ruanda)/gi, path: '/hotel-ruanda-geschichte-kigalis' },
   { pattern: /Mille\s+Collines/gi, path: '/hotel-ruanda-geschichte-kigalis' },
   { pattern: /\bKigali\b/gi, path: '/hotel-ruanda-geschichte-kigalis' },

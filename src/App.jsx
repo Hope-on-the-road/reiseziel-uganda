@@ -240,6 +240,7 @@ export default function App() {
           <Route path="/zoonosen-wildlife-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="zoonosen-wildlife-uganda" />} />
           <Route path="/illegaler-holzeinschlag-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="illegaler-holzeinschlag-uganda" />} />
           <Route path="/wildlife-crime-terrorismus-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="wildlife-crime-terrorismus-uganda" />} />
+          <Route path="/packliste-gorilla-tracking-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="packliste-gorilla-tracking-uganda" />} />
           <Route path="/hotel-ruanda-geschichte-kigalis" element={<StandalonePage photos={photos} clusters={clusters} pageId="hotel-ruanda-geschichte-kigalis" />} />
           <Route path="/ruanda/:pageId" element={<RuandaPage photos={photos} clusters={clusters} />} />
           <Route path="/akagera-nationalpark" element={<Navigate to="/ruanda/akagera-nationalpark" replace />} />

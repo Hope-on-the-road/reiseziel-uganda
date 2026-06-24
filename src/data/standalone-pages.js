@@ -8632,6 +8632,141 @@ export const standalonePages = {
     ],
   },
 
+  'packliste-gorilla-tracking-uganda': {
+    title: 'Packliste Gorilla-Trekking Uganda 2026 — was du brauchst',
+    h1: 'Packliste fuer das Gorilla-Trekking in Uganda: Was du wirklich brauchst',
+    subtitle: 'Kleidung, Ausruestung, Kamera und Dokumente — komplett und aus eigener Erfahrung',
+    slug: '/packliste-gorilla-tracking-uganda',
+    metaDescription: 'Packliste Gorilla-Trekking Uganda 2026: Kleidung, Schuhe, Kamera, Permit. Aus eigener Erfahrung in Bwindi — nichts vergessen, nichts schleppen.',
+    breadcrumbs: [
+      { label: 'Startseite', href: '/' },
+      { label: 'Gorilla-Trekking', href: '/gorilla-trekking' },
+      { label: 'Packliste Gorilla-Trekking', href: '/packliste-gorilla-tracking-uganda' },
+    ],
+    publishedTime: '2026-06-25T00:00:00Z',
+    modifiedTime: '2026-06-25T00:00:00Z',
+    kurzantwort: 'Fuer das Gorilla-Trekking in Uganda brauchst du vor allem festes, knoechelshohes Schuhwerk, langaermelige Kleidung in dunklen Erdfarben, Handschuhe gegen Brennnesseln, einen leichten Tagesrucksack und genuegend Wasser. Das Gelaende im Bwindi Impenetrable National Park ist steil und rutschig — ein Wanderstock ist keine optionale Ausruestung, sondern echte Hilfe. Das Permit und einen ausgefuellten Gesundheitsfragebogen am Vortag bereitstellen.',
+    fakten: [
+      { label: 'Mindestabstand zu Gorillas', value: '7 Meter (UWA-Regelung)' },
+      { label: 'Trekkingdauer', value: '1 bis 8 Stunden je nach Familienposition' },
+      { label: 'Permit Preis (Bwindi)', value: '[AKTUALISIERUNG NOETIG — Preis pruefe vor Buchung bei UWA]' },
+      { label: 'Traeger fuer Tagesrucksack', value: 'ca. 20 USD (Quelle: Reisefuehrer Uganda 2020)' },
+      { label: 'Maximale Trekking-Gruppengroesse', value: '8 Personen pro Gorilla-Familie' },
+      { label: 'Aufenthaltsdauer bei der Familie', value: '1 Stunde (UWA-Regel)' },
+      { label: 'Gelände', value: 'Steil, feucht, dichte Vegetation — kein Spaziergang' },
+    ],
+    sections: [
+      {
+        heading: 'Was dich im Bwindi Impenetrable National Park erwartet',
+        paragraphs: [
+          'Das Gorilla-Trekking im Bwindi Impenetrable National Park ist physisch anspruchsvoll. Der Wald traegt seinen Beinamen "Impenetrable" (undurchdringlich) nicht umsonst. Das Gelaende ist steil, der Boden nach Regen rutschig, die Vegetation dicht. Bei unserem Trekking im Januar 2026 erreichten wir nach rund einer Stunde die erste Gorilla-Familie — ein Maennchen sass im Baumkronendach und frass konzentriert Blaetter. Bei einer anderen Trekking-Tour im selben Gebiet dauerte es drei Stunden, ehe die Gruppe zu einer Familie gelangte. Die Gorillas bewegen sich taglich — wie weit du laufen musst, weiss niemand vorher.',
+          '[BILD: Berggorilla frisst Blaetter im Baumkronendach]',
+          'Wir wurden von einem erfahrenen Guide und zwei bewaffneten Rangern begleitet. Die Waffen der Ranger — und die Macheten, mit denen sie den Weg durch das Dickicht freischlagen — wirkten am Anfang ungewohnt. Schnell wurde klar: Sie sind unverzichtbar. Die Ranger kennen den Wald, kennen die Gorilla-Familien und helfen bei steilen Abstiegen aktiv mit — ein ausgestreckter Arm zum Halt kommt im richtigen Moment. Auf diese Ausruestung und Erfahrung ist Verlass.',
+        ],
+      },
+      {
+        heading: 'Kleidung: Schicht fuer Schicht vorbereitet',
+        paragraphs: [
+          'Langaermelige Oberbekleidung ist Pflicht — nicht nur wegen Insekten, sondern wegen der Brennnesseln und stacheligen Pflanzen, die auf vielen Wegen wachsen. Farben: Dunkelgrueen, Dunkelbraun, Khaki, Oliv. Helles Beige oder gar Weiss reflektiert Licht und stoert Wildtiere. Keine bunten Farben, kein Weiss. Eine leichte Regenjacke muss immer dabei sein — Bwindi ist Regenwald, Niederschlag kann jederzeit einsetzen.',
+          'Lange Hosen sind ebenfalls Pflicht. Dünne Trekkinghosen aus Nylongewebe reichen. Wichtig ist, dass die Hose eng am Knoechel abschliesst oder mit Socken tuckt werden kann — das haelt Ameisen und andere Insekten ab. Viele erfahrene Trekker empfehlen Gamaschen (sogenannte Gaiters) um Knoechel und Unterschenkel. Ein Sonnenschutz-Shirt als zweite Schicht oder leichte Fleecejacke fuer morgens im Gebirge sind sinnvoll.',
+          'Handschuhe sind kein Luxus. An steilen Hangen greifen Wanderer zwangsläufig in die Vegetation — Brennnesseln und Dornenranken sind schmerzhaft. Duenne Arbeitshandschuhe oder Wanderhandschuhe aus Stoff genuegen.',
+        ],
+      },
+      {
+        heading: 'Schuhe: Das wichtigste Ausruestungsstueck',
+        paragraphs: [
+          'Festes, knoechelshohes Wanderschuhwerk mit Profilsohle ist unersetzlich. Turnschuhe reichen nicht aus — das Gelaende verlangt seitlichen Halt und Grip auf feuchtem Untergrund. Die Schuhe muessen vor dem Trek eingelaufen sein: blasen im Regenwald ohne Sanitaer-Infrastruktur in der Naehe sind ein ernstes Problem.',
+          'Alternativ zum eigenen Schuhwerk bieten manche Lodges in Bwindi Gummistiefel zur Miete an. Gummistiefel klingen unromantisch, sind aber bei nassem Boden und tiefen Schlammpfaden manchmal die bessere Wahl als teure Lederstiefel. Frage bei deiner Unterkunft nach, was die lokalen Ranger empfehlen.',
+          'Noch ein Hinweis aus eigener Beobachtung: Am Starttag traegen viele Mitreisende Sandalen oder Halbschuhe in der Hoffnung, es werde kein langer Trek. Das bereuen fast alle. Schuhe wechseln ist im Startlager noch moeglich — im Wald nicht mehr.',
+        ],
+      },
+      {
+        heading: 'Rucksack, Wanderstock und Traeger',
+        paragraphs: [
+          'Der Tagesrucksack sollte leicht und nicht groesser als 20 Liter sein — alles was du nicht brauchst, bleibt im Gepaeck im Lodge oder Camp. Schwerer Rucksack auf steilem, nassem Untergrund kostet Energie und erhoet das Sturzrisiko. Wasser (mindestens 1,5 Liter), Snack, Regenjacke, Kamera, Permit-Dokument und Erste-Hilfe-Kleinstausstattung sind die Essentials.',
+          'Einen lokalen Traeger (Porter) kannst du am Startlager engagieren. Der Preis lag laut Reisefuehrer Uganda 2020 (Teil 11) bei rund 20 USD fuer den Trek — dieser Betrag sollte vorab geprueft werden, da Preise variieren. Einen Traeger zu engagieren ist keine Schwaeche: Es ist lokale Wirtschaftsfoerderung, und auf steilem Gelände mit rutschigen Abstaenden ist ein freier Arm entscheidend. Viele Traeger kennen den Wald gut und helfen aktiv beim Abstieg.',
+          'Ein Wanderstock (Teleskopstock oder lokaler Holzstock) ist sehr empfehlenswert. Am Startlager werden lokale Spazierstoecke oft kostenlos oder gegen kleine Gebueqhr ausgegeben. Auf nassem Steilgelaende ist ein Stock der Unterschied zwischen kontrolliertem Abstieg und ungeplantem Rutschen.',
+        ],
+      },
+      {
+        heading: 'Kamera und Elektronik im tropischen Regenwald',
+        paragraphs: [
+          'Der Regenwald ist feucht — immer. Kondensation und Spritzwasser sind eine permanente Gefahr fuer Kameraelektronik. Wasserdichte Kamerahuellen oder zumindest ein trockener Beutel (Ziplock-Beutel genuegen) sind unverzichtbar. Kameraakku vollgeladen am Vortag, plus Reserveakku. Es gibt keine Steckdosen im Wald.',
+          'Flashlicht und Blitze sind beim Gorilla-Trekking verboten — die UWA-Regelung schuetzt die Tiere vor stressausloesendem Aufblitzen. Einstellen auf lautloses Auslosen und hohe ISO-Sensitivitaet fuer Waldlicht (oft schattig und gefiltert). Einige Kameras brauchen zudem im Jungle-Modus kein Stabilisierungsstativ, wenn der ISO hoch genug eingestellt ist.',
+          '[BILD: Mountain Gorilla Peering Through Dense Forest Foliage]',
+          'Teleobjektive sind nuetzlich, aber nicht zwingend: Der Mindestabstand von 7 Metern (UWA-Regelung) bedeutet, dass Gorillas nah sind. Ein 24–105mm oder 24–200mm Reisezoom ist in den meisten Situationen ausreichend. Keine Drohnen — verboten im ganzen Nationalpark.',
+        ],
+      },
+      {
+        heading: 'Erste Hilfe, Insektenschutz und Gesundheit',
+        paragraphs: [
+          'Malariaprophylaxe ist fuer den Bwindi-Bereich anzuraten — Ruecksprache mit dem Tropenarzt vor Reiseantritt ist Pflicht. Insektenabwehrmittel (DEET-haltig oder Icaridin) auf alle exponierten Hautflaechen auftragen, auch auf den Haarbund und Kragen. Die Tsetse-Fliege ist in bestimmten Parkgebieten Ugandas aktiv — dunkle Kleidung zieht sie weniger an als Helltoene.',
+          'Kleines Erste-Hilfe-Set im Tagesrucksack: Blasenpflaster (unverzichtbar), Desinfektionsmittel fuer Schnitte und Kratzer, Schmerzmittel, Kohletabletten gegen Magenprobleme, Antihistaminikum bei Insektenstichen. Eine Pinzette fuer Dornen ist kein Luxus. Sonnenschutzmittel benoatigst du vor allem auf dem Weg zum Startlager — im Wald selbst kommt kaum direkte Sonne durch.',
+          'Wichtig: Wenn du an einem aktiven Infekt leidest, besonders an Erkaeltung, Husten oder anderen Atemwegserkrankungen, muss das Trekking verschoben werden. Berggorillas sind genetisch dem Menschen nahe und hochgradig empfaeqnglich fuer menschliche Krankheitserreger. Die UWA schreibt am Vorabend einen Gesundheitsfragebogen vor — ehrliche Angaben sind keine Formalie, sondern Tierschutz.',
+        ],
+      },
+      {
+        heading: 'Verpflegung, Wasser und Energie fuer den Trek',
+        paragraphs: [
+          'Mindestens 1,5 Liter Wasser im Rucksack, besser 2 Liter. Trinkwasser aus dem Wald sollte nur mit Aufbereitung (Tabletten oder Filterflasche) genutzt werden — Giardia und andere parasitaere Erreger sind im Quelwasser moeglich. Die meisten Lodges fuellen Wasserflaschen auf Anfrage auf.',
+          'Hochenergie-Snacks sind sinnvoll: Nuesse, Trockenfruchte, Energieriegel. Mahlzeiten vor dem Trek sollte man leicht halten — schweres Essen und steiler Aufstieg vertraegen sich schlecht. Nach dem Trek ist ein richtiges Mittagessen in der Lodge oder im Camp die beliebteste Mahlzeit des Tages.',
+          'Kaffee und Tee werden im Startlager vor dem Trek oft angeboten — diese Pause nutzen. Es ist auch der Moment, um Traeger zu engagieren, letzte Ausruestungsfragen zu klaeren und den Guide kenenzulernen.',
+        ],
+      },
+      {
+        heading: 'Dokumente, Permit und Was-du-vor-Ort-wissen-musst',
+        paragraphs: [
+          'Das Gorilla-Trekking-Permit muss vor Ort physisch oder digital vorgelegt werden. Den Beleg gut zugreifbar im Rucksack aufbewahren, nicht im grossen Gepaeck. Reisepass oder Kopie ebenfalls mitnehmen — das Startlager gleicht die Angaben ab. Wer ueber einen Tour-Operator bucht, bekommt die Permit-Abwicklung oft abgenommen.',
+          'Am Startlager findet vor dem Trek ein kurzes Briefing statt — auf Englisch, manchmal mit Uebersetzung. Kernregeln: 7 Meter Mindestabstand, kein Blitz, kein Essen in Sichtweite der Gorillas, kein lautes Sprechen, kein Eindringen in die Gruppe wenn ein Gorilla auf dich zukommt (Blickkontakt vermeiden, ruhig stehen bleiben). Diese Regeln ernst nehmen — Ranger setzen sie durch.',
+          '[BILD: Ranger im Regenwald waehrend Gorilla Trekking]',
+          'Trinkgeld fuer Guide und Ranger ist nicht verpflichtend, aber ueblich und sehr willkommen. Ein fairer Richtwert liegt laut Erfahrungswerten bei 10–20 USD pro Person fuer den Guide und 5–10 USD fuer jeden Ranger. Traeger werden separat bezahlt. Diese lokalen Einkuenfte sind ein direkter Beitrag zur Finanzierung der Gorilla-Schutzprogramme.',
+        ],
+      },
+      {
+        heading: 'Aktivitaeten am Lake Bunyonyi — Kombination mit dem Trek',
+        paragraphs: [
+          'Wer das Gorilla-Trekking mit einem Aufenthalt am Lake Bunyonyi verbindet, hat nach dem anstrengenden Trek eine perfekte Erholungsdestination. Am See sind laut Reisefuehrer Uganda 2020 (Teil 10) Kanu-Trekking (1 bis 5 Tage), Wanderungen auf die umliegenden Huegel, Vogelbeobachtung, Jet-Skiing und Quad-Biking moeglich. Viele Touren beinhalten Uebernachtungen in Homestays bei lokalen Familien.',
+          'Der Lake Bunyonyi liegt rund 10 Kilometer westlich von Kabale und gilt als nahezu bilharziose-frei dank seines hohen Mineralsalzgehalts — Baden ist hier moeglich, was an vielen Seen Ostafrikas ungewoehnlich ist. Eine Kombination Bwindi (Gorilla-Trekking) — Lake Bunyonyi (Erholung) ist einer der beliebtesten Reiserhythmen im suedwestlichen Uganda.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Was zieht man beim Gorilla-Trekking in Uganda an?',
+        a: 'Langaermelige Oberbekleidung und lange Hosen in Erdfarben (Dunkelgrueen, Khaki, Braun), festes knoechelshohes Wanderschuhwerk mit Profilsohle, Handschuhe gegen Brennnesseln, leichte Regenjacke. Keine hellen Farben, kein Weiss. Knoechel sollten mit Socken oder Gamaschen bedeckt sein.',
+      },
+      {
+        q: 'Wie lange dauert ein Gorilla-Trekking im Bwindi Nationalpark?',
+        a: 'Die Dauer variiert erheblich: zwischen einer Stunde (wenn die Familie nah am Startlager ist) und bis zu acht Stunden (wenn sie tief im Wald liegt). Planung sieht einen Ganztag vor. Bei unserem Trek im Januar 2026 erreichten wir die erste Familie bereits nach einer Stunde Wanderung. Die Zeit bei der Gorilla-Familie ist auf eine Stunde begrenzt (UWA-Regelung).',
+      },
+      {
+        q: 'Brauche ich einen Wanderstock beim Gorilla-Trekking?',
+        a: 'Ja, dringend empfohlen. Am Startlager werden lokale Holzstoecke kostenlos oder gegen kleine Gebuehr ausgegeben. Auf steilem, nassem Untergrund ist ein Stock der Unterschied zwischen sicherem Abstieg und Sturz. Wer eigene Teleskopstoecke mitbringt, sollte diese nutzen.',
+      },
+      {
+        q: 'Kann ich einen Traeger fuer den Rucksack mieten?',
+        a: 'Ja. Am Startlager koennen lokale Traeger (Porter) engagiert werden. Der Preis lag 2020 bei rund 20 USD fuer den Trek — aktuell vor Ort erfragen. Ein Traeger zu engagieren ist lokale Wirtschaftsfoerderung und auf steilem Gelände praktischer Vorteil. Viele lokale Traeger kennen den Wald sehr gut.',
+      },
+      {
+        q: 'Darf man mit Erkältung zum Gorilla-Trekking?',
+        a: 'Nein. Die UWA verlangt vor dem Trek einen Gesundheitsfragebogen. Wer an aktiven Atemwegserkrankungen leidet, muss das Trekking verschieben. Berggorillas sind genetisch dem Menschen sehr nah und empfaenglich fuer menschliche Erreger. Trekking-Permits koennen in solchen Faellen umgebucht werden — das sollte vorab mit der UWA oder dem Tour-Operator geklaeert werden.',
+      },
+    ],
+    related: [
+      { href: '/gorilla-trekking', title: 'Gorilla-Trekking Uganda', desc: 'Alles zum Gorilla-Trekking: Permits, Preise, Sektoren und Vorbereitung.' },
+      { href: '/gorilla-trekking-buhoma', title: 'Gorilla-Trekking in Buhoma', desc: 'Der bekannteste Sektor im Bwindi Nationalpark — Erfahrungen und Infos.' },
+      { href: '/gorilla-trekking-ethik', title: 'Gorilla-Trekking Ethik', desc: 'Verantwortungsvoller Umgang mit Gorilla-Familien im Nationalpark.' },
+      { href: '/anreise-bwindi', title: 'Anreise nach Bwindi', desc: 'Wie man von Kampala, Kabale oder Kigali nach Bwindi reist.' },
+      { href: '/gorilla-familien-bwindi', title: 'Gorilla-Familien in Bwindi', desc: 'Die habituierten Gorilla-Familien in den vier Sektoren des Parks.' },
+    ],
+    quellen: [
+      'Reisefuehrer Uganda 2020 -- Teil 11 (Gorilla-Trekking, Permit, Porter)',
+      'Reisefuehrer Uganda 2020 -- Teil 12 (Bwindi, Anreise, Sektoren)',
+      'Reisefuehrer Uganda 2020 -- Teil 10 (Lake Bunyonyi, Aktivitaeten)',
+      'Eigene Erfahrungen: Gorilla-Trekking Januar 2026 (Bwindi Impenetrable National Park)',
+    ],
+  },
+
   'hotel-ruanda-geschichte-kigalis': {
     title: 'Hotel Ruanda & Kigali: Film, Geschichte und heute',
     h1: 'Hotel Ruanda und die Geschichte Kigalis: Zwischen Film und Wirklichkeit',

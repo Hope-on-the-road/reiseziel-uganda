@@ -181,6 +181,7 @@ const ROUTES = [
   '/zoonosen-wildlife-uganda',
   '/illegaler-holzeinschlag-uganda',
   '/wildlife-crime-terrorismus-uganda',
+  '/packliste-gorilla-tracking-uganda',
   '/hotel-ruanda-geschichte-kigalis',
   '/ruanda/akagera-nationalpark',
   '/reiseplanung/visa',
