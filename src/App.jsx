@@ -252,6 +252,7 @@ export default function App() {
           <Route path="/umweltaudit-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="umweltaudit-uganda" />} />
           <Route path="/schimpansen-tracking-kyambura-gorge" element={<StandalonePage photos={photos} clusters={clusters} pageId="schimpansen-tracking-kyambura-gorge" />} />
           <Route path="/nema-umweltschutz-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="nema-umweltschutz-uganda" />} />
+          <Route path="/jinja-sehenswuerdigkeiten" element={<StandalonePage photos={photos} clusters={clusters} pageId="jinja-sehenswuerdigkeiten" />} />
           <Route path="/ruanda/:pageId" element={<RuandaPage photos={photos} clusters={clusters} />} />
           <Route path="/akagera-nationalpark" element={<Navigate to="/ruanda/akagera-nationalpark" replace />} />
           <Route path="/tiere" element={<HubPage photos={photos} clusters={clusters} hubId="tiere" />} />

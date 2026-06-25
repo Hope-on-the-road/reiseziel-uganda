@@ -192,6 +192,7 @@ const ROUTES = [
   '/bwindi-artenvielfalt',
   '/umweltaudit-uganda',
   '/nema-umweltschutz-uganda',
+  '/jinja-sehenswuerdigkeiten',
   '/schimpansen-tracking-kyambura-gorge',
   '/ruanda/akagera-nationalpark',
   '/reiseplanung/visa',
