@@ -6,13 +6,6 @@ import Head from './seo/Head.jsx'
 import { ArticleJsonLd, FaqJsonLd, BreadcrumbJsonLd, TouristDestinationJsonLd, RecipeJsonLd } from './seo/JsonLd.jsx'
 import MistyPartner from './MistyPartner.jsx'
 
-function imgRotationStyle(orientation) {
-  if (!orientation) return {}
-  if (orientation.includes('(90)')) return { transform: 'rotate(90deg)' }
-  if (orientation.includes('(270)')) return { transform: 'rotate(-90deg)' }
-  if (orientation.includes('(180)')) return { transform: 'rotate(180deg)' }
-  return {}
-}
 
 function Breadcrumb({ items }) {
   return (
@@ -535,11 +528,7 @@ export default function PageLayout({ page, heroPhoto, contentPhotos = [] }) {
     ...b, url: b.href ? `${baseUrl}${b.href}` : undefined,
   }))
 
-  const isPortrait = (p) => {
-    const o = p.orientation || ''
-    return o.includes('(90)') || o.includes('(270)') || o.includes('Rotate 90') || o.includes('Rotate 270') || o.toLowerCase().includes('hochformat')
-  }
-  const galleryPhotos = contentPhotos.filter(p => p.thumbnail_url && !isPortrait(p))
+  const galleryPhotos = contentPhotos.filter(p => p.thumbnail_url)
 
   // Distribute unique photos across showPhotos sections (2 per section, non-overlapping)
   const sectionPhotoMap = (() => {

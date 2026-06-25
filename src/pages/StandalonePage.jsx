@@ -16,13 +16,8 @@ export default function StandalonePage({ photos, clusters, pageId }) {
   }
 
   const contentPhotos = (page.photoFilter && clusters?.[page.photoFilter]) || clusters?.landschaft || clusters?.dorfleben || []
-  const isPortrait = (p) => {
-    const o = p.orientation || ''
-    return o.includes('(90)') || o.includes('(270)') || o.includes('Rotate 90') || o.includes('Rotate 270') || o.toLowerCase().includes('hochformat')
-  }
-  const heroPhoto = contentPhotos.find(p => !isPortrait(p))
-    || photos.find(p => p.category === 'Landscapes' && p.thumbnail_url && !isPortrait(p))
-    || contentPhotos[0]
+  const heroPhoto = contentPhotos[0]
+    || photos.find(p => p.category === 'Landscapes' && p.thumbnail_url)
     || null
 
   return <PageLayout page={page} heroPhoto={heroPhoto || null} contentPhotos={contentPhotos.slice(1, 30)} />
