@@ -12,6 +12,16 @@ export function thumbUrl(path) {
   return `${THUMB_BASE}${path}`
 }
 
+export async function loadPagePhotos(slug, projectId) {
+  const { data } = await supabase
+    .from('page_photos')
+    .select('photo_ids')
+    .eq('page_slug', slug)
+    .eq('project_id', projectId)
+    .maybeSingle()
+  return data?.photo_ids || null
+}
+
 export async function loadPhotos() {
   const { data, error } = await supabase
     .from('media_items')

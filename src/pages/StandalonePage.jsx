@@ -1,8 +1,19 @@
+import { useState, useEffect } from 'react'
 import { standalonePages } from '../data/standalone-pages.js'
 import PageLayout from '../components/PageLayout.jsx'
+import { loadPagePhotos } from '../supabase.js'
+
+const PROJECT_ID = 'reiseziel-uganda'
 
 export default function StandalonePage({ photos, clusters, pageId }) {
   const page = standalonePages[pageId]
+  const [pagePhotoIds, setPagePhotoIds] = useState(null)
+
+  useEffect(() => {
+    if (!pageId) return
+    setPagePhotoIds(null)
+    loadPagePhotos(pageId, PROJECT_ID).then(ids => setPagePhotoIds(ids || [])).catch(() => setPagePhotoIds([]))
+  }, [pageId])
 
   if (!page) {
     return (
@@ -15,7 +26,16 @@ export default function StandalonePage({ photos, clusters, pageId }) {
     )
   }
 
-  const contentPhotos = (page.photoFilter && clusters?.[page.photoFilter]) || clusters?.landschaft || clusters?.dorfleben || []
+  let contentPhotos
+  if (pagePhotoIds && pagePhotoIds.length > 0) {
+    const idSet = new Set(pagePhotoIds)
+    const byId = {}
+    photos.forEach(p => { if (idSet.has(p.id)) byId[p.id] = p })
+    contentPhotos = pagePhotoIds.map(id => byId[id]).filter(p => p?.thumbnail_url)
+  } else {
+    contentPhotos = (page.photoFilter && clusters?.[page.photoFilter]) || clusters?.landschaft || clusters?.dorfleben || []
+  }
+
   const heroPhoto = contentPhotos[0]
     || photos.find(p => p.category === 'Landscapes' && p.thumbnail_url)
     || null
