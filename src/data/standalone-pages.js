@@ -9822,4 +9822,111 @@ export const standalonePages = {
     isTouristDestination: true,
     partnerContext: 'default',
   },
+
+  'nema-umweltschutz-uganda': {
+    slug: '/nema-umweltschutz-uganda',
+    title: 'NEMA Uganda: Umweltbehoerde, Audits und Buergerrechte',
+    h1: 'NEMA Uganda: Umweltbehoerde, Audits und das Recht auf Petition',
+    subtitle: 'Von der sandigen Dorfstrasse in Butiru zu den gesetzlichen Instrumenten: Wer in Uganda fuer Umweltschutz zustaendig ist – und wie Buerger Gehoer finden',
+    metaDescription: 'Wer ist in Uganda fuer Umweltschutz zustaendig? NEMA, Lead Agencies, Auditpflicht und das Petitionsrecht nach National Environment Act 2019. Mit Erfahrungen aus Butiru, Oktober 2024.',
+    publishedTime: '2026-06-25T08:00:00+02:00',
+    modifiedTime: '2026-06-25T08:00:00+02:00',
+    breadcrumbs: [
+      { label: 'Reiseziel Uganda', href: '/' },
+      { label: 'Nachhaltigkeit', href: '/nachhaltiger-tourismus-uganda' },
+      { label: 'NEMA Uganda', href: '/nema-umweltschutz-uganda' },
+    ],
+    kurzantwort: 'Die National Environment Management Authority (NEMA) ist Ugandas zentrale Umweltbehoerde. Sie ueberwacht Umweltaudit-Pflichten nach dem National Environment Act 2019 und koordiniert sogenannte Lead Agencies in anderen Ministerien. Buergerinnen und Buerger koennen mit mindestens zehn Unterschriften eine schriftliche Petition einreichen – NEMA muss innerhalb definierter Fristen reagieren.',
+    fakten: [
+      { label: 'Zentrale Behoerde', value: 'NEMA (National Environment Management Authority)' },
+      { label: 'Gegruendet', value: '1995 (NEA), aktualisiert National Environment Act 2019' },
+      { label: 'Audit-Verordnung', value: 'S.I. No. 47 of 2020 (Sections 126 + 179 NEA 2019)' },
+      { label: 'Petitions-Minimum', value: '10 Erwachsene, schriftlich, Ort + Gruende angeben' },
+      { label: 'Entwickler-Antwortfrist', value: '7 Tage nach Petition' },
+      { label: 'Inspektionsfrist', value: '21 Tage' },
+      { label: 'Ablehnung-Benachrichtigung', value: '28 Tage' },
+      { label: 'Zertifizierung Auditoren', value: 'S.I. No. 49 of 2020 (109 Regulierungen, 16 Schedules)' },
+    ],
+    sections: [
+      {
+        id: 'butiru-opening',
+        title: 'Ein Morgen in Butiru: Warum Umweltrecht kein abstraktes Thema ist',
+        content: 'Am 10. Oktober 2024 laufe ich kurz nach sieben Uhr morgens die rote Sandstrasse entlang, die unsere Unterkunft in Butiru mit dem Dorfzentrum verbindet. Die Luft riecht nach feuchter Erde und Kochfeuer. Ein kleines Maedchen kommt mir entgegen – Schulranzen auf dem Ruecken, Blick geradeaus, mit der entspannten Zielsicherheit von jemandem, der diesen Weg jeden Tag geht. IMG_7586, 10. Oktober 2024, GPS 0.8194 Grad Nord, 34.2982 Grad Ost.\n\nButiru liegt im Distrikt Mbale, am Westhang des Mount Elgon. Die Gemeinde lebt hauptsaechlich von subsistenz-Landwirtschaft: Mais, Bohnen, Sorghumhirse. Das nahe Quellwasser bestimmt, was auf dem Feld waechst. Die Bodenqualitaet entscheidet darueber, ob eine Ernte reicht oder nicht. Wer hier Boden versiegelt, Wasser umleitet oder Pestizide unsachgemaess entsorgt, trifft keine abstrakten Oekosystemwerte – er trifft Familien, die morgen frueh sehen, ob ihre Ernte noch steht.\n\nGenau das ist der Ausgangspunkt, um zu verstehen, warum Uganda ein verhaeltnismaessig ausdifferenziertes Umweltrecht entwickelt hat. Der National Environment Act 2019 ist kein Dokument fuer Bueroregale. Er ist das Regelwerk, das bestimmt, ob eine Fabrik am Fluss genehmigt wird – und was Anwohnerinnen tun koennen, wenn sie Einwaende haben.',
+        showPhotos: true,
+      },
+      {
+        id: 'nema-mandat',
+        title: 'Was ist NEMA – und was ist ihr Mandat?',
+        content: 'Die National Environment Management Authority, kurz NEMA, wurde durch den urspruenglichen National Environment Act von 1995 geschaffen und durch den umfassend ueberarbeiteten National Environment Act 2019 mit erweiterten Befugnissen ausgestattet. NEMA ist die zentrale Exekutivbehoerde Ugandas fuer alle umweltrelevanten Fragen. Ihr Sitz ist in Kampala, in der Kololo Hill Drive; Regionalbuerosaufsicht gibt es in den grossen Distriktzentren.\n\nDas gesetzliche Mandat ist breit gefasst: NEMA koordiniert, ueberwacht und supervidiert alle Aktivitaeten anderer Behoerden, die Auswirkungen auf die Umwelt haben koennen. Sie genehmigt Umweltvertraeglichkeitspruefungen (Environmental Impact Assessments, EIA), schreibt Umweltaudits vor und kann bei Verstößen Durchsetzungsmassnahmen einleiten. Sie erhebt Daten zur Umweltsituation, veroeffentlicht regelmassige State of the Environment Reports (SOER) und entwickelt nationale Umweltstandards.\n\nEin zentrales Prinzip: NEMA ist nicht fuer alle Umweltbereiche allein zustaendig. Der National Environment Act sieht eine Aufteilung auf sogenannte Lead Agencies vor – Fachministerien und -behoerden, die in ihrem jeweiligen Sektor Umweltregulierung uebernehmen. NEMA koordiniert und setzt Standards; die Lead Agencies setzen um und ueberwachen im Tagesgeschaeft.',
+        showPhotos: false,
+      },
+      {
+        id: 'lead-agencies',
+        title: 'Lead Agencies: Dezentraler Umweltschutz in der Praxis',
+        content: 'Das Konzept der Lead Agencies ist einer der zentralen Mechanismen des ugandischen Umweltrechts. Es verteilt Verantwortung entlang sektoraler Linien, anstatt alles in einer Einheitsbehörde zu konzentrieren. In der Praxis bedeutet das:\n\nDas Ministerium fuer Wasser und Umwelt (Ministry of Water and Environment) ist zuständig fuer Wasserressourcen-Management, Abwasserstandards und Feuchtgebiete. Das Ministerium fuer Energie und Mineralentwicklung ueberwacht die Umweltauswirkungen von Bergbau- und Energieprojekten. Die Uganda Wildlife Authority (UWA) ist Lead Agency fuer alle Fragen, die geschuetzte Gebiete und Wildtiere betreffen. Das National Forestry Authority (NFA) reguliert Forstwirtschaft, Abholzung und Wiederaufforstungsmassnahmen. Das Ministerium fuer Landwirtschaft ist zustaendig fuer Pestizide, Agrarchemikalien und umweltwirksame Praktiken in der Landwirtschaft.\n\nJede dieser Behoerden arbeitet nach ihren Sektorgesetzen – dem Water Act, dem Wildlife Act, dem National Forestry and Tree Planting Act – und muss dabei die Mindeststandards und Koordinationsrichtlinien von NEMA einhalten. Kommt es zu einem Konflikt zwischen sektoraler Behoerde und NEMA, hat das NEA 2019 klare Hierarchieprinzipien definiert.\n\nFuer Reisende und Projekttraeger ist das Wichtigste: Wer ein Projekt plant, das mehrere Sektoren betrifft – etwa eine Lodge am Ufer eines nationalen Feuchtgebiets in der Naehe eines Schutzgebiets – muss moeglicherweise mit mehreren Lead Agencies sowie mit NEMA selbst kommunizieren. Eines der relevantesten praktischen Instrumente dafuer ist das Environmental Impact Assessment, das NEMA genehmigt, aber Lead Agencies inhaltlich pruefän koennen.',
+        showPhotos: false,
+      },
+      {
+        id: 'petition-beschwerde',
+        title: 'Das Petitionsrecht: So legen Buerger eine Umweltbeschwerde ein',
+        content: 'Der National Environment Act 2019 raeumt Buergerinnen und Buergern ein explizites Recht ein, Umweltbeschwerden gegenueber NEMA oder einer zuständigen Lead Agency geltend zu machen. Das ist kein formloser Beschwerdekanal – das Gesetz definiert den Prozess mit konkreten Fristen, die fuer alle Beteiligten verbindlich sind.\n\nDie Grundanforderungen fuer eine gueltige Petition: Die Beschwerde muss schriftlich eingereicht werden. Sie muss den genauen Ort des beanstandeten Problems beschreiben. Sie muss die Gruende fuer die Beschwerde darlegen. Und sie muss von mindestens zehn erwachsenen Personen unterzeichnet sein. Damit will der Gesetzgeber sicherstellen, dass Petitionen ein erkennbares Gemeinschaftsanliegen repraesentieren und nicht lediglich Einzelinteressen.\n\nNach Eingang einer validen Petition laeuft die Uhr: NEMA oder die zuständige Lead Agency muss den betroffenen Entwickler oder Betreiber innerhalb von sieben Tagen auffordern, zur Beschwerde Stellung zu nehmen. Danach folgt eine Inspektion vor Ort, die innerhalb von 21 Tagen nach Eingang der Petition abgeschlossen sein muss. Falls NEMA die Petition ablehnt, hat die Behörde 28 Tage Zeit, den Einreichern die Ablehnung schriftlich zu begruenden.\n\nIn der Praxis bedeutet das: Eine Gemeinde in der Naehe einer neu geplanten oder laufenden Industrieanlage, die Gewasser, Boeden oder Luft belastet, kann – mit zehn Unterschriften – eine verbindliche Reaktion erzwingen. Das ist kein Wunsch, sondern eine gesetzliche Pflicht. Die Qualitaet der Umsetzung haengt, wie in vielen Laendern, vom institutionellen Kontext ab. Aber das Instrument existiert.',
+        showPhotos: true,
+      },
+      {
+        id: 'zertifizierte-auditoren',
+        title: 'Wer fuehrt Umweltaudits durch? Das System der zertifizierten Auditoren',
+        content: 'Nicht jeder darf in Uganda ein Umweltaudit durchfuehren. Der National Environment Act 2019 und die darauf aufbauende Verordnung S.I. No. 47 of 2020 (National Environment (Environmental Audit) Regulations) legen fest, dass Umweltaudit-Berichte von zertifizierten Environmental Auditors erstellt werden muessen.\n\nDie Zertifizierungsgrundlage bildet S.I. No. 49 of 2020 – die National Environment (Conduct and Certification of Environmental Practitioners) Regulations 2020. Dieses Regelwerk umfasst 109 Regulierungen und 16 Schedules und definiert, welche Qualifikationen, Erfahrungen und ethischen Standards ein Environmental Practitioner erfuellen muss, um bei NEMA registriert und zertifiziert zu werden. Die Registrierung muss erneuert werden und ist mit beruflichen Fortbildungspflichten verbunden.\n\nWas prueft ein Umweltaudit? Das jaehrliche Environmental Compliance Audit (ECA) – verpflichtend fuer alle Projekte, die nach einer Umweltvertraeglichkeitspruefung genehmigt wurden – erfasst: ob die im EIA-Genehmigungsbescheid genannten Massnahmen umgesetzt werden, ob neue Umweltauswirkungen aufgetreten sind, die im urspruenglichen EIA nicht vorgesehen waren, und ob der Betreiber die relevanten nationalen Umweltstandards einhalt. Jahrlich muss ein ECA-Bericht bei NEMA eingereicht werden; alle drei Jahre wird ein umfassenderes triennial Audit faellig.\n\nBuergerinnen und Buerger koennen nach Regulation 8 von S.I. No. 47 aktiv an Umweltaudits mitwirken. Der Auditor ist verpflichtet, betroffene Gemeinden anzuhoeren – eine Verfahrenspflicht, keine Empfehlung.',
+        showPhotos: false,
+      },
+      {
+        id: 'hopekitchen-praxis',
+        title: 'Was Regulierung in der Praxis bedeutet: HopeKitchen in Buhoma',
+        content: 'Im Dorf Buhoma, am Rand des Bwindi Impenetrable Forest, baut Hope on the Road gemeinsam mit der lokalen Gemeinde seit 2023 eine Gemeinschaftskueche – die HopeKitchen. Ziel ist es, eine saubere, effiziente Kochinfrastruktur zu schaffen, die Holzverbrauch reduziert, Innenraumrauch minimiert und lokale Frauen wirtschaftlich einbindet.\n\nAuch ein solches Projekt bewegt sich im rechtlichen Rahmen, den NEMA setzt. Kleinprojekte mit begrenzten Umweltauswirkungen unterliegen nicht der vollen EIA-Pflicht – aber die Nutzung von Bauholz nahe dem Bwindi-Waldrand, die Entsorgung von Bauabfaellen und die Wassernutzung fallen unter das allgemeine Umweltrecht und sind grundsaetzlich durch die zustaendigen Distriktstellen zu begleiten.\n\nWas in Buhoma – wie in Butiru – deutlich wird: Das Umweltrecht der Uganda gilt als fortschrittlich auf dem Kontinent. Der 2019er National Environment Act hat die Qualitaetspruefung fuer Auditoren verschaerft, die Buergerrechte staerker verankert und die Fristen konkretisiert. Die Herausforderung liegt in der Umsetzung: Distriktsebene, lokale Kapazitaeten und die Bereitschaft von Betreibern, Auflagen ernst zu nehmen, variieren erheblich.\n\nFuer eine Gemeinde wie Butiru bedeutet das: Die Werkzeuge existieren. Das Petitionsrecht, die Frist von 21 Tagen bis zur Inspektion, das Recht auf Beteiligung am Audit-Prozess – das sind keine leeren Versprechen, sondern gesetzliche Rechte, die mit zehn Unterschriften auf einem Blatt Papier in Gang gesetzt werden koennen. Ob das Maedchen auf dem Schulweg eines Tages davon weiss, haengt von Bildung, Zugang und zivilgesellschaftlicher Staerkung ab. Das Instrument ist da.',
+        showPhotos: true,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Was ist NEMA in Uganda?',
+        a: 'NEMA steht fuer National Environment Management Authority und ist Ugandas zentrale staatliche Umweltbehoerde. Sie wurde durch den National Environment Act 1995 gegruendet und durch den National Environment Act 2019 mit erweiterten Befugnissen ausgestattet. NEMA genehmigt Umweltvertraeglichkeitspruefungen (EIA), schreibt Umweltaudits vor, koordiniert sogenannte Lead Agencies in anderen Ministerien und kann bei Umweltverstößen Durchsetzungsmassnahmen einleiten.',
+      },
+      {
+        q: 'Wie kann ich in Uganda eine Umweltbeschwerde einreichen?',
+        a: 'Nach dem National Environment Act 2019 kann jede Gruppe von mindestens zehn erwachsenen Personen eine schriftliche Petition bei NEMA oder der zuständigen Lead Agency einreichen. Die Petition muss den genauen Ort des Problems und die Gruende fuer die Beschwerde beschreiben. NEMA ist dann verpflichtet, den Betreiber innerhalb von sieben Tagen zur Stellungnahme aufzufordern und innerhalb von 21 Tagen eine Inspektion durchzufuehren.',
+      },
+      {
+        q: 'Was ist ein Environmental Compliance Audit (ECA) in Uganda?',
+        a: 'Ein ECA ist ein jaehrliches Pflichtaudit fuer alle Projekte, die auf Basis einer Umweltvertraeglichkeitspruefung (EIA) genehmigt wurden. Es prueft, ob die im Genehmigungsbescheid genannten Auflagen eingehalten werden und ob neue Umweltauswirkungen aufgetreten sind. Alle drei Jahre ist ein umfassenderes triennial Audit faellig. Die Rechtsgrundlage bildet S.I. No. 47 of 2020.',
+      },
+      {
+        q: 'Was sind Lead Agencies im ugandischen Umweltrecht?',
+        a: 'Lead Agencies sind Fachministerien oder -behoerden, die in ihrem jeweiligen Sektor die Umweltregulierung uebernehmen – etwa das Ministry of Water and Environment fuer Wasserressourcen, die Uganda Wildlife Authority fuer Schutzgebiete oder das National Forestry Authority fuer Forstwirtschaft. NEMA koordiniert uebergreifend und setzt Standards; die Lead Agencies setzen im Tagesgeschaeft um.',
+      },
+      {
+        q: 'Muss ein zertifizierter Auditor das Umweltaudit durchfuehren?',
+        a: 'Ja. Nach S.I. No. 49 of 2020 muessen Umweltauditberichte von bei NEMA registrierten und zertifizierten Environmental Practitioners erstellt werden. Die Verordnung umfasst 109 Regulierungen und 16 Schedules und definiert Qualifikationen, Erfahrungsanforderungen und berufliche Fortbildungspflichten. Die Zertifizierung muss regelmaessig erneuert werden.',
+      },
+      {
+        q: 'Koennen Buerger an einem Umweltaudit mitwirken?',
+        a: 'Ja – Regulation 8 von S.I. No. 47 of 2020 verpflichtet den durchfuehrenden Auditor, betroffene Gemeinden anzuhoeren. Das ist keine Kann-Bestimmung, sondern eine Verfahrenspflicht. Buergerinnen und Buerger koennen ihre Erfahrungen und Beobachtungen einbringen, die der Auditor in seinen Bericht aufzunehmen hat.',
+      },
+    ],
+    related: [
+      { href: '/umweltaudit-uganda', title: 'Umweltaudit Uganda', desc: 'Wer prueft und warum: der Environmental Compliance Audit Prozess in Uganda.' },
+      { href: '/nachhaltiger-tourismus-uganda', title: 'Nachhaltiger Tourismus Uganda', desc: 'HopeKitchen, Abfallwirtschaft und verantwortungsvoller Tourismus in Buhoma.' },
+      { href: '/duerre-armut-uganda', title: 'Duerre und Armut in Uganda', desc: 'Klimawandel, NSOER 2024 und die Lebensrealitaet in laendlichen Gemeinden.' },
+      { href: '/bwindi-artenvielfalt', title: 'Artenvielfalt im Bwindi', desc: '120 Saeugetiere, 357 Vogelarten, 500 Berggorillas: das oekologische Erbe Bwindis.' },
+      { href: '/community-tourismus-bwindi', title: 'Community-Tourismus Bwindi', desc: 'Wie Tourismus lokale Gemeinden am Bwindi-Rand direkt einbindet.' },
+    ],
+    quellen: [
+      'National Environment Act 2019 (Uganda), Sections 126 und 179',
+      'S.I. No. 47 of 2020: National Environment (Environmental Audit) Regulations',
+      'S.I. No. 49 of 2020: National Environment (Conduct and Certification of Environmental Practitioners) Regulations',
+      'NEMA Uganda: nema.go.ug, Stand 2025',
+      'Eigene Reiseerfahrungen aus Butiru und Buhoma, Oktober 2024',
+    ],
+    isTouristDestination: false,
+    partnerContext: 'default',
+    photoFilter: 'buhoma',
+  },
 }
