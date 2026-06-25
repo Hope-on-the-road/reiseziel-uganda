@@ -190,6 +190,7 @@ const ROUTES = [
   '/nachhaltiger-tourismus-uganda',
   '/duerre-armut-uganda',
   '/bwindi-artenvielfalt',
+  '/umweltaudit-uganda',
   '/schimpansen-tracking-kyambura-gorge',
   '/ruanda/akagera-nationalpark',
   '/reiseplanung/visa',
