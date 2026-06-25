@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import { loadPhotos } from './supabase.js'
 
-const CACHE_KEY = 'rzu_photos_v2'
+const CACHE_KEY = 'rzu_photos_v3'
 const CACHE_TTL = 60 * 60 * 1000 // 1 Stunde
 
 function getCached() {
