@@ -17,7 +17,6 @@ export async function loadPhotos() {
     .from('media_items')
     .select('id, file_name, title, description, keywords, category, animals_visible, animal_type, thumbnail_path, orientation')
     .in('status', ['approved', 'used'])
-    .contains('projects', ['reiseziel-uganda'])
     .order('created_at', { ascending: false })
     .limit(500)
 
