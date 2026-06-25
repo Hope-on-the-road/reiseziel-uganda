@@ -56,8 +56,8 @@ export function usePhotosByCluster(photos) {
     const match = (fn) => photos.filter(fn)
 
     return {
-      queen_elizabeth: match(i => all(i).includes('queen elizabeth')),
-      murchison_falls: match(i => all(i).includes('murchison') || all(i).includes('murchinson')),
+      queen_elizabeth: match(i => all(i).includes('queen elizabeth') || all(i).includes('queen-elizabeth') || all(i).includes('qenp') || all(i).includes('kazinga')),
+      murchison_falls: match(i => all(i).includes('murchison') || all(i).includes('murchinson') || all(i).includes('murchinson falls') || all(i).includes('albert nile')),
       bwindi: match(i => all(i).includes('bwindi') || all(i).includes('bwini')),
       mt_elgon: match(i => all(i).includes('mount elgon') || all(i).includes('sipi')),
       gorilla: match(i => {
@@ -86,7 +86,7 @@ export function usePhotosByCluster(photos) {
       dorfleben: match(i => i.category === 'Villages' || i.category === 'Community Life'),
       essen: match(i => i.category === 'Food & Cooking' || i.category === 'HopeKitchen' || all(i).includes('banana')),
       wildlife: match(i => i.category === 'Wildlife' || i.category === 'National Parks'),
-      tiere: match(i => i.category === 'Wildlife' || i.category === 'National Parks'),
+      tiere: match(i => i.category === 'Wildlife'),
       butiru: match(i => all(i).includes('butiru')),
     }
   }, [photos])

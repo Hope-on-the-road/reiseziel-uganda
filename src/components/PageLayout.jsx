@@ -529,6 +529,7 @@ export default function PageLayout({ page, heroPhoto, contentPhotos = [] }) {
   }))
 
   const galleryPhotos = contentPhotos.filter(p => p.thumbnail_url)
+    .filter((p, idx, arr) => arr.findIndex(x => x.id === p.id) === idx)
 
   // Distribute unique photos across showPhotos sections (2 per section, non-overlapping)
   const sectionPhotoMap = (() => {
