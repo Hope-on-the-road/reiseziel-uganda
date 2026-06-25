@@ -185,6 +185,7 @@ const ROUTES = [
   '/grenzen-uganda-ruanda-kongo',
   '/packliste-gorilla-tracking-uganda',
   '/hotel-ruanda-geschichte-kigalis',
+  '/lodges-murchison-falls',
   '/gorilla-trekking-budget-bwindi',
   '/schimpansen-tracking-kyambura-gorge',
   '/ruanda/akagera-nationalpark',

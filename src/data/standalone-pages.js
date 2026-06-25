@@ -9131,6 +9131,105 @@ export const standalonePages = {
     ],
   },
 
+  'lodges-murchison-falls': {
+    slug: '/lodges-murchison-falls',
+    title: 'Lodges Murchison Falls Nationalpark -- Unterkunft 2026',
+    h1: 'Uebernachten im Murchison Falls Nationalpark: Lodges von Masindi bis zum Viktoria-Nil',
+    subtitle: 'Von 5 USD Camping bis Baumhaus direkt am Nil -- alle Unterkuenfte im Ueberblick',
+    metaDescription: 'Lodges im Murchison Falls Nationalpark 2026: Red Chilli Hideaway, Sambiya River Lodge, Murchison Treehouse, Fort Murchison -- Preise, Lage & Tipps fuer jedes Budget.',
+    publishedTime: '2026-06-25',
+    modifiedTime: '2026-06-25',
+    breadcrumbs: [
+      { label: 'Nationalparks', href: '/nationalparks-uganda' },
+      { label: 'Murchison Falls', href: '/nationalparks/murchison_falls' },
+      { label: 'Unterkuenfte' },
+    ],
+    kurzantwort: 'Der Murchison Falls National Park im Nordwesten Ugandas bietet Unterkuenfte fuer jedes Budget: von einfachen Campingplaetzen ab 5 USD (UWA Delta Campsite) ueber den beliebten Red Chilli Hideaway bis zur komfortablen Sambiya River Lodge (ab 172 USD inklusive Vollpension). Das besondere Highlight sind das direkt am Viktoria-Nil gelegene Murchison Treehouse -- mit Safarizeelten, Cottages und einem echten Baumhaus -- sowie das abgeschiedene Fort Murchison am Ostufer des Albert-Nils nahe Pakwach. Ausgangspunkt fuer die meisten Reisenden ist die Kleinstadt Masindi, rund 220 Kilometer von Kampala entfernt.',
+    fakten: [
+      { label: 'Parkgroesse', value: '3.877 km² (Quelle: Reisefuehrer Uganda 2020)' },
+      { label: 'Conservation Area', value: '5.366 km² gesamt (NSOER 2024)' },
+      { label: 'Guenstigstes Camping', value: 'UWA Delta Campsite ab 5 USD/Person' },
+      { label: 'Budget-Camp', value: 'Red Chilli Hideaway, Twiga Tales, Heritage Safari' },
+      { label: 'Komfort-Lodge', value: 'Sambiya River Lodge ab 172/260 USD (EZ/DZ, VP)' },
+      { label: 'Besonderes', value: 'Murchison Treehouse am Viktoria-Nil, Fort Murchison am Albert-Nil' },
+      { label: 'Anreise Bus', value: 'Kampala--Masindi: 25.000 UGX, 4--5 Std.' },
+      { label: 'Stopover', value: 'Ziwa Rhino Sanctuary (50 km vor Masindi, 20 USD Eintritt)' },
+    ],
+    photoFilter: 'murchison_falls',
+    sections: [
+      {
+        id: 'murchison-falls-ueberblick',
+        title: 'Murchison Falls: Ugandas groesster Nationalpark',
+        content: 'Der Murchison Falls National Park ist mit 3.877 Quadratkilometern (Quelle: Reisefuehrer Uganda 2020) der groesste Nationalpark Ugandas. Zusammen mit den angrenzenden Wildlife Reserves Bugungu und Karuma bildet er die Murchison Falls Conservation Area -- ein Schutzgebiet-Komplex von insgesamt 5.366 Quadratkilometern laut dem Nationalen Umweltbericht Ugandas 2024 (NSOER 2024). Der Park liegt im Nordwesten des Landes und schuetzt die tierwandelnde Savannenlandschaft entlang des Viktoria-Nils, bevor dieser den Lake Albert speist.\n\nDie namensgebenden Murchison Falls liegen im Westteil des Parks: Hier zweangt sich der gesamte Viktoria-Nil durch eine nur sieben Meter breite Felsspalte und stuerzt anschliessend 43 Meter in die Tiefe -- einer der spektakulaersten Momente auf jeder Uganda-Reise. Auf unserer Bootsfahrt im Oktober 2024 erlebten wir diese Kraft aus naechster Naehe. Foto: Mark Suer.\n\nDie Unterkunft im Murchison Falls National Park ist eine grundlegende Entscheidung, da die verschiedenen Bereiche des Parks sehr unterschiedlich gelegen sind -- die Wahl der Lodge bestimmt massgeblich, welche Aktivitaeten und Tierbeobachtungen moeglich sind.',
+        showPhotos: true,
+      },
+      {
+        id: 'masindi-tor-zum-park',
+        title: 'Masindi: Das Tor zum Nordwesten',
+        content: 'Masindi liegt auf 1.175 Metern Hoehe, 220 Kilometer Asphaltstrasse nordwestlich von Kampala, und ist fuer die meisten Reisenden die erste groessere Stadt auf dem Weg in den Murchison Falls National Park. Die Stadt mit rund 50.000 Einwohnern (Quelle: Reisefuehrer Uganda 2020) liegt inmitten des 1993 wiederhergestellten Koenigreichs Bunyoro -- einer der vier grossen traditionellen Monarchien Ugandas. Hier ruhen die Mparo Tombs, das Mausoleum des legendaeren Omukama (Koenigs) Kabalega, der 1923 nach jahrelangem Widerstand gegen die britische Kolonialherrschaft starb und hier seine letzte Ruhstaette fand.\n\nMasindi selbst ist kein grosses Touristenziel, aber ein praktischer Versorgungsstopp: Die Verpflegung fuer den Park laesst sich im Link Supermarket oder Sasa Supermarket aufstocken. Wer einen lokalen Reiseveranstalter bevorzugt: Yebo Tours an der Kampala-Masindi Road organisiert Fahrten in den Budongo Forest und den Murchison Falls Nationalpark -- ein Gelaeendewagen mit Fahrer kostet 80 USD pro Tag (ab 2 Tagen Mietdauer gibt es Rabatte; Quelle: Reisefuehrer Uganda 2020).\n\nDirekt neben Masindi liegt das Budongo Forest Reserve mit einer grossen Schimpansenpopulation und vielen Vogelarten -- ein empfehlenswerter Halbtags-Ausflug vor Einfahrt in den Park.',
+        showPhotos: false,
+      },
+      {
+        id: 'ziwa-rhino-zwischenstopp',
+        title: 'Ziwa Rhino Sanctuary: Der perfekte Zwischenstopp',
+        content: 'Wer von Kampala nach Masindi faehrt, passiert rund 50 Kilometer vor Masindi westlich der Hauptstrasse das Ziwa Rhino Sanctuary -- und sollte dort auf jeden Fall einen Stopp einplanen. Das Sanctuary ist Ugandas einziger Ort, an dem man zu Fuss Breitmaulnashoerner beobachten kann. Der Eintritt kostet 20 USD fuer Tagesbesucher. Aktuelle Informationen gibt es unter ziwarhino.com oder ueber den Rhino Fund Uganda (rhinofund.org). Von der Kreuzung bis zum Informationsbuero sind es acht Kilometer.\n\nAuf der Strecke von Kampala nach Masindi fahren taeglich mehrere Busse -- empfehlenswert sind die Linien Link und Uganda Post Bus (25.000 UGX, 4 bis 5 Stunden Fahrzeit; Quelle: Reisefuehrer Uganda 2020). Fuer ein individuelleres Erlebnis auf der Strecke ist das eigene Fahrzeug oder ein Mietauto ideal.\n\nEin unvergessliches Bild von der Strecke: Auf unserem Weg von Butiru Richtung Murchison Falls im Oktober 2024 begegneten wir einem Kleinbus, dessen Dachladung aus Matratzen und Haushaltsguetern bestand und das Fahrzeug um ein Mehrfaches ueberragte. Skurril aus europaeischer Perspektive -- aber typisch Uganda: Die Strasse ist gut ausgebaut, der Himmel blau, und irgendwie kommt alles ans Ziel. Foto: Mark Suer, Oktober 2024.',
+        showPhotos: false,
+      },
+      {
+        id: 'unterkuenfte-im-park',
+        title: 'Unterkuenfte im Murchison Falls National Park: Budget bis Komfort',
+        content: 'Die Unterkuenfte im und um den Park lassen sich grob in vier Kategorien einteilen.\n\n**Camping** ist die guenstigste Option. Die UWA Delta Campsite auf der Halbinsel zwischen Viktoria-Nil und Albert-Nil bietet erstklassige Wildbeobachtung fuer nur 5 USD pro Person -- die Begleitung durch einen bewaffneten Ranger ab Paraa ist hier Pflicht. Auf dem Gelaende der Twiga Tales Lodge und der Heritage Safari Lodge koennen Camper jeweils fuer 10 USD pro Person das eigene Zelt aufschlagen (Quelle: Reisefuehrer Uganda 2020).\n\n**Red Chilli Hideaway** ist die erste Adresse fuer Backpacker und Budget-Reisende -- betrieben von einem der bekanntesten Safari-Camps Ugandas, mit Swimmingpool, Restaurant und Safari-Angeboten. Das Red Chilli betreibt ausserdem ein Hostel und eine Campsite in Kampala (Butabika), was die Weiterreise vereinfacht.\n\n**Sambiya River Lodge** steht fuer komfortablere Unterkuenfte direkt im Park. Die Zimmer sind schlicht eingerichtet und ueberlassen die Aufmerksamkeit der wunderschoenen Natur direkt am Fluss -- das Gelaende wird regelmaessig von Elefanten und Flusspferden besucht. Preise: Einzelzimmer/Doppelzimmer ab 172/260 USD inklusive Vollpension (Stand: Reisefuehrer Uganda 2020 -- aktuelle Preise auf Anfrage).\n\n**Murchison Treehouse** ist das aussergewoehnlichste Angebot im Park: Safarizelte, Cottages und ein echtes Baumhaus, alles in isolierter Lage direkt am Viktoria-Nil. Das Gelaende wird nach Angaben des Reisefuehrers regelmaessig von Elefanten und Flusspferden aufgesucht -- Wildbeobachtung ist hier quasi inklusive.\n\n**Fort Murchison** liegt abseits der Haupttouristenroute am Ostufer des Albert-Nils nahe dem Ort Pakwach. Safarizelte und Cottages in einem der entlegensten Winkel des Parks -- fuer Reisende, die wirklich abseits der Wege sein wollen.',
+        showPhotos: true,
+      },
+      {
+        id: 'bootsfahrt-erlebnis',
+        title: 'Die Bootsfahrt: Highlights vom Wasser aus',
+        content: 'Die Bootsfahrt auf dem Viktoria-Nil ist das absolute Highlight des Murchison Falls National Park und sollte kein Reisender verpassen. Die klassische Route fuehrt von der Paraa-Faehre stromaufwaerts zu den Murchison Falls -- eine dreistuendige Fahrt, auf der man den Fuss des Wasserfalls und die Gischtwolke aus naechster Naehe erlebt.\n\nBei unserer Bootsfahrt im Oktober 2024 haben wir vom Boot aus Nilkrokodile beobachtet. Die Tiere lagen ein gutes Stueck vom Ufer entfernt -- aber die Groesse und die unbewegte Praesenz dieser uralten Raubtiere war trotzdem beeindruckend. Krokodile sind zudem deutlich schneller, als man aus der Entfernung vermutet. Foto: Mark Suer, GPS: 2.2771, 31.6698.\n\nAuf derselben Fahrt sahen wir Elefanten am Ufer des Nils -- ruhig, fast schwebend in der goldenen Savannenlandschaft. Einer stand direkt am Wasser, gross und still. Solche Momente entschaedigen fuer jeden Kilometer Anfahrt. Fotos: Mark Suer, Oktober 2024, GPS: 2.2701, 31.6649 und 2.2853, 31.5099.\n\nFuer Vogelbeobachter lohnt sich ausserdem die Nildelta-Tour von Wild Frontiers stromabwaerts: 55 USD pro Person, taeglich um 7 Uhr, Dauer rund fuenf Stunden bis zum Mündungsgebiet des Viktoria-Nils in den Lake Albert. Hier sind die Sichtungschancen fuer den seltenen Schuhschnabel und andere Wasservoegel ausgezeichnet -- verbunden abends mit Sonnenuntergangsstimmung ueber dem See (Quelle: Reisefuehrer Uganda 2020).',
+        showPhotos: true,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Was sind die besten Unterkuenfte im Murchison Falls National Park?',
+        a: 'Fuer Backpacker und Budget-Reisende ist der Red Chilli Hideaway die bekannteste Wahl, mit Campingmoeglichkeit und einfachen Zimmern. Das guenstigste Camping bietet die UWA Delta Campsite fuer 5 USD pro Person. Wer mehr Komfort sucht, uebernachtet in der Sambiya River Lodge (ab 172 USD, Vollpension). Das Murchison Treehouse am Viktoria-Nil ist das aussergewoehnlichste Angebot -- Baumhaus, Safarizelte und Cottages in Flusslage.',
+      },
+      {
+        q: 'Wie komme ich von Kampala zum Murchison Falls National Park?',
+        a: 'Masindi als Tor zum Park liegt 220 Kilometer nordwestlich von Kampala. Per Bus (Link Bus oder Uganda Post Bus) dauert die Fahrt 4 bis 5 Stunden und kostet 25.000 UGX (ca. 7 USD). Mit dem eigenen Fahrzeug oder Mietwagen sind es rund 3 Stunden auf gut befahrbarer Teerstrasse. Ein empfehlenswerter Zwischenstopp ist das Ziwa Rhino Sanctuary, 50 Kilometer vor Masindi (20 USD Eintritt).',
+      },
+      {
+        q: 'Lohnt sich die Bootsfahrt zu den Murchison Falls?',
+        a: 'Unbedingt -- die Bootsfahrt von Paraa stromaufwaerts zu den Murchison Falls gehoert zu den besten Safari-Erfahrungen Ugandas ueberhaupt. Die Dreistunden-Tour bringt dich nah an Nilkrokodile, Flusspferde, Wasservoegel und oft auch Elefanten am Ufer heran. Wir haben im Oktober 2024 Krokodile und mehrere Elefanten direkt vom Wasser aus beobachtet -- ein Erlebnis, das kein Game Drive ersetzen kann.',
+      },
+      {
+        q: 'Was ist der Unterschied zwischen Murchison Treehouse und Fort Murchison?',
+        a: 'Beide liegen abseits der ueblichen Hauptroute und bieten Safarizelte sowie Cottages in Flusslage. Das Murchison Treehouse liegt direkt am Viktoria-Nil innerhalb des Parks -- inklusive echtem Baumhaus. Fort Murchison liegt am Ostufer des Albert-Nils nahe Pakwach ausserhalb des Hauptparkbereichs -- weiter abgeschieden und fuer Reisende, die wirklich abseits der ausgetretenen Pfade sein wollen.',
+      },
+      {
+        q: 'Kann man im Murchison Falls National Park Nashoemmer sehen?',
+        a: 'Nashoemmer leben nicht im Murchison Falls Nationalpark selbst, sondern im Ziwa Rhino Sanctuary -- einem Schutzgebiet 50 Kilometer vor Masindi an der Strasse von Kampala. Das Sanctuary ist Ugandas einziger Ort fuer Fusswanderungen zu Breitmaulnashoernern. Eintritt: 20 USD. Perfekter Zwischenstopp auf dem Weg von Kampala nach Murchison.',
+      },
+      {
+        q: 'Was ist Masindi und warum ist es als Ausgangspunkt wichtig?',
+        a: 'Masindi ist eine Kleinstadt mit rund 50.000 Einwohnern, 220 Kilometer nordwestlich von Kampala. Sie dient als logistischer Ausgangspunkt fuer den Murchison Falls National Park, das Budongo Forest Reserve und das Kabwoya Wildlife Reserve am Lake Albert. In Masindi kann man Vorraete aufstocken, Fahrzeuge tanken und lokale Reiseagenturen (z.B. Yebo Tours) fuer Transport und Safaris beauftragen.',
+      },
+    ],
+    related: [
+      { href: '/nationalparks/murchison_falls', title: 'Murchison Falls National Park', desc: 'Alles ueber Ugandas groessten Nationalpark: Aktivitaeten, Wildtiere und Eintrittspfeise.' },
+      { href: '/der-nil-in-uganda', title: 'Der Nil in Uganda', desc: 'Vom Victoriasee ueber Jinja bis zu den Murchison Falls.' },
+      { href: '/unterkunft-uganda', title: 'Unterkuenfte in Uganda', desc: 'Von Luxuslodges bis Backpacker-Hostels: Unterkunfts-Ueberblick fuer ganz Uganda.' },
+      { href: '/lodges-bwindi-lake-bunyonyi', title: 'Lodges Bwindi & Lake Bunyonyi', desc: 'Die besten Unterkuenfte im Suedwesten Ugandas fuer Gorilla Trekking und Seeblick.' },
+    ],
+    quellen: [
+      'Reisefuehrer Uganda 2020, Reise Know-How Verlag (Teil 21: Masindi, Teil 22: Murchison Falls National Park)',
+      'National Status of the Environment Report (NSOER) 2024, Uganda',
+      'Uganda Wildlife Authority (UWA): ugandawildlife.org, Stand 2026',
+      'Eigene Reiseerfahrungen Murchison Falls National Park, Oktober 2024 (Mark Suer)',
+    ],
+    isTouristDestination: true,
+    partnerContext: 'default',
+  },
+
   'gorilla-trekking-budget-bwindi': {
     slug: '/gorilla-trekking-budget-bwindi',
     title: 'Gorilla Trekking Budget Bwindi 2026 -- Unter 1000 USD',
