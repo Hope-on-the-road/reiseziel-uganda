@@ -535,7 +535,10 @@ export default function PageLayout({ page, heroPhoto, contentPhotos = [] }) {
     ...b, url: b.href ? `${baseUrl}${b.href}` : undefined,
   }))
 
-  const isPortrait = (p) => p.orientation?.includes('(90)') || p.orientation?.includes('(270)')
+  const isPortrait = (p) => {
+    const o = p.orientation || ''
+    return o.includes('(90)') || o.includes('(270)') || o.includes('Rotate 90') || o.includes('Rotate 270') || o.toLowerCase().includes('hochformat')
+  }
   const galleryPhotos = contentPhotos.filter(p => p.thumbnail_url && !isPortrait(p))
 
   // Distribute unique photos across showPhotos sections (2 per section, non-overlapping)

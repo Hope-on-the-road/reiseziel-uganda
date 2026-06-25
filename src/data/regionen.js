@@ -8,7 +8,6 @@ export const regionen = {
     metaDescription: 'Buhoma Uganda: Ausgangspunkt fuer Gorilla Trekking im Bwindi Impenetrable Forest. Unterkuenfte, Anreise, Community Walks und alles Wissenswerte.',
     breadcrumbs: [{ label: 'Regionen', href: '/#regionen' }, { label: 'Buhoma' }],
     photoFilter: 'buhoma',
-    heroPhotoUrl: 'https://eqlnmpmfhxdllkuetury.supabase.co/storage/v1/object/public/thumbnails/uganda_1780940404089_gzau.jpg',
     kurzantwort: 'Buhoma ist das aelteste und bekannteste Tor zum Bwindi Impenetrable National Park. Der kleine Ort am noerdlichen Rand des Parks ist Ausgangspunkt fuer Gorilla Trekking und bietet Community Walks, Batwa-Kulturerlebnisse und einige der besten Lodges in ganz Uganda.',
     fakten: [
       { label: 'Lage', value: 'Noerdlicher Rand des Bwindi Parks' },
