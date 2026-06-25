@@ -189,6 +189,7 @@ const ROUTES = [
   '/gorilla-trekking-budget-bwindi',
   '/nachhaltiger-tourismus-uganda',
   '/duerre-armut-uganda',
+  '/bwindi-artenvielfalt',
   '/schimpansen-tracking-kyambura-gorge',
   '/ruanda/akagera-nationalpark',
   '/reiseplanung/visa',
