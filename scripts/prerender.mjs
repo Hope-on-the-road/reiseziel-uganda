@@ -187,6 +187,7 @@ const ROUTES = [
   '/hotel-ruanda-geschichte-kigalis',
   '/lodges-murchison-falls',
   '/gorilla-trekking-budget-bwindi',
+  '/nachhaltiger-tourismus-uganda',
   '/schimpansen-tracking-kyambura-gorge',
   '/ruanda/akagera-nationalpark',
   '/reiseplanung/visa',
