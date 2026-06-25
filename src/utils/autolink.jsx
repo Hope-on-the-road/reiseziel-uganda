@@ -137,6 +137,8 @@ const LINK_RULES = [
   { pattern: /Nubische[s\s-]Giraffe/gi, path: '/nubische-giraffe-uganda' },
   { pattern: /Ziwa[s\s-]Rhino/gi, path: '/ziwa-rhino-sanctuary' },
   { pattern: /Walking[s\s-]Safari/gi, path: '/walking-safari-uganda' },
+  { pattern: /Gorilla[\s-]Trekking[\s-]Budget|Budget[\s-]Gorilla[\s-]Trekking/gi, path: '/gorilla-trekking-budget-bwindi' },
+  { pattern: /Nebensaison.*Permit|Permit.*Nebensaison/gi, path: '/gorilla-trekking-budget-bwindi' },
   { pattern: /Kyambura\s+Gorge/gi, path: '/schimpansen-tracking-kyambura-gorge' },
   { pattern: /Kyambura[\s-]Schlucht/gi, path: '/schimpansen-tracking-kyambura-gorge' },
   { pattern: /Fig\s+Tree\s+Camp/gi, path: '/schimpansen-tracking-kyambura-gorge' },

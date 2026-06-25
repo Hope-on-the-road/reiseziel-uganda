@@ -244,6 +244,7 @@ export default function App() {
           <Route path="/grenzen-uganda-ruanda-kongo" element={<StandalonePage photos={photos} clusters={clusters} pageId="grenzen-uganda-ruanda-kongo" />} />
           <Route path="/packliste-gorilla-tracking-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="packliste-gorilla-tracking-uganda" />} />
           <Route path="/hotel-ruanda-geschichte-kigalis" element={<StandalonePage photos={photos} clusters={clusters} pageId="hotel-ruanda-geschichte-kigalis" />} />
+          <Route path="/gorilla-trekking-budget-bwindi" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-trekking-budget-bwindi" />} />
           <Route path="/schimpansen-tracking-kyambura-gorge" element={<StandalonePage photos={photos} clusters={clusters} pageId="schimpansen-tracking-kyambura-gorge" />} />
           <Route path="/ruanda/:pageId" element={<RuandaPage photos={photos} clusters={clusters} />} />
           <Route path="/akagera-nationalpark" element={<Navigate to="/ruanda/akagera-nationalpark" replace />} />
