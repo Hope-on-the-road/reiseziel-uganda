@@ -22,8 +22,12 @@ export default function RegionPage({ photos, clusters }) {
     : []
 
   const isPortrait = (p) => p.orientation?.includes('(90)') || p.orientation?.includes('(270)')
-  const heroPhoto = clusterPhotos.find(p => !isPortrait(p)) || clusterPhotos[0] || null
-  const contentPhotos = clusterPhotos.filter(p => p !== heroPhoto)
+  const heroPhoto = page.heroPhotoUrl
+    ? { thumbnail_url: page.heroPhotoUrl }
+    : clusterPhotos.find(p => !isPortrait(p)) || clusterPhotos[0] || null
+  const contentPhotos = page.heroPhotoUrl
+    ? clusterPhotos.filter(p => !isPortrait(p))
+    : clusterPhotos.filter(p => p !== heroPhoto)
 
   return <PageLayout page={page} heroPhoto={heroPhoto} contentPhotos={contentPhotos} />
 }
