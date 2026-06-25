@@ -16,6 +16,7 @@ export async function loadPhotos() {
   const { data, error } = await supabase
     .from('media_items')
     .select('id, file_name, title, description, keywords, category, animals_visible, animal_type, thumbnail_path, orientation')
+    .in('status', ['approved', 'used'])
     .order('created_at', { ascending: false })
     .limit(500)
 
