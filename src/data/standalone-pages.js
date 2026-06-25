@@ -9130,4 +9130,104 @@ export const standalonePages = {
       'UN-Berichte zum Voelkermord 1994',
     ],
   },
+
+  'schimpansen-tracking-kyambura-gorge': {
+    slug: '/schimpansen-tracking-kyambura-gorge',
+    title: 'Schimpansen-Tracking Kyambura Gorge — Tipps 2026',
+    h1: 'Schimpansen-Tracking in der Kyambura Gorge: Die vergessene Schlucht im Queen Elizabeth Nationalpark',
+    subtitle: 'Max. 4 Personen, 50 USD, ca. 3 Stunden — das intimste Schimpansen-Erlebnis Ugandas',
+    metaDescription: 'Schimpansen-Tracking in der Kyambura Gorge: 50 USD, ca. 60 % Sichtungschance, max. 4 Personen. Alle Infos zu Ablauf, Anreise, Buchung und Alternativen.',
+    publishedTime: '2026-06-25',
+    modifiedTime: '2026-06-25',
+    breadcrumbs: [
+      { label: 'Schimpansen-Trekking', href: '/schimpansen-trekking' },
+      { label: 'Kyambura Gorge' },
+    ],
+    kurzantwort: 'Das Schimpansen-Tracking in der Kyambura Gorge im Queen Elizabeth Nationalpark kostet 50 USD pro Person und dauert rund 3 Stunden. Maximal 4 Personen pro Tour machen das Erlebnis ausgesprochen intim — die Sichtungschance liegt allerdings nur bei etwa 60 Prozent. Wer eine moeglichst sichere Begegnung sucht, ist in Kibale oder im Kalinzu Forest Reserve besser aufgehoben. Wer Abenteuer, dramatische Landschaft und Exklusivitaet sucht, findet in der Kyambura Gorge eine der ungewoehnlichsten Primate-Tracking-Erfahrungen Ugandas.',
+    fakten: [
+      { label: 'Lage', value: 'Queen Elizabeth Nationalpark, Westuganda' },
+      { label: 'Startpunkt', value: 'Fig Tree Camp am Kazinga Channel' },
+      { label: 'Touren', value: 'Taeglich 8 und 13 Uhr' },
+      { label: 'Preis', value: '50 USD pro Person' },
+      { label: 'Dauer', value: 'ca. 3 Stunden' },
+      { label: 'Gruppengroesse', value: 'max. 4 Personen' },
+      { label: 'Schimpansen-Gruppe', value: '20-30 Tiere, habituiert' },
+      { label: 'Sichtungschance', value: 'ca. 60 %' },
+      { label: 'Schwierigkeit', value: 'koerperlich anspruchsvoll' },
+      { label: 'Buchung', value: 'Park HQ Katunguru, im Voraus' },
+    ],
+    photoFilter: 'bwindi',
+    sections: [
+      {
+        id: 'was-ist-die-kyambura-gorge',
+        title: 'Eine Schlucht mitten in der Savanne',
+        content: 'Die Kyambura Gorge ist einer dieser Orte, den man nicht erwartet. Inmitten der weiten Graslandschaft des Queen Elizabeth Nationalparks schneidet sich eine bis zu 40 Meter tiefe Schlucht ins Hochland Westugandas — 16 Kilometer lang, stellenweise 400 Meter breit, vollstaendig bewaldet. Darueber: offene Savanne, Bueffelherde, Horizont. Darin: dichter Tropenwald, Feuchtwaerme, Dauerschatten.\n\nGenau in diesem Waldstreifen lebt eine Schimpansen-Gruppe mit 20 bis 30 Tieren. Ueber mehrere Jahre wurden diese Tiere durch erfahrene Primatenforscher an die Anwesenheit von Menschen gewoehnt — ein Prozess, den Experten Habituierung nennen. Erst danach werden Besuche ermoeglicht. Die Schlucht bildet gleichzeitig die natuerliche Grenze zwischen dem Queen Elizabeth National Park und dem benachbarten Kyambura Game Reserve. Der ugandische Reisefuehrer des Reise Know-How Verlags beschreibt die Kyambura Gorge treffend als eigenes Mikroklima: feucht, heiss, eng — ein anderes Uganda als das draussen.\n\nWer das Schimpansen-Tracking hier waehlt, betritt keine ausgetretene Tourismusstrecke. Die Kyambura Gorge ist weniger bekannt als Kibale, weniger bequem als Kalinzu — und genau deshalb fuer manche Reisende die interessanteste Schimpansen-Option des Landes.',
+        showPhotos: false,
+      },
+      {
+        id: 'ablauf-der-tour',
+        title: 'Ablauf: Was dich auf der Tour erwartet',
+        content: 'Zweimal taeglich bricht eine kleine Gruppe vom Fig Tree Camp am Ufer des Kazinga Channels auf: morgens um 8 Uhr und mittags um 13 Uhr. Die Regelung ist eindeutig — maximal vier Personen pro Tour. Das macht das Erlebnis ausgesprochen intim: keine Reisegruppen, kein Gedraenge, kein Fluestertelefon durch zwanzig Personen.\n\nDer Abstieg in die Schlucht beginnt unmittelbar. Innerhalb weniger Minuten verlaesst man die offene Savanne und taucht in eine andere Welt ein. Das Mikroklima der Gorge ist eigentaendig: feucht, heiss, die Luft schwer. An einigen Stellen ueberquert man Bachlaeufe auf schmalen Baumstaemmen. Das ist kein Spaziergang — gutes Schuhwerk und eine gewisse Kondition sind keine Option, sondern Voraussetzung.\n\nBegleitet wird jede Gruppe von einem erfahrenen Guide und einem bewaffneten Ranger der Uganda Wildlife Authority. Dieses Bild war mir aus dem Gorilla-Trekking im Bwindi-Nationalpark vertraut: Auch dort begleiteten uns zwei Ranger durch den Regenwald — zunaechst ein ungewohntes Bild, im dichten Wald aber schnell selbstverstaendlich. Die Ranger kennen das Gelaende aus dem Effeff, helfen bei schwierigen Abschnitten und wissen, wie man sich in der Naehe von Primaten verhaelt. Die Tour dauert insgesamt rund 3 Stunden. Gebucht und bezahlt werden muss sie vorab am Park-Hauptquartier der Uganda Wildlife Authority in Katunguru.',
+        showPhotos: true,
+      },
+      {
+        id: 'sichtungschancen',
+        title: 'Wie gross ist die Chance, Schimpansen zu sehen?',
+        content: 'Hier muss man ehrlich sein: Die Sichtungschance liegt bei etwa 60 Prozent (Quelle: Reisefuehrer Uganda 2020). Das ist deutlich weniger als beim Gorilla-Trekking im Bwindi-Nationalpark, wo die Begegnung nahezu garantiert ist. Und es ist weniger als in Kibale oder im nahe gelegenen Kalinzu Forest Reserve, wo die Erfolgsquote bei bis zu 95 Prozent liegt.\n\nWarum ist das so? Auch habituierte Schimpansen koennen eine grosse Fluchtdistanz haben. Sie sind beweglicher als Berggorillas, klettern hoch in die Baumkronen, wechseln schnell ihren Aufenthaltsort und sind in der dichten Vegetation der Gorge schwer zu orten. Selbst wenn die Gruppe gefunden wird, bleibt sie moeglicherweise auf Distanz.\n\nDas bedeutet fuer die Planung: Wer die Kyambura Gorge bucht, sollte nicht mit der Erwartung kommen, Schimpansen sicher zu sehen. Die Chance besteht — und wenn sie sich erfuellt, ist das Erlebnis unvergleichlich. Aber die Tour lohnt sich auch dann, wenn die Gruppe ausbleibt: die Landschaft der Schlucht, die Voegel, das Licht das durch das Kronendach faellt — das ist ein Erlebnis fuer sich. Wer auf Nummer sicher gehen will oder wenig Zeit hat, waehlt besser Kalinzu oder Kibale.',
+        showPhotos: true,
+      },
+      {
+        id: 'buchung-anreise-tipps',
+        title: 'Buchung, Anreise und praktische Tipps',
+        content: 'Die Tour kostet 50 USD pro Person und muss vorab am Park-Hauptquartier der Uganda Wildlife Authority (UWA) in Katunguru gebucht und bezahlt werden. Katunguru liegt am suedlichen Eingang des Queen Elizabeth Nationalparks. Aufgrund der kleinen Gruppengroesse von maximal vier Personen ist fruehzeitige Buchung ratsam — in der Hochsaison von Juni bis September koennen die Plaetze schnell vergeben sein.\n\nFuer die Tour gelten aehnliche Empfehlungen wie fuer jede Primatenbegegnung in Uganda: festes Schuhwerk, lange Hosen und ein langaermeliges Oberteil in gedeckten Farben, ausreichend Wasser, Insektenschutz und eine leichte Regenjacke. Die Schlucht ist auch in der Trockenzeit feucht. Wer den Rucksack lieber abgibt, kann einen Porter fuer rund 20 USD hinzubuchen (Quelle: Reisefuehrer Uganda 2020).\n\nAnreise: Der Queen Elizabeth Nationalpark liegt rund 6 Fahrstunden von Kampala entfernt, die Hauptroute fuehrt ueber Mbarara. Eine Alternative laeuft ueber Fort Portal. Das Fig Tree Camp liegt direkt am Kazinga Channel — Startpunkt der Schimpansen-Touren und gleichzeitig eine der besten Adressen fuer Bootsafaris im Park. Viele Reisende kombinieren den Besuch mit Gorilla-Trekking im Suedwesten: Vom Ausgangspunkt Kabale liegt der Bwindi Impenetrable National Park rund 120 Kilometer westlich, die Fahrt dorthin dauert mehrere Stunden auf teils holprigen Pisten — eine Suedwest-Rundreise durch Uganda laesst sich dabei gut planen.',
+        showPhotos: false,
+      },
+      {
+        id: 'alternativen-kalinzu-kibale',
+        title: 'Kalinzu, Kibale, Kyambura: Welche Option passt zu dir?',
+        content: 'Uganda bietet drei grundlegend verschiedene Moeglichkeiten fuer Schimpansen-Tracking — jede mit eigener Logik, eigenem Anspruch und eigenem Ergebnis.\n\nDas Kalinzu Forest Reserve suedlich des Queen Elizabeth Nationalparks ist die kostenguenstigste und verlasslichste Option: Eine Tracking-Tour kostet 40 USD zuzueglich Parkeintritt, die Erfolgsquote liegt bei beeindruckenden 95 Prozent. Der Grund: Zwei grosse habituierte Gruppen mit je 50 bis 60 Tieren leben hier. Vier Trails fuehren durch den tropischen Regenwald am Osthang des Zentralafrikanischen Grabens — vom 2,5 Kilometer kurzen River Trail bis zum 11 Kilometer langen Waterfall Trail. Wer Verlasslichkeit ueber Exklusivitaet stellt, ist in Kalinzu besser aufgehoben.\n\nDer Kibale Forest National Park im Westen Ugandas gilt als die klassische Adresse fuer Schimpansen-Tracking auf dem Kontinent. Die Fuehrungen starten am Visitor\'s Center in Kanyanchu, 36 Kilometer von Fort Portal entfernt, taeglich um 8 und 14 Uhr. Eine Standard-Tour dauert 2 bis 4 Stunden inklusive einer Stunde Aufenthalt bei der Gruppe; die Sichtung der habituierten Schimpansen kann nahezu garantiert werden. Wer einen ganzen Tag bleiben moechte, bucht die Chimpanzee Habituation Experience (CHEX) fuer 220 USD — ein voller Tag mit einer noch nicht vollstaendig habituierten Gruppe, begleitet von Forschern.\n\nDie Kyambura Gorge waehlt man nicht, weil sie die sicherste oder bequemste Option ist. Man waehlt sie, weil die 40 Meter tiefe Waldschlucht inmitten der offenen Savanne ein Erlebnis ist, das kein anderer Ort bieten kann. Und weil vier Menschen in einer Schlucht manchmal das Unerwartete erlauben.',
+        showPhotos: false,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Was kostet das Schimpansen-Tracking in der Kyambura Gorge?',
+        a: 'Die Tour kostet 50 USD pro Person und muss vorab am Park-Hauptquartier der Uganda Wildlife Authority (UWA) in Katunguru gebucht und bezahlt werden. Inbegriffen sind Guide und bewaffneter Ranger. Einen Porter kann man fuer rund 20 USD zusaetzlich hinzubuchen.',
+      },
+      {
+        q: 'Wie hoch ist die Chance, Schimpansen zu sehen?',
+        a: 'Die Sichtungschance liegt bei etwa 60 Prozent (Stand 2020, Reisefuehrer Uganda). Das ist deutlich weniger als in Kibale (nahezu garantiert) oder im Kalinzu Forest Reserve (bis zu 95 %). Auch habituierte Schimpansen koennen eine grosse Fluchtdistanz haben und sind in der dichten Vegetation der Gorge schwer zu orten.',
+      },
+      {
+        q: 'Wie koerperlich anspruchsvoll ist die Tour in der Kyambura Gorge?',
+        a: 'Die Tour ist koerperlich anspruchsvoll. Der Abstieg in die Schlucht, das feucht-heisse Mikroklima, unebenes Gelaende und gelegentliche Baumstamm-Uebergaenge ueber Bachlaeufe erfordern gute Kondition und festes Schuhwerk. Die Tour ist nicht fuer kleine Kinder oder koerperlich eingeschraenkte Personen geeignet.',
+      },
+      {
+        q: 'Was ist der Unterschied zwischen Kyambura Gorge und Kibale Forest?',
+        a: 'Kibale bietet hoehere Sichtungschancen, groessere Gruppen und bessere Infrastruktur — aber auch mehr Besucher. Die Kyambura Gorge ist exklusiver (max. 4 Personen), die Sichtungschance liegt bei 60 Prozent, dafuer ist das Erlebnis in der dramatischen Schlucht einmalig. Fuer eine zuverlassige Begegnung: Kibale oder Kalinzu. Fuer ein Abenteuer in aussergewoehnlicher Landschaft: Kyambura.',
+      },
+      {
+        q: 'Wie komme ich von Kabale zum Bwindi Impenetrable National Park?',
+        a: 'Bwindi liegt rund 120 Kilometer westlich von Kabale. Die Fahrt dauert mehrere Stunden, da die Strassen in dieser Region teils holprig und eng sind. Uebliche Route: Kabale Richtung Kisoro, dann ueber Butogota nach Buhoma (Nordeingang) oder ueber Rubuguri nach Rushaga (Suedeingang). Viele Reisende kombinieren die Strecke mit einem Stopp am Lake Bunyonyi.',
+      },
+      {
+        q: 'Kann man die Kyambura Gorge mit Gorilla-Trekking kombinieren?',
+        a: 'Ja — das ist eine der klassischen Uganda-Suedwestrouten. Bwindi (Gorilla-Trekking), Lake Bunyonyi, Queen Elizabeth Nationalpark (Kyambura Gorge) und Kibale lassen sich auf einer 7- bis 14-taegigen Rundreise durch den Suedwesten Ugandas gut verbinden.',
+      },
+    ],
+    related: [
+      { href: '/schimpansen-trekking', title: 'Schimpansen-Trekking in Uganda', desc: 'Alle Moeglichkeiten fuer Schimpansen-Tracking in Uganda im Ueberblick.' },
+      { href: '/gorilla-trekking', title: 'Gorilla-Trekking in Uganda', desc: 'Permits, Preise und Ablauf fuer das Gorilla-Trekking in Bwindi.' },
+      { href: '/nationalparks/queen_elizabeth', title: 'Queen Elizabeth Nationalpark', desc: 'Safari, Kazinga Channel und Wildbeobachtung im groessten Park Ugandas.' },
+      { href: '/schimpansen-habituation-chex', title: 'CHEX in Kibale', desc: 'Ein voller Tag mit einer Schimpansengruppe: Was die CHEX-Erfahrung bietet.' },
+      { href: '/primate-tracking-uganda', title: 'Primaten-Tracking in Uganda', desc: 'Gorillas, Schimpansen und mehr: alle Primate-Erfahrungen Ugandas im Vergleich.' },
+    ],
+    quellen: [
+      'Reisefuehrer Uganda 2020, Reise Know-How Verlag (Teil 16: Kibale, Teil 19: Kyambura Gorge, Teil 20: Kalinzu)',
+      'Uganda Wildlife Authority (UWA): ugandawildlife.org, Stand 2026',
+      'Eigene Reiseerfahrungen aus Uganda, Januar und Oktober 2024',
+    ],
+    isTouristDestination: true,
+    partnerContext: 'default',
+  },
 }
