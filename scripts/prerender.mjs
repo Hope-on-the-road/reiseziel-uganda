@@ -193,6 +193,7 @@ const ROUTES = [
   '/umweltaudit-uganda',
   '/nema-umweltschutz-uganda',
   '/jinja-sehenswuerdigkeiten',
+  '/murchison-falls-nationalpark',
   '/schimpansen-tracking-kyambura-gorge',
   '/ruanda/akagera-nationalpark',
   '/reiseplanung/visa',

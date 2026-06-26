@@ -10024,4 +10024,101 @@ export const standalonePages = {
     partnerContext: 'default',
     photoFilter: 'kampala',
   },
+
+  'murchison-falls-nationalpark': {
+    slug: '/murchison-falls-nationalpark',
+    title: 'Murchison Falls Nationalpark — Safari, Fälle & Tipps',
+    h1: 'Murchison Falls Nationalpark: Ugandas groesster Park mit Nilsafari, Giraffen und den mächtigsten Wasserfaellen der Welt',
+    subtitle: 'Bootsafari auf dem Victoria-Nil, Pirschfahrt durch die Savanne, Nilkrokodile und Rothschild-Giraffen — Ugandas Nordwesten auf eigene Faust erkunden',
+    metaDescription: 'Murchison Falls Nationalpark: Bootsafari, Pirschfahrt, Giraffen & Nilkrokodile. Anreise ab Kampala, beste Reisezeit, Unterkuenfte. Vor-Ort-Bericht Oktober 2024.',
+    publishedTime: '2026-06-26T07:00:00+02:00',
+    modifiedTime: '2026-06-26T07:00:00+02:00',
+    breadcrumbs: [
+      { label: 'Reiseziel Uganda', href: '/' },
+      { label: 'Nationalparks', href: '/nationalparks' },
+      { label: 'Murchison Falls Nationalpark', href: '/murchison-falls-nationalpark' },
+    ],
+    kurzantwort: 'Der Murchison Falls Nationalpark im Nordwesten Ugandas ist mit rund 3.840 km² der groesste Nationalpark des Landes. Benannt nach den Murchison Falls, wo der Victoria-Nil durch eine nur 7 Meter breite Felsspalte presst und dabei zu einem der kraftvollsten Wasserfaelle der Welt wird, bietet der Park Pirschfahrten mit Rothschild-Giraffen, Bootsafaris mit Nilkrokodilen und Flusspferden sowie ueber 450 Vogelarten. Die Anreise erfolgt ueber Masindi, rund 300 km und 5–6 Stunden von Kampala.',
+    fakten: [
+      { label: 'Flaeche', value: 'ca. 3.840 km² (groesster Nationalpark Ugandas)' },
+      { label: 'Lage', value: 'Nordwestuganda, Distrikte Nwoya, Kiryandongo, Buliisa, Masindi' },
+      { label: 'Naechste Stadt', value: 'Masindi (ca. 50 km bis Westeingang Tangi)' },
+      { label: 'Entfernung Kampala', value: 'ca. 300 km (5–6 Stunden)' },
+      { label: 'Wildtiere', value: 'Elefant, Giraffe (Rothschild), Flusspferd, Nilkrokodil, Bueffel, Loewe, Leopard' },
+      { label: 'Vogelarten', value: 'ueber 450 Arten' },
+      { label: 'Wasserfall', value: 'Murchison Falls: ca. 43 m Fallhoehe, 7 m Engstelle' },
+      { label: 'Beste Reisezeit', value: 'Trockenzeit: Dezember–Februar und Juni–September' },
+      { label: 'Parkbetrieb', value: 'Uganda Wildlife Authority (UWA)' },
+      { label: 'GPS Park', value: 'ca. 2.27°N, 31.67°O (Victoria-Nil-Abschnitt)' },
+    ],
+    sections: [
+      {
+        id: 'opening-bootsafari',
+        title: 'Krokodile vom Boot aus: Wie der Murchison Falls Nationalpark wirkt',
+        content: 'Vom Boot aus sieht man, wie gross Nilkrokodile wirklich sind. Mark Suer, Fotograf und Uganda-Reisender, beschreibt den Moment seiner Bootsafari im Oktober 2024 so: Die Krokodile lagen ein gutes Stueck entfernt am Ufer, aber selbst aus dieser Distanz war beeindruckend, wie gross und stark die Tiere sind. Und wie schnell. Das Boot hielt Abstand, aber nah genug, um jede Einzelheit zu erkennen: die Schuppen, die Zaehne, das reglose Lauern. GPS-Koordinaten 2.2771°N, 31.6698°O, 18. Oktober 2024.\n\nDer Murchison Falls Nationalpark ist Ugandas groesster Nationalpark — ein Gebiet von rund 3.840 km², das sich vom Victoria-Nil im Sueden bis zu den Grasbuelten des Albertine Rifts im Norden erstreckt. Waehrend meines 5-taegigen Aufenthalts im Oktober 2024, dokumentiert mit 8 Originalfotos an GPS-verifizierten Standorten tief im Parkinneren, wurde klar: Das ist kein Nationalpark fuer Schnelldurchlaeufe. Pirschfahrt am fruehen Morgen, Bootsafari am Nachmittag, Sonnenaufgang ueber der Savanne — jeder Teil des Tages hat hier ein anderes Licht, ein anderes Tier, eine andere Stimmung.\n\nBenannt nach den Murchison Falls, die das Herzstuck des Parks bilden, liegt das Gebiet im Nordwesten Ugandas. Der Victoria-Nil durchquert den Park von Ost nach West, bevor er weiter in den Albertsee fliesst. Diese Wasserader zieht die Tierwelt an und macht Bootsafaris zu einer der dichtesten Wildtierbeobachtungen, die Uganda zu bieten hat.',
+        showPhotos: true,
+      },
+      {
+        id: 'murchison-falls',
+        title: 'Die Murchison Falls: Ein Wasserfall der besonderen Art',
+        content: 'An der Stelle, die dem Nationalpark seinen Namen gibt, presst der gesamte Victoria-Nil durch eine Felsspalte von nur 7 Metern Breite — und faellt dann 43 Meter in die Tiefe. Das Ergebnis ist ein Wasserfall von ausserordentlicher Kraft: Die Wassermengen, die hier je Sekunde durch einen Engpass gedrueckt werden, sind so hoch, dass Murchison Falls zu den maechtigen Wasserfaellen der Welt gezaehlt werden. Der Larm ist schon von weitem zu hoeren, das Spruehwasser steigt meterhoch auf.\n\nDer schottische Entdecker Samuel White Baker beschrieb die Faelle 1864 nach seiner Entdeckungsreise und benannte sie nach Roderick Impey Murchison, dem damaligen Praesidenten der Royal Geographical Society in London. Unter dem ugandischen Praesident Idi Amin wurden die Faelle voruebergehend in Kabalega Falls umbenannt — ein Name, der die historische Kontinuitaet mit dem Bunyoro-Koenigreich betont, das dieses Gebiet jahrhundertelang bewohnte. Heute ist Murchison Falls der offizielle und international gaengige Name.\n\nDen Faellen naehert man sich am besten auf zwei Wegen: Von oben — zu Fuss ueber einen kurzen Wanderpfad vom oberen Abschnitt — sieht man die Enge des Engpasses und versteht, welche Kraft sich dort entlaedt. Von unten, auf der Bootsafari, nahert man sich dem Fuss der Faelle und erlebt die Gischt unmittelbar. Beide Perspektiven ergaenzen sich. Wer nur eine waehlen kann: Die Bootsfahrt bis zum Fuss der Faelle gilt als Pflichtprogramm. Die Fahrt von Paraa bis zum Wasserfall dauert in der Regel zwei bis drei Stunden. Der Guide der Uganda Wildlife Authority (UWA) erklaert die Geologie, zeigt Voegel und halt auf Anfrage am Hippo-Pool an.',
+        showPhotos: false,
+      },
+      {
+        id: 'wildlife-pirschfahrt',
+        title: 'Pirschfahrt im Murchison Falls Nationalpark: Giraffen, Elefanten, Loewen',
+        content: 'Die Rothschild-Giraffe ist das unverwechselbare Tier des Murchison Falls Nationalparks. Diese Unterart der Giraffe — mit ihren charakteristisch hellen Beinen ohne das netzartige Muster unterhalb der Knie — ist endemisch im noerdlichen Uganda und zahlt zu den seltenen Giraffenunterarten weltweit. Der Murchison Falls Nationalpark beherbergt eine der bedeutendsten Populationen.\n\nWaehrend meiner Pirschfahrten am 18. Oktober 2024 begegnete ich der Rothschild-Giraffe gleich dreimal. Das eindrucksvollste war eine Begegnung, bei der das Tier nah an den Safari-Jeep herantrat und uns einfach anschaute. Ruhig, neugierig, ohne Fluchtreflex. Vom offenen Dach des Jeeps aus war das Gesicht der Giraffe gross genug, um jeden Ausdruck zu lesen. Diese Unmittelbarkeit — ein Tier in freier Wildbahn, das einen Moment lang entscheidet, den Menschen zu beobachten statt zu fliehen — ist das Erlebnis, das Pirschfahrten im Murchison von Safari-Videos unterscheidet. Eine andere Giraffe frass alleine in der Savannengraslandschaft, ruhig und wuerdevoll, waehrend der Morgen noch kuehl war.\n\nNeben der Giraffe sind Elefanten, Flusspferde und Nilkrokodile die haeufigsten Sichtungen. Die Elefantenpopulation des Murchison Falls Nationalparks ist eine der groessten Ugandas. Loewen kommen ebenfalls vor, sind aber weniger verlasslich zu sehen als im Queen Elizabeth Nationalpark. Wasserbock, Topi, Uganda-Kob und Bueffel fuellendie Grasflaechen suedlich des Nils.\n\nBesonders empfehlenswert: der Sonnenaufgangs-Game-Drive. Wir fuhren am 19. Oktober 2024 kurz nach Sonnenaufgang los — GPS 2.3703°N, 31.5493°O — und die Savanne lag noch im Halbdunkel, als die ersten Palmensilhouetten gegen den anbrechenden Himmel sichtbar wurden. Die Temperaturen sind fruehmorgens kuehl, das Licht fuer Fotos ideal und die Tiere aktiver als in der Mittagshitze. Wer eine Unterkunft im Park hat, sollte das nicht verpassen.',
+        showPhotos: true,
+      },
+      {
+        id: 'bootsafari-nil',
+        title: 'Bootsafari auf dem Victoria-Nil: Das Herzstuck eines Murchison-Besuchs',
+        content: 'Die Bootsafari ab Paraa ist das, was Reisende am haeufigsten erwaehnen, wenn sie vom Murchison Falls Nationalpark sprechen. Und das zu Recht. Der Abschnitt des Victoria-Nils zwischen dem Paraa-Steg und dem Fuss der Murchison Falls gehoert zu den dichtesten Wildtierkorridoren des Landes: Flusspferde in Dutzenden, Nilkrokodile an jedem Uferstreifen, Elefanten die ans Wasser treten, und eine Vogelvielfalt, die Ornithologinnen und Ornithologen tagelang beschaeftigen kann.\n\nDie Nilkrokodile des Murchison sind kein subtiles Tier. Sie liegen offen am Ufer, teils halb im Wasser, teils vollstaendig in der Sonne. Ihre Groesse ueberrascht immer wieder: ausgewachsene Nilkrokodile koennen fuenf bis sechs Meter lang werden. Was in der Statistik abstrakt klingt, bekommt auf dem Boot eine Koerperlichkeit — wenn man sieht, wie ein Tier langsam ins Wasser gleitet und mit einem Schwanzschlag verschwindet, versteht man, warum diese Tiere als schnell gelten. Die Reaktionsgeschwindigkeit ist mit dem blossen Auge kaum zu fassen.\n\nFlusspferde sind auf diesem Nil-Abschnitt in grosser Zahl vertreten. Murchison Falls gilt als eines der Gebiete mit der hoechsten Flusspferddichte in Ostafrika. Die Tiere zeigen sich meist mit Augen und Nuestern ueber der Wasseroberflaeche, manchmal steigen sie aufs Ufer, manchmal gaehnen sie mit weit geoeffnetem Maul — ein Verhalten, das eher Imponiergehabe als Schlafrigkeit bedeutet. Abendfahrten zeigen die Tiere aktiver; morgens sind sie ruhiger.\n\nDie Bootsfahrt dauert je nach Ziel zwei bis drei Stunden. Eine kurze Variante endet am Hippo-Pool unterhalb der Faelle; eine laengere fuehrt bis zur Fallbasis. Beide lohnen sich. Tickets bucht man direkt bei der Uganda Wildlife Authority (UWA) am Paraa-Steg. [ZITAT: Guide ueber die beste Tageszeit fuer die Bootsfahrt]',
+        showPhotos: false,
+      },
+      {
+        id: 'anreise-praktisches',
+        title: 'Anreise, Unterkunft und praktische Tipps fuer den Murchison Falls Nationalpark',
+        content: 'Die Hauptroute in den Murchison Falls Nationalpark fuehrt ueber Masindi, eine Provinzstadt rund 50 Kilometer vom Westeingang (Tangi Gate) entfernt. Von Kampala nach Masindi sind es rund 220 Kilometer — etwa 3,5 bis 4 Stunden auf gut ausgebauter Strasse. Von Masindi weiter zum Paraa-Hauptquartier kommt noch einmal eine Stunde dazu. Wer die Nordroute ueber Gulu waehlt, braucht laenger, hat aber die Moeglichkeit, einen Stopp in Ziwa Rhino Sanctuary einzuplanen, wo man Suedliche Breitmaulnashoerner zu Fuss begleiten kann — ein einzigartiges Erlebnis, das einen separaten halben Tag verdient.\n\nFuer die Uebernachtung gibt es Optionen im Park (Paraa Safari Lodge, Chobe Safari Lodge) und ausserhalb an den Eingaengen. Wer im Park uebernachtet, profitiert von den Morgen- und Abendsafaris direkt nach Sonnenaufgang und vor Sonnenuntergang — die produktivsten Wildtier-Zeiten. Wer Kosten sparen will, findet in Masindi guenstigere Unterkuenfte; die Fahrzeit zum Gate betraegt aber etwa eine Stunde, was die Morgenroutine entsprechend fruehzeitig beginnen laesst. [RECHERCHE NOETIG: aktuelle UWA-Eintrittsgebuehren 2026]\n\nDie beste Reisezeit ist die Trockenzeit: Dezember bis Februar und Juni bis September. In diesen Monaten sind die Grasflaechen trockener, die Tiere konzentrieren sich um die Wasserstellen und Sichtweiten bei der Pirschfahrt sind besser. Mein Besuch im Oktober 2024 fiel in die kurze Regenzeit — das Gras war hochgewachsen und gruen, was Tierbeobachtungen etwas schwieriger machte, der Park aber umso gruener und eindrucksvoller wirkte. Oktobertage koennen kurzfristige Regenschauer bringen, die sich schnell verziehen.\n\nEin praktischer Hinweis: Das Paraa-Zentrum liegt suedlich des Nils; die groessere Grasflaeche mit den meisten Giraffen und Antilopensichtungen befindet sich noerdlich des Flusses. Wer Game Drives noerdlich machen moechte, muss mit der Park-Faehre uebersetzen. Die Faehre faehrt zu festgelegten Zeiten und kann sich bei hohem Aufkommen verzoegern — fruehmorgens ist sie am verlasslichsten.',
+        showPhotos: true,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Was ist der Murchison Falls Nationalpark?',
+        a: 'Der Murchison Falls Nationalpark ist mit rund 3.840 km² der groesste Nationalpark Ugandas. Er liegt im Nordwesten des Landes und wird vom Victoria-Nil durchquert. Bekannt ist er fuer die Murchison Falls, wo der Nil durch eine 7 Meter breite Felsspalte presst, sowie fuer Pirschfahrten mit Rothschild-Giraffen, Bootsafaris mit Nilkrokodilen und Flusspferden und ueber 450 Vogelarten.',
+      },
+      {
+        q: 'Wie komme ich von Kampala zum Murchison Falls Nationalpark?',
+        a: 'Die Hauptroute fuehrt von Kampala ueber Masindi zum Westeingang (Tangi Gate), rund 300 Kilometer und 5–6 Stunden Fahrt. Alternativ fuehrt eine Nordroute ueber Gulu mit einem empfehlenswerten Stopp im Ziwa Rhino Sanctuary. Oeffentliche Verbindungen gibt es nach Masindi, von dort sind private Transfers oder Mietwagen noetig. Die meisten Reisenden kombinieren den Park mit einer mehrtaegigen Uganda-Rundreise.',
+      },
+      {
+        q: 'Was sind die besten Aktivitaeten im Murchison Falls Nationalpark?',
+        a: 'Die wichtigsten Aktivitaeten sind: Bootsafari auf dem Victoria-Nil ab Paraa (2–3 Stunden, Krokodile, Flusspferde, Voegel), Pirschfahrt (Game Drive) noerdlich des Nils (Giraffen, Elefanten, Loewen), Wanderung zu den Murchison Falls von oben, fruehmorgens Sonnenaufgangs-Game-Drive. Im benachbarten Budongo Forest Reserve ist ausserdem Schimpansen-Trekking moeglich.',
+      },
+      {
+        q: 'Wie ist die beste Reisezeit fuer den Murchison Falls Nationalpark?',
+        a: 'Die beste Reisezeit fuer den Murchison Falls Nationalpark ist die Trockenzeit: Dezember bis Februar und Juni bis September. In diesen Monaten ist das Gras kuerzer, Tiere sind besser sichtbar und die Pisten sind befahrbarer. Besuche in der Regenzeit (Oktober–November, April–Mai) sind moeglich, das hohe Gras erschwert aber Sichtungen und einzelne Pisten koennen matschig werden.',
+      },
+      {
+        q: 'Was ist die Rothschild-Giraffe und warum ist sie besonders?',
+        a: 'Die Rothschild-Giraffe (Giraffa camelopardalis rothschildi) ist eine endemische Giraffenunterart des noerdlichen Ugandas. Sie unterscheidet sich von anderen Unterarten durch helle, nahezu ungemusterte Beine unterhalb der Knie. Die Rothschild-Giraffe gilt als stark gefaehrdet (IUCN, Stand 2026). Der Murchison Falls Nationalpark beherbergt eine der weltweit bedeutendsten Populationen dieser Unterart.',
+      },
+    ],
+    related: [
+      { href: '/lodges-murchison-falls', title: 'Lodges Murchison Falls', desc: 'Unterkuenfte innerhalb und ausserhalb des Parks – alle Preisklassen im Vergleich.' },
+      { href: '/nilkrokodil-uganda', title: 'Nilkrokodil in Uganda', desc: 'Biologie, Verhalten und die besten Beobachtungsplaetze fuer Ugandas Krokodile.' },
+      { href: '/nationalparks/murchison_falls', title: 'Park-Ueberblick', desc: 'Karten, Eingaenge und Zonen des Murchison Falls Nationalparks.' },
+      { href: '/boot-safari-uganda', title: 'Bootsafari in Uganda', desc: 'Nil, Kazinga-Kanal und Victoria-See: die besten Bootsafaris im Vergleich.' },
+      { href: '/ziwa-rhino-sanctuary', title: 'Ziwa Rhino Sanctuary', desc: 'Nashorn-Tracking zu Fuss — idealer Zwischenstopp auf der Route nach Murchison.' },
+    ],
+    quellen: [
+      'Uganda Wildlife Authority (UWA): ugandawildlife.org, Stand 2026',
+      'Reisefuehrer Uganda 2020, Reise Know-How Verlag (Teil 25: Murchison Falls Nationalpark)',
+      'Eigene Reiseerfahrungen im Murchison Falls Nationalpark, Oktober 2024 (5 Tage, GPS-verifiziert)',
+    ],
+    isTouristDestination: true,
+    partnerContext: 'default',
+    photoFilter: 'murchison_falls',
+  },
 }
