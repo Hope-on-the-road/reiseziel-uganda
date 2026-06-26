@@ -10121,4 +10121,137 @@ export const standalonePages = {
     partnerContext: 'default',
     photoFilter: 'murchison_falls',
   },
+
+  'kampala': {
+    slug: '/kampala',
+    title: 'Hauptstadt Ugandas: Kampala',
+    h1: 'Kampala -- Hauptstadt Ugandas und Tor zur Wildnis',
+    subtitle: 'Sieben Huegel, UNESCO-Welterbe, 65 Prozent des nationalen BIP -- und fuenf Stunden von Ugandas groesstem Nationalpark entfernt',
+    metaDescription: 'Die Hauptstadt Ugandas ist Kampala: 7 Huegel, Kasubi-Graeberstaette (UNESCO), 65 % des BIP. Reiseguide 2026 inkl. Murchison Falls.',
+    breadcrumbs: [{ label: 'Kampala' }],
+    publishedTime: '2026-06-26',
+    modifiedTime: '2026-06-26',
+    photoFilter: 'murchison_falls',
+    kurzantwort: 'Die Hauptstadt Ugandas ist Kampala -- eine Millionenstadt auf sieben Huegeln am Nordufer des Viktoriasees, die seit der Unabhaengigkeit Ugandas am 9. Oktober 1962 das politische, wirtschaftliche und kulturelle Zentrum des Landes bildet. Laut einer Studie der Kampala Capital City Authority erwirtschaftet das Stadtgebiet rund 65 Prozent des nationalen Bruttoinlandsprodukts. Fuer Reisende ist Kampala meistens der erste und letzte Eindruck von Uganda -- und der Ausgangspunkt fuer alle grossen Nationalparks des Landes, darunter den Murchison Falls Nationalpark im Nordwesten.',
+    fakten: [
+      { label: 'Status', value: 'Hauptstadt Ugandas seit 9. Oktober 1962' },
+      { label: 'Stadtbezirke', value: 'Kampala Central, Kawempe, Makindye, Nakawa, Rubaga' },
+      { label: 'Gruendung', value: '1890 (britische Festung), Gemeindestatus 1947' },
+      { label: 'Die sieben Huegel', value: 'Mengo, Mulago, Lubaga, Namirembe, Nsambya, Kololo, Nakasero' },
+      { label: 'Metropolitangebiet', value: 'Kampala, Wakiso, Mukono -- ueber 32 % der Fertigungsaktivitaeten Ugandas' },
+      { label: 'Anteil am nationalen BIP', value: 'Ca. 65 % (Quelle: KCCA/World Bank, VERIFIZIEREN)' },
+      { label: 'UNESCO-Welterbe', value: 'Kasubi-Graeberstaette (4 Buganda-Koenige)' },
+      { label: 'Feuchtgebiete im Stadtgebiet', value: '18,68 km2 = 8,95 % der Stadtflaeche (Quelle: KCCA 2018)' },
+      { label: 'Entfernung Murchison Falls', value: 'Ca. 305 km nordwestlich, ca. 5 Stunden Fahrt via Masindi' },
+      { label: 'Entfernung Entebbe (Flughafen)', value: 'Ca. 40 km suedlich, ca. 45 Minuten ohne Stau' },
+    ],
+    sections: [
+      {
+        id: 'eine-stadt-auf-sieben-huegeln',
+        title: 'Eine Stadt auf sieben Huegeln',
+        content: [
+          'Irgendwo auf der Ueberlandstrecke von Butiru in Richtung Murchison Falls passiert das: Du lehnst am Fenster, die Augen halb geschlossen nach stundenlanger Fahrt, und dann faehrt ein Kleinbus an dir vorbei -- oder besser gesagt: ein Kleinbus der unter einer Berglandschaft aus Matratzen, Bettgestellen und Haushaltswaren verschwindet. Die Ladung ueberragt das Fahrzeug locker um das Doppelte, alles sorgfaeltig verzurrt, der Fahrer gibt entspannt Gas. In Deutschland wuerde das die Autobahnpolizei auf den Plan rufen. In Uganda ist es Logistik -- pragmatisch, effizient, verlaesslich. Es ist das erste von vielen Momenten, in dem man versteht: Dieses Land loest Probleme auf seine eigene Art.',
+          'Kampala, die Hauptstadt Ugandas, ist die Verdichtung dieser Haltung auf engem Raum. Ueber 4,5 Millionen Menschen leben im Grossraum der Stadt, verteilt auf eine Topografie aus sieben Huegeln die das Stadtbild seit jeher praegte: Mengo, Mulago, Lubaga, Namirembe, Nsambya, Kololo und Nakasero. Auf jedem Huegel sitzt Geschichte. Auf Namirembe thront die anglikanische Kathedrale, auf Lubaga die roemisch-katholische, auf Mengo der Palast des Buganda-Koenigreichs. Was wie eine zufaellige Topografie wirkt, ist in Wahrheit ein Kompendium ugandischer Geschichte in drei Dimensionen.',
+          'Die Anfaenge der Stadt liegen in der kolonialen Epoche. 1890 errichtete Frederick Lugard fuer die British East Africa Company eine Festung auf dem Huegel Kampala -- dem "Impala-Huegel", benannt nach den Antilopenherden die frueheren Reisenden dort begegneten. 1947 erhielt die Siedlung Gemeindestatus, und als Uganda am 9. Oktober 1962 die Unabhaengigkeit erlangte, wurde Kampala zur offiziellen Hauptstadt. Entebbe, 40 Kilometer suedlich am Viktoriasee gelegen, behielt die internationalen Verbindungen durch den Flughafen -- und diese geografische Arbeitsteilung praegt die Region bis heute.',
+          'Das eigentliche Stadtgebiet ist ueberschaubar. Die fuenf Bezirke Kampala Central, Kawempe, Makindye, Nakawa und Rubaga werden von der Kampala Capital City Authority (KCCA) verwaltet. Das groessere Metropolitangebiet -- Kampala zusammen mit Wakiso und Mukono -- ist das eigentliche Herz der ugandischen Wirtschaft: Hier konzentrieren sich ueber 32 Prozent der gesamten Fertigungsaktivitaeten des Landes, laut Daten der KCCA. Wer von Kampala aus in die Nationalparks aufbricht, passiert dieses Gefuege aus Stadtrand, Satellitenstaedte und informellen Siedlungen, bevor die Landschaft offener und gruener wird.',
+        ],
+      },
+      {
+        id: 'wirtschaft-und-alltag',
+        title: 'Wirtschaft, Alltag und die Logik der Strasse',
+        content: [
+          'Kaum eine afrikanische Hauptstadt praegt die Volkswirtschaft ihres Landes so stark wie Kampala. Rund 65 Prozent des nationalen Bruttoinlandsprodukts Ugandas werden laut Angaben der Kampala Capital City Authority und der Weltbank im Stadtgebiet erwirtschaftet. Eine Zahl die beeindruckt und gleichzeitig beunruhigt: Wenn Kampala strauchelt -- durch Ueberschwemmungen, politische Instabilitaet oder Infrastrukturversagen -- spuert das ganze Land es.',
+          'Die ugandische Volkswirtschaft pulsiert auf den Strassen der Stadt in zwei Gefaehrten: dem Boda-Boda-Motorradtaxi und dem Matatu-Kleinbus. Beide sind gleichzeitig Transportmittel, Arbeitgeber und Kommunikationskanal fuer Millionen von Menschen taeglich. Auf einer Boda-Boda-Fahrt durch Kampala werden nicht nur Personen befoerdert: Gasflaschen, Eisentraeger, Stapel von Schachtelkarton, mehrere grosse Jerrykans voller Wasser -- all das balanciert ein Fahrer auf einem Motorrad durch den Berufsverkehr. Wir haben so einen Fahrer auf dem Weg nach Murchison Falls aus dem Auto fotografiert: Jerrykans uebereinander auf dem Gepaecktraeger, kein Helm, Sandalen -- und dabei voellig gelassen. [ZITAT: Boda-Boda-Fahrer ueber seinen Alltag in Kampala]',
+          'Die Bevoelkerung waechst kontinuierlich. Das Uganda Bureau of Statistics verzeichnet seit der Volkszaehlung 2002 ein durchschnittliches Wachstum von rund 2,02 Prozent pro Jahr. Das stellt die Infrastruktur unter enormen Druck: Acht Hauptdrainage-Systeme -- Nakivubo, Lubigi, Nalukolongo, Kansanga, Manyanja, Kinawataka, Nalubaga und Walufumbe -- entwassern die Stadt, doch in starken Regenzeiten reichen sie nicht aus. In der Kawempe Division, wo acht der 31 offiziell anerkannten Slums der Stadt liegen, sind saisonale Ueberschwemmungen ein jaehrliches Problem (Quelle: KCCA Multi-Hazard-Risk-Profile 2018).',
+          'Wer Kampala jenseits der Staus und des Laerms verstehen will, sollte auf das Feuchtgebietssystem der Stadt achten. 18,68 Quadratkilometer Sumpf und Feuchtgebiet liegen innerhalb des Stadtgebiets -- knapp 9 Prozent der Gesamtflaeche. Diese Bereiche filtern Regenwasser, puffern Ueberschwemmungen ab und bieten Lebensraum fuer Voegel und andere Arten. In Gebieten wie Kawempe entlang der Nsoba- und Lubigi-Feuchtgebiete sind illegale Aufschuettungen durch Muell und Erdaushub ein bekanntes Problem: Sumpfland wird in der Nacht verfahren und am naechsten Morgen als Bauland beansprucht. Die National Environment Management Authority (NEMA), ansaessig in Kampala, ist fuer die Einhaltung der Umweltstandards zustaendig -- auch fuer den Schutz dieser Feuchtgebiete.',
+        ],
+      },
+      {
+        id: 'sehenswuerdigkeiten-kampala',
+        title: 'Sehenswuerdigkeiten in Kampala',
+        content: [
+          'Das bedeutendste Kulturerbe Kampalas ist die Kasubi-Graeberstaette -- eine UNESCO-Welterbestaette auf dem Kasubi-Huegel, in der vier frueheren Buganda-Koenige bestattet sind. Die Anlage ist kein Museum: Sie ist ein lebendiger spiritueller Ort, an dem die Buganda-Tradition bis heute sichtbar ist. Das zentrale Hauptgebaeude, das Muzibu-Azaala-Mpanga, ist eines der groessten pflanzlich konstruierten Gebaeude Afrikas. Der Besuch gibt einen unmittelbaren Eindruck davon, wie tief verwurzelt das Buganda-Koenigreich in der ugandischen Identitaet ist -- obwohl Uganda offiziell eine Republik ist, hat der Kabaka von Buganda kulturell ein Gewicht das sich in Steinbauten nicht messen laesst.',
+          'Auf dem Namirembe-Huegel thront die anglikanische Namirembe-Kathedrale, erbaut 1919 nach mehreren Vorgaengergebaeuden aus dem 19. Jahrhundert. Sie ist von vielen Teilen der Stadt aus sichtbar. Gegenueber, auf dem Lubaga-Huegel, erhebt sich die roemisch-katholische Rubaga-Kathedrale. Beide Kirchen stehen fuer die fruehe Missionsgeschichte Ugandas, die fast ausschliesslich in Kampala begann. Einen guten Ueberblick ueber die Geschichte der Stadt gibt das Uganda Museum in Nakasero: aeltestes Museum des Landes, mit solider ethnografischer und naturhistorischer Sammlung -- und klar unterfinanziert, was aber eher zum Charakter des Hauses beitraegt.',
+          'Der Nakasero-Markt ist das lebhafte Gegenstueck zum Museum. Hier stapeln sich Matooke-Bueschel neben Bergen von Groundnuts und Suesskartoffeln, Haendler rufen, Boda-Bodas schlaengeln sich durch Luecken, Musikboxen konkurrieren miteinander. Eine Stunde auf dem Nakasero-Markt vermittelt mehr ueber den ugandischen Alltag als jedes Kulturprogramm. Der groesstere Owino-Markt (offiziell St. Balikuddembe Market) in der Naehe des alten Busbahnhofs ist nochmals groesser und intensiver -- gepresst voll mit Second-Hand-Kleidung, Elektroschrott und allem was eine wachsende Stadt braucht und nicht mehr braucht.',
+          'Fuer einen Tagesausflug von Kampala bietet sich der Mabamba-Sumpf nahe Entebbe an: Rund 40 Kilometer suedlich der Innenstadt gelegen, ist er der bekannteste Ort in Uganda fuer Schuhschnabel-Sichtungen. Dieser aussergewoehnliche Vogel -- mit seinem helmartigen Schnabel und seiner ruhigen, fast vogeluntypischen Gelassenheit -- ist in kaum einer anderen Region der Welt so zuverlaessig zu beobachten wie hier. Fuehre die Kameraausruestung mit: Boote fahren nah heran, und der Schuhschnabel beobachtet die Besucher mit derselben Ruhe wie er seine Beute.',
+        ],
+      },
+      {
+        id: 'von-kampala-nach-murchison-falls',
+        title: 'Von Kampala nach Murchison Falls: 305 Kilometer nach Norden',
+        content: [
+          'Kampala ist der natuerliche Ausgangspunkt fuer den Murchison Falls Nationalpark -- Ugandas groesstes Schutzgebiet mit einer Flaeche von ueber 3.840 Quadratkilometern. Die gaengigste Route fuehrt nordwestlich ueber Masindi: eine rund 305 Kilometer lange Strecke, die je nach Verkehrslage und Wetterbedingungen fuenf bis sechs Stunden dauert. Masindi selbst ist die letzte staedtische Versorgungsstation vor dem Parkeingang und bietet Gelegenheit fuer letzte Einkaeunfe, einen Tankstopp und gegebenenfalls eine Uebernachtung fuer Reisende die einen fruehen Aufbruch in den Park planen.',
+          'Bei unserem Besuch im Oktober 2024 fuhren wir nicht ab Kampala, sondern hatten zuvor mehrere Tage in Butiru im Osten Ugandas verbracht -- eine lange Ueberlandroute quer durch das Land. Diese Strecken sind auf den Hauptverbindungsstrassen inzwischen gut asphaltiert, der Verkehr aber eigenwillig. Jener Kleinbus mit dem Matratzen-Turm auf dem Dach war kein Ausnahmefall: Uganda loest Transportprobleme kreativ und ohne westeuropaeische Sicherheitsbedenken. Das ist weder Kritik noch Romantisierung -- es ist schlicht eine andere Kalkulation dessen was unter den gegebenen Umstaenden funktioniert.',
+          'Der Murchison Falls Nationalpark wurde 1952 als Ugandas erstes offizielles Wildschutzgebiet ausgewiesen. Die titelgebenden Faelle liegen dort wo der Viktoria-Nil durch eine gerade sieben Meter breite Felsspalte presst und 43 Meter in die Tiefe donnert. Benannt hat sie 1864 der britische Entdecker Sir Samuel Baker nach Roderick Murchison, dem damaligen Praesidenten der Royal Geographical Society. Baker war dem Nil gefolgt nachdem John Hanning Speke zwei Jahre zuvor die Nilquelle in Jinja entdeckt hatte -- und fand hier die spektakulaerste Stelle des laengsten Flusses Afrikas.',
+          'Das Parkgebiet teilt sich der Nil in eine noerdliche und eine suedliche Haelfte. Die noerdliche Zone suedlich des Nils -- rund um Paraa, das Headquarters des Parks -- ist das Kerngebiet fuer Game Drives und Bootsfahrten. Wer morgens frueh aufbricht, erlebt einen Sonnenaufgang den man so schnell nicht vergisst: Die Sonne bricht ueber Akazien und Palmen hervor, die Savanne liegt noch im Halbdunkel, und die ersten Tiere werden in der Fruehlichtqualitaet sichtbar. Wir sind an einem Oktobertag vor dem Helligwerden aus der Lodge aufgebrochen -- der Aufwand hat sich vielfach gelohnt.',
+        ],
+      },
+      {
+        id: 'bootsfahrt-viktoria-nil',
+        title: 'Bootsfahrt auf dem Viktoria-Nil',
+        content: [
+          'Die Bootsfahrt auf dem Viktoria-Nil zwischen dem Anleger in Paraa und den Murchison Falls ist das Herzenstueck einer Reise in diesen Park. Das Boot das wir am 18. Oktober 2024 bestiegen (GPS: 2.2829°N, 31.5649°O), bot Platz fuer rund 14 Personen, war mit Rettungswesten ausgestattet und hatte ein einfaches Sonnenschutzdach -- etwas wackelig, aber genau richtig fuer diese Art von Flussfahrt. Zwischen Paraa und den donnernden Faellen liegen rund 17 Kilometer Nil und mehr Tierbegegnungen als man vernuenftigerweise erwartet.',
+          'Vom ersten Kilometer an zeigt der Fluss was er zu bieten hat. Nilkrokodile (Crocodylus niloticus) liegen auf Sandbaken und Uferfelsen und nehmen im Morgenlicht die Koerperwaerme auf -- massive, jahrmillionenalte Tiere die man vom Boot aus beobachtet und dabei sofort begreift warum dieser Fluss Respekt einfluesst. Bei unserem Besuch sahen wir mehrere Exemplare am suedlichen Ufer (GPS: 2.2771°N, 31.6698°O). Die Distanz war beruhigend -- und gleichzeitig machte sie die wahre Groesse dieser Tiere erst richtig sichtbar. Schnell sind sie ausserdem: Ein Krokodil das ins Wasser gleitet, verschwindet in Sekundenbruchteilen.',
+          'Flusspferde (Hippopotamus amphibius) tauchen auf, pusten, verschwinden -- manchmal einzeln, manchmal in Gruppen von fuenfzehn oder zwanzig die gemeinsam im seichten Wasser stehen oder schlafen. Der Murchison Falls Nationalpark beherbergt eine der groessten Flusspferd-Populationen Ugandas. An den gruenen Uferboeischungen trinken Elefanten. Wir sahen am selben Tag einen afrikanischen Elefanten (GPS: 2.2701°N, 31.6650°O) der sich ruhig ueber das Ufer beugte, den Ruessel ins Wasser tauchte und trank -- ein wuerdiger, stiller Moment aus der Perspektive des fahrenden Bootes.',
+          'Wer mit offenen Ohren und einem guten Fernglas faehrt, erlebt ein Ornithologen-Paradies: Afrikanische Fischadler, Riesenliest, Nilkormoran, Sattelstorch, Heiliger Ibis, Schottenaente in grossen Schwaermen -- die Uferzonen des Viktoria-Nils gehoeren zu den artenreichsten Vogelhabitaten Ugandas. Am Ende der Fahrt naehert sich das Boot den Murchison Falls selbst: Man hoert das Donnern bevor man es sieht, und wenn der Motorboot nah genug heranfaehrt, traegt der Wind die feine Gischt bis auf die Rettungsweste. Es ist einer der wenigen Momente wo der Superlativ gerechtfertigt ist.',
+        ],
+      },
+      {
+        id: 'game-drive-und-wildlife',
+        title: 'Game Drive und Wildlife: Giraffen, Elefanten, Sonne',
+        content: [
+          'Die Savannengebiete suedlich des Nils sind das Kerngebiet fuer Game Drives im Murchison Falls Nationalpark. Die Landschaft ist weiter und offener als in vielen suedlichen Nationalparks -- Giraffen und Elefanten sind gegen den Horizont von Weitem sichtbar, und die Pirschfahrten fuehren ueber staubige Pisten durch Grasland, Buschwald und offene Ebenen. Mit einem offenen Safarijjeep vom Dach aus zu fotografieren ist hier moeglich und lohnt sich: Die Tiere sind an Fahrzeuge gewoehnt und zeigen keine Fluchtreaktion.',
+          'Die Begegnung die mich vom Game Drive im Oktober 2024 am staerksten begleitet, war eine Rothschild-Giraffe die uns direkt anschaute -- frontal, ruhig, fast neugierig. Das Tier stand wenige Meter vom Jeep entfernt und entschied offensichtlich dass wir kein Anlass zur Aufregung waren. Die Rothschild-Giraffe (Giraffa camelopardalis rothschildi) ist eine der seltensten Giraffenunterarten der Welt, erkennbar am weissen Bereich unterhalb der Knie. Der Murchison Falls Nationalpark beherbergt eine der wichtigsten Populationen -- zusammen mit dem Kidepo Valley Nationalpark im Norden des Landes.',
+          'Elefanten sieht man im Park in erfreulicher Zahl, sowohl in der Savanne als auch entlang der Nilufer. Der noerdliche Sektor des Parks -- auf der anderen Seite der Nile-Faehre bei Paraa -- gilt als besonders tierreich: groessere Elefantenherden, Bueffel in grossen Verbunden, gelegentlich Loewen. Fuer Schuhschnabel-Sichtungen ist der Bereich um die Nilmuendung in den Albertsee bekannt, wenn auch weniger berechenbar als der Mabamba-Sumpf nahe Entebbe.',
+          'Eine praktische Information fuer die Planung: Der Murchison Falls Nationalpark ist ganzjaehrig offen, in schweren Regenzeiten (April bis Mai, Oktober bis November) aber nur mit Allradfahrzeug sinnvoll zu bereisen. Die Pisten im Parkinneren werden schlammig und koennen fuer normale Fahrzeuge unpassierbar sein. Wir waren im Oktober dort -- kurz nach Ende der kurzen Regenzeit -- und hatten trotz einzelner weicher Stellen keine Probleme. Die Tiersichtungen in dieser Uebergangszeit sind exzellent: Das Gras ist noch niedrig genug fuer gute Sichtlinien, und die Tiere sind nach der Regenzeit aktiv und sichtbar.',
+        ],
+      },
+      {
+        id: 'praktische-reiseinfos',
+        title: 'Praktische Reiseinfos: Kampala und Murchison Falls',
+        content: [
+          'Wer nach Uganda fliegt, landet auf dem Entebbe International Airport -- rund 40 Kilometer suedlich von Kampala, direkt am Viktoriasee. Die Fahrt in die Innenstadt dauert ohne Stau etwa 45 Minuten, zu Stossstunden deutlich laenger. Der Flughafen selbst ist kompakt und gut organisiert; Visa erhaelt man on arrival gegen 50 USD in bar oder per Kreditkarte fuer die meisten europaeischen Reisepaesse.',
+          'In Kampala empfiehlt sich mindestens ein Uebernachtungsaufenthalt: um die Stadt anzukomm, die Zeitzone einzupendeln und das erste Mal Ugandas Strassenleben zu erleben bevor man in die Nationalparks aufbricht. Das Angebot reicht von internationalen Hotels in Kololo und Nakasero bis zu guenstigeren Guesthouses in den Aussenvierteln. Lodges sind die bevorzugte Unterkunftskategorie bei Safarireisenden -- sie haben die hoechste Auslastungsquote und sind in der Saison frueehzeitig ausgebucht.',
+          'Fuer den Murchison Falls Nationalpark gilt: Je frueher der Aufbruch, desto besser. Paraa, das Hauptquartier, erreicht man von Kampala aus in rund fuenf Stunden via Masindi. Wer in der Hochsaison (Juni bis September und Dezember bis Februar) reist, sollte Unterkuenfte im und um den Park fruehzeitig buchen -- die Nachfrage uebersteigt das Angebot bei weitem. In der Nebensaison (April, Mai, November) sind Preise guenstiger und Safarijjeeps weniger stark gebucht.',
+          'Ob Kampala als erster oder letzter Punkt einer Uganda-Reise steht -- die Stadt verdient mehr als eine Transithaltung. Wer einen Tag investiert, versteht auf Anhieb welche Kräfte das Land bewegen: eine junge Bevoelkerung, pragmatischer Unternehmergeist, tiefe kulturelle Wurzeln und eine Wirtschaft die schneller waechst als ihre Infrastruktur. Genau diese Spannung macht Uganda -- und seine Hauptstadt -- zu einem Reiseziel das nachhaltig in Erinnerung bleibt.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Was ist die Hauptstadt Ugandas?',
+        a: 'Die Hauptstadt Ugandas ist Kampala -- eine Millionenstadt auf sieben Huegeln am Nordufer des Viktoriasees. Kampala ist seit der ugandischen Unabhaengigkeit am 9. Oktober 1962 die offizielle Hauptstadt des Landes. Zuvor hatte Entebbe den Verwaltungssitz der britischen Kolonie inne.',
+      },
+      {
+        q: 'Wie viele Menschen leben in Kampala?',
+        a: 'Das engere Stadtgebiet Kampalas hat je nach Abgrenzung rund 1,5 bis 2,5 Millionen Einwohner. Das groessere Metropolitangebiet mit den Nachbarbezirken Wakiso und Mukono zaehlt ueber 4,5 Millionen Menschen und waechst laut Uganda Bureau of Statistics mit rund 2 Prozent pro Jahr.',
+      },
+      {
+        q: 'Was kann man in Kampala als Tourist sehen?',
+        a: 'Zu den wichtigsten Sehenswuerdigkeiten gehoeren die Kasubi-Graeberstaette (UNESCO-Welterbe), die Kathedralen auf Namirembe- und Lubaga-Huegel, das Uganda Museum in Nakasero, der Nakasero-Markt und der grosse Owino-Markt. Fuer Naturtouristen ist der Mabamba-Sumpf nahe Entebbe ein lohnender Tagesausflug -- bekanntester Beobachtungsort fuer den Schuhschnabel in Uganda.',
+      },
+      {
+        q: 'Wie weit ist es von Kampala nach Murchison Falls?',
+        a: 'Von Kampala nach Paraa im Murchison Falls Nationalpark sind es rund 305 Kilometer -- meist ueber die Route via Masindi im Westen Ugandas. Die Fahrt dauert fuenf bis sechs Stunden je nach Strassenzustand und Tageszeit. Masindi gilt als letzter Versorgungsort vor dem Parkeingang.',
+      },
+      {
+        q: 'Wann ist die beste Reisezeit fuer den Murchison Falls Nationalpark?',
+        a: 'Die besten Bedingungen herrschen in der Trockenzeit: Dezember bis Februar sowie Juni bis September. Die Pisten sind dann gut befahrbar, Tiere sammeln sich haeufiger an Wasserloechern und die Sicht ist klar. Wir haben den Park im Oktober besucht -- unmittelbar nach der kurzen Regenzeit -- und haben trotzdem exzellente Tiersichtungen gehabt: niederes Gras, aktive Tiere, wenig andere Besucher.',
+      },
+    ],
+    relatedPages: [
+      { href: '/regionen/kampala', title: 'Kampala als Region', desc: 'Sehenswuerdigkeiten, Unterkunft und Tipps fuer einen Kampala-Aufenthalt.' },
+      { href: '/murchison-falls-nationalpark', title: 'Murchison Falls Nationalpark', desc: 'Kompletter Reisefuehrer: Bootsfahrt, Game Drive, Anreise und beste Reisezeit.' },
+      { href: '/nationalparks', title: 'Ugandas 10 Nationalparks', desc: 'Alle Nationalparks im Ueberblick -- von Bwindi bis Kidepo.' },
+      { href: '/der-nil-in-uganda', title: 'Der Nil in Uganda', desc: 'Von der Nilquelle in Jinja bis zu den Murchison Falls: der Weisse Nil in Uganda.' },
+    ],
+    quellen: [
+      'Kampala Capital City Authority (KCCA): Multi-Hazard Risk and Vulnerability Profile, August 2018',
+      'Uganda Bureau of Statistics (UBOS): Census-Daten 2002 und 2014',
+      'UNESCO World Heritage List: Tombs of the Buganda Kings at Kasubi, Eintrag Nr. 1022',
+      'Eigene Reiseerfahrungen im Murchison Falls Nationalpark und auf Ugandas Strassen, Oktober 2024 (GPS-verifiziert)',
+    ],
+    isTouristDestination: true,
+    photoFilter: 'murchison_falls',
+  },
 }

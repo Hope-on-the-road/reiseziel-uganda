@@ -258,6 +258,7 @@ export default function App() {
           <Route path="/akagera-nationalpark" element={<Navigate to="/ruanda/akagera-nationalpark" replace />} />
           <Route path="/murchison-nationalpark" element={<Navigate to="/murchison-falls-nationalpark" replace />} />
           <Route path="/jinja" element={<Navigate to="/regionen/jinja" replace />} />
+          <Route path="/kampala" element={<StandalonePage photos={photos} clusters={clusters} pageId="kampala" />} />
           <Route path="/tiere" element={<HubPage photos={photos} clusters={clusters} hubId="tiere" />} />
           <Route path="/nationalparks" element={<HubPage photos={photos} clusters={clusters} hubId="nationalparks" />} />
           <Route path="/regionen" element={<HubPage photos={photos} clusters={clusters} hubId="regionen" />} />
