@@ -122,7 +122,7 @@ export const standalonePages = {
 
   'der-nil-in-uganda': {
     slug: '/der-nil-in-uganda',
-    title: 'Der Nil in Uganda: Nilquelle Jinja & Murchison Falls',
+    title: 'Der Nil in Uganda: Nilquelle & Murchison',
     h1: 'Der Nil in Uganda -- Vom Victoriasee bis Murchison Falls',
     subtitle: 'Die Reise des laengsten Flusses Afrikas durch die Perle Afrikas: Nilquelle, Stromschnellen, Wasserfaelle und einzigartige Tierwelt',
     metaDescription: 'Nilquelle in Jinja, Wildwasser-Rafting & Murchison Falls: Der Nil durchquert Uganda auf 1.274 km. Alle Sehenswuerdigkeiten, Aktivitaeten & Reiseinfos.',
@@ -386,7 +386,7 @@ export const standalonePages = {
 
   sehenswuerdigkeiten: {
     slug: '/sehenswuerdigkeiten',
-    title: 'Sehenswuerdigkeiten Uganda -- Die 15 schoensten Highlights | Reiseziel Uganda',
+    title: 'Sehenswuerdigkeiten Uganda -- Top 15',
     h1: 'Sehenswuerdigkeiten in Uganda',
     subtitle: 'Die 15 schoensten Highlights fuer deine Uganda-Reise',
     metaDescription: 'Top Sehenswuerdigkeiten in Uganda: Gorilla Trekking, Murchison Falls, Nilquelle, Rwenzoris, Queen Elizabeth Park, Kibale Forest und mehr. Alle Highlights.',
@@ -486,7 +486,7 @@ export const standalonePages = {
 
   'sipi-falls': {
     slug: '/sipi-falls',
-    title: 'Sipi Falls Uganda -- Wanderung, Anreise & Tipps | Reiseziel Uganda',
+    title: 'Sipi Falls Uganda -- Wanderung & Tipps',
     h1: 'Sipi Falls in Uganda',
     subtitle: 'Drei spektakulaere Wasserfaelle am Mount Elgon',
     metaDescription: 'Sipi Falls Uganda: Alle drei Wasserfaelle, Wanderung (3-4 Stunden), Anreise von Kampala, beste Reisezeit, Uebernachtung und Kaffee-Tour. Komplett-Guide.',

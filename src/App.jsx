@@ -256,6 +256,8 @@ export default function App() {
           <Route path="/murchison-falls-nationalpark" element={<StandalonePage photos={photos} clusters={clusters} pageId="murchison-falls-nationalpark" />} />
           <Route path="/ruanda/:pageId" element={<RuandaPage photos={photos} clusters={clusters} />} />
           <Route path="/akagera-nationalpark" element={<Navigate to="/ruanda/akagera-nationalpark" replace />} />
+          <Route path="/murchison-nationalpark" element={<Navigate to="/murchison-falls-nationalpark" replace />} />
+          <Route path="/jinja" element={<Navigate to="/regionen/jinja" replace />} />
           <Route path="/tiere" element={<HubPage photos={photos} clusters={clusters} hubId="tiere" />} />
           <Route path="/nationalparks" element={<HubPage photos={photos} clusters={clusters} hubId="nationalparks" />} />
           <Route path="/regionen" element={<HubPage photos={photos} clusters={clusters} hubId="regionen" />} />

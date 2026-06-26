@@ -400,7 +400,7 @@ export const hubPages = {
 
   'nationalparks': {
     slug: '/nationalparks',
-    title: 'Ugandas 10 Nationalparks: Uebersicht, Highlights und Tipps 2026',
+    title: 'Ugandas Nationalparks -- Highlights 2026',
     h1: 'Ugandas 10 Nationalparks: Uebersicht, Highlights und Tipps',
     subtitle: 'Gorillas, Schimpansen, Baumloewen und Gletscher -- jeder Park ein eigenes Universum',
     metaDescription: 'Alle 10 Nationalparks Ugandas im Ueberblick: Gorilla-Trekking, Big-Five-Safari, Schimpansen und Bergwandern. Eintrittspreise, Buchungstipps und Reisetipps 2026.',
@@ -616,7 +616,7 @@ export const hubPages = {
 
   'land-und-leute': {
     slug: '/land-und-leute',
-    title: 'Land & Leute Uganda 2026: Kultur, Geschichte und Erlebnisse',
+    title: 'Land & Leute Uganda: Kultur & Geschichte',
     h1: 'Land & Leute: Ugandas Kultur, Geschichte und unvergessliche Erlebnisse',
     subtitle: 'Vom Tooro-Koenigreich bis zu den Ssese-Inseln -- Uganda ist mehr als Safari',
     metaDescription: 'Uganda jenseits der Safari: 56 Volksgruppen, Koenigreiche, Kaffeekultur, Sipi Falls und Rwenzori-Marathon. Das pulsierende Kampala, Kultur und Geschichte.',
