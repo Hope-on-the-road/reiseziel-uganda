@@ -36,6 +36,8 @@ const LINK_RULES = [
   { pattern: /Busreise\s+(?:von\s+)?Kigali/gi, path: '/kigali-nach-kampala' },
   { pattern: /Gorilla[\s-]Permit[\s-](?:Kosten|Preise?|Buchung)/gi, path: '/gorilla-permit-kosten' },
   { pattern: /Gorilla[\s-]Permit\s+(?:kaufen|buchen)/gi, path: '/gorilla-permit-kosten' },
+  { pattern: /Gorilla[\s-]Trekking\s+(?:Bwindi\s+)?(?:Komplettguide|Reisefuehrer|Guide\s+fuer\s+Erstbesucher)/gi, path: '/bwindi-gorilla-reisefuehrer' },
+  { pattern: /Bwindi\s+Gorilla[\s-]Trekking\s+(?:Tipps?|Guide|Infos?)/gi, path: '/bwindi-gorilla-reisefuehrer' },
   { pattern: /Leonard\s+Sharp/gi, path: '/leonard-sharp-bwama-island' },
   { pattern: /Bwama\s+Island[\s-]Krankenhaus/gi, path: '/leonard-sharp-bwama-island' },
   { pattern: /Community[\s-]Tourismus\s+(?:in\s+)?Bwindi/gi, path: '/community-tourismus-bwindi' },

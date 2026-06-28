@@ -199,6 +199,7 @@ const ROUTES = [
   '/hauptstadt-ugandas',
   '/gorilla-permit-kosten',
   '/kigali-nach-kampala',
+  '/bwindi-gorilla-reisefuehrer',
   '/schimpansen-tracking-kyambura-gorge',
   '/ruanda/akagera-nationalpark',
   '/reiseplanung/visa',

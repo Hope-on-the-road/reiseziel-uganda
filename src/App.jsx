@@ -261,6 +261,7 @@ export default function App() {
           <Route path="/hauptstadt-ugandas" element={<StandalonePage photos={photos} clusters={clusters} pageId="hauptstadt-ugandas" />} />
           <Route path="/gorilla-permit-kosten" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-permit-kosten" />} />
           <Route path="/kigali-nach-kampala" element={<StandalonePage photos={photos} clusters={clusters} pageId="kigali-nach-kampala" />} />
+          <Route path="/bwindi-gorilla-reisefuehrer" element={<StandalonePage photos={photos} clusters={clusters} pageId="bwindi-gorilla-reisefuehrer" />} />
           <Route path="/tiere" element={<HubPage photos={photos} clusters={clusters} hubId="tiere" />} />
           <Route path="/nationalparks" element={<HubPage photos={photos} clusters={clusters} hubId="nationalparks" />} />
           <Route path="/regionen" element={<HubPage photos={photos} clusters={clusters} hubId="regionen" />} />
