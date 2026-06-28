@@ -32,6 +32,8 @@ const LINK_RULES = [
   { pattern: /\bGahinga\b/gi, path: '/vulkane-mgahinga' },
   { pattern: /Community[\s-]Tourismus\s+(?:am\s+)?Lake\s+Bunyonyi/gi, path: '/lake-bunyonyi-community' },
   { pattern: /Bushara\s+Island(?:\s+Camp)?/gi, path: '/lake-bunyonyi-community' },
+  { pattern: /von\s+Kigali\s+nach\s+(?:Uganda|Kampala)/gi, path: '/kigali-nach-kampala' },
+  { pattern: /Busreise\s+(?:von\s+)?Kigali/gi, path: '/kigali-nach-kampala' },
   { pattern: /Gorilla[\s-]Permit[\s-](?:Kosten|Preise?|Buchung)/gi, path: '/gorilla-permit-kosten' },
   { pattern: /Gorilla[\s-]Permit\s+(?:kaufen|buchen)/gi, path: '/gorilla-permit-kosten' },
   { pattern: /Leonard\s+Sharp/gi, path: '/leonard-sharp-bwama-island' },

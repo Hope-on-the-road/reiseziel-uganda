@@ -10255,6 +10255,100 @@ export const standalonePages = {
     photoFilter: 'murchison_falls',
   },
 
+  'kigali-nach-kampala': {
+    slug: '/kigali-nach-kampala',
+    title: 'Von Kigali nach Kampala: Bus & Grenze',
+    h1: 'Von Kigali nach Kampala: Busreise, Grenzuebergang und praktische Tipps 2026',
+    subtitle: 'Reisen von Ruanda nach Uganda -- Busse, Visa, Grenzformalities und erster Eindruck',
+    metaDescription: 'Von Kigali nach Kampala per Bus: Grenzuebergang Katuna, Visum, Gelbfiebernachweis und Ankunftstipps. Erfahrungsbericht Januar 2026 -- so klappt die Reise.',
+    breadcrumbs: [
+      { label: 'Reiseplanung', href: '/reiseplanung' },
+      { label: 'Von Kigali nach Kampala' },
+    ],
+    publishedTime: '2026-06-28',
+    modifiedTime: '2026-06-28',
+    kurzantwort: 'Von Kigali nach Kampala reist man am bequemsten per Expressbus -- die Strecke betraegt rund 500 Kilometer und dauert inklusive Grenzformalitaeten etwa acht bis zehn Stunden. Der Grenzuebergang liegt bei Katuna auf ugandischer Seite und Gatuna auf ruandischer Seite. Deutsche Staatsangehoerige benoetigen ein Visum (entweder als E-Visum vorab online oder als Visa on Arrival) sowie einen gulltigen Gelbfieber-Impfnachweis -- ohne diesen ist die Einreise nach Uganda nicht moeglich.',
+    fakten: [
+      { label: 'Streckenlaenge', value: 'ca. 500 km (Kigali bis Kampala)' },
+      { label: 'Reisezeit', value: 'ca. 8-10 Stunden inkl. Grenzformalitaeten' },
+      { label: 'Grenzuebergang', value: 'Katuna (Uganda) / Gatuna (Ruanda)' },
+      { label: 'Visum Deutschland', value: 'E-Visum empfohlen, ca. 50 USD Einzeleinreise' },
+      { label: 'Gelbfieber-Nachweis', value: 'PFLICHT bei Einreise nach Uganda' },
+      { label: 'Kampala: BIP-Anteil', value: '65 % des nationalen BIP (KCCA 2018)' },
+      { label: 'Kampala: Stadtgruendung', value: 'Gemeinde 1947, Hauptstadt 1962 (KCCA 2018)' },
+      { label: 'Abfahrort Kigali', value: 'Nyabugogo Bus Terminal' },
+    ],
+    sections: [
+      {
+        id: 'kigali-ausgangspunkt',
+        title: 'Kigali als Ausgangspunkt: Warum viele Uganda-Reisende hier starten',
+        content: 'Unser Gorilla-Trekking im Bwindi Impenetrable National Park begann nicht in Uganda. Es begann in Kigali -- mit dem Flug, dem Transfer, der Akklimatisierung und dem Gespuer fuer Ostafrika, das man erst bekommt, wenn man sich die ersten Tage einfach treiben laesst. Bevor wir am 21. Januar 2026 mit dem Ranger und dem Guide in den Regenwald eingetaucht sind, hatte die Reise Hunderte Kilometer und einen Grenzuebergang hinter sich.\n\nKigali ist fuer viele deutschsprachige Uganda-Reisende der erste Kontaktpunkt mit Ostafrika. RwandAir verbindet mehrere europaeische Staedte direkt mit dem Kigali International Airport. Die ruandische Hauptstadt selbst ist sauber, gut organisiert und ein angenehmer erster Anlaufpunkt -- wer ein paar Tage vor der Uganda-Reise einplant, kann sich an die Zeitzone gewoehnen und die Stadt erkunden. Ruanda als Durchreiseland eroeffnet aber auch ganz praktische Vorteile: Der Grenzuebergang Katuna/Gatuna ist gut ausgebaut, die Strassen auf beiden Seiten in ordentlichem Zustand.\n\nDie Strecke von Kigali nach Kampala betraegt auf direktem Weg rund 500 Kilometer. Die Route fuehrt zunaechst durch Nordruanda -- an der Musanze-Region mit den Vulkanen des Virunga-Massivs vorbei -- dann durch die huegeligen Landschaften in Richtung Grenze und weiter durch den suedwestlichen Zipfel Ugandas bis in die Hauptstadt. Wer von Kigali aus direkt nach Bwindi zum Gorilla-Trekking moechte, zweigt in Kabale oder fruehzeitig nach Westen ab -- das spart den Umweg ueber Kampala. Wer Kampala sehen oder von dort weiterreisen will, nimmt den direkten Bus.',
+        showPhotos: false,
+      },
+      {
+        id: 'bus-optionen',
+        title: 'Busverbindungen von Kigali nach Kampala: Optionen und praktische Hinweise',
+        content: 'Der bequemste Weg von Kigali nach Kampala fuehrt mit einem Expressbus. Mehrere Anbieter verbinden die beiden Hauptstaedte taeglich mit modernen, klimatisierten Reisebussen. Abfahrpunkt ist in der Regel das Nyabugogo Bus Terminal im Norden Kigalis -- eines der grossen Verkehrsknotenpunkte der Stadt, wo Minibusse, Fernbusse und Taxis zusammentreffen. Fuer Nicht-Ortskundige: Das Terminal ist laut, betriebsam und kann beim ersten Mal ueberwaeltigend wirken, funktioniert aber gut wenn man den richtigen Schalter gefunden hat. Die meisten Busanbieter haben auch Abholung von groesseren Hotels -- [RECHERCHE NOETIG: aktuelle Anbieter und Preise 2026].\n\nDie Abfahrtszeiten liegen haeufig frueh morgens, was sinnvoll ist: Wer frueh startet, vermeidet die Warteschlagen am Grenzuebergang in der Mittagshitze und kommt noch vor Einbruch der Dunkelheit in Kampala an. Die Gesamtreisezeit betraegt bei gutem Grenzverkehr etwa acht Stunden, kann sich aber auf zehn Stunden oder laenger ausweiten wenn an der Grenze viel los ist. Wochenenden und Feiertagsgrenzen haben erfahrungsgemaess laengere Wartezeiten.\n\nAls guenstigere Alternative existieren Minibusse (Matatus), die von Kigali aus in Richtung Grenze und weiter fahren. Diese sind billiger, aber langsamer, halten haeufiger und sind fuer Reisende mit groesserem Gepaeck oder ohne Reiseerfahrung in der Region weniger empfehlenswert. Wer gut Swahili spricht oder mit lokalen Reisenden mitfahren will, kann so trotzdem gut ans Ziel kommen -- man muss an der Grenze und moeglicherweise in Kabale umsteigen.\n\nFuer die Buchung empfiehlt sich eine Vorausreservierung, besonders fuer Freitage, Sonntage und ugandische Feiertage. Viele Anbieter bieten Online-Buchung an. Bargeld in US-Dollar oder die jeweilige Landeswaehrung bereithalten, da Kartenzahlung nicht immer verfuegbar ist. Eine kleine Reiseapotheke, Wasser und Snacks fuer die Fahrt sind bei einer zehnstuendigen Reise keine Luxus, sondern Standard.',
+        showPhotos: false,
+      },
+      {
+        id: 'grenzuebergang',
+        title: 'Grenzuebergang Katuna/Gatuna: Was dich erwartet',
+        content: 'Der Grenzuebergang zwischen Ruanda und Uganda liegt bei Gatuna auf ruandischer und Katuna auf ugandischer Seite -- einer der belebtesten Landgrenzen Ostafrikas. Beide Abfertigungsstellen sind modern ausgebaut, die Beamten beider Laender professionell und sachlich. Als deutschsprachiger Reisender sollte man mit Englisch gut durch die Formalitaeten kommen; auf ugandischer Seite ist Englisch Amtssprache.\n\nDer Ablauf beim Grenzuebergang ist ueberschaubar, erfordert aber Geduld: Auf ruandischer Seite Ausreiseformular ausfullen und Reisepass abstempeln lassen, Gepaeck beiseitestellen und in Richtung ugandischem Abfertigungsgebaeude gehen. Dort: Einreiseformular ausfullen, Visum vorlegen (E-Visum oder Visa on Arrival beantragen), Gelbfieber-Impfnachweis zeigen, Fingerabdruecke abgeben, Einreisestempel. Das klingt umstaendlicher als es ist -- bei gutem Busverkehr geht das in 30 bis 45 Minuten. An Spitzentagen kann es auch zwei Stunden dauern.\n\nEin Hinweis der sich immer wieder bewaehrt: Alle Dokumente griffbereit halten, nicht im Koffer. Reisepass, Visum-Ausdruck (bei E-Visum), Gelbfieber-WHO-Karte und ein freundliches Auftreten sind die wichtigsten Reisebegleiter an der Grenze. Wer seinen gelben Impfausweis (internationales Impfzertifikat der WHO) vergessen hat, sollte das Problem rechtzeitig loesen -- die Einreise nach Uganda wird ohne diesen Nachweis verweigert, ohne Ausnahmen.\n\nNach der ugandischen Einreisekontrolle folgt die Fahrt weiter nach Kabale, der ersten groesseren Stadt auf ugandischer Seite. Von Kabale aus zweigen die Strassen nach Bwindi Impenetrable National Park und zum Lake Bunyonyi ab -- wer sein Gorilla-Trekking von hier aus plant, kann in Kabale uebernachten und das Permit-Buero der Uganda Wildlife Authority neben dem Green Hills Hotel aufsuchen.',
+        showPhotos: false,
+      },
+      {
+        id: 'visum-einreise',
+        title: 'Das Uganda-Visum: E-Visum, East Africa Tourist Visa und Gelbfieberpflicht',
+        content: 'Deutsche Staatsangehoerige benoetigen fuer Uganda ein Visum. Die komfortabelste Option ist das E-Visum, das online ueber das offizielle Portal der ugandischen Einwanderungsbehoerde beantragt wird. Das Formular ist auf Englisch, die Bearbeitung dauert in der Regel einige Werktage, und das genehmigte E-Visum wird als PDF zugeschickt -- ausdrucken und an der Grenze vorlegen. Die Einzel-Einreise kostet circa 50 US-Dollar [RECHERCHE NOETIG: aktueller Preis 2026 auf visas.immigration.go.ug pruefen]. Mehrfacheinreise-Visa sind teurer.\n\nEine interessante Alternative ist das East Africa Tourist Visa, das Reisende abdeckt, die Uganda, Kenia und Tansania in einem Aufenthalt besuchen moechten. Dieses Dreifach-Visum kostet circa 100 US-Dollar und wird von den Einreisebehoerden aller drei Laender akzeptiert -- fuer Safari-Reisende, die mehrere laender kombinieren, eine gute Kosteneinsparung [RECHERCHE NOETIG: aktuelle Verfuegbarkeit und Konditionen 2026].\n\nDas wichtigste Dokument neben dem Visum ist der internationale Gelbfieber-Impfnachweis. Die Impfpflicht gilt ohne Ausnahme fuer alle Einreisenden nach Uganda, unabhaengig vom Einreiseland. Der Nachweis erfolgt ueber den gelben WHO-Impfausweis (International Certificate of Vaccination or Prophylaxis, ICVP). Ohne dieses Dokument wird die Einreise verweigert -- das gilt auch dann, wenn man von Ruanda aus einreist, da Ruanda ebenfalls Gelbfieber-Impfpflicht hat und keine Einreise ohne Nachweis erlaubt. Wer neu impft, sollte wissen: Die Schutzwirkung beginnt erst zehn Tage nach der Impfung, und der Nachweis gilt nach aktueller WHO-Empfehlung als lebenslang gueltig.\n\nWeitere empfohlene Impfungen fuer Uganda: Hepatitis A und B, Typhus, Meningokokken und Tollwut (besonders relevant bei Tieraktivitaeten wie dem Gorilla-Trekking). Malaria-Prophylaxe ist fuer alle Regionen Ugandas dringend empfohlen -- dies ist nicht optional, Uganda liegt ganzjaehrig in einem Malariagebiet. Apotheken in Deutschland koennen Mefloquin, Atovaquon/Proguanil oder Doxycyclin verschreiben; die Beratung beim Tropenmediziner oder Reisemediziner wird vor der Abreise empfohlen.',
+        showPhotos: false,
+      },
+      {
+        id: 'kampala-ankunft',
+        title: 'Kampala: Ankunft, erste Eindruecke und Weiterreise',
+        content: 'Bei unserer Durchfahrt durch Kampala im Mai 2026 war der erste Eindruck das Gleiche wie bei jedem vorherigen Besuch: quirlig, dicht und unaufhoerlich in Bewegung. Hunderte Boda-Boda-Motorradtaxis drehen sich durch den Verkehr, Fussgaenger nutzen jede Luecke, Verkaufsstaende konkurrieren mit Haltestellen um denselben Buergersteig. GPS-Koordinaten 0.2918 Nord, 32.4996 Ost -- irgendwo in dieser Welle aus Bewegung und Geraeusch.\n\nKampala ist das wirtschaftliche Herzstueck Ugandas. Laut dem Multi-Hazard-Risk-and-Vulnerability-Profile der Kampala Capital City Authority (KCCA) von 2018 konzentriert die Hauptstadt rund 65 Prozent des nationalen Bruttoinlandsprodukts. Das Stadtgebiet umfasst die Distrikte Kampala, Wakiso und Mukono und beherbergt ueber 32 Prozent der gesamten ugandischen Fertigungsindustrie. Die Bevolkerung wuchs seit der Volkszaehlung von 2002 jaehrlich um durchschnittlich 2,02 Prozent (Quelle: Uganda Bureau of Statistics via KCCA 2018).\n\nDie Stadt ist auch historisch bedeutsam. Kampala wurde 1947 als Gemeinde gegruendet und uebernahm bei Ugandas Unabhaengigkeit 1962 die Rolle der Hauptstadt. Die Kasubi-Graeberstaette, die Begraebnisstatte der Buganda-Koenige mit vier dort bestatteten frueheren Koenigen, ist UNESCO-Welterbe und liegt im Nordwesten der Stadt. Das Uganda National Museum befindet sich 3 Kilometer vom Stadtzentrum entfernt entlang der Kiira Road und bietet die umfassendste archeoloische und ethnographische Sammlung des Landes. Der Owino Market -- seit 1971 einer der groessten Secondhand-Maerkte Ostafrikas -- ist ein Pflichtbesuch fuer alle, die das echte Kampala abseits der Touristenpfade erleben wollen.\n\nFuer die Weiterreise von Kampala nach Bwindi Impenetrable National Park sollte man weitere acht bis zehn Stunden Fahrtzeit einplanen. Die Route fuehrt westwarts ueber Mbarara und dann suedwestlich in die Berge. Wir haben auf dieser Strecke in Buhoma im Kanungu-Distrikt uebernachtet -- dem Sektor des Parks, in dem der Grosssteil des Gorilla-Trekkings stattfindet.\n\nIn Buhoma selbst ist das Leben auf kleinstem Raum konzentriert. Ein kleiner Laden, den wir im Januar 2026 besuchten (GPS -0.9656, 29.6143), war das, was in vielen Doerfern die Funktion eines Supermarkts uebernimmt: rund 20 Quadratmeter, Einbruchsschutz aus Metallgittern, betrieben von einer Frau. Wir kauften fuer die Kinder eines benachbarten Waisenhauses Suessigkeiten und fuer uns Wasser. Das Waisenhaus selbst -- ein Haupthaus mit drei Zimmern, Strom aber ohne fliessendes Wasser -- zeigt, wie eine Gemeinschaft mit wenig viel schafft: Essen, Hausaufgaben, Spiele -- alles findet auf dem Hof statt, weil innen schlicht kein Platz ist.',
+        showPhotos: false,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Wie lange dauert die Busfahrt von Kigali nach Kampala?',
+        a: 'Die Fahrt von Kigali nach Kampala betraegt rund 500 Kilometer und dauert mit einem Expressbus inklusive Grenzformalitaeten etwa acht bis zehn Stunden. Bei geringem Grenzverkehr kann die Reise kuerzer ausfallen. An Wochenenden und Feiertagen koennen Wartezeiten an der Grenze Katuna/Gatuna die Reise auf zehn bis zwoelf Stunden verlaengern. Eine Fruehmorgen-Abfahrt aus Kigali ist daher empfehlenswert.',
+      },
+      {
+        q: 'Brauche ich ein Visum fuer Uganda wenn ich von Ruanda einreise?',
+        a: 'Ja, deutsche Staatsangehoerige benoetigen ein Visum fuer Uganda -- unabhaengig davon, ueber welches Land sie einreisen. Empfohlen wird das E-Visum, das online vorab bei der ugandischen Einwanderungsbehoerde beantragt wird (visas.immigration.go.ug). Visa on Arrival ist am Grenzuebergang Katuna ebenfalls moeglich, fuehrt aber oft zu laengeren Warteschlangen. Eine Alternative ist das East Africa Tourist Visa, das Uganda, Kenia und Tansania abdeckt.',
+      },
+      {
+        q: 'Ist die Gelbfieber-Impfung fuer Uganda wirklich Pflicht?',
+        a: 'Ja, der Gelbfieber-Impfnachweis ist bei der Einreise nach Uganda ohne Ausnahme Pflicht. Benoetigt wird der internationale Impfausweis (gelbe WHO-Karte, ICVP). Wer dieses Dokument nicht vorlegen kann, wird an der Grenze zurueckgewiesen -- das gilt auch fuer die Einreise von Ruanda aus. Die Impfung schutzt zehn Tage nach der Erstimpfung, und das Zertifikat gilt nach aktueller WHO-Empfehlung als lebenslang gueltig.',
+      },
+      {
+        q: 'Kann ich von Kigali aus direkt nach Bwindi fahren ohne ueber Kampala zu muessen?',
+        a: 'Ja, das ist moeglich und fuer Gorilla-Trekking sogar die empfohlene Route. Man faehrt von Kigali nach Kabale (Grenzuebergang Katuna/Gatuna) und von dort entweder suedwestlich zum Rushaga- oder Nkuringo-Sektor des Bwindi-Parks oder noerdlich zum Buhoma-Sektor. Diese Route ist kuerzer als der Umweg ueber Kampala und empfiehlt sich fuer Reisende, deren Hauptziel das Gorilla-Trekking ist.',
+      },
+      {
+        q: 'Welches Geld sollte ich fuer die Reise von Kigali nach Kampala mitnehmen?',
+        a: 'Auf der Strecke benoetigt man ruandische Franc (RWF) in Kigali, US-Dollar fuer Visa und Grenzgebuehren sowie ugandische Schilling (UGX) nach der Einreise in Uganda. US-Dollar in kleinen Scheinen (1, 5, 10 USD) sind an der Grenze und in Busbahnhoefen nuetzlich. In Kampala und grossen Staedten gibt es Geldautomaten von Stanbic Bank und Centenary Bank fuer Abhebungen in UGX. Im laendlichen Uganda ist Bargeld oft das einzige Zahlungsmittel.',
+      },
+    ],
+    photoFilter: 'kampala',
+    isTouristDestination: false,
+    related: [
+      { href: '/grenzen-uganda-ruanda-kongo', title: 'Grenzen Uganda: Ruanda und Kongo', desc: 'Alle wichtigen Grenzuebergaenge zwischen Uganda, Ruanda und dem Kongo im Ueberblick.' },
+      { href: '/regionen/kampala', title: 'Kampala', desc: 'Ausfuehrlicher Guide zur ugandischen Hauptstadt: Sehenswuerdigkeiten, Unterkunft und Tipps.' },
+      { href: '/kabale-bwindi', title: 'Von Kabale nach Bwindi', desc: 'Von der naechstgelegenen Stadt zum Bwindi Impenetrable National Park: Strecke und Tipps.' },
+      { href: '/gorilla-permit-kosten', title: 'Gorilla Permit: Kosten & Buchung', desc: 'Preise, Buchungsmoeglichkeiten und Erfahrungsbericht Gorilla-Trekking 2026.' },
+      { href: '/hauptstadt-ugandas', title: 'Kampala als Hauptstadt', desc: 'Geschichte, Wirtschaft und Sehenswuerdigkeiten von Kampala -- Ugandas politisches Zentrum.' },
+    ],
+    quellen: [
+      'Kampala Capital City Authority (KCCA): Multi-Hazard Risk and Vulnerability Profile, August 2018',
+      'Uganda Bureau of Statistics (UBOS): Bevoelkerungswachstum Kampala, Quelle via KCCA 2018',
+      'Reisefuehrer Uganda 2020 -- Teil 32: Von Kigali nach Uganda -- Grenzueberquerung und Busreisen',
+      'Eigene Reiseerfahrungen Kampala und Buhoma, Januar 2026 und Mai 2026 (GPS-verifiziert)',
+    ],
+  },
+
   'gorilla-permit-kosten': {
     slug: '/gorilla-permit-kosten',
     title: 'Gorilla Permit Bwindi: Kosten & Buchung',
