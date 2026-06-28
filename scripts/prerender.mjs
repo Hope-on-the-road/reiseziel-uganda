@@ -200,6 +200,7 @@ const ROUTES = [
   '/gorilla-permit-kosten',
   '/kigali-nach-kampala',
   '/bwindi-gorilla-reisefuehrer',
+  '/checkliste-abfallwirtschaft-lodges-tourismusunternehmen',
   '/schimpansen-tracking-kyambura-gorge',
   '/ruanda/akagera-nationalpark',
   '/reiseplanung/visa',
