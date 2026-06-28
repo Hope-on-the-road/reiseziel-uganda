@@ -197,6 +197,7 @@ const ROUTES = [
   '/murchison-nationalpark',
   '/jinja',
   '/hauptstadt-ugandas',
+  '/gorilla-permit-kosten',
   '/schimpansen-tracking-kyambura-gorge',
   '/ruanda/akagera-nationalpark',
   '/reiseplanung/visa',
