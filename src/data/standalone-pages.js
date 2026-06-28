@@ -10122,8 +10122,8 @@ export const standalonePages = {
     photoFilter: 'murchison_falls',
   },
 
-  'kampala': {
-    slug: '/kampala',
+  'hauptstadt-ugandas': {
+    slug: '/hauptstadt-ugandas',
     title: 'Hauptstadt Ugandas: Kampala',
     h1: 'Kampala -- Hauptstadt Ugandas und Tor zur Wildnis',
     subtitle: 'Sieben Huegel, UNESCO-Welterbe, 65 Prozent des nationalen BIP -- und fuenf Stunden von Ugandas groesstem Nationalpark entfernt',

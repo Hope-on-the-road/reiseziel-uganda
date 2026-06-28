@@ -196,7 +196,7 @@ const ROUTES = [
   '/murchison-falls-nationalpark',
   '/murchison-nationalpark',
   '/jinja',
-  '/kampala',
+  '/hauptstadt-ugandas',
   '/schimpansen-tracking-kyambura-gorge',
   '/ruanda/akagera-nationalpark',
   '/reiseplanung/visa',
