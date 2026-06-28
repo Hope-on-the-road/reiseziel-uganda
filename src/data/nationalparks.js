@@ -254,6 +254,7 @@ export const nationalparks = {
     ],
     quellen: ['Uganda Wildlife Authority (ugandawildlife.org)', 'MTWA Statistical Abstract 2025, Uganda Ministry of Tourism (April 2026)'],
     related: [
+      { href: '/murchison-falls-nationalpark', title: 'Murchison Falls Reisefuehrer', desc: 'Bootsfahrt, Game Drive, Giraffen -- persoenliche Erlebnisse Oktober 2024.' },
       { href: '/nationalparks/queen_elizabeth', title: 'Queen Elizabeth', desc: 'Afrikas vielfaeltigster Nationalpark.' },
       { href: '/tiere/nashorn', title: 'Nashorn in Uganda', desc: 'Ziwa Rhino Sanctuary auf dem Weg nach Murchison.' },
       { href: '/tiere/schuhschnabel', title: 'Schuhschnabel', desc: 'Den seltenen Vogel im Albert-Delta finden.' },

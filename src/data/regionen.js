@@ -220,6 +220,7 @@ export const regionen = {
       { q: 'Gibt es einen Hop-on-Hop-off-Bus oder Stadtrundfahrten?', a: 'Keinen klassischen Hop-on-Hop-off-Bus, aber gefuehrte Stadttouren sind ueber Hotels und lokale Anbieter buchbar (ca. 50-100 USD fuer einen Ganztag inklusive Guide und Transport). Die Kampala City Trail Tour fuehrt zu Fuss durch die historische Innenstadt. Alternativ: Boda-Boda-Stadttour mit SafeBoda.' },
     ],
     related: [
+      { href: '/hauptstadt-ugandas', title: 'Hauptstadt Ugandas', desc: 'Kampala als politisches Zentrum -- Geschichte, Wirtschaft, UNESCO-Welterbe.' },
       { href: '/regionen/entebbe', title: 'Entebbe', desc: 'Die Flughafen-Stadt am Victoriasee, 40 km suedlich.' },
       { href: '/regionen/jinja', title: 'Jinja', desc: 'Die Abenteuer-Hauptstadt am Nil, 2 Stunden oestlich.' },
       { href: '/reiseplanung/transport', title: 'Transport Uganda', desc: 'Alle Optionen fuer die Fortbewegung ab Kampala.' },

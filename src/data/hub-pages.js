@@ -1,7 +1,7 @@
 export const hubPages = {
   'nationalparks-uganda': {
     slug: '/nationalparks-uganda',
-    title: 'Die 10 schoensten Nationalparks Ugandas -- Kompletter Guide 2026',
+    title: 'Ugandas 10 Nationalparks -- Kompletter Guide 2026',
     h1: 'Die 10 schoensten Nationalparks Ugandas',
     subtitle: 'Jeder Park ein eigenes Universum',
     metaDescription: 'Alle 10 Nationalparks Ugandas im Ueberblick: Gorilla Trekking, Safari, Schimpansen, Wandern. Eintrittspreise, beste Reisezeit und Tipps fuer 2026.',

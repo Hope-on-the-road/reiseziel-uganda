@@ -1,7 +1,8 @@
 /**
  * Sitemap-Generator fuer reiseziel-uganda.de
  * Generiert public/sitemap.xml automatisch aus der ROUTES-Liste in prerender.mjs.
- * Lastmod wird aus dem Datei-Aenderungsdatum der Quelldatei ermittelt.
+ * Lastmod wird aus dem modifiedTime-Feld der jeweiligen Datendatei ermittelt
+ * (standalonePages, hubPages). Fuer alle anderen Routen: Datei-mtime als Fallback.
  *
  * Aufruf: node scripts/generate-sitemap.mjs
  */
@@ -21,6 +22,18 @@ if (!routesMatch) {
 }
 const ROUTES = Array.from(routesMatch[1].matchAll(/'([^']+)'/g), m => m[1])
 
+// Slug -> modifiedTime aus Datendateien aufbauen
+const { standalonePages } = await import('../src/data/standalone-pages.js')
+const { hubPages } = await import('../src/data/hub-pages.js')
+
+const modifiedTimeBySlug = {}
+for (const page of Object.values(standalonePages)) {
+  if (page.slug && page.modifiedTime) modifiedTimeBySlug[page.slug] = page.modifiedTime
+}
+for (const page of Object.values(hubPages)) {
+  if (page.slug && page.modifiedTime) modifiedTimeBySlug[page.slug] = page.modifiedTime
+}
+
 const BASE_URL = 'https://reiseziel-uganda.de'
 const today = new Date().toISOString().split('T')[0]
 
@@ -36,6 +49,11 @@ function getMeta(route) {
 }
 
 function getLastmod(route) {
+  // Daten-lastmod hat Vorrang (granular, seitenspezifisch)
+  const slug = route === '/' ? '/' : route
+  if (modifiedTimeBySlug[slug]) return modifiedTimeBySlug[slug]
+
+  // Fallback: Datei-mtime der Quelldatei
   const candidates = []
   if (route === '/') {
     candidates.push('src/pages/HomePage.jsx', 'src/App.jsx')
