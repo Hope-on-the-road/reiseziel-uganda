@@ -192,6 +192,7 @@ const ROUTES = [
   '/bwindi-artenvielfalt',
   '/umweltaudit-uganda',
   '/nema-umweltschutz-uganda',
+  '/route-ost-uganda',
   '/jinja-sehenswuerdigkeiten',
   '/murchison-falls-nationalpark',
   '/murchison-nationalpark',

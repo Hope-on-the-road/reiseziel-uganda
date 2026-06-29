@@ -9930,6 +9930,101 @@ export const standalonePages = {
     photoFilter: 'buhoma',
   },
 
+  'route-ost-uganda': {
+    slug: '/route-ost-uganda',
+    title: 'Ost-Uganda Route: Jinja bis Mount Elgon',
+    h1: 'Ost-Uganda in 7 Tagen: Von der Hauptstadt Ugandas ueber Jinja und Sipi Falls zum Mount Elgon',
+    subtitle: 'Das beste Ost-Uganda-Itinerary -- Abenteuer, Wasserfaelle, Vulkane und die Nil-Quelle ab Kampala',
+    metaDescription: 'Ost-Uganda Route in 7 Tagen: Jinja, Bujagali, Sipi Falls, Mbale, Mount Elgon. Von Kampala (Hauptstadt Ugandas) bis zum Gipfel -- Itinerary mit Vor-Ort-Erfahrung.',
+    breadcrumbs: [
+      { label: 'Rundreisen', href: '/rundreisen' },
+      { label: 'Ost-Uganda Route: Jinja bis Mount Elgon' },
+    ],
+    publishedTime: '2026-06-29',
+    modifiedTime: '2026-06-29',
+    kurzantwort: 'Die beste Ost-Uganda-Route fuehrt in sieben Tagen von Kampala -- der Hauptstadt Ugandas -- ueber Jinja und die Nil-Quelle, die Bujagali-Stromschnellen, die Sipi Falls nordoestlich von Mbale bis zum Mount Elgon National Park (4.321 m). Die Strecke verbindet Abenteuerurlaub, Naturbeobachtung, Kulturerfahrung und Wandern -- alles innerhalb eines Landes das kleiner ist als Deutschland, aber mehr Kontraste bietet als die meisten Reisenden erwarten.',
+    fakten: [
+      { label: 'Startpunkt', value: 'Kampala (Hauptstadt Ugandas), 85 km von Jinja' },
+      { label: 'Jinja Entfernung Kampala', value: 'ca. 85 km, ca. 1-2 Stunden' },
+      { label: 'Sipi Falls Entfernung Mbale', value: 'ca. 45 km nordoestlich von Mbale' },
+      { label: 'Mount Elgon Hoechstpunkt', value: 'Wagagai-Gipfel, 4.321 m ueber dem Meeresspiegel' },
+      { label: 'Mount Elgon: Uganda/Kenia', value: 'Grenzgebiet; Nationalpark auf ugandischer Seite' },
+      { label: 'Rafting Bujagali', value: 'Grad 3-5, ca. 70-130 USD pro Person (Stand 2026)' },
+      { label: 'Beste Reisezeit', value: 'Trockenzeit: Juni bis August oder Dezember bis Februar' },
+      { label: 'Empfohlene Dauer', value: '7 Tage (Minimalvariante 5 Tage moeglich)' },
+    ],
+    sections: [
+      {
+        id: 'west-trifft-ost',
+        title: 'Uganda quer: Was der Westen lehrt, bevor man nach Osten aufbricht',
+        content: 'Auf unserem Gorilla-Trekking im Januar 2026 wurden wir von einem Guide und zwei Rangern begleitet (GPS: -0.9762°N, 29.6282°O im Bwindi Impenetrable National Park). Die Ranger waren zur Sicherheit bewaffnet -- das wirkte beim ersten Anblick ungewohnt, war aber im dichten Bergwaldgelände voellig verstaendlich und angemessen. Sie halfen beim steilen Aufstieg, kannten jeden Zweig und jede Mulde des Waldbodens, und ihre ruhige Fachlichkeit war der Grund warum wir nach drei Stunden Wanderung eine friedliche Gorillafamilie auf Tuchfuellung erleben konnten. Die Hauptstadt Ugandas, Kampala, lag zu diesem Zeitpunkt sieben Stunden westwaerts hinter uns.\n\nWer Uganda bereist, lernt sehr schnell: Dieses Land hat zwei gleichwertige Haelften, die man nicht gegeneinander ausspielen sollte. Im Suedwesten liegen die dichten Bergwaelder von Bwindi mit den letzten Berggorillas der Welt. Im Osten -- nahe der Grenze zu Kenia -- erhebt sich der erloschene Riese Mount Elgon mit 4.321 Metern und umgibt sich mit einem Nationalpark voller Waelder, Hoehlen und Wasserfaelle. Dazwischen: Jinja, die Nil-Quelle, der Weisse Nil der seinen langen Weg nordwaerts beginnt. Wer von Kampala (Hauptstadt Ugandas) aus nach Osten aufbricht, entdeckt ein Uganda das vom westlichen Gorilla-Tourismus voellig verschieden ist -- und gerade deshalb unverzichtbar fuer das Gesamtbild des Landes ist.',
+        showPhotos: false,
+      },
+      {
+        id: 'jinja-nil-quelle',
+        title: 'Jinja und die Nil-Quelle: Wo der laengste Fluss Afrikas beginnt',
+        content: 'Die erste Station der Ost-Uganda-Route ist gleichzeitig die dramatischste: In Jinja -- rund 85 Kilometer oestlich von Kampala, ca. eine bis zwei Stunden Fahrt -- tritt der Viktoria-Nil aus dem Viktoriasee aus und beginnt seinen 6.650 Kilometer langen Weg in Richtung Mittelmeer. Am Speke Monument, benannt nach dem britischen Entdecker John Hanning Speke der 1862 hier die Nilquelle identifizierte, kann man buchstaeblich am Anfang eines der faszinierendsten Fluesse der Welt stehen. Der GPS-Standort liegt bei etwa 0.4189°N, 33.2068°O -- und wer fruehmorgens dort ist, erlebt die Sonne beim Aufstieg ueber dem Victoriasee, waehrend das Wasser aus dem See in den jungen Fluss prescht.\n\nJinja ist aber laengst mehr als Geschichte. Die Stadt hat sich zur Abenteuerhauptstadt Ostugandas entwickelt: Wildwasser-Rafting auf dem Nil (Grad 3 bis 5, ca. 70 bis 130 USD pro Person, Stand 2026), Kajak, Wakeboarding, Stand-up-Paddling, und fuer weniger Adrenalin-Orientierte: Bootsfahrten zur Nil-Quelle, Vogelbeobachtung entlang der Uferzonen, und ein koloniales Stadtzentrum mit dem lebhaften Main Street Markt.\n\nBujagali, wenige Kilometer flussabwaerts, ist das Epizentrum dieser Abenteuerszene. Der Ort am oestlichen Nilufer ist nach dem Bujagali-Damm (fertiggestellt 2012, 250 MW Kapazitaet) als Wildwasser-Destination veraendert: Die urspruenglichen Stromschnellen existieren nicht mehr in ihrer alten Form, aber die Rafting-Betreiber haben sich angepasst und nutzen verbleibende Abschnitte. Entlang des Ufers bieten Wild Frontiers Nile River Safaris Bootausflueage an, Nile Horseback Safaris Pferdesafaris und All Terrain Adventures Quadbike-Exkursionen. Der Upper Victoria Nile in diesem Abschnitt bleibt trotz Damm ein Oekosystem von grosser Artenvielfalt -- Nilbarsche, Tilapia und Fischreiherpopulationen findet man entlang der Ufer. Wer am Nil angeln moechte: Feather & Fin bietet gefuehrte Angeltouren an.\n\nIn Jinja selbst lohnt sich ein Abend in der Altstadt: Die Main Street mit ihren Kolonialgebaeuden, einigen guten Restaurants und dem abendlichen Marktbetrieb zeigt ein ugandisches Stadtleben das sich deutlich ruhiger und entspannter anfuehlt als Kampala. Eine Nacht im Bujagali-Bereich, z.B. in der Nile Porch Lodge mit Blick auf den See Bujagali, gibt dem Aufenthalt einen besonderen Abschluss.',
+        showPhotos: false,
+      },
+      {
+        id: 'mbale-sipi-falls',
+        title: 'Mbale und Sipi Falls: Kaffee, Wasserfaelle und Handwerk',
+        content: 'Von Jinja aus fuehrt die Route nordwaerts nach Mbale -- rund 135 Kilometer, zwei bis drei Stunden Fahrt auf guten Strassen. Mbale ist die Regionalhauptstadt Nordostugandas und der natuerliche Ausgangspunkt fuer die Sipi Falls und den Mount Elgon. Als groessere Stadt bietet Mbale die letzte gute Einkaufsgelegenheit vor dem Aufstieg ins Hochland: Proviant, Medikamente, Schuhe nachkaufen und Bargeld abheben sollte man hier erledigen.\n\nSipi liegt 45 Kilometer nordoestlich von Mbale, am Westabhang des Mount Elgon auf knapp 1.600 Metern Hoehe. Das Dorf und seine drei Wasserfaelle -- der groesste faellt ueber 100 Meter -- sind ein Pflichtpunkt der Ost-Uganda-Route. Was Sipi aussergewoehnlich macht, ist nicht nur die Landschaft: Die Region ist ein bedeutendes Kaffeeanbaugebiet. Ugandischer Arabica-Kaffee von den Haengen des Mount Elgon gehoert zu den besten Kaffees Ostafrikas, und in Sipi koennen Reisende an gefuehrten Farm-Besuchen und Kaffee-Verarbeitungs-Erlebnissen teilnehmen. Die ugandische Kultmarke Uganda Waragi (produziert von Uganda Breweries Limited) nutzt Rohstoffe aus dieser Region -- lokale Braukultur und Destillation haben in Sipi Tradition.\n\nDie lokalen Handwerkerinnen in Sipi sind bemerkenswert: Geflochtene Koerbe, Schmuck und Textilien werden von Frauen aus der Gemeinde direkt am Strassenrand verkauft. [VOICE FEHLT: lokale Handwerkerin oder Kaffeebaeuer aus Sipi ueber Tourismus und Einkommenssituation] Wer zwei Naechte in Sipi einplant, kann alle drei Wasserfaelle zu Fuss besuchen, eine Kaffeefarm besichtigen und den Sonnenuntergang ueber dem ugandischen Tiefland erleben -- von Sipi aus sieht man bei klarem Wetter weit in die Ebene hinunter, bis zu den Reflexen des Viktoriasees am Horizont.\n\nPraktisch: Die Strasse von Mbale nach Sipi ist asphaltiert und gut befahrbar. Mit einem Boda-Boda oder Matatu ab Mbale ist Sipi in rund 45 Minuten erreichbar. Es gibt mehrere Guesthouses und einfache Lodges in Sipi selbst, die Preise sind in der Regel deutlich unter denen im suedwestlichen Uganda.',
+        showPhotos: false,
+      },
+      {
+        id: 'mount-elgon-nationalpark',
+        title: 'Mount Elgon National Park: Ugandas erloschener Riese',
+        content: 'Der Mount Elgon ist einer der am wenigsten bekannten Bergvulkane Ostafrikas -- und gleichzeitig einer der beeindruckendsten. Mit 4.321 Metern am Wagagai-Gipfel ueberragt er fast alle anderen Erhebungen Ugandas und liegt genau auf der Grenze zu Kenia: Der Nationalpark erstreckt sich auf beiden Seiten, der ugandische Teil heisst offiziell Mount Elgon National Park und wird von der Uganda Wildlife Authority (UWA) verwaltet. Der Komplex des erloschenen Vulkans ist mit einem Kraterdurchmesser von fast 40 Kilometern einer der groessten nicht kollabierenden Vulkankrater der Welt -- die Caldera bietet bei klarer Sicht ein unwirkliches Panorama.\n\nDer Einstieg in den Park erfolgt ueber Mbale, von wo aus der Mount Elgon Trail fuehrt. Die Hauptrouten auf den Gipfel dauern zwei bis vier Tage je nach Fitness und gewaaehlter Route; der direkteste Weg via Sasa-Trail ist anspruchsvoll und erfordert Vorbereitung, Bergschuhe und Kaltwitterskleidung. Wer nur einen Tag einplant, kann die unteren Parkzonen mit Bambuswald, Heidevegetation und Elefantenpfaden erleben ohne den Gipfel anzustreben. Im Park leben afrikanische Elefanten, die als "Hoehlenelefanten" bekannt sind weil sie die Kitum-Hoehle im Berg aufsuchen um Mineralsalze aus dem Gestein zu lecken -- dieses Verhalten ist einzigartig weltweit und macht den Elgon zu einem Sonderziel fuer Naturinteressierte.\n\nVulkanische Aktivitaet ist heute am Mount Elgon nicht mehr messbar; der Vulkan gilt als komplett erloschen. Dennoch erinnern die Vulkangesteine und die Caldera an die gewaltige Geschichte dieser Landschaft. Vulkanische Aktivitaet allgemein hat laut Multi-Hazard-Risk-and-Vulnerability-Profile der Kampala Capital City Authority (2018) das Potenzial zu regionalen Klimaveraenderungen, Wasserknappheit und anderen Folgen -- fuer den Mount Elgon jedoch ist das auf absehbare Zeit irrelevant. Die Boeden der Region sind durch die frueheren Ausbrueche minerienreich und ertragreiche Agrarflaeche -- woraus der gute Kaffee waechst.\n\nFuer Reisende ohne Gipfelambitionen: Die Sipi-Haengen am Fuss des Berges und die Wanderwege in der unteren Parkzone geben genug Eindruck fuer zwei bis drei Tage. Mit einem zertifizierten Guide des Uganda Wildlife Authority Ranger-Corps -- aehnlich wie beim Gorilla-Trekking in Bwindi -- ist das Erlebnis sicherer und tiefer. Die Ranger kennen die Elefantenpfade und wissen wo man morgens die besten Chancen hat Tiere zu beobachten.',
+        showPhotos: false,
+      },
+      {
+        id: 'praktisches-itinerary',
+        title: 'Das 7-Tage-Itinerary: Route, Transport und praktische Tipps',
+        content: 'Eine sinnvolle Einteilung der Ost-Uganda-Route in sieben Tagen: Tag 1 Ankunft in Kampala (Hauptstadt Ugandas), Uebernachtung in der Stadt oder direkte Weiterfahrt nach Jinja. Tag 2 Jinja -- Besuch der Nil-Quelle, Stadtspaziergang, abends in Bujagali uebernachten. Tag 3 Rafting oder Bootsfahrt in Bujagali, Nachmittag Weiterfahrt nach Mbale (rund 135 km, 2-3 Stunden). Tag 4 Mbale als Basis oder direkte Weiterfahrt nach Sipi (45 km), erste Wasserfaelle am Nachmittag. Tag 5 Sipi -- Kaffeefarm-Besuch, zweiter und dritter Wasserfall, Panorama bei Sonnenuntergang. Tag 6 Mount Elgon -- Tageswanderung mit UWA-Guide in die untere Parkzone, Bambuswald, Elefantenpfade. Tag 7 Rueckfahrt nach Kampala oder Weiterreise je nach Gesamtplan.\n\nBei unserem eigenen Besuch in Uganda im Januar 2026 wurden wir am Entebbe International Airport von einem Fahrer mit einem Safari-Jeep abgeholt (GPS: 0.0442°N, 32.4443°O) -- das war angenehm, aber keine Pflicht. Fuer die Strecke Kampala-Jinja ist das regulaere Matatu vom Old Taxi Park Kampala eine guenstige Option (5.000 bis 10.000 Uganda-Schilling), schnell und gut vernetzt. Fuer die Strecken ab Jinja nordwaerts nach Mbale ist ein Mietwagen oder ein gebuchter Transfer komfortabler, da die Gepäckmitnahme im Matatu je nach Tagesform problematisch sein kann.\n\nDie beste Reisezeit fuer Ostuganda ist die Trockenzeit: Juni bis August und Dezember bis Februar. Die Strassen sind dann gut befahrbar, der Mount Elgon gut begehbar und die Sipi Falls fuehren gutes Wasser. In der Regenzeit (April bis Mai, Oktober bis November) koennen die Pisten am Elgon schwierig werden. Bei unserem Murchison-Besuch im Oktober 2024 -- kurz nach der kurzen Regenzeit -- hatten wir trotzdem exzellente Bedingungen, was zeigt dass auch Uebergangsmonate gut funktionieren koennen.\n\nUnterkunft: In Jinja gibt es Optionen fuer jedes Budget, von Backpacker-Hostels bis zur Nile Porch Lodge mit Panoramablick. In Sipi sind die Unterkuenfte einfacher aber charaktervoll, oft direkt mit Blick auf die Wasserfaelle. Am Mount Elgon gibt es Campsites direkt im Park. Fuer den Abschluss der Reise lohnt sich ein Blick auf die Bootsfahrt auf dem Viktoria-Nil im Murchison Falls Nationalpark -- wer von Ostuganda aus Richtung Kampala zurueckfaehrt, kann diese Route ueber den Norden nehmen und den Park einbauen. Unsere Bootsfahrt im Oktober 2024 (GPS: 2.2829°N, 31.5649°O) war eines der Highlights des gesamten Uganda-Besuchs: Das Boot fuer ca. 14 Personen, mit Rettungswesten und Sonnendach, wackelig aber unvergesslich -- Krokodile am Ufer (GPS: 2.2771°N, 31.6698°O), Flusspferde, trinkende Elefanten, Nilkormoran und Afrikanische Fischadler.',
+        showPhotos: false,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Kann man die Ost-Uganda-Route ohne eigenes Fahrzeug machen?',
+        a: 'Ja, aber mit etwas mehr Aufwand. Matatus verbinden Kampala mit Jinja (Alt Taxi Park, 5.000-10.000 UGX), Jinja mit Mbale und Mbale mit Sipi. Fuer Mount Elgon ist ein Boda-Boda oder Mietwagen ab Mbale sinnvoller. Wer mehr Flexibilitaet will, bucht einen Fahrer fuer mehrere Tage -- das ist in Uganda guenstiger als in Europa und geht ueber die meisten Unterkuenfte oder Tour-Operatoren in Jinja oder Kampala.',
+      },
+      {
+        q: 'Wie hoch ist der Mount Elgon und wie lange dauert eine Besteigung?',
+        a: 'Der Mount Elgon erreicht am Wagagai-Gipfel 4.321 Meter ueber dem Meeresspiegel. Der schnellste Aufstieg via Sasa-Trail dauert zwei Tage (hin und zurueck), eine komfortablere Variante drei bis vier Tage. Ein UWA-Guide ist Pflicht. Wer nur die unteren Parkzonen mit Bambuswald und Elefantenpfaden erkunden moechte, kann das als Tagestour ab Mbale oder Sipi planen.',
+      },
+      {
+        q: 'Was ist an den Sipi Falls sehenswert ausser den Wasserfaellen selbst?',
+        a: 'Sipi ist ein bedeutendes Kaffeeanbaugebiet -- gefuehrte Kaffeefarm-Besuche mit Verarbeitung und Verkostung sind ein Highlight. Lokale Handwerkerinnen verkaufen Koerbe, Schmuck und Textilien. Das Panorama vom Rand der Felsplatte ueber das ugandische Tiefland ist bei klarem Wetter spektakulaer. Und von Sipi aus ist Mount Elgon direkt zuganglich: Der Nationalpark-Eingang liegt keine 30 Kilometer entfernt.',
+      },
+      {
+        q: 'Was bedeutet "jinja uganda sehenswuerdigkeiten" konkret -- was sollte man unbedingt sehen?',
+        a: 'Das Speke Monument an der Nil-Quelle (GPS: ca. 0.4189°N, 33.2068°O), das koloniale Stadtbild der Innenstadt mit Main Street Markt, Wildwasser-Rafting oder eine Bootsfahrt auf dem Nil in Bujagali, und der Mabira Forest Reserve fuer einen halben Tag Naturbeobachtung. Fuer Vogelbeobachter: Entlang des Nilabschnitts Bujagali sind Afrikanische Fischadler, Malachitkingfisher und weitere Nilarten zu sehen. Fuer Abenteuerreisende: Kayak, Wakeboarding und Pferdesafaris sind ueber Bujagali-Betreiber buchbar.',
+      },
+      {
+        q: 'Wie weit ist Jinja von Kampala (Hauptstadt Ugandas) entfernt und wie kommt man hin?',
+        a: 'Jinja liegt rund 85 Kilometer oestlich von Kampala, ca. eine bis zwei Stunden Fahrt je nach Verkehrslage. Die schnellste Option ist die Kampala-Jinja Expressway mit einem Mietwagen oder Taxi. Guenstigste Option: Matatu ab dem Old Taxi Park in Kampala fuer 5.000 bis 10.000 Uganda-Schilling pro Person. Wer mit dem Safari-Jeep anreist, hat mehr Flexibilitaet fuer Stopps unterwegs.',
+      },
+    ],
+    photoFilter: 'murchison_falls',
+    isTouristDestination: true,
+    related: [
+      { href: '/jinja-sehenswuerdigkeiten', title: 'Jinja Uganda Sehenswuerdigkeiten', desc: 'Nil-Quelle, Wildwasser-Rafting und das echte Jinja -- alle Details im Guide.' },
+      { href: '/sipi-falls', title: 'Sipi Falls', desc: 'Die drei Wasserfaelle am Westabhang des Mount Elgon -- Wandern, Kaffee und Panorama.' },
+      { href: '/mt-elgon-trekking-guide', title: 'Mount Elgon Trekking', desc: 'Vollstaendiger Trekking-Guide fuer den Mount Elgon National Park.' },
+      { href: '/murchison-falls-nationalpark', title: 'Murchison Falls Nationalpark', desc: 'Bootsfahrt auf dem Viktoria-Nil, Game Drive und Wildtierbeobachtung im Norden.' },
+      { href: '/hauptstadt-ugandas', title: 'Kampala: Hauptstadt Ugandas', desc: 'Kampala als Ausgangspunkt und erstes Ziel jeder Uganda-Reise.' },
+    ],
+    quellen: [
+      'Reisefuehrer Uganda 2020 -- Teil 26 (Mount Elgon), Teil 28 (Ost-Uganda-Route, Sipi/Mbale)',
+      'Uganda Wildlife Authority (UWA): Mount Elgon National Park',
+      'Multi-Hazard-Risk-and-Vulnerability-Profile, KCCA August 2018 -- Teil 2 (Vulkanrisiken)',
+      'Eigene Reiseerfahrungen in Ostuganda, Oktober 2024 (GPS-verifiziert)',
+      'Eigene Vor-Ort-Besuche Bwindi und Murchison Falls, Januar 2026 und Oktober 2024',
+    ],
+  },
+
   'jinja-sehenswuerdigkeiten': {
     slug: '/jinja-sehenswuerdigkeiten',
     title: 'Jinja Uganda Sehenswuerdigkeiten: Nil-Quelle & Rafting',

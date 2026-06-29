@@ -38,6 +38,8 @@ const LINK_RULES = [
   { pattern: /Gorilla[\s-]Permit\s+(?:kaufen|buchen)/gi, path: '/gorilla-permit-kosten' },
   { pattern: /Gorilla[\s-]Trekking\s+(?:Bwindi\s+)?(?:Komplettguide|Reisefuehrer|Guide\s+fuer\s+Erstbesucher)/gi, path: '/bwindi-gorilla-reisefuehrer' },
   { pattern: /Bwindi\s+Gorilla[\s-]Trekking\s+(?:Tipps?|Guide|Infos?)/gi, path: '/bwindi-gorilla-reisefuehrer' },
+  { pattern: /(?:Ost[\s-]Uganda[\s-]Route|Route\s+durch\s+Ost[\s-]Uganda|7[\s-]Tage[\s-]Ost[\s-]Uganda)/gi, path: '/route-ost-uganda' },
+  { pattern: /(?:Jinja|Sipi\s+Falls|Mount\s+Elgon)\s+(?:Itinerary|Rundfahrt|Route)/gi, path: '/route-ost-uganda' },
   { pattern: /Abfallwirtschaft\s+(?:fuer\s+)?(?:Lodges?|Hotels?|Tourismusunternehmen)/gi, path: '/checkliste-abfallwirtschaft-lodges-tourismusunternehmen' },
   { pattern: /(?:S\.I\.\s+No\.\s+49|Waste\s+Management\s+Regulations)\s+(?:2020|Uganda)/gi, path: '/checkliste-abfallwirtschaft-lodges-tourismusunternehmen' },
   { pattern: /Leonard\s+Sharp/gi, path: '/leonard-sharp-bwama-island' },
