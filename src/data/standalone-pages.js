@@ -10130,8 +10130,8 @@ export const standalonePages = {
     metaDescription: 'Die Hauptstadt Ugandas ist Kampala: 7 Huegel, Kasubi-Graeberstaette (UNESCO), 65 % des BIP. Reiseguide 2026 inkl. Murchison Falls.',
     breadcrumbs: [{ label: 'Kampala' }],
     publishedTime: '2026-06-26',
-    modifiedTime: '2026-06-26',
-    photoFilter: 'murchison_falls',
+    modifiedTime: '2026-06-29',
+    photoFilter: 'kampala',
     kurzantwort: 'Die Hauptstadt Ugandas ist Kampala -- eine Millionenstadt auf sieben Huegeln am Nordufer des Viktoriasees, die seit der Unabhaengigkeit Ugandas am 9. Oktober 1962 das politische, wirtschaftliche und kulturelle Zentrum des Landes bildet. Laut einer Studie der Kampala Capital City Authority erwirtschaftet das Stadtgebiet rund 65 Prozent des nationalen Bruttoinlandsprodukts. Fuer Reisende ist Kampala meistens der erste und letzte Eindruck von Uganda -- und der Ausgangspunkt fuer alle grossen Nationalparks des Landes, darunter den Murchison Falls Nationalpark im Nordwesten.',
     fakten: [
       { label: 'Status', value: 'Hauptstadt Ugandas seit 9. Oktober 1962' },
@@ -10165,6 +10165,18 @@ export const standalonePages = {
           'Die Bevoelkerung waechst kontinuierlich. Das Uganda Bureau of Statistics verzeichnet seit der Volkszaehlung 2002 ein durchschnittliches Wachstum von rund 2,02 Prozent pro Jahr. Das stellt die Infrastruktur unter enormen Druck: Acht Hauptdrainage-Systeme -- Nakivubo, Lubigi, Nalukolongo, Kansanga, Manyanja, Kinawataka, Nalubaga und Walufumbe -- entwassern die Stadt, doch in starken Regenzeiten reichen sie nicht aus. In der Kawempe Division, wo acht der 31 offiziell anerkannten Slums der Stadt liegen, sind saisonale Ueberschwemmungen ein jaehrliches Problem (Quelle: KCCA Multi-Hazard-Risk-Profile 2018).',
           'Wer Kampala jenseits der Staus und des Laerms verstehen will, sollte auf das Feuchtgebietssystem der Stadt achten. 18,68 Quadratkilometer Sumpf und Feuchtgebiet liegen innerhalb des Stadtgebiets -- knapp 9 Prozent der Gesamtflaeche. Diese Bereiche filtern Regenwasser, puffern Ueberschwemmungen ab und bieten Lebensraum fuer Voegel und andere Arten. In Gebieten wie Kawempe entlang der Nsoba- und Lubigi-Feuchtgebiete sind illegale Aufschuettungen durch Muell und Erdaushub ein bekanntes Problem: Sumpfland wird in der Nacht verfahren und am naechsten Morgen als Bauland beansprucht. Die National Environment Management Authority (NEMA), ansaessig in Kampala, ist fuer die Einhaltung der Umweltstandards zustaendig -- auch fuer den Schutz dieser Feuchtgebiete.',
         ],
+      },
+      {
+        id: 'kampala-transport-mobilitaet',
+        title: 'Kampala: Strassenverkehr, Boda-Bodas und die Logik der Mobilität',
+        content: [
+          'Am 11. Januar 2026 wurden wir am Entebbe International Airport von einem Fahrer in einem Safari-Jeep abgeholt (GPS: 0.0442°N, 32.4443°O) -- mit Dachgepaecktraeger, Ueberrollbuegel und einer Gelassenheit, die sofort klar machte: Diese Fahrzeuge sind kein Marketing-Accessoire, sondern Werkzeug. Der Weg von Entebbe nach Kampala -- rund 40 Kilometer, gut ausgebaut -- ist das erste Kapitel der ugandischen Verkehrsgeschichte die jeder Reisende durchlaeuft. Auf dieser Strecke lernt man sehr schnell, dass ugandischer Strassenverkehr eigene Regeln kennt, die nach innen stimmig sind, auch wenn sie von aussen chaotisch wirken.',
+          'Im Mai 2026 fuhren wir von der Hauptstadt ugandas direkt nach der Ankunft quer durch die Stadt (GPS: 0.2917°N, 32.4996°O). Boda-Boda-Motorraeder weben zwischen Kleinbussen und Fahrradtraegern hindurch. Fussgaenger queren in Luecken, die einem Europeer keine Luecken erscheinen. Lastwagen blockieren Kreuzungen, Fahrraeder laden Gasfaschen, und irgendwo in dieser Welle aus Bewegung und Geraeusch entfaltet sich die eigentliche Energie Kampalas: eine junge Stadt die keine Zeit hat, auf Ordnung zu warten, und die stattdessen eine eigene entwickelt hat. Wer nach einer Stunde Fahrt durch die ugandische Hauptstadt noch glaubt, hier sei kein System, hat das System noch nicht verstanden.',
+          'Der Boda-Boda ist das Rueckgrat dieser Mobilitaet. Sein Name hat kolonialen Ursprung: "Border to border" wurde zu "Boda-Boda" -- urspruenglich bezeichnete es Fahrraeder, mit denen Reisende und Haendler zwischen schlecht kontrollierten Grenzposten befoerdert wurden. Heute sind es Motorraeder, die in jeder ugandischen Stadt und jedem Dorf die schnellste und guenstigste Fortbewegung darstellen. Wir sahen auf der Fahrt Richtung Murchison Falls im Oktober 2024 einen Boda-Boda-Fahrer der mehrere uebereinander gestapelte Jerrykans voller Wasser transportierte -- kein Helm, Sandalen, vollkommen routiniert. Das war kein Ausnahmefall. Das ist die normale Logistik des ugandischen Alltags: pragmatisch, risikobewertet nach lokalen Masstaeben, und in seiner Funktionstuechtigkeit beeindruckend.',
+          'Auf groesseren Strecken praegt die Route via Masaka Highway das Bild. Im Januar 2026 haben wir diesen Korridor befahren (GPS: 0.1061°N, 32.1716°O): Im Jahr 2026 wird die Strasse auf weiten Abschnitten saniert und ausgebaut -- was bedeutet, dass man phasenweise auf Staubpisten faehrt, umgeben von schwerem Baumaschinen-Verkehr, LKW-Kolonnen und Boda-Bodas die sich durch die Baustelle schlaengeln. Fuer Fahrer ohne Klimaanlage ist das bei Tagestemperaturen ueber 30 Grad eine echte Herausforderung. Die Staubwolken die schwere Lastwagen aufwirbeln, haengen minutenlang in der Luft. Die Strassenbauarbeiten sind aber ein klares Signal: Uganda investiert in seine Infrastruktur, und die Hauptverkehrsachsen werden in den kommenden Jahren deutlich besser fahrbar sein.',
+          'Auf unserem Weg von Butiru Richtung Murchison Falls im Oktober 2024 passierten wir einen Kleinbus der uns mit seinem Dachgepaeck zu staunen brachte (GPS: 1.9624°N, 31.7122°O): Die Ladung aus Matratzen und Haushaltswaren ueberragte das Fahrzeug locker um das Doppelte -- sorgfaeltig verzurrt, der Fahrer gab entspannt Gas. Ein Bild das typisch ist und das man selten vergisst. Uganda loest Transportprobleme auf seine eigene Art: ohne westeuropaeische Sicherheitsregeln, aber mit einem Gefuehl fuer das was unter den gegebenen Umstaenden funktioniert. Wer die ugandische Hauptstadt und ihr Umland bereist, wird viele solcher Momente erleben -- und mit etwas Abstand versteht man sie als Zeichen einer Gesellschaft, die sich ihren Weg durch ein rasch wachsendes Land eigenstaendig sucht. [VOICE FEHLT: Boda-Boda-Fahrer oder Kleinbus-Transporteur ueber seinen Alltag]',
+        ],
+        showPhotos: false,
       },
       {
         id: 'sehenswuerdigkeiten-kampala',
@@ -10239,20 +10251,21 @@ export const standalonePages = {
         a: 'Die besten Bedingungen herrschen in der Trockenzeit: Dezember bis Februar sowie Juni bis September. Die Pisten sind dann gut befahrbar, Tiere sammeln sich haeufiger an Wasserloechern und die Sicht ist klar. Wir haben den Park im Oktober besucht -- unmittelbar nach der kurzen Regenzeit -- und haben trotzdem exzellente Tiersichtungen gehabt: niederes Gras, aktive Tiere, wenig andere Besucher.',
       },
     ],
-    relatedPages: [
+    related: [
       { href: '/regionen/kampala', title: 'Kampala als Region', desc: 'Sehenswuerdigkeiten, Unterkunft und Tipps fuer einen Kampala-Aufenthalt.' },
       { href: '/murchison-falls-nationalpark', title: 'Murchison Falls Nationalpark', desc: 'Kompletter Reisefuehrer: Bootsfahrt, Game Drive, Anreise und beste Reisezeit.' },
-      { href: '/nationalparks', title: 'Ugandas 10 Nationalparks', desc: 'Alle Nationalparks im Ueberblick -- von Bwindi bis Kidepo.' },
+      { href: '/kigali-nach-kampala', title: 'Von Kigali nach Kampala', desc: 'Busreise, Grenzuebergang Katuna und erste Eindruecke in der ugandischen Hauptstadt.' },
+      { href: '/flughaefen-uganda', title: 'Flughaefen in Uganda', desc: 'Entebbe International Airport: Anreise, Terminals und Transfer nach Kampala.' },
       { href: '/der-nil-in-uganda', title: 'Der Nil in Uganda', desc: 'Von der Nilquelle in Jinja bis zu den Murchison Falls: der Weisse Nil in Uganda.' },
     ],
     quellen: [
       'Kampala Capital City Authority (KCCA): Multi-Hazard Risk and Vulnerability Profile, August 2018',
       'Uganda Bureau of Statistics (UBOS): Census-Daten 2002 und 2014',
       'UNESCO World Heritage List: Tombs of the Buganda Kings at Kasubi, Eintrag Nr. 1022',
-      'Eigene Reiseerfahrungen im Murchison Falls Nationalpark und auf Ugandas Strassen, Oktober 2024 (GPS-verifiziert)',
+      'Eigene Reiseerfahrungen Kampala (Mai 2026, GPS-verifiziert) und Masaka Highway (Januar 2026, GPS-verifiziert)',
+      'Eigene Reiseerfahrungen Murchison Falls und Butiru-Route, Oktober 2024 (GPS-verifiziert)',
     ],
     isTouristDestination: true,
-    photoFilter: 'murchison_falls',
   },
 
   'bwindi-gorilla-reisefuehrer': {
