@@ -804,6 +804,82 @@ export const standalonePages = {
     ],
   },
 
+  datenschutz: {
+    slug: '/datenschutz',
+    hidePartner: true,
+    title: 'Datenschutzerklaerung',
+    h1: 'Datenschutzerklaerung',
+    subtitle: 'Informationen zur Verarbeitung personenbezogener Daten gemaess DSGVO',
+    metaDescription: 'Datenschutzerklaerung Reiseziel-Uganda.de: Hope on the Road gGmbH, Fuchsweg 5, 21529 Kroeppelshagen-Fahrendorf. Kein Tracking, keine Analyse-Tools.',
+    breadcrumbs: [{ label: 'Datenschutz' }],
+    publishedTime: '2025-01-15',
+    modifiedTime: '2026-06-30',
+    kurzantwort: 'Reiseziel-Uganda.de wird betrieben von Hope on the Road gGmbH. Diese Website verwendet kein Tracking, keine Analyse-Tools und keine Werbecookies. Es werden lediglich technisch notwendige Verbindungen zu Netlify (Hosting), Google Fonts (Schriftarten) und Supabase (Bildhosting) hergestellt.',
+    fakten: [
+      { label: 'Verantwortliche Stelle', value: 'Hope on the Road gGmbH, Mark Suer' },
+      { label: 'Kontakt', value: 'suer@hope-on-the-road.de' },
+      { label: 'Tracking', value: 'Keines' },
+      { label: 'Cookies', value: 'Nur technisch notwendige (Hoster)' },
+      { label: 'Externe Dienste', value: 'Netlify, Google Fonts, Supabase' },
+      { label: 'Aufsichtsbehoerde', value: 'ULD Schleswig-Holstein' },
+    ],
+    sections: [
+      {
+        id: 'verantwortliche-stelle',
+        title: 'Verantwortliche Stelle',
+        content: 'Verantwortlich fuer die Datenverarbeitung auf dieser Website ist:\n\nHope on the Road gGmbH\nFuchsweg 5\n21529 Kroeppelshagen-Fahrendorf\n\nTelefon: 04104 / 91 89 811\nE-Mail: suer@hope-on-the-road.de\n\nGeschaeftsfuehrer und Datenschutzbeauftragter: Mark Suer\n\nDie Hope on the Road gGmbH ist als gemeinnuetzig anerkannt gemaess § 60a AO.',
+        showPhotos: false,
+      },
+      {
+        id: 'allgemeine-hinweise',
+        title: 'Allgemeine Hinweise und Pflichtinformationen',
+        content: 'Datenschutz:\n\nWir nehmen den Schutz Ihrer persoenlichen Daten ernst und behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklaerung.\n\nSicherheit der Uebertragung:\n\nDiese Website nutzt aus Sicherheitsgruenden eine SSL- bzw. TLS-Verschluesselung. Eine verschluesselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von "http://" auf "https://" wechselt.\n\nWiderrufsrecht:\n\nEinwilligungen zur Datenverarbeitung koennen Sie jederzeit formlos per E-Mail an suer@hope-on-the-road.de widerrufen. Die Rechtmaessigkeit der bis zum Widerruf erfolgten Datenverarbeitungsvorgaenge bleibt vom Widerruf unberuehrt.\n\nWiderspruchsrecht gegen Direktwerbung:\n\nDie im Rahmen des Impressums veroeffentlichten Kontaktdaten werden nicht fuer unerwuenschte Werbesendungen genutzt. Unaufgefordert zugesandte Werbematerialien behalten wir uns vor, rechtlich zu verfolgen.',
+        showPhotos: false,
+      },
+      {
+        id: 'datenerfassung',
+        title: 'Datenerfassung auf dieser Website',
+        content: 'Kein Tracking und keine Analyse-Tools:\n\nReiseziel-Uganda.de verwendet keinerlei Web-Analytics-Dienste (wie Google Analytics, Matomo oder aehnliche), keine Werbe-Cookies und keine Tools zur Erstellung von Nutzerprofilen. Sie koennen diese Website anonym und ohne Verhaltenstracking besuchen.\n\nCookies:\n\nDiese Website selbst setzt keine Cookies. Unser Hosting-Anbieter Netlify kann im Rahmen des Betriebs technisch notwendige Cookies setzen. Diese dienen ausschliesslich dem einwandfreien Betrieb der Website und nicht der Nachverfolgung von Nutzern.\n\nServer-Log-Dateien:\n\nDer Betreiber dieser Website erhebt und speichert automatisch Informationen in sogenannten Server-Log-Dateien, die Ihr Browser automatisch uebermittelt. Dies sind:\n- Browsertyp und Browserversion\n- Verwendetes Betriebssystem\n- Referrer-URL (zuvor besuchte Website)\n- Hostname des zugreifenden Rechners\n- Uhrzeit der Serveranfrage\n- IP-Adresse\n\nDiese Daten werden nicht mit anderen Datenquellen zusammengefuehrt. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse am stoerungsfreien Betrieb der Website). Die Daten werden nach 30 Tagen automatisch geloescht.\n\nKontaktanfragen:\n\nDiese Website verfuegt ueber kein Kontaktformular. Wenn Sie uns per E-Mail kontaktieren, wird Ihre Anfrage inklusive aller angegebenen personenbezogenen Daten zum Zweck der Bearbeitung Ihrer Anfrage bei uns gespeichert. Diese Daten werden nicht ohne Ihre Einwilligung weitergegeben. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO.',
+        showPhotos: false,
+      },
+      {
+        id: 'hosting-netlify',
+        title: 'Hosting: Netlify',
+        content: 'Diese Website wird bei Netlify Inc., 512 2nd Street, Suite 200, San Francisco, CA 94107, USA gehostet.\n\nNetlify ist Empfaenger Ihrer personenbezogenen Daten und agiert als Auftragsverarbeiter fuer den Betrieb der Website. Dabei koennen IP-Adressen und technische Verbindungsdaten im Rahmen von Server-Log-Dateien erfasst werden. Dies entspricht dem berechtigten Interesse am sicheren und stoerungsfreien Betrieb einer Website (Art. 6 Abs. 1 lit. f DSGVO).\n\nNetlify hat Standardvertragsklauseln nach Art. 46 Abs. 2 DSGVO abgeschlossen, die eine angemessene Sicherheit bei der Uebertragung in Drittlaender gewaehrleisten.\n\nWeitere Informationen zum Datenschutz bei Netlify: https://www.netlify.com/privacy/',
+        showPhotos: false,
+      },
+      {
+        id: 'google-fonts',
+        title: 'Google Fonts',
+        content: 'Diese Website nutzt Google Fonts zur einheitlichen Darstellung von Schriftarten. Google Fonts ist ein Dienst von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland.\n\nBeim Aufruf dieser Website stellt Ihr Browser eine Verbindung zu den Servern von Google her und laedt die benoetigen Schriftdateien herunter. Dabei wird Ihre IP-Adresse an Google uebermittelt. Die Nutzung von Google Fonts erfolgt im Interesse einer einheitlichen und ansprechenden Darstellung unseres Angebots. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.\n\nWenn Ihr Browser Google Fonts nicht unterstuetzt, wird eine Standardschrift Ihres Computers genutzt.\n\nWeitere Informationen zu Google Fonts: https://fonts.google.com\nDatenschutzerklaerung Google: https://policies.google.com/privacy',
+        showPhotos: false,
+      },
+      {
+        id: 'supabase-bildhosting',
+        title: 'Supabase (Bildhosting)',
+        content: 'Die auf dieser Website angezeigten Fotografien werden ueber Supabase Storage bereitgestellt, einem Dienst von Supabase, Inc., 970 Trestle Glen Rd, Oakland, CA 94610, USA.\n\nBeim Laden von Bildern stellt Ihr Browser eine direkte Verbindung zu den Servern von Supabase her. Dabei koennen technische Verbindungsdaten inklusive Ihrer IP-Adresse im Serverprotokoll von Supabase erfasst werden. Eine Verarbeitung dieser Daten zu Werbe- oder Trackingzwecken findet nicht statt. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Bereitstellung von Bildinhalten).\n\nDatenschutzerklaerung Supabase: https://supabase.com/privacy',
+        showPhotos: false,
+      },
+      {
+        id: 'ihre-rechte',
+        title: 'Ihre Rechte als betroffene Person',
+        content: 'Sie haben gemaess DSGVO folgende Rechte gegenueber dem Verantwortlichen hinsichtlich der Sie betreffenden personenbezogenen Daten:\n\nAuskunftsrecht (Art. 15 DSGVO):\nSie haben das Recht, Auskunft ueber Ihre von uns verarbeiteten personenbezogenen Daten zu erhalten.\n\nRecht auf Berichtigung (Art. 16 DSGVO):\nSie haben das Recht, die unverzoegerliche Berichtigung unrichtiger Daten zu verlangen.\n\nRecht auf Loeschung (Art. 17 DSGVO):\nSie haben das Recht, die Loeschung Ihrer bei uns gespeicherten personenbezogenen Daten zu verlangen, soweit keine gesetzliche Aufbewahrungspflicht besteht.\n\nRecht auf Einschraenkung der Verarbeitung (Art. 18 DSGVO):\nSie haben das Recht, die Einschraenkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.\n\nRecht auf Datenuebertragbarkeit (Art. 20 DSGVO):\nSie haben das Recht, Ihre personenbezogenen Daten in einem maschinenlesbaren Format zu erhalten oder die Uebertragung an einen anderen Verantwortlichen zu verlangen.\n\nWiderspruchsrecht (Art. 21 DSGVO):\nSie haben das Recht, gegen die Verarbeitung Ihrer personenbezogenen Daten Widerspruch einzulegen.\n\nZur Ausuebung Ihrer Rechte wenden Sie sich an: suer@hope-on-the-road.de',
+        showPhotos: false,
+      },
+      {
+        id: 'aufsichtsbehoerde',
+        title: 'Beschwerderecht bei der Aufsichtsbehoerde',
+        content: 'Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehoerde ueber die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren. Die fuer uns zustaendige Aufsichtsbehoerde ist:\n\nULD -- Unabhaengiges Landeszentrum fuer Datenschutz Schleswig-Holstein\nHolstenstrasse 98\n24103 Kiel\nPostfach 7116, 24171 Kiel\n\nTelefon: 0431 988 -- 1200\nE-Mail: mail@datenschutzzentrum.de\nWebsite: https://www.datenschutzzentrum.de',
+        showPhotos: false,
+      },
+    ],
+    faqs: [],
+    related: [
+      { href: '/impressum', title: 'Impressum', desc: 'Angaben zum Betreiber und gesetzlich vorgeschriebene Pflichtinformationen.' },
+      { href: '/', title: 'Startseite', desc: 'Zurueck zur Startseite von Reiseziel-Uganda.de.' },
+    ],
+  },
+
   reiseplanung: {
     slug: '/reiseplanung',
     title: 'Reiseplanung Uganda 2026 -- Visum, Impfungen, Kosten & Tipps',

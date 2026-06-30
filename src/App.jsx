@@ -147,6 +147,7 @@ export default function App() {
           <Route path="/gorilla-trekking-erfahrungsbericht" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-trekking-erfahrungsbericht" />} />
           <Route path="/ueber-uns" element={<StandalonePage photos={photos} clusters={clusters} pageId="ueber-uns" />} />
           <Route path="/impressum" element={<StandalonePage photos={photos} clusters={clusters} pageId="impressum" />} />
+          <Route path="/datenschutz" element={<StandalonePage photos={photos} clusters={clusters} pageId="datenschutz" />} />
           <Route path="/erlebnisse/vogelbeobachten-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="vogelbeobachten-uganda" />} />
           <Route path="/erlebnisse/rwenzori-marathon" element={<StandalonePage photos={photos} clusters={clusters} pageId="rwenzori-marathon" />} />
           <Route path="/rwenzori-vs-kilimanjaro" element={<StandalonePage photos={photos} clusters={clusters} pageId="rwenzori-vs-kilimanjaro" />} />

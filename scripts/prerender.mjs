@@ -56,6 +56,7 @@ const ROUTES = [
   '/gorilla-trekking-erfahrungsbericht',
   '/ueber-uns',
   '/impressum',
+  '/datenschutz',
   '/nationalparks/bwindi',
   '/nationalparks/queen_elizabeth',
   '/nationalparks/murchison_falls',
