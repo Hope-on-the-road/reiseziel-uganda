@@ -127,6 +127,7 @@ export default function App() {
           <Route path="/nachbarlaender-uganda" element={<NachbarlaenderPage photos={photos} clusters={clusters} />} />
           <Route path="/wirtschaft-uganda" element={<WirtschaftPage photos={photos} clusters={clusters} />} />
           <Route path="/staedte" element={<StandalonePage photos={photos} clusters={clusters} pageId="staedte" />} />
+          <Route path="/staedte-in-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="staedte-in-uganda" />} />
           <Route path="/der-nil-in-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="der-nil-in-uganda" />} />
           <Route path="/welche-tiere-leben-im-viktoriasee" element={<StandalonePage photos={photos} clusters={clusters} pageId="welche-tiere-leben-im-viktoriasee" />} />
           <Route path="/sehenswuerdigkeiten" element={<StandalonePage photos={photos} clusters={clusters} pageId="sehenswuerdigkeiten" />} />

@@ -120,6 +120,90 @@ export const standalonePages = {
     ],
   },
 
+  'staedte-in-uganda': {
+    slug: '/staedte-in-uganda',
+    title: 'Staedte in Uganda: Kampala, Jinja und mehr',
+    h1: 'Staedte in Uganda -- Von Kampala bis Jinja: Die wichtigsten Orte fuer Reisende',
+    subtitle: 'Kampala als Hauptstadt, Jinja an der Nilquelle, Entebbe am See -- und wie man zwischen den Staedten reist',
+    metaDescription: 'Welche Stadt in Uganda hat 7 Buchstaben? Die Antwort: KAMPALA. Alle wichtigen Staedte in Uganda fuer Reisende -- mit Reiseinfos, Transport und Safaritipps.',
+    breadcrumbs: [{ label: 'Staedte in Uganda' }],
+    publishedTime: '2026-06-30',
+    modifiedTime: '2026-06-30',
+    photoFilter: 'murchison_falls',
+    kurzantwort: 'Die Hauptstadt Ugandas heisst Kampala -- fuer Kreuzwortraetsel-Fans: KAMPALA schreibt sich mit sieben Buchstaben. Die Stadt liegt auf mehreren Huegeln im Zentrum des Landes, rund 40 Kilometer noerdlich von Entebbe, wo der internationale Flughafen liegt. Neben Kampala sind Jinja an der Nilquelle, Entebbe am Victoriasee, Mbale am Fuss des Mount Elgon und Fort Portal im Westen die wichtigsten Staedte fuer Reisende. Uganda ist kein Land der Grossstaedte -- seine Attraktionen liegen in den Nationalparks und am See. Doch genau deshalb lohnt es sich, die Staedte als das zu begreifen was sie sind: lebendige Ausgangspunkte, Haltepunkte und Ankerpunkte einer Reise durch eines der faszinierendsten Laender Ostafrikas.',
+    fakten: [
+      { label: 'Hauptstadt', value: 'Kampala (7 Buchstaben)' },
+      { label: 'Einwohner Grossraum', value: 'ca. 3,5 Mio. (Kampala Metropolitan)' },
+      { label: 'Internationaler Flughafen', value: 'Entebbe International Airport' },
+      { label: 'KCCA-Bezirke', value: '5 (Central, Kawempe, Makindye, Nakawa, Rubaga)' },
+      { label: 'Abenteuerstadt', value: 'Jinja an der Nilquelle' },
+      { label: 'Entfernung Kampala-Murchison', value: 'ca. 300 km (5-6 Stunden)' },
+      { label: 'Waehrung', value: 'Ugandischer Schilling (UGX)' },
+      { label: 'Amtssprachen', value: 'Englisch und Swahili' },
+    ],
+    sections: [
+      {
+        id: 'kampala-hauptstadt-7-buchstaben',
+        title: 'Kampala: Die Hauptstadt Ugandas in 7 Buchstaben',
+        content: 'Wer beim Kreuzwortraetsel nach einer Stadt in Uganda mit sieben Buchstaben sucht, landet unweigerlich bei KAMPALA. Das ist kein Zufall -- Kampala ist nicht nur die Hauptstadt Ugandas, sondern auch die einzige ugandische Grossstadt, die international breit bekannt ist. Doch hinter dem Namen steckt weit mehr als eine Kreuzwortraetsel-Loesung.\n\nDer Name Kampala leitet sich vom Luganda-Ausdruck "kasozi k\'empala" ab -- "Huegel der Impala". Die Buganda-Koenigsleute jagten auf den fruchtbaren Huegeln dieser Region Topis-Antilopen, die im Luganda als Impala bezeichnet werden. Als die Briten Ende des 19. Jahrhunderts einen Fort auf dem Hinterhuegel errichteten, nannten sie den Ort kurz Kampala. Aus diesem bescheidenen Militaerposten wurde in wenigen Jahrzehnten eine Millionenstadt.\n\nHeute wird Kampala von der Kampala Capital City Authority (KCCA) in fuenf Bezirke verwaltet: Kampala Central, Kawempe, Makindye, Nakawa und Rubaga. Jeder Bezirk hat seinen eigenen Charakter -- Kololo im Nakawa-Bezirk gilt als das aufstrebende Viertel mit modernen Restaurants und Cafes, waehrend Old Kampala im Central-Bezirk das dichte Gewebe des historischen Stadtlebens bewahrt. Laut KCCA-Daten konzentrieren sich ueber 32 Prozent der ugandischen Fertigungsaktivitaeten im Grossraum Kampala-Wakiso-Mukono.\n\nDie KCCA verpflichtet sich laut ihrem Kunden-Charter von 2025, alle Tourismusattraktionen und -einrichtungen einmal pro Quartal zu inspizieren -- ein Qualitaetssignal, das den Standard der registrierten Hotels und Sehenswuerdigkeiten staerkt. Fuer Reisende bedeutet das: wer in Kampala uebernachtet oder eine Fuehrung bucht, greift in der Regel auf geprueft registrierte Angebote zurueck. Das Uganda National Museum, die Kasubi-Koenigsgraeber (UNESCO-Weltkulturerbe) und der Owino Market -- mit seinen ueber 50.000 Haendlern einer der groessten Maerkte Ostafrikas -- zaehlen zu den Orten, die eine Inspektion verlassen koennen werden.',
+        showPhotos: false,
+      },
+      {
+        id: 'kampala-wirtschaft-kultur-stadtleben',
+        title: 'Kampala: Wirtschaft, Kultur und Stadtleben',
+        content: 'Kampala ist das wirtschaftliche Herz Ugandas und beherbergt den privaten Sektor, der das Land vorwaertstreibt. Uganda Breweries Limited, bekannt fuer Uganda Waragi und Bell Lager, betreibt eine grosse Brauereianlage in Port Bell am Victoriasee -- das Unternehmen steht symbolisch fuer die Verbindung zwischen ugandischer Konsumkultur und industrieller Entwicklung. Der Uganda Golf Club in Kololo, eroeffnet 1909 und damit einer der aeltesten Golfplaetze Ostafrikas, ist fuer Tagesbesucher zugaenglich und gibt einem ein anderes Bild der Stadt -- ruhig, gepflegt, fast britisch.\n\nKulturell ist Kampala eine Stadt der Kontraste. Die Bahai-Tempel auf dem Kikaya Hill -- einer von weltweit nur acht solcher Andachtsstaetten -- empfaengt Menschen aller Konfessionen und bietet einen ruhigen Aussichtspunkt ueber die hektische Stadt. Die Namirembe-Kathedrale und die Rubaga-Kathedrale auf gegenueberliegenden Huegeln stehen fuer die anglikanisch-katholische Praegsituation des Landes. Die Kasubi-Graeber, wo vier Buganda-Koenige begraben liegen, sind ein zutiefst bewegendes Erlebnis und Pflicht fuer alle, die verstehen wollen, warum die Monarchie des Buganda-Koenigreichs bis heute eine lebendige gesellschaftliche Kraft ist.\n\nDas Nachtleben in Kampala gehoert zu den lebhaftesten Ostafrikas. In Kololo und Bugolobi reihen sich Restaurants, Bars und Clubs aneinander. Die ugandische Kueche bietet Rolex (Chapati mit Omelette), Luwombo (gedaempftes Fleisch in Bananenblaettern) und frisch gegrilltes Nsenene (Heuschrecken). Internationale Kueche ist ebenfalls reichlich vertreten. Wer uebernachten moechte, hat die Wahl zwischen dem Sheraton Kampala, dem Emin Pasha Boutique Hotel oder zahlreichen guenstigeren Optionen.\n\n[ZITAT: Lokaler Guide ueber ersten Eindruck von Kampala fuer Erstbesucher]',
+        showPhotos: false,
+      },
+      {
+        id: 'jinja-entebbe-und-weitere-staedte',
+        title: 'Jinja, Entebbe und die anderen wichtigen Staedte in Uganda',
+        content: 'Neben Kampala lohnen sich in Uganda vor allem Jinja, Entebbe, Mbale und Fort Portal als eigene Reiseziele oder als Zwischenstopps auf dem Weg in die Nationalparks.\n\nJinja liegt rund 80 Kilometer oestlich von Kampala, wo der Nil den Victoriasee verlaesst und seine mehr als 6.600 Kilometer lange Reise bis zum Mittelmeer beginnt. Diesen historischen Ort entdeckte John Hanning Speke am 28. Juli 1862. Die Nilquelle ist heute ein parkaehnliches Gelaende mit einem Denkmal und Bootsanlegern. Das eigentliche Markenzeichen Jinjas ist das Wildwasser-Rafting auf dem Nil: Klasse III bis V-Stromschnellen auf einer Tagesstrecke von etwa 25 Kilometern, mit professionellen Guides und Sicherheitsstandards, die internationalen Vergleichen standhalten. Auch der Bujagali-Staudamm, ein 250-Megawatt-Wasserkraftwerk knapp oberhalb der urspruenglichen Bujagali Falls, praesentiert das Spannungsfeld zwischen Energieentwicklung und Tourismusbewahrt in Uganda.\n\nEntebbe liegt auf einer Halbinsel im Victoriasee, rund 40 Kilometer suedlich von Kampala. Hier befindet sich Entebbe International Airport, der einzige internationale Flughafen des Landes. Die Stadt hat einen beschaulichen Kolonialcharakter bewahrt -- breite Baumalleen, das Uganda Wildlife Education Centre und der Entebbe Botanical Garden von 1898 laden zum Verweilen ein. Wer Uganda betritt oder verlaesst, landet fast immer in Entebbe, und wer nur einen halben Tag hat, lernt hier das Land auf angenehme Weise kennen.\n\nMbale im Osten ist das Tor zu den Sipi Falls und zum Mount Elgon National Park. Die drei Wasserfaelle am Rande des Elgon-Vulkans, rund 45 Kilometer von Mbale entfernt, gehoeren zu den schoensten Ugandas. Fort Portal im Westen bietet Zugang zu den Kraterseen, dem Kibale Forest National Park und den Rwenzori Mountains. Kabale im Suedwesten ist der letzte groessere Ort vor dem Bwindi Impenetrable National Park, wo das Gorilla Trekking stattfindet. Gulu im Norden, das sich nach Jahren des LRA-Konflikts zu einer dynamischen Universitaetsstadt entwickelt hat, dient als Ausgangspunkt fuer den noerdlichen Murchison Falls National Park.',
+        showPhotos: false,
+      },
+      {
+        id: 'transport-zwischen-staedten',
+        title: 'Transport zwischen Ugandas Staedten: Matatu, Bus und mehr',
+        content: 'Auf der Fahrt von Butiru in Richtung Murchison Falls National Park im Oktober 2024 -- GPS-Punkt 1.9624 Grad Nord, 31.7122 Grad Ost -- begegneten wir einem Bild, das Uganda auf eine bestimmte Art sehr treffend einfaengt. Auf der gut ausgebauten Strecke kam uns ein Kleinbus entgegen, dessen Ladung locker doppelt so hoch war wie das Fahrzeug selbst. Matratzen, Haushaltsgeraete, Saecke -- alles mit Seilen auf dem Dach verzurrt. Skurril aus mitteleuropaeischer Perspektive, aber gaenzlich normal fuer die Logistik des laendlichen Ugandas. [ZITAT: Fahrer erklaert die Route und Logik des Transports]\n\nDer oeffentliche Transport zwischen den ugandischen Staedten funktioniert hauptsaechlich ueber Matatus -- minibusartige Fahrzeuge, die auf festen Strecken verkehren und fahren sobald sie voll sind. Das Preisniveau ist niedrig (Kampala nach Jinja etwa 5 USD), die Komfortlevel variabel. Fuer Fernstrecken wie Kampala-Gulu oder Kampala-Fort Portal bietet der Uganda Post Bus komfortablere und zuverlaessigere Verbindungen mit fixen Abfahrtszeiten. Boda-Bodas, die allgegenwaertigen Motorrad-Taxis, sind das schnellste Fortbewegungsmittel innerhalb der Staedte -- in Kampala gibt es seit einigen Jahren App-basierte Dienste wie SafeBoda und Bolt, die einen Sicherheitshelm und GPS-Tracking bieten.\n\nFuer Reisende, die Flexibilitaet wollen, ist ein privater Fahrer-Guide mit Allradfahrzeug die empfehlenswerteste Option. Kosten: ab etwa 120 bis 180 USD pro Tag inklusive Fahrzeug und Fahrer, ohne Kraftstoff. Fuer Nationalpark-Pisten ist Allrad Pflicht. Uganda Railways betreibt eingeschraenkte Passagierdienste, die jedoch in den letzten Jahren durch Infrastrukturinvestitionen langsam ausgebaut werden -- eine vollstaendige Verbindung zwischen Kampala und den grossen Tourismusregionen existiert aber noch nicht [RECHERCHE NOETIG: aktueller Stand 2026]. Inlandsfluege von Aerolink und anderen Anbietern verbinden Entebbe mit Kidepo, Bwindi, Murchison Falls und Queen Elizabeth Park -- eine wertvolle Option, wenn Zeit wichtiger ist als Budget.',
+        showPhotos: true,
+      },
+      {
+        id: 'staedte-als-safari-ausgangspunkte',
+        title: 'Ugandas Staedte als Ausgangspunkte fuer Safari und Naturerlebnisse',
+        content: 'Im Oktober 2024 -- exakt am 18. und 19. Oktober -- habe ich den Murchison Falls National Park von Kampala aus besucht. Die Route fuehrt durch Masindi, einer kleinen aber praktischen Kreisstadt, bevor man in den Park eintaucht. Was den Murchison Falls Park von anderen Zielen unterscheidet: Man erreicht ihn direkt aus der Hauptstadt Ugandas, ohne mehrtaegige Transferrouten. Rund 300 Kilometer und fuenf bis sechs Stunden Fahrt trennen Kampala vom Parkeingang -- fuer ugandische Verhaeltnisse eine kurze Strecke.\n\nDen Beweis fuer dieses Naturwunder lieferten die Bootsfahrt auf dem Victoria-Nil und der Morgen-Gamedrives. Die Bootsfahrt startete bei GPS-Punkt 2.2829 Grad Nord, 31.5649 Grad Ost -- ein offenes Boot fuer rund 14 Personen mit Rettungswesten und einem Sonnendach, schaukelnd aber unvergesslich. In nahezu jeder Flussbiegung lag ein Nilkrokodil am Ufer -- gross, ruhig, voellig unbeeindruckt vom Boot. Bei GPS 2.2771 / 31.6698 kamen wir dem Exemplar so nahe, dass die Laenge des Tieres und die Spannbreite seiner Kiefer erst richtig begreifbar wurden. Am Ufer bei 2.2701 / 31.6650 traenkten sich Elefanten, einer nach dem anderen, waehrend das Boot langsam vorbeiglitt. Die Wasserfaelle selbst -- GPS 2.2751 / 31.6762 -- sind laut, gewaltig und eigentlich kaum in Worte zu fassen: der gesamte Nil zwengt sich durch eine sieben Meter schmale Felsspalte und stuerzt 43 Meter in die Tiefe.\n\nAm naechsten Morgen, dem 19. Oktober 2024, brachen wir sehr frueh zur Game Drive auf -- frueh genug um den Sonnenaufgang ueber der Savanne bei GPS 2.3703 / 31.5493 zu erleben. Palmen und Akazien als Silhouette, das Licht in Orange und Rot, die Luft noch kalt von der Nacht. Ein Elefant bei GPS 2.2853 / 31.5099 durchquerte ruhig das Savannengras, die Stosszaehne weiss leuchtend im fruehen Licht. Diese Bilder -- alle persoenlich von Mark Suer vor Ort aufgenommen und GPS-verifiziert -- koennen keine Stock-Foto-Plattform liefern.\n\nKampala ist der naheliegendste, aber nicht der einzige Ausgangspunkt fuer Ugandas Nationalparks. Entebbe bietet direkten Zugang zu Inlandfluegen. Jinja liegt ideal zwischen Kampala und dem Osten (Mount Elgon, Sipi Falls). Kabale ist der letzte Halt vor Bwindi. Fort Portal erschliesst Kibale, Queen Elizabeth und die Rwenzoris. Gulu oeffnet den noerdlichen Murchison und Kidepo. Wer Uganda reist, reist zwischen diesen Staedten -- die Staedte selbst sind die Zwischenraeume, in denen Uganda atmet.',
+        showPhotos: false,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Was ist die Hauptstadt von Uganda?',
+        a: 'Die Hauptstadt Ugandas ist Kampala. Die Stadt liegt auf mehreren Huegeln im Zentrum des Landes, rund 40 Kilometer noerdlich von Entebbe am Victoriasee. Mit rund 3,5 Millionen Einwohnern im Grossraum ist Kampala die groesste Stadt Ugandas und das wirtschaftliche sowie kulturelle Zentrum des Landes. Der internationale Flughafen befindet sich nicht in Kampala selbst, sondern im 40 Kilometer suedlich gelegenen Entebbe.',
+      },
+      {
+        q: 'Welche Stadt in Uganda hat 7 Buchstaben? (Kreuzwortraetsel)',
+        a: 'Die gesuchte Stadt in Uganda mit 7 Buchstaben ist KAMPALA -- die Hauptstadt des Landes. K-A-M-P-A-L-A. Der Name leitet sich vom Luganda-Ausdruck "kasozi k\'empala" ab, was "Huegel der Impala" bedeutet. Kampala ist auch die Antwort auf Kreuzwortraetsel-Fragen wie "Hauptstadt von Uganda, 7 Buchstaben" oder "Ugandische Hauptstadt (7 Buchst.)".',
+      },
+      {
+        q: 'Durch welche Laender fliesst der Nil?',
+        a: 'Der Nil entspringt in Uganda -- genauer gesagt: der Weisse Nil verlaeesst den Victoriasee bei Jinja. Von dort fliesst er durch Uganda, in den Südsudan (White Nile), vereinigt sich in Khartum (Sudan) mit dem Blauen Nil aus Aethiopien, und fliesst durch Aegypten zum Mittelmeer. Der Nil beruehrt damit elf Laender: Uganda, Sudan, Suedsudan, Aegypten, Aethiopien, Eritrea, Ruanda, Burundi, Demokratische Republik Kongo, Kenia und Tansania (im Einzugsgebiet). Der laengste Flussabschnitt auf ugandischem Gebiet liegt zwischen Jinja und den Murchison Falls.',
+      },
+      {
+        q: 'Wie weit ist Kampala vom Murchison Falls National Park entfernt?',
+        a: 'Von Kampala bis zum suedlichen Eingang des Murchison Falls National Park sind es rund 300 Kilometer, was bei guter Strecke fuenf bis sechs Stunden Fahrtzeit entspricht. Die Route fuehrt ueber Masindi und durch den Budongo Forest. Mit einem Allradfahrzeug und privatem Fahrer-Guide ist das eine machbare Tagesfahrt -- viele Reisende brechen frueh morgens auf und erreichen die Lodges am Nachmittag. Inlandsfluege von Entebbe nach Pakuba oder Chobe verkuerzen die Reisezeit auf etwa 1,5 Stunden.',
+      },
+      {
+        q: 'Welche ugandischen Staedte sind Ausgangspunkte fuer Safaris?',
+        a: 'Kampala und Entebbe sind die klassischen Ausgangspunkte fuer den Murchison Falls National Park (ca. 300 km) und den Queen Elizabeth National Park (ca. 400 km). Fort Portal im Westen erschliesst den Kibale Forest und Queen Elizabeth Park. Kabale im Suedwesten ist der letzte groessere Ort vor Bwindi (Gorilla Trekking). Jinja im Osten liegt ideal fuer Reisende die Ost-Uganda mit Mount Elgon und Sipi Falls erkunden. Fuer Kidepo im Nordosten ist Gulu die naechste Grossstadt.',
+      },
+    ],
+    related: [
+      { href: '/hauptstadt-ugandas', title: 'Kampala als Hauptstadt Ugandas', desc: 'Ausfuehrlicher Kampala-Guide: Sehenswuerdigkeiten, Stadtteile, Transport und Kultur.' },
+      { href: '/staedte', title: 'Staedte in Uganda im Ueberblick', desc: 'Alle wichtigen ugandischen Staedte von Entebbe bis Gulu in der Uebersicht.' },
+      { href: '/jinja', title: 'Jinja: Stadt an der Nilquelle', desc: 'Wildwasser-Rafting, Nilquelle und Abenteuer in Ugandas Abenteuerhauptstadt.' },
+      { href: '/murchison-falls-nationalpark', title: 'Murchison Falls Nationalpark', desc: 'Safari, Bootsfahrt und die gewaltigsten Wasserfaelle Ugandas.' },
+      { href: '/route-ost-uganda', title: 'Ost-Uganda in 7 Tagen', desc: 'Von Jinja ueber Sipi Falls zum Mount Elgon: Die beste Ost-Route.' },
+    ],
+  },
+
   'der-nil-in-uganda': {
     slug: '/der-nil-in-uganda',
     title: 'Der Nil in Uganda: Nilquelle & Murchison',

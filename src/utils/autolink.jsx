@@ -173,6 +173,8 @@ const LINK_RULES = [
   { pattern: /Murchison\s+Falls\s+Nationalpark/gi, path: '/murchison-falls-nationalpark' },
   { pattern: /Rothschild-Giraffe/gi, path: '/murchison-falls-nationalpark' },
   { pattern: /Paraa\b/gi, path: '/murchison-falls-nationalpark' },
+  { pattern: /Staedte\s+in\s+Uganda/gi, path: '/staedte-in-uganda' },
+  { pattern: /Stadt\s+in\s+Uganda\s+(?:mit|7\s+Buchstaben|Kreuzwortraetsel)/gi, path: '/staedte-in-uganda' },
   { pattern: /Hauptstadt\s+Ugandas/gi, path: '/hauptstadt-ugandas' },
   { pattern: /Kampala\s+Capital\s+City/gi, path: '/hauptstadt-ugandas' },
   { pattern: /Kasubi-Graeberstaette|Kasubi\s+Tombs/gi, path: '/hauptstadt-ugandas' },

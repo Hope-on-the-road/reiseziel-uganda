@@ -37,6 +37,7 @@ const ROUTES = [
   '/nachbarlaender-uganda',
   '/wirtschaft-uganda',
   '/staedte',
+  '/staedte-in-uganda',
   '/der-nil-in-uganda',
   '/welche-tiere-leben-im-viktoriasee',
   '/sehenswuerdigkeiten',
