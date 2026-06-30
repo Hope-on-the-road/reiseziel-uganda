@@ -135,6 +135,7 @@ export default function App() {
           <Route path="/wanderung-zu-den-sipi-falls" element={<Navigate to="/sipi-falls" replace />} />
           <Route path="/spenden" element={<StandalonePage photos={photos} clusters={clusters} pageId="spenden" />} />
           <Route path="/butiru-freundeskreis" element={<StandalonePage photos={photos} clusters={clusters} pageId="butiru-freundeskreis" />} />
+          <Route path="/hopekitchen-buhoma" element={<StandalonePage photos={photos} clusters={clusters} pageId="hopekitchen-buhoma" />} />
           <Route path="/rolex-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="rolex-uganda" />} />
           <Route path="/ugandische-mahlzeit" element={<StandalonePage photos={photos} clusters={clusters} pageId="ugandische-mahlzeit" />} />
           <Route path="/katogo-fruehstueck" element={<StandalonePage photos={photos} clusters={clusters} pageId="katogo-fruehstueck" />} />

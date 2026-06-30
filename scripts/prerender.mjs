@@ -44,6 +44,7 @@ const ROUTES = [
   '/sipi-falls',
   '/spenden',
   '/butiru-freundeskreis',
+  '/hopekitchen-buhoma',
   '/rolex-uganda',
   '/ugandische-mahlzeit',
   '/katogo-fruehstueck',

@@ -741,6 +741,91 @@ export const standalonePages = {
     ],
   },
 
+  'hopekitchen-buhoma': {
+    slug: '/hopekitchen-buhoma',
+    hidePartner: true,
+    title: 'HopeKitchen Buhoma: Hilfsprojekt Uganda',
+    h1: 'Die HopeKitchen in Buhoma -- Bau, Vision und Alltag eines Hilfsprojekts in Uganda',
+    subtitle: 'Von der Fundamentmauer bis zum verputzten Kinderraum: Dokumentation eines Bauprojekts fuer Kinder im Bwindi-Gebiet',
+    metaDescription: 'HopeKitchen Buhoma: Hilfsprojekt von Hope on the Road in Uganda. Bau einer Kueche und Aufenthaltsraum fuer Kinder 2026. GPS-dokumentiert, persoenlich besucht.',
+    breadcrumbs: [{ label: 'Spenden', href: '/spenden' }, { label: 'HopeKitchen Buhoma' }],
+    publishedTime: '2026-06-30',
+    modifiedTime: '2026-06-30',
+    photoFilter: 'buhoma',
+    kurzantwort: 'Die HopeKitchen in Buhoma ist ein Bauprojekt der Hope on the Road gGmbH in der Bwindi-Gebiet-Region Ugandas, GPS-Standort -0.9678°N, 29.6194°E. Das Gebaeude wird ein Speisesaal, Hausaufgabenraum und Spielbereich fuer die Kinder der Umgebung. Der Bau begann im April 2026 mit dem Fundamentgrabung, wurde ueber Fruehjahr 2026 fortgefuehrt und befindet sich Mitte 2026 in der Innenausbauphas. Das Projekt wird von Nicholas Ampeire vor Ort begleitet. Wer das Projekt unterstuetzen moechte, kann direkt an Hope on the Road spenden (IBAN: DE49 2305 2750 0082 1714 14, Verwendungszweck: HopeKitchen).',
+    fakten: [
+      { label: 'Projektstandort', value: 'Buhoma, Bwindi-Gebiet, Suedwest-Uganda' },
+      { label: 'GPS-Koordinaten', value: '-0.9678°N, 29.6194°E (verifiziert)' },
+      { label: 'Projekttraeger', value: 'Hope on the Road gGmbH' },
+      { label: 'Baustart', value: 'April 2026 (Fundamentgrabung)' },
+      { label: 'Nutzung', value: 'Speisesaal, Hausaufgabenraum, Spielbereich' },
+      { label: 'Ansprechpartner vor Ort', value: 'Nicholas Ampeire (Pastor, Buhoma)' },
+      { label: 'Spenden-Verwendungszweck', value: 'HopeKitchen' },
+      { label: 'IBAN', value: 'DE49 2305 2750 0082 1714 14 (Hope on the Road gGmbH)' },
+    ],
+    sections: [
+      {
+        id: 'hopekitchen-vision-und-kontext',
+        title: 'Was ist die HopeKitchen Buhoma?',
+        content: 'Waehrend eines Besuchs in Buhoma im Januar 2026 stand ich in einem Raum, dessen Waende gerade frisch verputzt worden waren. Kalk und Zement lagen noch in der Luft. An der einen Seite die Wand zur kuenftigen Kueche, an der anderen die Wand zum Lagerraum. Der Raum dazwischen -- breit genug fuer Tische und Sitzplaetze -- wird kuenftig der Ess- und Aufenthaltsraum der HopeKitchen sein. Hier sollen Kinder aus Buhoma bald gemeinsam essen, Hausaufgaben machen und spielen.\n\nDie HopeKitchen ist ein Projekt der Hope on the Road gGmbH, einer gemeinnuetzigen Organisation mit Sitz in Schleswig-Holstein. Buhoma liegt am noerdlichen Eingang des Bwindi Impenetrable National Park, dem Habitat der letzten Berggorillas der Welt. GPS-Koordinaten: -0.9678 Grad Nord, 29.6194 Grad Ost. Der Ort ist bekannt unter Naturreisenden, die hierher kommen fuer das Gorilla Trekking. Was weniger sichtbar ist: das direkte Umfeld des Parks gehoert zu den aermsten Regionen Ugandas. Familien leben von Subsistenzlandwirtschaft, die Kinder haben kaum Zugang zu sicheren Lernraeumen oder regelmaessigen Mahlzeiten.\n\nGenau diese Luecke soll die HopeKitchen schliessen. Das Gebaeude ist kein Provisorium, sondern ein massiver Ziegelsteinbau mit Holzdachstuhl und Metalldach -- vergleichbar mit Schulgebaeuden in der Region. Neben dem Speisesaal umfasst das Gebaeude eine Kueche fuer die Zubereitung der Mahlzeiten und einen Lagerraum. Die Kinder sollen taeglich warme Mahlzeiten bekommen. Der Raum soll nach dem Essen offenbleiben -- fuer Hausaufgaben, Nachmittagsbetreuung und freies Spielen in einer sicheren Umgebung.',
+        showPhotos: false,
+      },
+      {
+        id: 'bau-fundament-bis-rohbau',
+        title: 'Der Bau: Von der Fundamentmauer bis zum Dachstuhl',
+        content: 'Der Bau der HopeKitchen begann im April 2026 mit dem Aushub eines Grabens fuer die Fundamentmauern -- GPS-Punkt -0.9622 / 29.6107, unweit des Buhoma-Ortskerns. Ein Handwerker in orangefarbener Arbeitskleidung verlegte die ersten roten Ziegelsteine in den Graben und verzementierte sie Stein fuer Stein. Was simpel klingt, ist handwerkliche Praezisionsarbeit: Fundamentmauern muessen gerade sein, tief genug, stark genug fuer die Last der Obergeschoss-Waende.\n\nDie Ziegelsteine -- in der Region typischerweise handgepresst aus Lehm und gebrannt -- geben dem Gebaeude seine charakteristische rote Farbe. Bei meinem Besuch im April 2026 war es beeindruckend zu sehen, wie aus diesen selbst gefertigten Steinen mit Zement nach und nach Mauern entstanden. Man ahnte erst nach mehreren Tagen, wie gross das Gebaeude wirklich werden wuerde.\n\nBis Mitte Mai 2026 standen die Aussenwaende und der Dachstuhl war im Entstehen. Am 19. Mai 2026 -- GPS -0.9620 / 29.6108 -- war die Holzkonstruktion etwa zu 60 Prozent fertiggestellt. Der Dachstuhl ist genauso gebaut wie in Europa: Holzbalken, Pfetten, Sparren, eine gemutige Konstruktion, die dem tropischen Regen standzuhalten hat. Die Arbeiter kletterten ohne Arbeitsschutz auf den Waenden, wie es auf ugandischen Baustellen ueblicherweise der Fall ist.\n\nAm 21. Mai 2026 -- GPS -0.9622 / 29.6107 -- waren die metallischen Dachtraeger gesetzt und der Dachstuhl fast vollstaendig. Das Gebaeude wirkte von aussen bereits fertig -- viel groesser als ohne Dach. Die roten Lehmziegelwaende, das gruene Umfeld aus Bananenpflanzen und Buschvegetation, der Eingang noch ohne Treppenstufen: ein Bauvorhaben das Fortschritt dokumentiert in einem Land, wo jeder Stein Bedeutung hat.',
+        showPhotos: true,
+      },
+      {
+        id: 'innenausbau-kinderraum',
+        title: 'Innenausbau: Verputzte Waende fuer den Kinderraum',
+        content: 'Im Januar 2026 -- ein Besuch der mir deutlich vor Augen fuehrt, dass Bauprojekte wie diese selten linear verlaufen -- war ein Teil des Innenbereichs bereits verputzt. Die weissen Kalkputzwaende im Ess- und Aufenthaltsraum, frisch geglatt, strahlten etwas heraus, das schwer zu beschreiben ist: die Antizipation eines Raumes, der noch nicht fertig ist, aber bereits ahnen laesst, was er werden wird.\n\nDie Raumaufteilung ist praktisch: Der Ess- und Aufenthaltsraum bildet das Zentrum. Dahinter, durch eine Wand getrennt, liegt die Kueche. Daneben der Lagerraum fuer Lebensmittel und Geraete. Der Hauptraum ist gross genug fuer mehrere Tischreihen. Tageslicht faellt durch die geplanten Fenster. Kein Luxus, aber alles was Kinder brauchen: Platz, Licht, ein Dach, sichere Waende.\n\nDie Putztechnik ist einfach und solide -- Handarbeit mit Kelle und Putzbretter. Die lokalen Handwerker arbeiten schnell und zuverlaessig. Die Koordination vor Ort liegt bei Nicholas Ampeire, dem Ansprechpartner der Hope on the Road gGmbH in Buhoma. Was der Innenraum noch braucht: Stuehle, Tische, Kochgeraete. Das sind die naechsten Schritte nach Bauabschluss.',
+        showPhotos: false,
+      },
+      {
+        id: 'nicholas-ampeire-vor-ort',
+        title: 'Nicholas Ampeire: Ansprechpartner und Bruecke zur Gemeinde',
+        content: 'Nicholas Ampeire ist Pastor in Buhoma und der entscheidende Ansprechpartner fuer die Arbeit von Hope on the Road vor Ort. Sein Buero liegt direkt am Waisenhaus -- ein bescheidener Raum mit beigen verputzten Waenden, handschriftlichen Zertifikaten und einem Schreibtisch, an dem echte Verwaltungsarbeit passiert: Patenlisten, Spendenberichte, Koordination mit lokalen Familien. Man sieht die Arbeit in jedem Detail des Raumes.\n\nNicholas ist nicht nur Koordinator, er ist Teil der Gemeinschaft. Als Pastor traegt er Verantwortung fuer das geistliche und soziale Leben im Dorf. Er kennt die Familien, die Kinder, die Beduerfnisse. Diese Verankerung ist der Grund, warum Projekte wie die HopeKitchen in Buhoma funktionieren: Sie werden nicht von aussen uebergestuelpt, sondern von Menschen wie Nicholas in die Gemeinschaft hineingetragen.\n\nZur Person Nicholas gehoert auch seine Familie -- seine Frau Media. Gemeinsam sind sie ein sichtbares Beispiel dafuer, was engagiertes Leben in einer laendlichen ugandischen Gemeinde bedeutet: Kirche, Gemeinde, Familie, soziale Verantwortung als integrierte Lebensform, nicht als getrennte Bereiche.\n\n[ZITAT: Nicholas ueber die Bedeutung der HopeKitchen fuer die Kinder in Buhoma]',
+        showPhotos: false,
+      },
+      {
+        id: 'bwindi-tourismus-und-hilfsprojekte',
+        title: 'Gorilla Trekking, Hauptstadt Ugandas und die Reise nach Buhoma',
+        content: 'Wer von Kampala -- der Hauptstadt Ugandas -- nach Buhoma reist, legt zwischen 400 und 450 Kilometer durch wechselnde Landschaften zurueck. Die Fahrt dauert acht bis zehn Stunden. Man verlaesst die Millionenstadt mit ihren fuenf KCCA-Verwaltungsbezirken, faehrt durch Masaka, dann durch Mbarara und Kabale, immer hoeher ins Suedwest-Bergland, bis der Bwindi Impenetrable National Park am Wegesrand beginnt. Am Ende der Strasse: Buhoma.\n\nDiesen Weg kennen jaehrlich tausende Touristen, die aus aller Welt fuer das Gorilla Trekking nach Buhoma kommen. Am 21. Januar 2026, GPS -0.9735 / 29.6281, sass ein grosser Gorilla im Baum und fraas ruhig Blaetter, das Kameraobj ektiv wenige Meter entfernt. Es war einer der eindrucksvollsten Momente in mehreren Besuchen in der Region. Der Gorilla ass, bewegte sich kaum, war vollkommen praesent -- ein Erlebnis, das erklaert, warum Menschen dafuer 800 USD Permit-Gebuehr bezahlen.\n\nGenau diese Gebuehren finanzieren teilweise die Infrastruktur der Region -- die Uganda Wildlife Authority leitet einen Teil der Erloeose an die lokalen Gemeinden zurueck. Doch der Betrag reicht nicht fuer alles. Hilfsprojekte wie die HopeKitchen schliessen Luecken, die staatliche Umverteilung nicht abdeckt: sichere Kindermahzeiten, Lernraeume, Betreuungsangebote. Tourismus und Hilfsprojekte sind in Buhoma keine parallelen Welten -- sie beziehen sich aufeinander.\n\nWer Uganda bereist und nach Buhoma kommt, kann mit einem Besuch der HopeKitchen oder einer Spende direkt zu diesem Gleichgewicht beitragen. Die Wege sind kurz. Das Projekt ist sichtbar. Und Nicholas ist ansprechbar.',
+        showPhotos: false,
+      },
+    ],
+    faqs: [
+      {
+        q: 'Was ist die HopeKitchen Buhoma?',
+        a: 'Die HopeKitchen Buhoma ist ein Bauprojekt der Hope on the Road gGmbH in Buhoma, einem Ort am noerdlichen Eingang des Bwindi Impenetrable National Park in Suedwest-Uganda (GPS: -0.9678°N, 29.6194°E). Das Gebaeude wird einen Speisesaal, eine Kueche und einen Lagerraum umfassen. Kinder der Umgebung sollen hier taeglich warme Mahlzeiten bekommen und einen sicheren Raum fuer Hausaufgaben und Freizeit haben.',
+      },
+      {
+        q: 'Wie kann ich die HopeKitchen in Buhoma unterstuetzen?',
+        a: 'Spenden koennen direkt an Hope on the Road gGmbH ueberwiesen werden. IBAN: DE49 2305 2750 0082 1714 14, BIC: NOLADE21RZB. Verwendungszweck: HopeKitchen. Da Hope on the Road als gemeinnuetzig anerkannt ist (§ 60a AO), sind alle Spenden steuerlich absetzbar. Auf Wunsch wird eine Spendenbescheinigung ausgestellt.',
+      },
+      {
+        q: 'Wo liegt Buhoma?',
+        a: 'Buhoma liegt im Suedwesten Ugandas, am noerdlichen Eingang des Bwindi Impenetrable National Park. Das Dorf befindet sich in der Kanungu-Region, etwa 450 Kilometer von Kampala, der Hauptstadt Ugandas, entfernt. Die naechste groeossere Stadt ist Kabale, rund zwei bis drei Stunden Fahrt entfernt. Buhoma ist bekannt als Ausgangspunkt fuer Gorilla Trekking im Bwindi-Gebiet.',
+      },
+      {
+        q: 'Was sind Hilfsprojekte in Uganda?',
+        a: 'Hilfsprojekte in Uganda reichen von staatlich unterstuetzten Programmen bis zu NGO-Projekten und kirchlichen Initiativen. Im Bereich Bildung und Ernaehrung sind gemeinnuetzige Organisationen wie Hope on the Road, der Butiru-Freundeskreis und Uganda Child Care taetig. Diese Projekte ergaenzen staatliche Leistungen, die in laendlichen Regionen wie dem Bwindi-Gebiet oft nicht ausreichen. Gorilla-Trekking-Erloeose fliessen teilweise ueber die Uganda Wildlife Authority zurueck in lokale Gemeinden -- ein Mechanismus des Revenue Sharing.',
+      },
+      {
+        q: 'Wie haengen Gorilla Trekking und Hilfsprojekte in Uganda zusammen?',
+        a: 'Der Bwindi Impenetrable National Park erwirtschaftet durch Gorilla-Permits (800 USD pro Besucher) erhebliche Einnahmen. Die Uganda Wildlife Authority leitet einen Teil dieser Erloeose ueber das Revenue Sharing-Programm an lokale Gemeinden weiter. Dennoch bleiben Luecken in Bereichen wie Ernaehrung, Betreuung und Bildung fuer Kinder. Hilfsprojekte wie die HopeKitchen schliessen genau diese Luecken -- finanziert durch Spenden aus dem deutschsprachigen Raum, oft von Menschen die Uganda als Reisende besucht haben.',
+      },
+    ],
+    related: [
+      { href: '/spenden', title: 'Spenden fuer Uganda', desc: 'Direkt an Hope on the Road spenden -- IBAN, Projekte und gemeinnuetzige Infos.' },
+      { href: '/butiru-freundeskreis', title: 'Butiru-Freundeskreis', desc: 'Partnerorganisation mit 30 Jahren Sozialarbeit in Ost-Uganda.' },
+      { href: '/community-tourismus-bwindi', title: 'Community Tourismus Bwindi', desc: 'Wie lokale Gemeinschaften vom Gorilla-Tourismus profitieren.' },
+      { href: '/revenue-sharing-nationalparks-uganda', title: 'Revenue Sharing in Ugandas Nationalparks', desc: 'Wie Parkgebuehren in lokale Entwicklung fliessen.' },
+      { href: '/gorilla-trekking', title: 'Gorilla Trekking Uganda', desc: 'Permits, Kosten und praktische Tipps fuer das Gorilla Trekking in Bwindi.' },
+    ],
+  },
+
   'butiru-freundeskreis': {
     slug: '/butiru-freundeskreis',
     hidePartner: true,
