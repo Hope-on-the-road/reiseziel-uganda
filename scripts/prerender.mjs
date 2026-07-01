@@ -201,6 +201,7 @@ const ROUTES = [
   '/murchison-nationalpark',
   '/jinja',
   '/hauptstadt-ugandas',
+  '/gesundheitsversorgung-uganda',
   '/gorilla-permit-kosten',
   '/kigali-nach-kampala',
   '/bwindi-gorilla-reisefuehrer',
