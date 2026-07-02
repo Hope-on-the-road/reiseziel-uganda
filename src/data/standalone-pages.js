@@ -11104,6 +11104,126 @@ export const standalonePages = {
     isTouristDestination: true,
   },
 
+  'duerrerisiken-nahrungssicherheit-uganda': {
+    slug: '/duerrerisiken-nahrungssicherheit-uganda',
+    title: 'Duerre & Nahrungssicherheit in Uganda',
+    h1: 'Duerrerisiken und Nahrungssicherheit in Uganda -- was das fuer Staedte und laendliche Regionen bedeutet',
+    subtitle: 'Klimawandel, Trockenheitsepisoden und urbane Verwundbarkeit: Wie Uganda mit steigenden Extremwetterrisiken umgeht -- und was Reisende ueber die Realitaet im Land wissen sollten.',
+    metaDescription: 'Duerrerisiken in Uganda: Nahrungssicherheit, Klimaanpassung in Staedten, KCDIP-Drainage-Projekt. Fakten und Vor-Ort-Einblicke fuer informierte Reisende.',
+    breadcrumbs: [
+      { label: 'Uganda', href: '/' },
+      { label: 'Land und Leute', href: '/land-und-leute' },
+      { label: 'Duerrerisiken und Nahrungssicherheit' },
+    ],
+    publishedTime: '2026-07-02',
+    modifiedTime: '2026-07-02',
+    photoFilter: 'buhoma',
+    kurzantwort: 'Uganda ist ein fruchtbares Land -- und gleichzeitig eines, das von zunehmenden Klimaextremen geformt wird. Trockenheitsepisoden, Ueberschwemmungen und Bodendegradation bedrohen die Nahrungssicherheit besonders in den arid-semiariden Regionen des Nordens und Nordostens. Gleichzeitig kaempfen Staedte wie Kampala mit Ueberschwemmungsschaeden von schätzungsweise 50 Millionen US-Dollar jaehrlich. Fuer Reisende ist dieses Thema kein abstraktes Entwicklungsthema -- es formt die Landschaft, die Architektur, die lokale Wirtschaft und die Geschichten der Menschen, denen man begegnet. Wer in Buhoma einen Hühnerfarmer besucht, sieht ein konkretes Beispiel dafuer, wie lokale Nahrungssicherheit durch Kleinviehhaltung gesichert wird. Dieser Artikel erklaert die Hintergruende.',
+    fakten: [
+      { label: 'Urbanisierungsrate', value: '5,2 Prozent jaehrlich -- eine der hoechsten Afrikas' },
+      { label: 'Urbane Bevoelkerung Uganda', value: 'ca. 20 Prozent (eines der am wenigsten urbanisierten Laender)' },
+      { label: 'BIP-Anteil Kampala', value: 'ca. 65 Prozent des nationalen BIP' },
+      { label: 'Ueberschwemmungsschaeden Kampala', value: 'ca. 50 Mio. USD jaehrlich' },
+      { label: 'Stau-BIP-Verlust Kampala', value: 'ca. 800 Mio. USD/Jahr (Weltbank 2017)' },
+      { label: 'Stauzeiten Kampala', value: 'Durchschnittlich 240 Stunden pro Jahr und Einwohner' },
+      { label: 'KCDIP', value: 'Kampala City Drainage Improvement Project, Kosten 447,61 Mrd. UGX' },
+      { label: 'Straenbau-Projekt', value: 'KCR&BUP -- 250 Mio. EUR, UK Export Finance' },
+      { label: 'Foerderansatz', value: 'Uganda Women Entrepreneurship Programme (30 Mio. USD FY 2025/26)' },
+      { label: 'Eigene Besuche', value: '14 dokumentierte Aufenthalte, Oktober 2024 bis Juni 2026, GPS-verifiziert' },
+    ],
+    sections: [
+      {
+        id: 'huehnerfarm-buhoma-nahrungssicherheit',
+        title: 'Ein Hühnerfarmer in Buhoma -- und was das ueber Nahrungssicherheit sagt',
+        content: [
+          'Im Juni 2026 besuchten wir in Buhoma einen lokalen Hühnerfarmer -- GPS-Koordinaten -0.9713°N, 29.6142°O. Das Erlebnis war unspektakulaer in seiner Einfachheit und tief in seiner Bedeutung: Wir kauften Kueken fuer das Waisenhaus von Nicholas, dem Pastor, der in Buhoma Jugendliche aufnimmt die anderswo keinen Platz haben. Diese Kueken werden im Waisenhaus grossgezogen. Einige bleiben als Legehennen, deren Eier die taegliche Ernaehrung der Kinder sichern. Andere werden verkauft. Und wenn einmal Fleisch auf den Tisch kommt -- was selten ist und als Fest gilt -- dann sind es diese Tiere. [Foto: Gruppe mit ersten Kueken fuer das Waisenhaus in Buhoma, GPS -0.9713°N, 29.6142°O, Juni 2026. Foto: Mark Suer.]',
+          'Das ist Nahrungssicherheit in ihrer konkretesten Form: keine Subventionsprogramme, keine Lieferketten, keine Supermaerkte. Ein Farmer der gut mit seinen Tieren umgeht, ein Waisenhaus das eine Eigenwirtschaft aufbaut, eine Gemeinschaft die sich gegenseitig stuetzt. Dieser Hühnerfarmer ist kein Randbefund -- er ist das Modell.',
+          'Uganda ist eines der fruchtbarsten Laender Ostafrikas. Die Regenfaelle sind zweimal im Jahr, die Boeden im Sueden und Westen reich. Und dennoch ist Nahrungsunsicherheit real -- nicht trotz dieser Bedingungen, sondern als Folge von Klimaextremen, Bevoelkerungswachstum, Landkonflikten und unzureichender Infrastruktur. Waehrend unserer Aufenthalte in Buhoma (Oktober 2024, Januar 2026, Juni 2026) und in Kampala (Januar 2026, Mai 2026) wurde dieses Thema immer wieder sichtbar: in den Gespraechen, in den Marktpreisen, in den Erntegeschichten der Dorfbewohner.',
+        ],
+      },
+      {
+        id: 'duerre-klimawandel-uganda',
+        title: 'Duerrerisiken in Uganda: Wo der Klimawandel am haertesten trifft',
+        content: [
+          'Uganda wird klimatisch in mehrere Regionen unterteilt. Der Suedwesten -- die Region rund um Bwindi, Lake Bunyonyi, Fort Portal -- ist feucht, begrünt, relativ zuverlässig in seinen Regenfällen. Der Norden und Nordosten -- Karamoja, Lango, Acholi -- sind semiarid bis arid. Hier hat der Klimawandel in den letzten Jahrzehnten die Trockenheitsepisoden verlaengert und intensiviert. Duerre fuer mehrere Monate, Ernteverluste, Viehsterben: Das sind keine theoretischen Szenarien, sondern jaehrliche Realitaeten in Karamoja.',
+          'Das National Environment Management Authority (NEMA) und ugandische Forschungsinstitutionen haben dokumentiert, wie sich extreme Wetterereignisse haeufigen. Das Multi-Hazard-Risk-and-Vulnerability-Profile von 2018 identifiziert Uganda als ein Land das gleichzeitig mit Duerre, Ueberschwemmungen, Erdrutschen und Schaedlingsbefall konfrontiert ist -- je nach Region und Saison. Fuer Landwirte bedeutet das: Anbauplanung wird schwieriger, Versicherungen existieren kaum, staatliche Notfallmechanismen sind limitiert.',
+          'Besonders betroffen sind Subsistenzlandwirte, die keine Puffer haben. Ein ausgefallener Regen bedeutet keine Ernte. Keine Ernte bedeutet kein Geld. Kein Geld bedeutet keine Schulgebuehren, kein Medikament, kein Ersatz fuer sterbendes Vieh. Die Kaskade ist brutal und schnell. Das erklaert, warum Mikroprojekte wie Huehnerhaltung oder Kleingartenanbau in der Entwicklungszusammenarbeit oft mehr bewirken als grosse Infrastrukturprogramme -- sie setzen genau an diesem Punkt an: lokale Puffer aufbauen, die keiner staatlichen Kette beduorfen.',
+          '[ZITAT: Dorfbewohner oder lokaler Landwirt ueber veraenderte Regenzeiten in Buhoma -- beim naechsten Besuch erfragen.]',
+        ],
+      },
+      {
+        id: 'staedte-klimarisiken-uganda',
+        title: 'Staedte in Uganda unter Klimadruck: Kampala und die Ueberschwemmungsfrage',
+        content: [
+          'Die groesste Stadt in Uganda -- Kampala -- ist ebenfalls massiv von klimabedingten Risiken betroffen. Das ist fuer Erstbesucher oft ueberraschend: Man denkt an Tropen und Regen, aber nicht an eine Stadtregierung, die jaehrlich etwa 50 Millionen US-Dollar durch Ueberschwemmungsschaeden verliert. Kampala liegt auf Huegeln, die Talbereiche zwischen den Huegeln sind historisch bewohnt und von informellen Siedlungen gepraegt. Wenn intensive Regenfaelle einsetzen -- was in einer Stadt die 5,2 Prozent jaehrliches Bevoelkerungswachstum verzeichnet und deren Entwasserungsinfrastruktur diese Geschwindigkeit nicht mithalten kann -- laufen diese Talbereiche voll.',
+          'Das Kampala City Drainage Improvement Project (KCDIP), mit Kosten von 447,61 Milliarden Uganda-Schilling, ist die bislang groesste staatliche Antwort auf dieses Problem. Das Projekt soll die Drainage-Kapazitaet des Stadtgebiets grundlegend verbessern: Kanaele ausbauen, Rueckstauventile installieren, gefaehrdete Siedlungen entlasten. Parallel wird mit dem Kampala City Roads and Bridges Upgrading Project (KCR&BUP) -- finanziert mit 250 Millionen Euro durch UK Export Finance und die Regierung von Uganda -- die Strasseninfrastruktur saniert. Strassen und Drainage sind in Kampala untrennbar: ohne Entwasserungsgraeben werden Strassen nach jedem Starkregen zur Furt.',
+          'Der Stau ist das sichtbarste Symptom der stadtplanerischen Ueberlastung. Laut einer Weltbank-Analyse von 2017 verlieren Kampala-Bewohner durchschnittlich 240 Stunden pro Jahr im Stau -- ein BIP-Verlust von geschaetzten 800 Millionen US-Dollar jaehrlich. Wer in Kampala in einem Matatu sitzt und sieht, wie sich der Verkehr auf der Kampala Road vollstaendig festgesetzt hat, versteht diesen Befund nicht als abstrakte Zahl, sondern als koerperliche Erfahrung. Kampala generiert laut KCCA-Daten rund 65 Prozent des ugandischen BIP -- aber dieses Potenzial wird durch Infrastrukturdefizite erheblich gedaempft.',
+          'Die Klimastrategie der Stadt -- die Kampala Climate Change Strategy -- verankert Anpassungsmassnahmen im Stadtentwicklungsplan. Sie umfasst neben Drainage auch Gruenflaechen, Stadtbaeume als Hitzeschutz und Risikozonen-Mapping. Ob und wie schnell diese Strategie in greifbare Massnahmen uebersetzt wird, ist eine offene Frage -- und ein wichtiger Gradmesser fuer Ugandas urbane Zukunft.',
+        ],
+      },
+      {
+        id: 'nahrungssicherheit-land-versus-stadt',
+        title: 'Land und Stadt: Zwei Seiten der ugandischen Nahrungssicherheit',
+        content: [
+          'Uganda ist mit rund 20 Prozent urbaner Bevoelkerung eines der am wenigsten urbanisierten Laender Afrikas -- und gleichzeitig eines mit 5,2 Prozent jaehrlichem Wachstum der Staedte. Das ergibt eine spezifische Spannung: Die Landbevoelkerung schrumpft relativ, aber absolut waechst sie; die Staedte wachsen schnell, ohne dass Infrastruktur und Dienstleistungen mithalten. In dieser Spannung entstehen Nahrungssicherheitsrisiken neuer Art.',
+          'Auf dem Land ist Nahrungssicherheit direkt an den Eigenbedarf geknuepft. Wer Boden hat, anbaut und in einer normalen Regenzeit erntet, hat Nahrung. Die Vulnerabilitaet kommt durch Klimaextreme, Bodenverschlechterung, Landkonflikte und -- fuer Binnenwanderungsregionen -- den Verlust von Arbeitskraeften, wenn junge Maenner in die Staedte ziehen. In Buhoma, wo wir waehrend mehrerer Besuche zwischen Oktober 2024 und Juni 2026 Zeit verbrachten, ist diese Dynamik sichtbar: Huehnerhaltung, Gemueseanbau, Bananenpflanzungen -- all das ist nicht rustikale Idylle, sondern wirtschaftliche Notwendigkeit.',
+          'In den Staedten ist Nahrungssicherheit komplexer. Wer in Kampala in einer informellen Siedlung lebt, kauft Lebensmittel auf dem Markt -- und ist damit direkt von Preisen abhaengig, die von Ernteausfaellen, Transportkosten und Wechselkursen beeinflusst werden. Die KCCA investiert in urbane Landwirtschaft als Komponente der Nahrungssicherheit: Der Marktzugang fuer urbane Landwirtschaft war bereits im Haushaltsjahr 2017/18 mit mehreren hundert Millionen Uganda-Schilling budgetiert. Kleingartenanbau auf ungenutzten Flaechen, Hühnerhaltung auf Hausdaechern, Gemüseanbau an Kanalbordungen -- das sind ugandische Realitaeten, die europaeischen Reisenden exotisch vorkommen, aber praktische Reaktionen auf strukturelle Knappheit sind.',
+          'Das Uganda Women Entrepreneurship Programme foerdert gezielt Frauen als Produzentinnen und Kleinstunternehmerinnen -- mit einem Budget von 30 Millionen US-Dollar fuer das Fiskaljahr 2025/26. Hintergrund: Frauen bewirtschaften in Uganda den grössten Teil der Subsistenzlandwirtschaft, haben aber historisch schlechtere Zugänge zu Land, Kredit und Maerkten. Das Programm ist ein Versuch, diese strukturelle Benachteiligung zu korrigieren.',
+        ],
+      },
+      {
+        id: 'was-reisende-wissen-sollten',
+        title: 'Was Reisende aus diesen Zusammenhaengen mitnehmen koennen',
+        content: [
+          'Warum sollte ein Reisender der Uganda besucht, um Gorillas zu sehen oder am Lake Bunyonyi zu entspannen, sich mit Duerrerisiken und Nahrungssicherheit beschaeftigen? Die Antwort liegt in der Qualitaet des Reisens selbst. Wer versteht, warum Menschen in Buhoma Hühner halten, warum Kinder in Karamoja in bestimmten Monaten nicht in die Schule gehen, warum ugandische Familien ihre Nahrungsmittelproduktion mit einer Sorgfalt betreiben die keine laendliche Romanti, sondern existentielle Notwendigkeit ist -- der reist auf einem tieferen Niveau.',
+          'Konkreter: Wer in einer Community Lodge übernachtet, lokale Nahrungsmittel kauft, lokale Guides beschaftigt und den Hühnerfarmer besucht statt ihn zu uebersehen, wirkt positiv auf genau diese Zusammenhaenge ein. Tourismus -- richtig praktiziert -- ist in Uganda keine Freizeitindustrie, sondern ein wirtschaftlicher Puffer der Menschen erlaubt, stabiler zu leben. Das haben wir bei mehr als einem Dutzend Besuchen zwischen Oktober 2024 und Juni 2026 immer wieder bestätigt gesehen.',
+          'Praktisch fuer die Reise: In der Trockenzeit (Dezember bis Februar, Juni bis August) sind die Strassen trockener und die Nationalparks gut zugaenglich. Aber gerade im Norden und Nordosten Ugandas -- in Kidepo, Karamoja -- koennen Duerreperioden das Landschaftsbild drastisch veraendern: weniger Wasser, ausgetrocknete Flussbetten, Tiere konzentriert an verbliebenen Wasserloechern. Was dramatisch klingt, ist safari-technisch manchmal ein Vorteil -- aber fuer die Menschen die dort leben, ist es ein jaehrlicher Stresstest.',
+          '[ZITAT: Bauer oder Guide aus der Kidepo-Region ueber Wasserknappheit in der Trockenzeit -- beim naechsten Besuch erfragen.]',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Welche Regionen Ugandas sind am staerksten von Duerren betroffen?',
+        a: 'Am staerksten von Duerren betroffen sind die semiariden Regionen im Norden und Nordosten Ugandas: Karamoja, Lango und Teile von Acholi. Diese Gebiete haben natuerlich weniger Niederschlag als der suedliche und westliche Teil des Landes. Klimawandel-bedingte Verlaengerung und Intensivierung von Trockenperioden verscharft die Situation. Der Suedwesten und das Zentrum Ugandas -- wo die Nationalparks Bwindi und Queen Elizabeth liegen -- sind klimatisch stabiler und erhalten zuverlaessiger Regen.',
+      },
+      {
+        q: 'Was unternimmt Kampala gegen Ueberschwemmungsschaeden?',
+        a: 'Das Kampala City Drainage Improvement Project (KCDIP) ist das zentrale Investitionsprogramm mit veranschlagten Kosten von 447,61 Milliarden Uganda-Schilling. Es soll die Drainage-Kapazitaet der Stadt grundlegend verbessern und Talbereiche entlasten, die bei Starkregen regelmaeig ueberflutet werden. Parallel investiert die Stadt mit dem KCR&BUP-Strassenprojekt (250 Mio. EUR) in Strassen mit integrierter Drainageinfrastruktur. Die jaehrlichen Ueberschwemmungsschaeden in Kampala werden auf ca. 50 Millionen US-Dollar geschaetzt.',
+      },
+      {
+        q: 'Wie sichern Dorfgemeinschaften in Uganda ihre Nahrungsversorgung?',
+        a: 'In laendlichen Gemeinden wie Buhoma kombinieren Familien typischerweise Subsistenzlandwirtschaft (Mais, Bohnen, Bananen, Maniok) mit Kleintierhaltung (Huehner, Ziegen). Eier und gelegentlich Fleisch erganzen die Kohlenstoffdiät. Projekte wie das Waisenhaus von Nicholas in Buhoma bauen auf diesen Grundlagen auf: Huehnerhaltung fuer Eier und Fleisch schafft Eigenversorgung und geringe Einnahmen. Was einfach klingt, ist in Regionen ohne Supermarkt und ohne Kuehlkette die pragmatischste Form von Ernaehrungssicherheit.',
+      },
+      {
+        q: 'Wie verlaesslich sind die Regenzeiten in Uganda?',
+        a: 'Uganda hat zwei Regenzeiten: die lange Regenzeit von Maerz bis Mai und die kurze von Oktober bis November. In den letzten Jahrzehnten hat sich die Zuverlaessigkeit dieser Perioden verringert -- spaetere Einsaetze, vorzeitige Enden, intensivere Einzelereignisse. Fuer Reisende bedeutet das praktisch: Trekking im Bwindi oder den Rwenzoris kann in den Regenmonaten rutschig und schwer sein, bietet aber intensivere Gruenfaerbe. Die Trockenzeiten (Dez.-Feb. und Jun.-Aug.) sind die bevorzugten Safari-Monate -- guenstigere Sichtbedingungen in den Nationalparks.',
+      },
+      {
+        q: 'Warum ist Kampala als Stadt in Uganda so dominant?',
+        a: 'Kampala konzentriert nach KCCA-Daten rund 65 Prozent des ugandischen BIP und ist die wirtschaftliche, politische und kulturelle Mitte des Landes. Uganda hat eine der hoechsten Urbanisierungsraten Afrikas (5,2 Prozent jaehrlich), aber mit rund 20 Prozent urbaner Gesamtbevoelkerung noch erhebliches Wachstumspotenzial. Andere Staedte wie Jinja, Mbarara, Gulu und Fort Portal entwickeln sich, sind aber in Groesse und wirtschaftlicher Bedeutung weit hinter Kampala. Fuer Reisende ist Kampala nahezu unvermeidbar: Hier startet und endet fast jede Uganda-Reise.',
+      },
+    ],
+    related: [
+      { href: '/staedte-in-uganda', title: 'Staedte in Uganda', desc: 'Kampala, Jinja, Entebbe -- alle wichtigen Orte fuer Reisende im Ueberblick.' },
+      { href: '/hauptstadt-ugandas', title: 'Kampala: Die Hauptstadt Ugandas', desc: 'Ausfuehrlicher Kampala-Guide fuer Reisende.' },
+      { href: '/nachhaltiger-tourismus-uganda', title: 'Nachhaltiger Tourismus Uganda', desc: 'Wie nachhaltiges Reisen in Uganda funktioniert und lokale Gemeinden staerkt.' },
+      { href: '/oekotourismus-uganda', title: 'Oekotourismus Uganda', desc: 'Eco-Lodges, Revenue-Sharing und nachhaltige Reiseoptionen.' },
+      { href: '/community-tourismus-bwindi', title: 'Community-Tourismus Bwindi', desc: 'Wie Tourismuseinnahmen die Gemeinden rund um Bwindi direkt foerdern.' },
+    ],
+    quellen: [
+      'KCCA: Strategic Plan FY2025/26-FY2029/30 (KCDIP, KCR&BUP, Urbanisierungsraten, BIP-Daten)',
+      'KCCA: Kampala Capital City Strategic Plan 2020/21-2024/25 (BIP-Anteil Kampala, Urbanisierung)',
+      'Kampala Climate Change Strategy',
+      'Multi-Hazard Risk and Vulnerability Profile Uganda, August 2018 (NEMA / OPM)',
+      'Weltbank: Studie Staukosten Kampala (2017)',
+      'National Environment Management Authority (NEMA): Uganda State of Environment Reports',
+      'National Environment (Waste Management) Regulations S.I. No. 49 of 2020',
+      'Eigene Vor-Ort-Erfahrungen: Buhoma Oktober 2024, Januar 2026, Juni 2026 (GPS-verifiziert); Kampala Januar 2026, Mai 2026',
+    ],
+    isTouristDestination: false,
+  },
+
   'bwindi-gorilla-reisefuehrer': {
     slug: '/bwindi-gorilla-reisefuehrer',
     title: 'Bwindi Gorilla-Trekking: Komplettguide',

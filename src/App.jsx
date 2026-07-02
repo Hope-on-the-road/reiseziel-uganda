@@ -267,6 +267,7 @@ export default function App() {
           <Route path="/sanitation-oeffentliche-gesundheit-kampala" element={<StandalonePage photos={photos} clusters={clusters} pageId="sanitation-oeffentliche-gesundheit-kampala" />} />
           <Route path="/uganda-reisetipps" element={<StandalonePage photos={photos} clusters={clusters} pageId="uganda-reisetipps" />} />
           <Route path="/lake-bunyonyi-nachhaltiges-reisen" element={<StandalonePage photos={photos} clusters={clusters} pageId="lake-bunyonyi-nachhaltiges-reisen" />} />
+          <Route path="/duerrerisiken-nahrungssicherheit-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="duerrerisiken-nahrungssicherheit-uganda" />} />
           <Route path="/gorilla-permit-kosten" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-permit-kosten" />} />
           <Route path="/kigali-nach-kampala" element={<StandalonePage photos={photos} clusters={clusters} pageId="kigali-nach-kampala" />} />
           <Route path="/bwindi-gorilla-reisefuehrer" element={<StandalonePage photos={photos} clusters={clusters} pageId="bwindi-gorilla-reisefuehrer" />} />
