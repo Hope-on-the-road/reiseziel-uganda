@@ -10729,6 +10729,130 @@ export const standalonePages = {
     isTouristDestination: false,
   },
 
+  'sanitation-oeffentliche-gesundheit-kampala': {
+    slug: '/sanitation-oeffentliche-gesundheit-kampala',
+    title: 'Sanitation und oeffentliche Gesundheit in Kampala',
+    h1: 'Sanitation und oeffentliche Gesundheit in Kampala: Was die KCCA plant und baut',
+    subtitle: 'Von Buhomas einfachem Krankenhaus zum 93-Milliarden-Infrastrukturplan der Kampala Capital City Authority -- ein Blick auf Ugandas urbane Gesundheits- und Sanitaerplanung 2025 bis 2030',
+    metaDescription: 'Sanitaranlagen, Gesundheitszentren und Schulbauten in Kampala: KCCA plant 103 Boxdurchlaesse, 8 oeffentliche Gesundheitszentren und 3,5 Mrd. UGX/Jahr fuer sanitaere Infrastruktur.',
+    breadcrumbs: [
+      { label: 'Kampala', href: '/regionen/kampala' },
+      { label: 'Sanitation und Gesundheit' },
+    ],
+    publishedTime: '2026-07-01',
+    modifiedTime: '2026-07-01',
+    photoFilter: 'kampala',
+    kurzantwort: 'Die Kampala Capital City Authority (KCCA) verwaltet fuenf Stadtbezirke -- Nakawa, Kawempe, Lubaga, Makindye und Central -- und ist fuer saemtliche oeffentlichen Gesundheits-, Sanitaer- und Bildungseinrichtungen im Stadtgebiet verantwortlich. Ihr Strategischer Plan 2025/26 bis 2029/30 sieht jaehrlich 3,5 Milliarden Uganda-Schillinge fuer den Bau sanitaerer Einrichtungen an Schulen, Gesundheitszentren, Parks und Maerkten vor. Acht eigene Gesundheitszentren betreibt die KCCA direkt, darunter das Kisenyi Health Centre IV als groesste eigene Einrichtung. Der Multifunktionskomplex der Nakawa Division -- ein Schluessel-Infrastrukturprojekt mit einem Budget von 93 Milliarden Uganda-Schillinge -- soll die seit Jahren beklagte Raumnot der Verwaltung beheben.',
+    fakten: [
+      { label: 'KCCA-Stadtbezirke', value: '5 Divisionen: Nakawa, Kawempe, Lubaga, Makindye, Central' },
+      { label: 'Oeffentliche KCCA-Gesundheitseinrichtungen', value: '8 (davon Kisenyi HCIV als groesste Einrichtung, Stand 2023 -- VERIFIZIEREN)' },
+      { label: 'Sanitaer-Budget pro Jahr', value: '3,5 Milliarden UGX (KCCA Strategic Plan 2025/26-2029/30)' },
+      { label: 'Geplante Boxdurchlaesse (Drainage)', value: '103 Einheiten (KCCA Strategic Plan 2025)' },
+      { label: 'Multifunktionskomplex Nakawa', value: 'Budget: 93 Milliarden UGX, Laufzeit 2025/26-2029/30' },
+      { label: 'Schulklassen renoviert / geplant', value: '45 Klassenraeume (MPS 2024-25)' },
+      { label: 'Lehrerwohnhaeuser geplant', value: '10 Bloecke (MPS 2024-25)' },
+      { label: 'Schulgesundheits-Einsaetze 2017/18', value: 'Geplant: 900 (historisch, KCCA MPS 2017/18)' },
+    ],
+    sections: [
+      {
+        id: 'buhoma-zum-kampala-blick',
+        title: 'Von Buhoma nach Kampala: Was ein Krankenhaus mit Infrastrukturplanung zu tun hat',
+        content: [
+          'Am 15. Januar 2026 stand ich auf dem Gelaende des Krankenhauses in Buhoma -- jenem kleinen Ort am Rande des Bwindi Impenetrable National Park im aeussersten Suedwesten Ugandas. Das Krankenhaus, von dem deutschen Förderer Herrn Braun mitgegründet, ist kein grosses Haus. Was mich dort gefunden hat, waren Container: Eine Erweiterung aus Wellblech und Metallkaesten, einfach und funktional aufgebaut -- der erste Anlaufpunkt fuer Erwachsene und Kinder, die hier untersucht und aufgenommen werden. GPS-Koordinaten -0.9684°N, 29.6166°O, Januar 2026, Fotograf: Mark Suer. Die Gebaeude trugen keine Schilder die man aus deutschen Krankenhaeusern kennt. Aber sie funktionierten. [ZITAT: Mitarbeiter des Krankenhauses ueber die taeglich versorgten Patienten -- beim naechsten Besuch erfragen]',
+          'Was diese Szene mit der Kampala Capital City Authority (KCCA) zu tun hat? Mehr als man auf den ersten Blick denken wuerde. Buhoma liegt 370 Kilometer von Kampala entfernt -- in einem der laendlichsten und abgelegensten Distrikte Ugandas. Hier loest man Infrastrukturprobleme mit dem was zur Verfuegung steht: Container, Bleche, Improvisation. In Kampala dagegen plant eine ganze Behoerde mit Milliarden-Budgets, strategischen Fuenfjahrplaenen und Ausschreibungen. Und trotzdem beschreibt der KCCA Strategic Plan 2025/26-2029/30 auffaellig aehnliche Grundprobleme wie die Containerstation in Buhoma: zu wenig Raum, zu wenig sanitaere Einrichtungen, veraltete Gebaeude, ungenuegender Zugang zu sauberem Wasser.',
+          'Uganda hat zwei Geschwindigkeiten. Die laendliche, die mit dem auskommt was da ist. Und die urbane, die plant, budgetiert und dennoch liefert was geplant wurde -- nur langsamer als beabsichtigt. Beim KCCA Strategic Plan 2025 wurden laut eigenen Angaben 26,6 Prozent der geplanten Outputs nicht erreicht; 31,8 Prozent wurden nur teilweise erfuellt. Die Production Directorate lag sogar bei nur 12,5 Prozent Zielerreichung. Das sind keine vernichtenden Zahlen -- das sind die Zahlen einer wachsenden Stadtverwaltung, die ernsthaft Rechenschaft ablegt. Und genau das macht den Unterschied zu vielen anderen Plaenen auf dem Kontinent.',
+        ],
+      },
+      {
+        id: 'kcca-gesundheitseinrichtungen',
+        title: 'KCCAs Gesundheitssystem: Acht Einrichtungen fuer fuenf Millionen Menschen',
+        content: [
+          'Direkt nach der Ankunft am Flughafen Entebbe fuhren wir im Januar 2026 durch Kampala. Die Strassen waren voll -- Bodabodas, Matatus, Lastwagen. Beim zweiten Besuch im Mai 2026 war es nicht anders: ein dichtes Gefuege aus Fahrzeugen und Menschen das sich GPS-verifiziert bei 0.2917°N, 32.4996°O durch rote Lateritstrassen wand. Inmitten dieser Energie betreibt die KCCA acht eigene Gesundheitseinrichtungen, verteilt ueber die fuenf Divisionen der Stadt.',
+          'Das Verzeichnis dieser Einrichtungen -- Stand 2023, VERIFIZIEREN -- zeigt die geografische Logik der Versorgung: In der Nakawa Division liegen das Bukoto Health Centre II und das Kiswa Health Centre III. In der Central Division sind es die City Hall Clinic und das Kisenyi Health Centre IV, letzteres als einziges auf Versorgungsstufe IV die umfangreichste oeffentliche Einrichtung im KCCA-eigenen Netz. Die Lubaga Division verfuegt ueber Kawaala HCIII und Kitebi HCIII, Makindye ueber das Kisugu HCIII, und in Kawempe liegt das Komamboga HCIII. Acht Einrichtungen fuer eine Stadtbevoelkerung von rund 1,65 Millionen Einwohnern im Kerngebiet -- und rund vier Millionen Menschen die taeglich durch die Stadt pendeln.',
+          'Was 2024/25 geplant war, zeigt das Ministerial Policy Statement der Ministerin Hon. Hajjati Minsa Kabanda: eine Neustrukturierung des kommunalen Gesundheitsmodells innerhalb der Stadt, Public-Private-Partnerships mit ausgewaehlten privaten Anbietern um den Druck auf oeffentliche Einrichtungen zu verringern, und die Ausweitung eines Notfallruf- und Leitstellen-Systems auf das gesamte Kampala Metropolitan Area. Das sind keine kleinen Vorhaben. Ein zentrales Notfallsystem fuer Kampala Metropolitan -- mit seinen mehreren Millionen Einwohnern -- waere ein qualitativer Sprung fuer die Gesundheitsversorgung, der weit ueber die Stadtgrenzen hinausstrahlt.',
+          'Daneben steht die KCCA vor der Herausforderung, ihr Stadtkoordinationsforum zu aktivieren um Ressourcen gezielter einzusetzen und Doppelarbeit zu vermeiden. Kampala hat -- wie im vorherigen Artikel zur Gesundheitsversorgung beschrieben -- rund 1.370 Gesundheitseinrichtungen insgesamt, von denen 92 Prozent privat und gewinnorientiert sind. Die acht KCCA-eigenen Einrichtungen sind also ein kleines aber stabiles oeffentliches Rueckgrat in einem weitgehend privatisierten System. Ihre Staerkung -- durch bessere Raeume, bessere Ausstattung, verlaaesslichere Partnerstrukturen -- ist das erklaerte Ziel der laufenden Planungsperiode.',
+        ],
+      },
+      {
+        id: 'sanitation-wasser-drainage',
+        title: 'Sanitaere Infrastruktur: 103 Drainage-Projekte und jaehrlich 3,5 Milliarden fuer Toiletten',
+        content: [
+          'Auf dem Weg von Kampala Richtung Murchison Falls im Oktober 2024 -- wir passierten den Marktort Luwerro bei GPS 0.8488°N, 32.4885°O -- sahen wir aus dem Auto einen Bodaboda-Fahrer mit einem Turm aus Wasserkanistern auf dem Gepaecktraeger. Fuenf, sechs Jerrykans uebereinander, kein Helm, Sandalen. [Foto: Mark Suer, Oktober 2024, Beschriftung: Bodaboda-Fahrer transportiert Wasser auf ugandischer Landstrasse -- ein alltaegliches Bild, das die Wasserzugangsproblematik abseits der Hauptleitungen sichtbar macht.] Der Fahrer war vollkommen routiniert. Das ist keine Ausnahmeerscheinung: In weiten Teilen Ugandas -- auch in Teilen Kampalas -- ist Wasser eine Ware die transportiert werden muss, keine Selbstverstaendlichkeit aus dem Hahn.',
+          'Die KCCA adressiert dieses Problem mit einem der ambitioniertesten Infrastrukturprogramme ihrer Geschichte. Der Strategic Plan 2025/26-2029/30 listet 103 Boxdurchlaesse -- verstaerkte Betonkanalstrukturen die Abwasser und Regenwasser geordnet ableiten -- als Gesamtprojektzahl ueber die fuenfjaehrige Planungsperiode. Boxdurchlaesse sind die unspektakulaerste aber wirksamste Form urbaner Infrastruktur: Sie verhindern saisonale Ueberschwemmungen in tiefer gelegenen Vierteln, schuetzen Strassen vor Erosion und trennen sauberes von verschmutztem Wasser. Kampala mit seinen acht Hauptdrainage-Systemen (Nakivubo, Lubigi, Nalukolongo, Kansanga, Manyanja, Kinawataka, Nalubaga, Walufumbe) hat bei Starkregenereignissen ein chronisches Ueberschwemmungsproblem -- die 103 geplanten Boxdurchlaesse sind direkte Antwort darauf.',
+          'Fuer sanitaere Einrichtungen an Schulen, Gesundheitszentren, oeffentlichen Parks und Maerkten plant die KCCA pro Haushaltsjahr jeweils 3,5 Milliarden Uganda-Schillinge ein -- ueber den gesamten Planungshorizont bis 2029/30 ein konstanter Ausgabenposten. Das klingt abstrakt, ist aber sehr konkret: Toiletten auf Schulgelaenden, an Marktstaenden, in Parkanlagen. In einem Stadtteil wie Kiswa in der Nakawa Division -- einem der am dichtesten besiedelten Quartiere des oestlichen Kampala -- sind fehlende oder veraltete Sanitaereinrichtungen an Schulen kein Komfortproblem, sondern ein Gesundheitsproblem, das Maedchen besonders hart trifft: Schulen ohne nutzbare Maedchentoiletten sind eine der am besten dokumentierten Ursachen fuer Schulabbruch bei Teenagerinnen in Uganda.',
+          'Die sanitaere Versorgung wird im KCCA-NAP (Nutrition Action Plan) direkt mit dem Ernaehrungsstatus der Stadtbevoelkerung verknuepft -- und das zu Recht. Offenes Abwasser, mangelnde Handwaschmoeglichkeiten und kontaminiertes Wasser sind Hauptuebertragungswege fuer Durchfallerkrankungen, die bei Kindern unter fuenf Jahren weiterhin eine der haeufigsten Todesursachen in Uganda sind. Das "Lake Victoria Water and Sanitation for Millions"-Projekt -- ein laufendes, vom KCCA-NAP 2025 erwahntes Programm -- soll die Wasserversorgungsinfrastruktur im Kampala Metropolitan Area grundlegend verbessern. Der Indikator: Anteil der Doerfer und Gemeinden die durch das Projekt abgedeckt werden.',
+        ],
+      },
+      {
+        id: 'bildungsinvestitionen-schulen',
+        title: 'Bildungsinvestitionen: 45 Klassenraeume, 10 Lehrerhaeuser, fuenf Sportzentren',
+        content: [
+          'Das Lehmhaus mit gestapelten Ziegeln an der Fassade -- aufgenommen am 10. Oktober 2024 in einer Siedlung ausserhalb Kampalas -- hat kein Wasser, keinen Strom, kein WC. Die Steine an der Hauswand sind nicht Dekoration: Sie sind zum Verkauf, ein Zuzatz-Einkommen in einer Gegend wo Baustoff-Produktion im Kleinstmassstab zur informellen Wirtschaft gehoert. Diese Haeuser stehen wenige Kilometer von den Stadtgrenzen Kampalas entfernt. Ihre Kinder gehen in Schulen die -- wenn die KCCA-Daten stimmen -- mit Klassenraumgroessen und Gebaeudezustaenden kaempfen, die europaeischen Masstaeben nicht genuegen wuerden.',
+          'Das Ministerial Policy Statement 2024/25 listet fuer die KCCA-Schulen: Renovierung von 45 Klassenraeumen aus bestehenden Schulgebaeuden, Bau von zehn Bloecken Lehrerwohnhaeuser, und die Einfuehrung von Technologie zur Schulinspektion und Qualitaetssicherung. Letzteres ist besonders bemerkenswert: Es gibt die Erkenntnis wieder, dass Vor-Ort-Kontrollen allein nicht skalieren -- dass ein System das Tausende Schulen ueberwachen soll, digitale Werkzeuge braucht. Gleichzeitig werden fuenf Allwetter-Mehrzweck-Sportplaetze fuer Schulen und Gemeinden gebaut, und ein Stadion fuer den KCCA Football Club ist in Fertigstellung.',
+          'Warum Lehrerwohnhaeuser? In Uganda -- und besonders in Kampala -- ist die Wohnkostenfrage fuer Lehrer existenziell. Das offizielle Lehrergehalt reicht in vielen Faellen nicht aus, um in einem der teuren Stadtteile Kampalas angemessen zu wohnen. Wer kein bezahlbares Wohnen in Schulnaehe findet, pendelt lange Strecken, kommt zu spaet oder wechselt in den Privatsektor. Lehrerwohnhaeuser direkt auf Schulgelaenden sind keine Nostalgie aus Kolonialzeiten -- sie sind eine pragmatische Massnahme die verlaesslichere Anwesenheit von Lehrpersonal sichert, besonders in schwieriger zu erreichenden Stadtteilen.',
+          'Das historische Bild der Schulgesundheit in Kampala zeigt, was moeglich ist wenn Ressourcen vorhanden sind: Das KCCA Ministerial Policy Statement fuer das Haushaltsjahr 2017/18 plante 900 Schulgesundheits-Ausseneinsaetze -- Teams die in KCCA-Schulen gehen, Kinder untersuchen, impfen, behandeln und Gesundheitsaufklaerung betreiben. Dieser Wert war eine Steigerung gegenueber den 800 durchgefuehrten Einsaetzen des Vorjahres 2016/17. [Historischer Wert, KCCA MPS 2017/18 -- aktuelle Zahl fuer 2025 verifizieren.] Es ist bezeichnend, dass diese Zahl nicht in der jaehrlichen Schlagzeile erscheint: Schulgesundheits-Ausseneinsaetze sind unsichtbare Infrastruktur, die dennoch direkt Leben verlaengert.',
+        ],
+      },
+      {
+        id: 'nakawa-division-infrastruktur',
+        title: 'Nakawa Division: Kiswa Ward, Raumnot und 93 Milliarden fuer einen Neubau',
+        content: [
+          'Wer die KCCA-Dokumente liest, stellt fest, dass die Nakawa Division -- der oestliche Verwaltungsbezirk Kampalas -- besonders haeufig auftaucht, wenn von Infrastrukturproblemen die Rede ist. Die Division leidet laut KCCA Strategic Plan 2025 unter akutem Platzmangel und verfallenen Buerostrukturen, was die Servicequalitaet fuer die Bevoelkerung direkt beeintraechtigt. Verwaltungsangestellte arbeiten in zu kleinen Raeumen, Akten werden unter Platzmangel verwahrt, Buerger muessen laengere Wege in Kauf nehmen -- all das senkt die Effizienz einer Behoerde die fuer Bauprojekte, Hygienekontrolle, Schulinspektion und Katasterfragen von Hunderttausenden Einwohnern zustaendig ist.',
+          'Die Antwort darauf: ein Multifunktionskomplex am KCCA Nakawa Division Office mit einem Gesamtbudget von 93 Milliarden Uganda-Schillinge. Das Projekt laeuft von 2025/26 bis 2029/30 und ist damit eines der groessten Einzelprojekte im aktuellen KCCA Strategic Plan. Es ist kein Prestigegebaeude -- die Begruendung ist sparsam und funktional: Platzmangel, verfallene Strukturen, Servicequalitaet. Wer jemals in einem ugandischen Behoerdenbuerou gesessen und auf einem plastikbestuhlten Korridor gewartet hat, weiss wie direkt dieser Zusammenhang ist: Ein guet ausgestattetes Behoerdengebaeude verarbeitet Antraege schneller, hat mehr Schalter, schafft Platz fuer Digitalisierung. 93 Milliarden Uganda-Schillinge entsprechen rund 23 Millionen Euro -- in europaeischen Dimensionen ein mittleres Verwaltungsgebaeude. In Uganda ist es ein Statement.',
+          'Kiswa, eine der Wards der Nakawa Division, steht exemplarisch fuer die Herausforderungen auf Bezirksebene. Der KCCA-Wissensgraph ordnet Kiswa drei Prioritaetsbereiche zu: Strassenreparaturen, Gesundheitsinfrastruktur und Sanitaerversorgung. Das ist keine Kuriositt -- das sind die drei Grundprobleme urbaner Entwicklung ueberhaupt, von Accra bis Jakarta. Kiswa liegt im oestlichen Kampala, in einem Wohngebiet das sich zwischen der Nakawa Division und dem Stadtrand erstreckt. Hier stehen noch viele Gebaeude aus den fruehen Jahrzehnten nach der Unabhaengigkeit, die in den 1970er und 1980er Jahren nicht renoviert wurden. Strassenflaechen, die bei Trockenheit stauben und bei Regen zu Matsch werden. Sanitaereinrichtungen die an Kapazitaetsgrenzen stossen.',
+          'Was das KCCA leistet -- trotz der Zielerreichungsluecken im Strategic Plan -- ist der Aufbau eines dokumentierten, rechenschaftspflichtigen Planungsrahmens. Sam Serunkuuma, Direktor fuer Einnahmemanagement der KCCA, und Sharifah Buzeki, Executive Director, stehen fuer eine Verwaltungsgeneration die Outputs messbar macht und veroeffentlicht. Dass 26,6 Prozent der geplanten Ziele nicht erreicht wurden und weitere 31,8 Prozent nur teilweise -- diese Zahlen stehen im offiziellen Strategic Plan, sie sind keine geleckten Zaehne. In einem Kontext in dem viele oeffentliche Einrichtungen keine Zahlen veroeffentlichen, ist das Transparenz die Grundlage fuer Verbesserung schafft. [ZITAT: lokale Perspektive auf KCCA-Leistung -- beim naechsten Besuch in Kampala einholen]',
+        ],
+      },
+      {
+        id: 'kampala-als-urban-labor',
+        title: 'Kampala als Labor: Was oeffentliche Infrastruktur in einer wachsenden Stadt kostet',
+        content: [
+          'Kampala waechst. Das Uganda Bureau of Statistics verzeichnet fuer den Grossraum seit der Volkszaehlung 2002 ein durchschnittliches Bevoelkerungswachstum von etwa zwei Prozent jaehrlich. Mehr Menschen bedeuten mehr Bedarf an Schulen, Toiletten, Abwasserkanaelen, Gesundheitseinrichtungen. Das Metropolitangebiet -- Kampala zusammen mit den Nachbarbezirken Wakiso und Mukono -- konzentriert ueber 32 Prozent der gesamten Fertigungsaktivitaeten Ugandas. Wenn dieser Wirtschaftsmotor strauchelt, spuert das ganze Land es. Wenn er gut laeuft, zieht er noch mehr Menschen an. Die Infrastruktur muss mit diesem Wachstum mithalten -- und das erfordert nicht einmalige Grossinvestitionen, sondern jaehrliche, zuverlaessige Ausgaben in Bereichen die unsichtbar sind, solange sie funktionieren.',
+          'Der KCCA-Haushalt war im Geschaeftsjahr 2017/18 auf einen Gesamtumfang von rund 98,978 Milliarden Uganda-Schillinge geplant (historischer Wert, KCCA MPS 2017/18 -- aktuelle Haushaltsgroesse verifizieren). Die geplanten Gesamtausgaben lagen bei rund 1,860 Billionen Uganda-Schillinge. [Hinweis: Die Angaben im Quellmaterial enthalten inkonsistente Einheiten -- konkrete Eurowerte fuer den aktuellen Haushalt bitte anhand der KCCA-Jahresberichte 2024/25 verifizieren.] Was sich seitdem vergroessert hat: die Bevoelkerung, die Aufgaben, die Erwartungen. Was sich ebenfalls veraendert hat: das Verstaendnis, dass oeffentliche Gesundheit und Sanitaer-Infrastruktur keine Kuerungspositionen sind, sondern Grundvoraussetzungen fuer eine funktionierende Stadt.',
+          'Wer durch Kampala faehrt -- so wie wir es im Januar 2026 und im Mai 2026 getan haben, GPS-verifiziert bei 0.2833°N, 32.4561°O und 0.2918°N, 32.4996°O -- sieht nicht die Haushaltszahlen. Man sieht die Strasse, die Bodabodas, den Verkehr, die Menschen. Man sieht Maerkte, kleine Staende, Kinder in Schuluniformen. Was man nicht sieht: die Drainage unter der Strasse, die Kanalisation, die Filteranlage. Genau das ist das Paradox guter Infrastruktur -- sie faellt erst auf wenn sie fehlt. Die KCCA baut das, was unsichtbar werden soll. Und das ist eine der schwersten Aufgaben im oeffentlichen Sektor: fuer etwas Geld auszugeben, das niemand bemerken wird wenn es gut gemacht ist.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Welche Sanitaerprojekte plant die KCCA in Kampala?',
+        a: 'Die KCCA plant laut Strategic Plan 2025/26-2029/30 jaehrlich 3,5 Milliarden Uganda-Schillinge fuer den Bau sanitaerer Einrichtungen an Schulen, Gesundheitszentren, Parks und Maerkten. Darueber hinaus umfasst der Plan 103 Boxdurchlaesse zur Verbesserung des Drainagesystems in verschiedenen Stadtbezirken. Das Ziel ist, Ueberschwemmungsschaeden zu reduzieren und den Zugang zu hygienischen Sanitaeranlagen fuer alle Bevoelkerungsgruppen zu verbessern.',
+      },
+      {
+        q: 'Welche Gesundheitseinrichtungen betreibt die KCCA direkt?',
+        a: 'Die KCCA betreibt acht eigene Gesundheitseinrichtungen in Kampalas fuenf Divisionen (Stand 2023, VERIFIZIEREN): Bukoto HCII und Kiswa HCIII (Nakawa), City Hall Clinic und Kisenyi HCIV (Central), Kawaala HCIII und Kitebi HCIII (Lubaga), Kisugu HCIII (Makindye) sowie Komamboga HCIII (Kawempe). Das Kisenyi Health Centre IV ist die groesste dieser Einrichtungen und bietet die umfangreichste Grundversorgung.',
+      },
+      {
+        q: 'Was ist der Multifunktionskomplex der Nakawa Division?',
+        a: 'Der Multifunktionskomplex am KCCA Nakawa Division Office ist eines der groessten Einzelprojekte im aktuellen KCCA Strategic Plan. Mit einem Budget von 93 Milliarden Uganda-Schillinge soll er von 2025/26 bis 2029/30 gebaut werden. Begruendet wird das Projekt mit akutem Platzmangel und verfallenen Buerostrukturen der Nakawa Division, die die Servicequalitaet der oeffentlichen Verwaltung beeintraechtigen.',
+      },
+      {
+        q: 'Wie investiert die KCCA in Schulgebaeude und Bildungsinfrastruktur?',
+        a: 'Laut Ministerial Policy Statement 2024/25 umfasst das KCCA-Bildungsprogramm die Renovierung von 45 Klassenraeumen, den Bau von 10 Lehrerwohnhaussbloecken sowie die Errichtung von fuenf Allwetter-Mehrzweck-Sportplaetzen fuer Schulen und Gemeinden. Ausserdem wird Technologie zur Schulinspektion eingefuehrt. Schulgesundheitseinsaetze -- Teams die in KCCA-Schulen Kinder untersuchen und behandeln -- waren fuer 2017/18 mit 900 Einsaetzen geplant; aktuelle Zahlen sind beim KCCA anzufragen.',
+      },
+      {
+        q: 'Wie transparent berichtet die KCCA ueber ihre Leistung?',
+        a: 'Die KCCA veroeffentlicht ihren Strategic Plan einschliesslich Zielerreichungsgrad. Der Plan 2025/26-2029/30 weist aus, dass 26,6 Prozent der geplanten Outputs nicht erreicht wurden, 31,8 Prozent nur teilweise und die Production Directorate lediglich 12,5 Prozent ihrer Ziele erfuellte. Diese Offenlegung ist keine Selbstkritik pro forma -- sie ist Grundlage der oeffentlichen Rechenschaftspflicht und ermoeglicht gezielte Korrekturen in den Folgejahren.',
+      },
+    ],
+    related: [
+      { href: '/hauptstadt-ugandas', title: 'Kampala: Hauptstadt Ugandas', desc: 'Geschichte, Wirtschaft, Verkehr und Sehenswuerdigkeiten in Ugandas Millionenstadt.' },
+      { href: '/gesundheitsversorgung-uganda', title: 'Gesundheitsversorgung in Uganda', desc: 'Krankenhaeuser, Malaria, Impfungen und Notfalltipps fuer Reisende.' },
+      { href: '/regionen/kampala', title: 'Kampala als Reiseziel', desc: 'Was Reisende in Kampala erwartet: Staedte-Guide, Unterkunft und Tipps.' },
+      { href: '/kigali-nach-kampala', title: 'Von Kigali nach Kampala', desc: 'Busreise und Grenzuebergang Katuna -- erste Eindruecke in der ugandischen Hauptstadt.' },
+      { href: '/hopekitchen-buhoma', title: 'HopeKitchen Buhoma', desc: 'Das Bauprojekt von Hope on the Road in Buhoma: Kueche, Lagerraum und Werkzeuge.' },
+    ],
+    quellen: [
+      'Kampala Capital City Authority (KCCA): Strategic Plan FY2025/26 - FY2029/30, veroeffentlicht 2025',
+      'KCCA: Ministerial Policy Statement FY2017/18, vorgelegt vom zustaendigen Minister (historisch)',
+      'KCCA: Ministerial Policy Statement FY2024/25, vorgelegt von Ministerin Hon. Hajjati Minsa Kabanda (2024)',
+      'KCCA: Nutrition Action Plan (NAP) 2023/24-2029/30, veroeffentlicht 27.01.2025',
+      'Uganda Bureau of Statistics (UBOS): Bevoelkerungsdaten 2002 und 2014',
+      'Eigene Reiseerfahrungen: Kampala Januar 2026 (GPS-verifiziert), Kampala Mai 2026 (GPS-verifiziert), Luwerro Oktober 2024 (GPS-verifiziert), Buhoma Januar 2026 (GPS -0.9684, 29.6166)',
+    ],
+    isTouristDestination: false,
+  },
+
   'bwindi-gorilla-reisefuehrer': {
     slug: '/bwindi-gorilla-reisefuehrer',
     title: 'Bwindi Gorilla-Trekking: Komplettguide',

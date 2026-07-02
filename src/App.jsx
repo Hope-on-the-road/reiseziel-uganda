@@ -264,6 +264,7 @@ export default function App() {
           <Route path="/jinja" element={<Navigate to="/regionen/jinja" replace />} />
           <Route path="/hauptstadt-ugandas" element={<StandalonePage photos={photos} clusters={clusters} pageId="hauptstadt-ugandas" />} />
           <Route path="/gesundheitsversorgung-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="gesundheitsversorgung-uganda" />} />
+          <Route path="/sanitation-oeffentliche-gesundheit-kampala" element={<StandalonePage photos={photos} clusters={clusters} pageId="sanitation-oeffentliche-gesundheit-kampala" />} />
           <Route path="/gorilla-permit-kosten" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-permit-kosten" />} />
           <Route path="/kigali-nach-kampala" element={<StandalonePage photos={photos} clusters={clusters} pageId="kigali-nach-kampala" />} />
           <Route path="/bwindi-gorilla-reisefuehrer" element={<StandalonePage photos={photos} clusters={clusters} pageId="bwindi-gorilla-reisefuehrer" />} />
