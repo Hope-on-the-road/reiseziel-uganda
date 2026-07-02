@@ -204,6 +204,7 @@ const ROUTES = [
   '/gesundheitsversorgung-uganda',
   '/sanitation-oeffentliche-gesundheit-kampala',
   '/uganda-reisetipps',
+  '/lake-bunyonyi-nachhaltiges-reisen',
   '/gorilla-permit-kosten',
   '/kigali-nach-kampala',
   '/bwindi-gorilla-reisefuehrer',
