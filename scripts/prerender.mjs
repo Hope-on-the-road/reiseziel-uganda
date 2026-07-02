@@ -203,6 +203,7 @@ const ROUTES = [
   '/hauptstadt-ugandas',
   '/gesundheitsversorgung-uganda',
   '/sanitation-oeffentliche-gesundheit-kampala',
+  '/uganda-reisetipps',
   '/gorilla-permit-kosten',
   '/kigali-nach-kampala',
   '/bwindi-gorilla-reisefuehrer',

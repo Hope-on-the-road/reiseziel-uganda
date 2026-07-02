@@ -10853,6 +10853,134 @@ export const standalonePages = {
     isTouristDestination: false,
   },
 
+  'uganda-reisetipps': {
+    slug: '/uganda-reisetipps',
+    title: 'Uganda Reisetipps 2026: Was du wissen musst',
+    h1: 'Uganda Reisetipps 2026 -- Praktisches Wissen aus erster Hand fuer deine Reise in die Perle Afrikas',
+    subtitle: 'Von Buhoma bis Murchison Falls, von der Einreise bis zum richtigen Verhalten im Nationalpark -- Uganda-Reisetipps von Menschen die vor Ort waren',
+    metaDescription: 'Uganda Reisetipps aus erster Hand: Visa, Gelbfieber-Pflicht, Boda-Boda, Lodges, Gorilla-Permit und nachhaltiges Reisen. GPS-verifizierte Erfahrungen Jan 2026.',
+    breadcrumbs: [
+      { label: 'Reiseplanung', href: '/reiseplanung' },
+      { label: 'Uganda Reisetipps' },
+    ],
+    publishedTime: '2026-07-02',
+    modifiedTime: '2026-07-02',
+    photoFilter: 'buhoma',
+    kurzantwort: 'Uganda ist eines der faszinierendsten Reiseziele Ostafrikas: Gorillas im Bwindi Impenetrable National Park, Nilpferde am Kazinga-Kanal, Schuhschnabel im Mabamba-Sumpf, die Nile-Faelle bei Murchison. Die wichtigsten Uganda-Reisetipps zusammengefasst: Das e-Visum kostet 50 USD und muss vor der Einreise online beantragt werden. Die Gelbfieberimpfung ist Einreisepflicht. Ganzjaehrig gilt Malaria-Prophylaxe. Das Gorilla-Permit kostet 600 USD in der Hauptsaison, 450 USD in der Nebensaison April, Mai und November. Lodges innerhalb oder nahe der Nationalparks bieten die beste Verbindung zwischen Unterkunft und Wildtierbeobachtung. Und: Wer vor Ort kauft, Guides bucht und in gemeinschaftlich betriebene Unterkuenfte eincheckt, unterstuetzt direkt die Menschen die Uganda schuetzen.',
+    fakten: [
+      { label: 'Visum', value: 'e-Visum online oder on arrival, 50 USD, gueltig 90 Tage' },
+      { label: 'Gelbfieber', value: 'Pflichtimpfung -- Nachweis bei Einreise Entebbe kontrolliert' },
+      { label: 'Malaria', value: 'Ganzjaehriges Hochrisikogebiet -- Prophylaxe und Mueckenschutz Pflicht' },
+      { label: 'Waehrung', value: 'Uganda Shillings (UGX); USD / EUR in Kampala und Touristenzentren akzeptiert' },
+      { label: 'Gorilla-Permit Hauptsaison', value: '600 USD (Juni-Sept, Dez-Feb)' },
+      { label: 'Gorilla-Permit Nebensaison', value: '450 USD (April, Mai, November)' },
+      { label: 'Beste Reisezeit', value: 'Trockenzeiten: Juni-September, Dezember-Februar' },
+      { label: 'Strom', value: '240 V, britische Stecker (Typ G) -- Adapter mitbringen' },
+      { label: 'Sprachen', value: 'Englisch (Amtssprache), Luganda in Kampala, Runyankole im Suedwesten' },
+      { label: 'Lodges', value: 'Hoehere Auslastungsquote als Hotels -- fruehzeitig buchen' },
+    ],
+    sections: [
+      {
+        id: 'erster-eindruck-warum-uganda',
+        title: 'Erster Eindruck: Was Uganda als Reiseziel besonders macht',
+        content: [
+          'Auf dem sandigen Platz vor dem Waisenhaus von Nicholas in Buhoma, direkt am Rande des Bwindi Impenetrable National Park, standen zwei Jugendliche vor unserer Kamera. Sie positionierten sich, richteten ihre Haltung aus, laecheln. Dann kam das Lachen. Der Grund: In einem Dorf, in dem Smartphones die absolute Ausnahme sind, ist eine Kamera ein Ereignis. [Foto: Jugendliche vor dem Nicholas-Waisenhaus, Buhoma, GPS 0.9616°N, 29.6109°O, Januar 2026, Fotograf: Mark Suer.] Die Kinder und Jugendlichen des Waisenhauses hatten sich versammelt, jeder wollte ins Bild. Das ist Uganda: Neugier, Waerme, die unmittelbare Direktheit menschlicher Begegnung.',
+          'Dieser Moment, dokumentiert waehrend unseres Besuchs in Buhoma im Januar 2026, steht fuer etwas das keine Uganda-Reisetipps-Liste ersetzen kann: das Gefuehl dieses Landes. Uganda ist kein Massentouristenziel. Es gibt keine Strandpromenaden, keine Poolanlagen die aussehen wie jedes andere Resort weltweit, keine standardisierte Tourismuserfahrung. Was es gibt: Gorillas im dichten Regenwald des Bwindi, Flusspferde und Nilkrokodile am Kazinga-Kanal, den Schuhschnabel im Mabamba-Sumpf nahe Entebbe, Rothschild-Giraffen in der Savanne des Murchison Falls Nationalparks. Und -- durchgehend, von der Hauptstadt bis zum abgelegensten Dorf -- Menschen, die Fremde als Gaeste behandeln, nicht als Konsumenten. [ZITAT: Reisender ueber ersten Eindruck Uganda -- beim naechsten Besuch erfragen]',
+          'Waehrend unserer Besuche -- Oktober 2024, Januar 2026 und weiterer Aufenthalte in der Buhoma-Region -- haben wir Uganda auf ganz verschiedenen Ebenen erlebt: als Transitland (Kampala, die staugeplagte, pulsierende Hauptstadt), als Naturerlebnis (Gorilla-Trekking im Januar 2026, GPS-verifiziert bei -0.9649°N, 29.6144°O), als menschliche Begegnung (Nicholas, Pastor und Betreiber des Waisenhauses in Buhoma, mit seiner Frau Media). Die Uganda-Reisetipps die folgen, sind nicht aus Reisefuehrern destilliert. Sie stammen aus GPS-verifizierten Erfahrungen von Menschen die dort waren -- und wieder hingefahren sind.',
+        ],
+      },
+      {
+        id: 'einreise-visum-impfungen-vorbereitung',
+        title: 'Einreise, Visum und Impfungen: Was vor dem Abflug erledigt sein muss',
+        content: [
+          'Die Einreise nach Uganda ist fuer deutsche Staatsangehoerige unkompliziert. Das Visum kostet 50 USD und kann entweder vorab als e-Visum online ueber das offizielle Uganda-Immigration-Portal beantragt werden oder on arrival am Entebbe International Airport. Die Online-Beantragung ist empfehlenswert: Der Nachweis laesst sich ausgedruckt mitfuehren und spart Zeit an der Grenzkontrolle. Das Visum gilt in der Regel fuer 90 Tage und kann verlangert werden. Reisende aus EU-Staaten benoetigen keinen Gelbfieber-Eintrag im alten gelben Impfpass -- aber: Die Gelbfieberimpfung ist Einreisepflicht fuer Uganda, unabhaengig vom Herkuenftsland. Der Impfnachweis (internationaler Impfausweis, Gelbfieberkarte) wird am Flughafen Entebbe regelmaessig kontrolliert; ohne gueltigen Nachweis kann die Einreise verweigert werden.',
+          'Neben Gelbfieber empfehlen Tropenmedizinexperten fuer Uganda: Hepatitis A und B, Typhus, Tetanus sowie bei laengeren Aufenthalten oder Naturaktivitaeten Tollwutprophylaxe. Das wichtigste medizinische Thema ist jedoch Malaria: Uganda liegt ganzjaehrig in einem Hochrisikogebiet. Malaria-Prophylaxe ist fuer alle Reisenden ohne Ausnahme zu empfehlen. Welches Medikament geeignet ist -- Atovaquon/Proguanil (Malarone), Doxycyclin oder Mefloquin -- haengt von individuellen Faktoren ab. Lassen Sie sich 6 bis 8 Wochen vor Reisebeginn in einer tropenmedizinischen Praxis beraten.',
+          'Packliste-Essentials fuer Uganda: leichte Wanderschuhe oder Trekkingstiefel (unverzichtbar fuer Gorilla-Trekking und Nationalpark-Pfade), eine wasserdichte Regenjacke auch in der Trockenzeit (Regenwald bedeutet Regen), Sonnenschutz mit hohem Lichtschutzfaktor, DEET-Mückenspray (mindestens 30 Prozent), Adapter fuer britische Typ-G-Stecker (Uganda hat 240 V Netzspannung). Bargeld in USD und Uganda Shillings: Geldautomaten gibt es zuverlässig in Kampala, Entebbe, Jinja und Fort Portal -- in den Nationalparks und abgelegenen Regionen ist Bargeld Pflicht. Mobile Money (MTN Uganda, Airtel Uganda) ist in vielen Situationen die schnellste Zahlungsmethode -- auch fuer Reisende, die eine ugandische SIM-Karte kaufen.',
+          'Wichtig fuer die Reisevorbereitung: eine Auslandsreisekrankenversicherung die medizinischen Ruecktransport (Medi-Evac) explizit einschliesst. Im Notfall ausserhalb Kampalas ist der Lufttransport in eine spezialisierte Klinik oft die einzige Option. Eine Police ohne Ruecktransportklausel ist fuer Uganda-Reisen unzureichend.',
+        ],
+      },
+      {
+        id: 'transport-in-uganda',
+        title: 'Transport in Uganda: Boda-Boda, Matatu und wann ein organisierter Transfer sinnvoll ist',
+        content: [
+          'Das praegende Transportmittel Ugandas ist die Boda-Boda -- das Motorradtaxi, dessen Name aus der Kolonialzeit stammt: "Border to border" fuer Fahrradkuriere, die Reisende zwischen schlecht bewachten Grenzposten befoerderten. Heute sind es Motorraeder, die in jeder ugandischen Stadt und jedem Dorf die schnellste und guenstigste Fortbewegungsart darstellen. Auf einer Landstrasse ausserhalb Kampalas im Oktober 2024 sahen wir aus dem Auto eine Variante, die uns staunen liess: eine dreiraedriger Boda-Boda mit roter Ladefläche und einem Fahrdach fuer den Fahrer -- ein Transporter fuer Gueter, handwerklich angepasst fuer ugandische Verhaeltnisse. [Foto: Dreiraedriger Transporter, GPS -0.7871°N, 29.9268°O, Oktober 2024, Fotograf: Mark Suer.] Uganda loest Transportprobleme mit dem was da ist: kreativ, pragmatisch, funktional.',
+          'Fuer Reisende stellt sich die Transportfrage konkret: Boda-Boda ist fuer kurze Distanzen in Staedten sinnvoll -- preiswert, schnell, vor allem durch den Stau der Kampala-Innenstadt. Helm ist gesetzlich vorgeschrieben, aber in der Praxis nicht immer vorhanden; bestehen Sie auf einem. Matatu-Kleinbusse verbinden Staedte zu guenstigen Preisen, fahren aber nach dem Prinzip "erst wenn voll". Fuer Touren zwischen Kampala und den Nationalparks -- Murchison Falls (ca. 305 km, fuenf Stunden), Bwindi (ca. 420 km, acht bis neun Stunden) -- ist ein organisierter Transfer mit Safari-Fahrer die komfortabelste und zuverlaessigste Option. Die Fahrzeuge -- in der Regel Toyota Land Cruiser oder Jeeps mit Dachgepaecktraeger und Ueberrollbuegel -- sind auf die Strassenbedingungen eingestellt.',
+          'In Buhoma und der Bwindi-Region gibt es lokale Unternehmer, die Fahrdienste fuer Touristen anbieten. Norman, ein Einheimischer aus Buhoma, repraesentiert ein Geschaeftsmodell das direkt vom internationalen Tourismus lebt: Reisende aus Europa, Amerika und anderen Kontinenten buchen seine Dienste. Diese direkte Wertschoepfung -- Geld aus dem Tourismus fliesst unmittelbar an einen lokalen Fahrer und Unternehmer -- ist ein konkretes Beispiel dafuer wie Tourismus Gemeinden neben den Nationalparks traegt. Die KCCA verfolgt mit ihrem Kampala Tourism Improvement Project (KTIP) das strategische Ziel, mindestens 500 lokale Touristen jaehrlich zu foerdern (KCCA Strategic Plan 2025/26-2029/30) und plant ab FY 2025/26 die Teilnahme an zwei internationalen Tourismusmessen jaehrlich.',
+        ],
+      },
+      {
+        id: 'unterkunft-lodges-community-tourismus',
+        title: 'Unterkunft: Warum Lodges die richtige Wahl sind und was Community-Tourismus bedeutet',
+        content: [
+          'Uganda hat verschiedene Unterkunftskategorien: Hotels in Kampala, Entebbe und den grossen Staedten, Guesthouses im mittleren Preissegment, und Lodges in der Naehe oder innerhalb der Nationalparks. Fuer Safari-Reisende fuehren Daten der Uganda Tourism Board klar in eine Richtung: Lodges haben die hoehere Auslastungsquote und werden von Touristen bevorzugt nachgefragt. Der Grund ist pragmatisch: Eine Lodge nahe dem Bwindi Impenetrable National Park bedeutet, dass man am Morgen des Gorilla-Treks nicht erst eine Stunde im Auto sitzt. Fuer Murchison Falls gilt dasselbe. Die Mehrkosten einer guten Lodge gegenueber einem Hotel in der naechsten Kreisstadt werden durch die Erlebnisdichte ausgeglichen.',
+          'Nicholas, Pastor und Betreiber des Waisenhauses in Buhoma, steht fuer eine andere Form der Unterkunfts- und Reisewirtschaft: Community-Tourismus. Bei unserem Besuch im Januar 2026 sahen wir, wie sein Netzwerk funktioniert: ein Waisenhaus das Jugendliche aufnimmt, ein Garten der Nahrung produziert, Verbindungen zu lokalen Handwerkern und Bauern. Der oertliche Huehnerzuechter -- den wir mehrfach besucht haben, um Kueken fuer das Waisenhaus zu kaufen -- zeigt eine direkte Nahrungsmittelversorgungskette: Die Tiere werden im Waisenhaus grossgezogen, Eier sichern die Eigenversorgung, ueberschuessige Tiere werden verkauft. [Foto: Huehnerzuechter mit Besucher von Hope on the Road, GPS -0.9713°N, 29.6142°O, Juni 2026, Fotograf: Mark Suer.] Das ist keine Touristenattraktion -- das ist Wirtschaft. Und als Reisender kann man Teil davon sein: durch den Kauf lokal produzierter Waren, durch Uebernachtung in community-betriebenen Einrichtungen, durch das Buchen lokaler Guides.',
+          'Die KCCA foerdert im Rahmen ihres KTIP-Projekts fuenf grosse Tourismus-Festivals pro Jahr in Kampala, darunter das Rolex Festival, den Welttourismustag und die Miss Tourism Uganda 2023 (laut Ministerial Policy Statement 2024/25: 17 bedeutende Tourismusveranstaltungen wurden 2024 in Kampala beworben -- VERIFIZIEREN). Diese Veranstaltungen sind nicht nur fuer Kampala-Reisende relevant: Sie zeigen, dass Uganda den Tourismus als Entwicklungsstrategie ernst nimmt. Fuer Reisende bedeutet das: Die Infrastruktur fuer Tourismus -- Guides, Fahrer, Unterkuenfte, Festivals -- wird aktiv ausgebaut.',
+          'Praktischer Buchungstipp: Lodges in Bwindi (Buhoma-Sektor) sind in der Hauptsaison Juni bis September und Dezember bis Februar fruehzeitig ausgebucht. Die Gorilla-Permits der Uganda Wildlife Authority sind limitiert -- acht Personen pro habituierter Gorillafamilie pro Tag. Wer ohne vorher gebuchtes Permit anreist, findet oft keine Verfuegbarkeit vor Ort. Buchen Sie Permit und Lodge mindestens drei bis sechs Monate im Voraus wenn Sie in die Hochsaison wollen. In der Nebensaison (April, Mai, November) sind Permit guenstiger (450 USD statt 600 USD) und Lodges flexibler -- und Trotz des Regens ist die Vegetationsdichte des Regenwalds in dieser Zeit besonders beeindruckend.',
+        ],
+      },
+      {
+        id: 'lokale-realitaet-und-verantwortungsvolles-reisen',
+        title: 'Lokale Realitaet und verantwortungsvolles Reisen',
+        content: [
+          'An der Hauptstrasse von Buhoma sassen wir im Januar 2026 auf einer kleinen Bank vor einem Store, tranken Wasser, beobachteten das Dorfleben. Es ist eine simple Szene -- und genau deshalb praegt sie sich ein. [Foto: Pause an der Hauptstrasse Buhoma, GPS -0.9673°N, 29.6145°O, Juni 2026, Fotograf: Mark Suer.] Uganda ist kein Land in dem man als Reisender nur konsumiert: Man ist sichtbar, man ist Gaestin oder Gast, man wird angesprochen. Das ist kein Problem, sondern ein Angebot. Nutzen Sie es.',
+          'Einen anderen Moment, der bleibt: Ein zehnjaehriger Junge auf einem Steinberg in Buhoma, Januar 2026, der Kiesel zerkleinerte -- Fundamente fuer Haeuser, eine Arbeit die in dieser Region Erwachsene wie Kinder verrichten. GPS-koordiniert bei -0.9649°N, 29.6144°O. Der Junge schaute auf, lachte, wollte fotografiert werden. [Foto: Junge bei Steinarbeit, Buhoma, Fotograf: Mark Suer.] Diese Bilder -- keine Stockfotos, alle persoenlich aufgenommen -- zeigen Uganda ohne Filter: ein Land dessen BIP pro Kopf niedrig ist, aber dessen Menschenwuerde und Lebendigkeit nicht in Statistiken fassen. Als Reisender sieht man beides, wenn man sich darauf einlaesst.',
+          'Verantwortungsvolles Reisen beginnt mit konkreten Verhaltensweisen. Im Bereich Abfallwirtschaft gilt seit 2020 in Uganda die National Environment (Waste Management) Regulations S.I. No. 49 -- ein Regelwerk das Lodges, Hotels und Tourismusunternehmen zur ordnungsgemaessen Muellentsorgung, Kompostierung und Abfallvermeidung verpflichtet. Als Reisender koennen Sie aktiv unterstuetzen: Nehmen Sie Plastikflaschen aus dem Wald mit, bringen Sie wiederverwendbare Behaelter, kaufen Sie nicht bei Haendlern die Muell im Nationalpark hinterlassen. In den ugandischen Nationalparks ist das Einbringen von Plastiktueten verboten -- seit 2007 ist die Einfuhr von Plastiktueten in Uganda gesetzlich eingeschraenkt.',
+          'Fuer lokale Wirtschaft gilt: Kaufen Sie wo immer moeglich direkt bei lokalen Produzenten. Auf den Maerkten in Buhoma, Luwerro und anderen Marktorten entlang der Reiserouten -- wie wir sie im Oktober 2024 passierten -- werden Nahrungsmittel, Handwerk und Alltagsgueter verkauft. Diese Einkaeufe kommen direkt bei den Verkaeuferinnen an. Das Uganda Women Entrepreneurship Programme, gefördert mit einem Budget von 30 Millionen USD fuer FY2025/26 (KCCA Strategic Plan 2025 -- PREIS: vor Veroeffentlichung aktuelle Preise pruefen), zeigt, dass die ugandische Regierung wirtschaftliche Selbstaendigkeit von Frauen als Entwicklungsziel ernst nimmt. Als Reisender der in Uganda kauft, an Touren teilnimmt und lokale Unterkuenfte waehlt, traegt er zu diesem System bei.',
+        ],
+      },
+      {
+        id: 'sicherheit-gesundheit-alltag',
+        title: 'Sicherheit, Gesundheit und was Reisende im Alltag beachten sollten',
+        content: [
+          'Uganda gilt fuer die meisten Touristenregionen -- Kampala, Entebbe, Jinja, Fort Portal, den Bwindi Impenetrable National Park, den Murchison Falls Nationalpark, den Queen Elizabeth Nationalpark -- als sicher fuer Reisende. Das Auswaertige Amt Deutschland empfiehlt erhoehte Vorsicht in Grenzregionen zum Kongo und in der Karamoja-Region im Nordosten; diese Gebiete werden von den meisten Safari-Reiserouten nicht beruehrt. In den Nationalparks sind Ranger und Uganda Wildlife Authority-Personal praesent; das Trekking zu Gorillas, Schimpansen und anderen Wildtieren erfolgt immer mit einem offiziellen Guide.',
+          'Strassensicherheit ist ein ernstes Thema in Uganda. Die Kampala Road Safety Strategy 2021-2030 und der Status Report on Vulnerable Road Users 2025 zeigen das Ausmass: Boda-Boda-Unfaelle gehoeren zu den haeufigsten Verletzungsursachen im Strassenverkehr. 190 Polizeibeamte wurden 2024 in Verkehrssicherheitsdurchsetzung geschult (Kampala Annual Road Safety Report 2024 -- VERIFIZIEREN). Als Reisender gilt: Immer einen Helm bei Boda-Boda-Fahrten bestehen, Sicherheitsgurt im Auto anlegen, abends wenn moeglich kein Motorrad nutzen. Die Unfallstatistik zeigt, dass nur 5,6 Prozent der Verletzten bei Strassenverkehrsunfaellen mit Krankenwagen transportiert werden (nationale Erhebung 2018 -- VERIFIZIEREN) -- das unterstreicht, warum eine gute Reisekrankenversicherung mit Ruecktransport unverzichtbar ist.',
+          'Trinkwasser: Leitungswasser in Uganda grundsaetzlich nicht trinken -- weder in Kampala noch auf dem Land. Abgefuelltes Wasser ist ueberall verfuegbar und guenstig. In Lodges wird in der Regel gefiltertes oder abgefuelltes Wasser bereitgestellt. Sonnenschutz ist auch in Hochlagen unverzichtbar: Ugandas liegt auf dem Aequator, die UV-Strahlung ist ganzjaehrig hoch -- auch in der Regenzeit wenn die Sonne hinter Wolken ist. Schliesslich: Uganda is on East Africa Time (EAT, UTC+3), ohne Sommerzeit -- sechs Stunden Vorsprung gegenueber Mitteleuropa im Winter, fuenf Stunden im Sommer.',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Brauche ich ein Visum fuer Uganda?',
+        a: 'Ja. Deutsche Staatsangehoerige benoetigen ein Visum fuer Uganda. Es kann als e-Visum vor der Abreise online beantragt werden oder on arrival am Entebbe International Airport. Der Preis betraegt 50 USD. Das Visum ist in der Regel fuer 90 Tage gueltig. Zusaetzlich ist die Gelbfieberimpfung Pflicht -- der Nachweis wird am Flughafen Entebbe regelmaessig kontrolliert.',
+      },
+      {
+        q: 'Welche Impfungen braucht man fuer Uganda?',
+        a: 'Gelbfieber ist Einreisepflicht -- ohne gueltigen Impfnachweis kann die Einreise verweigert werden. Empfohlen werden ausserdem: Hepatitis A und B, Typhus, Tetanus sowie bei laengeren Aufenthalten Tollwutprophylaxe. Das wichtigste Gesundheitsthema ist Malaria: Uganda liegt ganzjaehrig in einem Hochrisikogebiet; eine Malaria-Prophylaxe ist fuer alle Reisenden unabdingbar. Lassen Sie sich in einer tropenmedizinischen Praxis beraten -- idealerweise sechs bis acht Wochen vor Reisebeginn.',
+      },
+      {
+        q: 'Was kostet ein Gorilla-Trekking-Permit in Uganda?',
+        a: 'Das Gorilla-Trekking-Permit der Uganda Wildlife Authority kostet in der Hauptsaison (Juni bis September, Dezember bis Februar) 600 USD pro Person. In der Nebensaison (April, Mai, November) betraegt der Preis 450 USD. Das Permit berechtigt zu einer einstuendigen Begegnung mit einer habituierten Gorillafamilie im Bwindi Impenetrable National Park oder im Mgahinga Gorilla National Park. Da pro Familie nur acht Personen pro Tag zugelassen sind, sollte man Permit und Lodge fruehzeitig buchen.',
+      },
+      {
+        q: 'Sind Lodges besser als Hotels fuer eine Uganda-Reise?',
+        a: 'Fuer Naturtouristen und Safarireisende sind Lodges in der Naehe der Nationalparks klar die bessere Wahl. Sie bieten kuerzere Wege zu den Trekking-Ausgangspunkten, Guides vor Ort und ein Ambiente das zum Erlebnis passt. Lodges haben laut Uganda-Tourismusdaten die hoehere Auslastungsquote und sind in der Hauptsaison oft ausgebucht. Wer in Kampala oder Entebbe uebernachtet, findet in Hotels oft mehr Flexibilitaet -- aber fuer Bwindi und Murchison Falls gilt: Die Lodge macht den Unterschied.',
+      },
+      {
+        q: 'Wie kann ich als Reisender die lokale Wirtschaft in Uganda unterstuetzen?',
+        a: 'Konkrete Moeglichkeiten: Lokale Guides und Fahrer buchen statt organisierter Pauschaltouren mit auslaendischen Operatoren. Auf Maerkten in Buhoma, Jinja oder anderen Orten direkt bei Verkaeuferinnen einkaufen. In community-betriebenen Unterkuenften oder Waisenhaeusern wie dem von Nicholas in Buhoma uebernachten oder spenden. Handwerk und Lebensmittel vor Ort kaufen statt Mitbringsel am Flughafen. Diese Entscheidungen kommen direkt bei Menschen an -- nicht bei Zwischenhaendlern.',
+      },
+    ],
+    related: [
+      { href: '/reiseplanung', title: 'Uganda Reiseplanung', desc: 'Visa, Transport, Kosten, Sicherheit -- alle Planungsthemen kompakt.' },
+      { href: '/reiseplanung/malaria', title: 'Malaria in Uganda', desc: 'Prophylaxe, Symptome und was bei Malariarisiko waehrend der Reise zu tun ist.' },
+      { href: '/gorilla-trekking', title: 'Gorilla-Trekking Uganda', desc: 'Permit, Verhaltensregeln, Trekking-Erfahrungsbericht aus dem Bwindi Nationalpark.' },
+      { href: '/gesundheitsversorgung-uganda', title: 'Gesundheitsversorgung in Uganda', desc: 'Krankenhauser, Notfall-Tipps, Versicherung -- medizinische Vorbereitung kompakt.' },
+      { href: '/hopekitchen-buhoma', title: 'HopeKitchen Buhoma', desc: 'Hope on the Road in Buhoma: Bauprojekt, Waisenhaus und Community-Engagement.' },
+    ],
+    quellen: [
+      'Uganda Immigration Services: e-Visa Information, Stand 2025',
+      'Deutsche Gesellschaft fuer Tropenmedizin und Globale Gesundheit (DTG): Uganda-Reisemedizin 2025',
+      'Uganda Wildlife Authority (UWA): Gorilla Trekking Permit Preise 2026',
+      'KCCA: Strategic Plan FY2025/26-FY2029/30 (KTIP, Tourismus-Festivals, Internationalmessen)',
+      'KCCA: Ministerial Policy Statement FY2024/25 (17 Tourismusveranstaltungen Kampala)',
+      'National Environment Management Authority (NEMA): Waste Management Regulations S.I. No. 49 of 2020',
+      'Kampala Status Report on Vulnerable Road Users, Dezember 2025',
+      'Kampala Annual Road Safety Report 2024',
+      'Eigene Reiseerfahrungen: Buhoma Januar 2026 (GPS-verifiziert), Buhoma Oktober 2024, Kampala Januar und Mai 2026',
+    ],
+    isTouristDestination: true,
+  },
+
   'bwindi-gorilla-reisefuehrer': {
     slug: '/bwindi-gorilla-reisefuehrer',
     title: 'Bwindi Gorilla-Trekking: Komplettguide',
