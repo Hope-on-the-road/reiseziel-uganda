@@ -69,6 +69,11 @@
   to = "/land-und-leute"
   status = 301
 
+[[redirects]]
+  from = "/insights/kabale-murchison-uganda-guide"
+  to = "/insights/kabale-murchison-uganda-guide.html"
+  status = 200
+
 # SPA catch-all
 [[redirects]]
   from = "/*"
