@@ -11339,6 +11339,125 @@ export const standalonePages = {
     isTouristDestination: true,
   },
 
+  'durch-laender-fliesst-nil': {
+    slug: '/durch-laender-fliesst-nil',
+    title: 'Durch welche Länder fließt der Nil?',
+    h1: 'Durch welche Länder fließt der Nil -- von Uganda bis zum Mittelmeer',
+    subtitle: 'Der Nil beginnt in Uganda. Von Jinja und Kampala durch den Suedsudan und Sudan bis zum Nildelta in Aegypten: Die Laender des laengsten Flusses der Welt -- mit Reisekontext fuer Uganda-Besucher.',
+    metaDescription: 'Durch welche Länder fließt der Nil? Uganda, Südsudan, Sudan, Ägypten — von der Quelle in Jinja bis zum Mittelmeer. Mit Reisekontext für Uganda-Besucher.',
+    breadcrumbs: [
+      { label: 'Uganda', href: '/staedte-in-uganda' },
+      { label: 'Der Nil in Uganda', href: '/der-nil-in-uganda' },
+      { label: 'Nil durch alle Länder' },
+    ],
+    publishedTime: '2026-07-02',
+    modifiedTime: '2026-07-02',
+    photoFilter: 'kampala',
+    heroImage: {
+      url: 'https://eqlnmpmfhxdllkuetury.supabase.co/storage/v1/object/public/thumbnails/uganda_1782077472856_0w3p.jpg',
+      alt: 'Strassenverkehr in Kampala, der Hauptstadt Ugandas -- Ausgangspunkt fuer Nil-Erlebnisse. Foto: Mark Suer',
+      caption: 'Kampala, Januar 2026 -- die Hauptstadt Ugandas und Startpunkt fuer Reisende die den Nil erkunden wollen. Foto: Mark Suer',
+    },
+    kurzantwort: 'Der Nil durchfliesst auf seinem Weg vom Ursprung bis zum Mittelmeer elf Laender des afrikanischen Kontinents. Die Quelle des Weissen Nils liegt in Uganda, am Ausfluss des Viktoriasees bei der Stadt Jinja -- rund 80 Kilometer oestlich von Kampala, der Hauptstadt Ugandas. Von dort fliesst der Victoria-Nil nach Nordwesten durch Uganda, passiert die Murchison Falls und entlasst sich als Albert-Nil in den Albertsee. Als Weisser Nil setzt er seinen Weg durch den Suedsudan und Sudan fort. In Khartum vereinigt er sich mit dem Blauen Nil, der aus Aethiopien kommt. Von Khartum bis zum Nildelta in Aegypten -- rund 3.000 Kilometer -- fliesst der Nil durch ein der trockensten Laender der Erde und hat die aegyp tische Zivilisation seit Jahrtausenden ernaehrt.',
+    fakten: [
+      { label: 'Nilquelle (Weisser Nil)', value: 'Jinja, Uganda -- Ausfluss des Viktoriasees' },
+      { label: 'Nilquelle (Blauer Nil)', value: 'Tana-See, Aethiopien' },
+      { label: 'Laender des Nilbeckens', value: '11 Laender: Uganda, Tansania, Kenia, Ruanda, Burundi, DR Kongo, Aethiopien, Eritrea, Suedsudan, Sudan, Aegypten' },
+      { label: 'Hauptstrom (Weisser Nil)', value: 'Uganda → Suedsudan → Sudan → Aegypten' },
+      { label: 'Vereinigung der Nilarme', value: 'Khartum, Sudan (Weisser Nil + Blauer Nil)' },
+      { label: 'Stadt am Nil-Ursprung', value: 'Jinja, Uganda' },
+      { label: 'Entfernung Kampala–Jinja', value: 'ca. 80 km, 1,5–2 Stunden Fahrt' },
+      { label: 'Eigener Besuch Uganda', value: 'Oktober 2024, Januar 2026 (GPS-verifiziert)' },
+    ],
+    sections: [
+      {
+        id: 'nilquelle-jinja-uganda',
+        title: 'Die Nilquelle: Jinja und der Ausfluss des Viktoriasees',
+        content: [
+          'Als ich im Januar 2026 vom Entebbe Airport abgeholt wurde und durch Kampala fuhr, war der erste Eindruck der Stadt in Uganda ueberwaeltigend: dichte Fahrzeugschlangen, Strassenhaendler, Matatus die sich durch den Verkehr schlaengelten, Boda-Bodas ueberall. Was ich dabei noch nicht wusste: Nur 80 Kilometer oestlich dieser pulsierenden Hauptstadt liegt einer der geografisch bedeutsamsten Orte Afrikas -- Jinja, die Stadt am Ursprung des Nils.',
+          'Der Nil ist der laengste oder zweitlaengste Fluss der Erde -- je nach Messverfahren und Quelldefinition. Die Frage "durch welche Laender fliesst der Nil" fuehrt zunaechst immer nach Uganda. Denn hier, am Nordostufer des Viktoriasees, tritt das Wasser aus dem groessten tropischen See der Welt aus und beginnt seine Reise von rund 6.000 Kilometern bis zum Mittelmeer. Dieser Punkt liegt in der Stadt Jinja, einer ugandischen Industriestadt die heute auch als Abenteuer-Hauptstadt Ugandas bekannt ist -- wegen des Wildwasser-Raftings auf den jungen Stromschnellen des Victoria-Nils direkt nach seinem Austritt aus dem See.',
+          'Den Ausfluss des Nils am Viktoriasee beschrieb der britische Forschungsreisende John Hanning Speke 1862 als erster Europaeer -- in einer Zeit, als die Frage nach dem Nil-Ursprung das geografische Grossprojekt Europas war. Speke nannte den Punkt Ripon Falls. Das urspruengliche Wasserfall-Gelaende verschwand 1954 unter dem aufgestauten Wasser des Owen Falls Dam (heute Nalubaale Dam), der Jinja zur Energiestadt machte. Die Nilquelle als solche ist heute ein markierter Aussichtspunkt am Ufer, wenige Kilometer vom Stadtzentrum.',
+          'Jinja ist eine Stadt in Uganda mit rund 100.000 Einwohnern und besonderem touristischen Charakter: Es gibt kaum eine andere ugandische Stadt, die sich so klar auf den Fluss ausrichtet. Die Nil-Rafting-Touren starteten hier Mitte der 1990er-Jahre und machten Jinja zu einem internationalen Backpacker-Ziel. Bungee-Jumping, Kajak, Stand-Up-Paddling und Bootsfahrten auf dem fruehen Nil erganzen das Angebot. Wer einen Tagesausflug aus Kampala plant, findet in Jinja den direktesten Zugang zum Nil -- und zur Antwort auf die Frage, wo dieser Fluss beginnt.',
+        ],
+      },
+      {
+        id: 'victoria-nil-uganda-murchison',
+        title: 'Der Victoria-Nil durch Uganda: Von Jinja bis Murchison Falls',
+        content: [
+          'Vom Austritt am Viktoriasee fliesst der Nil als Victoria-Nil nach Nordwesten durch Uganda -- eine Strecke von rund 500 Kilometern durch verschiedene Landschaften. Diese ugandische Phase des Nils ist fuer Reisende die attraktivste des gesamten Flussverlaufs, weil sie Tierwelt, Wasserkraft und Wildnis auf engem Raum vereint.',
+          'Nach Jinja und den ersten Stromschnellen wird der Fluss ruhiger, durchquert den Kyoga-See im Zentrum Ugandas und nimmt dann Kurs auf den Nordwesten. Im Murchison Falls National Park, dem groessten Nationalpark Ugandas mit 3.840 Quadratkilometern, quetscht sich der gesamte Nil durch eine Schlucht von unter acht Metern Breite -- die Murchison Falls, eine der kraeftigsten Wasserfalldurchstroemungen der Erde. Den Park habe ich im Oktober 2024 besucht und die Bootsfahrt auf dem Victoria-Nil war das Eindruecklichste: Nilkrokodile am Sandufer bei GPS 2.2771 Grad Nord, ein Elefant der am Nilufer trank bei GPS 2.2701 Grad Nord, und die Geraeusche des Falls lange bevor man sie sieht. [ZITAT: Bootsguide ueber das Geraeusch der Murchison Falls von Weitem -- beim naechsten Besuch erfragen.]',
+          'Nach den Faellen fliesst der Albert-Nil -- so heisst der Fluss ab der Murchison-Region -- in den Albertsee, der sich entlang der Grenze zwischen Uganda und der Demokratischen Republik Kongo erstreckt. Am Nordende des Albertsees verlaesst der Nil Uganda und tritt in den Suedsudan ein. Diese ugandische Nilstrecke ist ein untrennbarer Teil der Safari-Geografie des Landes: Der Nil gibt dem Park die Struktur, das Wasser zieht die Tiere an und macht die Bootsfahrten moeglich, die zu Ugandas besten Wildtiererlebnissen gehoeren.',
+        ],
+      },
+      {
+        id: 'suedsudan-sudan-nil-verlauf',
+        title: 'Suedsudan und Sudan: Der Nil durch das Sudd und nach Khartum',
+        content: [
+          'Beim Eintritt in den Suedsudan -- dem juengsten Staat der Welt, der erst 2011 unabhaengig wurde -- heisst der Nil Bahr el Jebel (Bergfluss) oder Mountain Nile. Er durchquert das Sudd, eines der groessten Suempfe und Feuchtgebiete der Erde. Das Sudd erstreckt sich ueber eine Flaeche die je nach Saison zwischen 30.000 und 130.000 Quadratkilometern schwankt -- ein riesiges, flaches Becken aus Papyrus-Dickicht, Schwimminseln und verzweigten Wasserlaeufen, in dem der Fluss einen grossen Teil seines Wassers durch Verdunstung verliert.',
+          'Das Sudd ist oekologisch bedeutsam und zugleich ein ernsthaftes Hindernis fuer Schifffahrt und Transport. Die suedsulanesische Hauptstadt Juba liegt am oberen Nil -- eine Stadt die in den letzten Jahren nach dem Buergerkrieg langsam wieder aufgebaut wird. Fuer Touristen ist der Suedsudan derzeit kein sicheres Reiseziel. [RECHERCHE NOETIG: aktuelle Reisehinweise des Auswaertigen Amts fuer Suedsudan vor geplanter Reise pruefen.]',
+          'Aus dem Sudd heraus fliesst der Weisse Nil weiter nordwaerts durch Sudan. Bei Khartum, der sudanesischen Hauptstadt, passiert der wohl bedeutsamste hydrologische Moment des gesamten Flussverlaufs: die Vereinigung von Weissem Nil und Blauem Nil. Der Blaue Nil kommt aus dem Tana-See in den aethiopischen Hochlagen und bringt einen Grossteil der Wassermenge und fast das gesamte Schwebstoff-Sediment mit, das den Nil braun faerbt und jahrhundertelang die Ueberschwemmungen und damit die Fruchtbarkeit des Nildeltas in Aegypten gespeist hat.',
+          'Ab Khartum heisst der kombinierte Strom schlicht "Nil". Er fliesst von hier weitere rund 3.000 Kilometer durch die suedanische und aegyptische Sahara -- eine Landschaft, in der er das einzige Wasser ist. Die Niloase: ein gruener Streifen durch eine der trockensten Regionen der Erde.',
+        ],
+      },
+      {
+        id: 'aegypten-nildelta-mittelmeer',
+        title: 'Aegypten: Der Nil als Lebensader von Assuan bis zum Mittelmeer',
+        content: [
+          'In Aegypten ist der Nil keine geografische Kuriositat -- er ist der Grund, warum diese Zivilisation existiert. Ohne den Nil gabe es kein Aegypten, keine Pharaonen, keine Pyramiden. Der Fluss tritt bei Assuan in aegyptisches Staatsgebiet ein, wo der Assuan-Hochdamm seit 1970 den Wasserstand reguliert und den Nassersee gebildet hat -- einen der groessten Stauseen der Welt, der sich bis weit in den Sudan erstreckt.',
+          'Von Assuan fliesst der Nil durch die aegyptische Wueste nordwaerts: durch Luxor, wo Tempel und Graeberanlagen der Pharaonen unmittelbar am Nilufer stehen; durch Kairo, die Millionenmetropole an der Nilgabelung; und schliesslich durch das Nildelta, wo sich der Fluss in zwei Hauptarme teilt und bei Alexandria und Rashid ins Mittelmeer muendet. Das Nildelta ist eines der fruchtbarsten landwirtschaftlichen Gebiete Afrikas und beherbergt einen Grossteil der aegyptischen Bevoelkerung.',
+          'Der Nil ist damit ein Fluss der Extreme: Er beginnt im tropischen Regenwald Ugandas, durchquert die Suempfe des Suedsudan, vereint sich im Sudan mit dem Blauen Nil und schliesst mit einer jahrtausendealten Zivilisationsgeschichte in Aegypten ab. Elf Laender teilen das Nilbecken -- mit unterschiedlichen Wasseranspruechen und einer gemeinsamen Ressource, deren Verteilung politisch seit Jahrzehnten umstritten ist.',
+        ],
+      },
+      {
+        id: 'kampala-uganda-reise-nil',
+        title: 'Kampala und die Nilroute: Uganda als Startpunkt fuer Reisende',
+        content: [
+          'Wer den Nil als Reiseziel ernst nimmt, beginnt in Uganda -- und das bedeutet fast immer: in Kampala. Die Hauptstadt Ugandas ist der naheliegende Ankunftspunkt (Entebbe International Airport liegt 40 Kilometer suedlich, direkt am Viktoriasee) und die logistische Basis fuer alle Nil-Erlebnisse im Land. Bei meiner Ankunft im Januar 2026 fuhr ich direkt von Entebbe durch Kampala zur Unterkunft im Suedwesten. Der erste Eindruck war unvergesslich: dichter Verkehr, Boda-Bodas zwischen den Fahrzeugen, belebte Strassenraender mit Haendlern und kleinen Geschaeften, der Geruch von gegrilltem Fleisch vom Strassenrand. Eine Stadt in Uganda, die nie zur Ruhe kommt. [Foto: Strassenverkehr und Marktleben in Kampala, GPS 0.2833 N, 32.4561 O, Januar 2026. Foto: Mark Suer.]',
+          'Kampala erzeugt laut dem Kampala Capital City Strategic Plan 2020/21-2024/25 rund 65 Prozent des nationalen BIP Ugandas -- ein Wert der die wirtschaftliche Konzentration in der Hauptstadt verdeutlicht. Die Kampala Capital City Authority (KCCA) plant bis zum Haushaltsjahr 2025/26 mindestens 70.000 Touristen in Kampala-Tourismuszentren zu begruessen, unterstutzt durch das Kampala Tourism Improvement Project (KTIP) mit einem Budget von 15 Milliarden Uganda-Schilling.',
+          'Auf dem Weg von Kampala nach Norden -- in Richtung Murchison Falls oder nach Jinja im Osten -- passiert man Orte die das alltaegliche Uganda zeigen. Auf dem Weg nach Murchison Falls im Oktober 2024 fuhren wir durch Luwerro, einen kleinen Ort an der Kampala Road: rote Markisen, handbemalte Schilder, Maenner und Frauen an improvisierten Staenden. [Foto: Marktplatz in Luwerro an der Kampala Road, GPS 0.8488 N, 32.4885 O, Oktober 2024. Foto: Mark Suer.] Diese Orte -- keine Touristenziele im klassischen Sinn -- sind ein ehrlicheres Bild der Staedte und Doerfer in Uganda als jeder Souvenirladen.',
+          'Fuer Reisende ergeben sich aus Uganda als Nilland zwei konkrete Erlebnismoeglichkeiten: Erstens Jinja -- Tagesausflug aus Kampala, Nil-Rafting auf dem fruehen Victoria-Nil, Besuch des markierten Quellortes. Zweitens Murchison Falls -- ein bis zwei Uebernachtungen noerlich von Kampala, Bootsfahrt auf dem Victoria-Nil mit Krokodilen und trinkenden Elefanten am Ufer, Game Drive bei Sonnenaufgang. Beides zusammen ergibt ein Bild des Nils, das kein anderes Land der Erde liefern kann: den Fluss in seinen jungen, wild-gruenen, tierreichen Kilometern, lange bevor er zur geschichtsbeladenen Lebensader Aegyptens wird.',
+          '[ZITAT: Einheimischer Guide oder Fahrer ueber die Bedeutung des Nils fuer Uganda -- beim naechsten Besuch erfragen.]',
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: 'Durch welche Laender fliesst der Nil?',
+        a: 'Der Nil fliesst durch elf Laender im Nilbecken -- die wichtigsten Durchflusslaender des Hauptstroms sind Uganda (Quelle des Weissen Nils bei Jinja), Suedsudan, Sudan und Aegypten. Der Blaue Nil kommt aus Aethiopien und vereinigt sich in Khartum, Sudan, mit dem Weissen Nil. Weitere Laender im Nilbecken, die tributaere Zuflueese beitragen: Tansania, Kenia, Ruanda, Burundi, DR Kongo und Eritrea.',
+      },
+      {
+        q: 'Wo liegt die Quelle des Nils?',
+        a: 'Die Quelle des Weissen Nils -- des Hauptarms des Nils -- liegt in Jinja, Uganda, am Nordostufer des Viktoriasees. Hier tritt das Wasser des Sees als Victoria-Nil aus. Der britische Forschungsreisende John Hanning Speke dokumentierte diesen Punkt 1862 als erster Europaeer. Der Blaue Nil hat seine Quelle im Tana-See in Aethiopien.',
+      },
+      {
+        q: 'Welche Stadt in Uganda liegt am Nil?',
+        a: 'Jinja ist die bekannteste Stadt in Uganda am Nil -- am Austritt des Victoria-Nils aus dem Viktoriasee. Jinja ist heute bekannt fuer Nil-Rafting und Wildwasser-Abenteuer. Der Nil fliesst auch durch den Murchison Falls National Park im Nordwesten Ugandas. Kampala, die Hauptstadt Ugandas, liegt rund 80 Kilometer westlich von Jinja.',
+      },
+      {
+        q: 'Wie kommt man von Kampala zu den Nil-Erlebnissen in Uganda?',
+        a: 'Von Kampala nach Jinja sind es rund 80 Kilometer ostwarts -- etwa 1,5 bis 2 Stunden Fahrt je nach Verkehr. Nil-Rafting und Bootsfahrten auf dem fruehen Victoria-Nil starten direkt in Jinja. Zum Murchison Falls National Park (Bootsfahrt auf dem Victoria-Nil mit Wildtieren) sind es rund 300 Kilometer nordwestlich von Kampala -- fuenf bis sechs Stunden mit dem Fahrzeug. Direktfluege von Entebbe nach Pakuba oder Chobe im Park sind moeglich und verkuerzen die Anreise auf 1,5 Stunden.',
+      },
+      {
+        q: 'Was kann man am Nil in Uganda erleben?',
+        a: 'In Uganda bietet der Nil zwei sehr unterschiedliche Erlebnisse: In Jinja (fruher Victoria-Nil, kurz nach der Quelle) gibt es Wildwasser-Rafting auf Klasse-3-bis-5-Stromschnellen, Kajak, Stand-Up-Paddling und Bungee-Jumping. Im Murchison Falls National Park (spaeterer Victoria-Nil, rund 300 km noerdlich von Kampala) sind Bootsfahrten mit Nilkrokodilen, Flusspferden und Elefanten am Ufer moeglich. Ich habe die Bootsfahrt im Oktober 2024 selbst erlebt -- GPS-verifiziert, mit persoenlichen Fotos.',
+      },
+    ],
+    related: [
+      { href: '/der-nil-in-uganda', title: 'Der Nil in Uganda', desc: 'Vollstaendiger Guide zum Nil innerhalb Ugandas -- Quelle, Verlauf, Erlebnisse.' },
+      { href: '/nordwesten-ugandas-murchison-falls', title: 'Murchison Falls: Safari & Bootsfahrt', desc: 'Bootsfahrt auf dem Victoria-Nil mit GPS-verifizierten Fotos aus Oktober 2024.' },
+      { href: '/hauptstadt-ugandas', title: 'Kampala: Hauptstadt Ugandas', desc: 'Kampala als Startpunkt fuer Nil-Erlebnisse und alle Uganda-Reisen.' },
+      { href: '/jinja', title: 'Jinja: Stadt an der Nilquelle', desc: 'Jinja als Abenteuer-Hauptstadt und Ausgangspunkt fuer Nil-Rafting.' },
+      { href: '/staedte-in-uganda', title: 'Staedte in Uganda', desc: 'Kampala, Jinja, Fort Portal, Gulu -- alle wichtigen Staedte Ugandas im Ueberblick.' },
+    ],
+    quellen: [
+      'Uganda Wildlife Authority (UWA): Murchison Falls National Park Visitor Information',
+      'Kampala Capital City Strategic Plan 2020/21-2024/25 (KCCA)',
+      'KCCA_STRATEGIC_PLAN_2025: Kampala Tourism Improvement Project (KTIP)',
+      'Eigene Vor-Ort-Erfahrungen: Oktober 2024, Januar 2026 (GPS-verifiziert)',
+    ],
+    isTouristDestination: false,
+  },
+
   'bwindi-gorilla-reisefuehrer': {
     slug: '/bwindi-gorilla-reisefuehrer',
     title: 'Bwindi Gorilla-Trekking: Komplettguide',

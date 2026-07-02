@@ -207,6 +207,7 @@ const ROUTES = [
   '/lake-bunyonyi-nachhaltiges-reisen',
   '/duerrerisiken-nahrungssicherheit-uganda',
   '/nordwesten-ugandas-murchison-falls',
+  '/durch-laender-fliesst-nil',
   '/gorilla-permit-kosten',
   '/kigali-nach-kampala',
   '/bwindi-gorilla-reisefuehrer',
