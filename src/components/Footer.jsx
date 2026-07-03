@@ -140,9 +140,11 @@ export default function Footer() {
             <span className="font-display text-lg font-bold tracking-tight text-white/70">Reiseziel</span>
             <span className="font-display text-lg font-light italic tracking-tight text-gold-400/60">Uganda</span>
           </Link>
-          <div className="flex items-center gap-4 text-xs text-white/30">
-            <span>Ein Projekt von Hope on the Road gGmbH</span>
-            <span>|</span>
+          <div className="flex flex-wrap items-center gap-4 text-xs text-white/30">
+            <a href="https://www.hope-on-the-road.de" target="_blank" rel="noopener noreferrer" className="hover:text-white/50 transition-colors">Hope on the Road</a>
+            <span className="text-white/15">|</span>
+            <a href="https://www.bwindi.de" target="_blank" rel="noopener noreferrer" className="hover:text-white/50 transition-colors">Bwindi-Nationalpark</a>
+            <span className="text-white/15">|</span>
             <Link to="/impressum" className="hover:text-white/50 transition-colors">Impressum</Link>
             <span className="text-white/15">|</span>
             <Link to="/ueber-uns" className="hover:text-white/50 transition-colors">Ueber uns</Link>
