@@ -209,6 +209,7 @@ const ROUTES = [
   '/nordwesten-ugandas-murchison-falls',
   '/durch-laender-fliesst-nil',
   '/bildungsinfrastruktur-kampala',
+  '/slum-verbesserung-kampala',
   '/gorilla-permit-kosten',
   '/kigali-nach-kampala',
   '/bwindi-gorilla-reisefuehrer',
