@@ -208,6 +208,7 @@ const ROUTES = [
   '/duerrerisiken-nahrungssicherheit-uganda',
   '/nordwesten-ugandas-murchison-falls',
   '/durch-laender-fliesst-nil',
+  '/bildungsinfrastruktur-kampala',
   '/gorilla-permit-kosten',
   '/kigali-nach-kampala',
   '/bwindi-gorilla-reisefuehrer',
