@@ -12018,6 +12018,125 @@ export const standalonePages = {
     ],
   },
 
+  'wasser-sanitaer-hygiene-kampala': {
+    slug: '/wasser-sanitaer-hygiene-kampala',
+    title: 'Wasser, Sanitaer und Hygiene in Kampala',
+    h1: 'Wasser, Sanitaer und Hygiene in Kampala: WASH-Infrastruktur zwischen Planung und Alltag',
+    subtitle: 'Fragmentierte Zustaendigkeiten, informelle Siedlungen und der lange Weg zu sicherem Wasser fuer alle -- Kampalas WASH-Herausforderungen und was die Stadt bis 2030 plant',
+    metaDescription: 'Kein fliessendes Wasser, keine Toilette: Wie Kampalas WASH-Versorgung funktioniert, wo sie versagt und was KCCA bis 2030 plant. Vor-Ort-Bericht aus Uganda.',
+    breadcrumbs: [
+      { label: 'Kampala', href: '/regionen/kampala' },
+      { label: 'Wasser und Sanitaer' },
+    ],
+    publishedTime: '2026-07-04',
+    modifiedTime: '2026-07-04',
+    photoFilter: 'kampala lehmhaus buhoma kinder',
+    kurzantwort: 'Die Wasserversorgung, Sanitaerinfrastruktur und Hygiene in Kampala -- zusammengefasst als WASH -- sind auf mehrere Behoerden und Organisationen aufgeteilt, was eine koordinierte Versorgung erschwert. In informellen Siedlungen fehlen sichere Wasserquellen und funktionsfaehige Toiletten oft vollstaendig. Die Kampala Capital City Authority (KCCA) adressiert das Problem mit jaehrlichen Sanitaer-Budgets und einem Koordinationsrahmen bis 2030, doch der Nachholbedarf ist erheblich. Reisende aus Europa sollten Leitungswasser grundsaetzlich nicht trinken -- abgefuelltes Wasser ist in Kampala und in den meisten Tourismusregionen problemlos erhaeltlich.',
+    fakten: [
+      { label: 'Flaeche Kampala City', value: '194,3 Quadratkilometer' },
+      { label: 'Einwohner (Kernstadt)', value: 'rund 1,65 Millionen' },
+      { label: 'Metropolitangebiet', value: 'Kampala, Wakiso und Mukono' },
+      { label: 'Stadtbezirke (Divisionen)', value: '5: Central, Kawempe, Lubaga, Makindye, Nakawa' },
+      { label: 'Anerkannte informelle Siedlungen', value: '31 (Konzentration in Kawempe Division)' },
+      { label: 'Regenzeiten', value: 'April-Mai und Oktober-November (erhoehte Ueberschwemmungsgefahr)' },
+      { label: 'Zustaendige WASH-Behoerden', value: 'NWSC, KCCA, Ministry of Health, Ministry of Education (fragmentiert)' },
+      { label: 'KCCA Sanitaer-Jahresbudget', value: '3,5 Milliarden Uganda-Schillinge (Strategieplan 2025-2030)' },
+    ],
+    sections: [
+      {
+        id: 'lehmhaus-realitaet',
+        title: 'Ein Haus aus Lehm und Ziegeln: Was fehlt, wenn nichts da ist',
+        content: [
+          'Im Oktober 2024 blieb mein Blick an einem Haus haengen, das ich an einem Nachmittag in einer laendlichen Region zwischen Kampala und Butiru fotografierte. Ein typisches kleines Gebaeude aus handgefertigten Lehmziegeln, mit Lehm verputzt, ein Wellblechdach darueber. An der Hauswand lehnten Stapel unverputzter Ziegel -- nicht als Lager fuer den naechsten Anbau, sondern zum Verkauf. Das sieht man hier fast ueberall: Die Ziegelproduktion ist ein Nebeneinkommen, die gestapelten Bricks ein stilles Angebot an die Nachbarschaft. Der Putz an der Fassade war ausgetrocknet, an mehreren Stellen zeigte sich darunter der rohe Ziegel. Nicht Verwahrlosung -- nur das Ergebnis von Sonne, Trockenzeit und dem Fehlen von Zeit, Geld und Material fuer Instandhaltung.',
+          'Was dieses Haus nicht hatte, war mindestens genauso aufschlussreich wie was es hatte: kein fliessendes Wasser, keine Toilette, keinen Stromanschluss. Drei Dinge, die in Deutschland als selbstverstaendlich gelten, sind hier Luxus -- oder gar nicht vorhanden. Das gilt nicht nur fuer laendliche Regionen. Dieselbe Wirklichkeit findet sich in Teilen der Hauptstadt Kampala, in den dicht besiedelten informellen Siedlungen am Stadtrand, in Vierteln die offiziell zur Millionenstadt gehoeren aber ausserhalb jedes Versorgungsnetzes liegen.',
+          'Diese Beobachtung ist kein Einzelfall und kein Zufall. Sie ist Ausdruck einer strukturellen Herausforderung, die Stadtplaner, NGOs und ugandische Behoerden seit Jahrzehnten beschaeftigt: der Zugang zu sauberem Wasser, zu funktionsfaehigen Sanitaereinrichtungen und zu grundlegender Hygiene -- kurz WASH, das englische Akronym fuer Water, Sanitation and Hygiene. Kampala ist dabei ein besonders lehrreiches Beispiel, weil nirgendwo in Uganda die Spannung zwischen urbanem Wachstum und unzureichender Infrastruktur so sichtbar ist wie in dieser Stadt.',
+          '[ZITAT: Anwohner oder lokaler Guide ueber den Alltag ohne Wasseranschluss -- beim naechsten Besuch erfragen]',
+        ],
+      },
+      {
+        id: 'fragmentierte-zustaendigkeiten',
+        title: 'Wer ist zustaendig? Das Problem der zersplitterten Verantwortung',
+        content: [
+          'Eine der tiefsten Ursachen fuer Kampalas WASH-Probleme liegt nicht im fehlenden Geld, nicht im fehlenden Willen und auch nicht in mangelndem Fachwissen -- sie liegt im System selbst. Die Versorgung der Stadt mit Wasser, Sanitaerinfrastruktur und Hygieneprogrammen ist auf so viele unterschiedliche Stellen aufgeteilt, dass kein einziger Akteur die Gesamtverantwortung traegt. Das National Water and Sewerage Corporation (NWSC) verantwortet die Hauptwasserleitungen und die Aufbereitung. Die Kampala Capital City Authority (KCCA) ist fuer Stadtplanung, oeffentliche Sanitaereinrichtungen und Drainagesysteme zustaendig. Das Gesundheitsministerium koordiniert Hygieneprogramme. Das Bildungsministerium kuemmert sich um Toiletten an Schulen. Hinzu kommen internationale Entwicklungsorganisationen, NGOs, private Wasserhaendler und kommunale Komitees -- jeder mit einem anderen Budget, einem anderen Mandat und einer anderen Planungslogik.',
+          'Diese Zersplitterung hat reale Konsequenzen. Wenn eine informelle Siedlung keinen Wasseranschluss hat, faellt sie durch das Raster: NWSC verlegt keine Leitungen in Gebiete ohne formale Landtitel, KCCA kann keine Anschluesse veranlassen, die NWSC nicht gebaut hat, und NGO-Programme enden nach Projektlaufzeit. Der Bewohner des Lehmhauses traegt Wasser mit dem Jerrykan vom naechsten Kiosk heim -- ein Kiosk, der seinerseits von einem Privathaendler beliefert wird, der wiederum an einem NWSC-Anschluss abzapft. Das Wasser wird mehrfach umgehandelt, jede Stufe erhoht den Preis, und am Ende zahlt der Aermste am meisten fuer schlechter Qualitaet.',
+          'Die KCCA benennt dieses Problem in ihren strategischen Dokumenten explizit. Ihr Ziel: eine koordinierte Planung aller beteiligten Stellen, ein gemeinsames Datensystem, ein staedtisches Koordinationsforum. Das klingt technokratisch -- aber es ist die Voraussetzung dafuer, dass ein Jerrykan-Transport irgendwann ueberfluessig wird. Dass die Behoerde diese Strukturdebatte fuehrt, anstatt sie zu ignorieren, ist ein gutes Zeichen. Dass die gleichen Probleme in mehreren aufeinanderfolgenden Strategiepapieren beschrieben werden, zeigt wie lange der Weg noch ist.',
+        ],
+      },
+      {
+        id: 'wasserversorgung-kampala',
+        title: 'Wasser in Kampala: Leitungsnetz, Naturquellen und der Handel mit Jerrykans',
+        content: [
+          'Auf dem Weg von Kampala nach Murchison Falls im Oktober 2024 begegnete mir auf einer Landstrasse ein Boda-Boda-Fahrer, dessen Motorrad kaum noch zu sehen war: Fuenf, sechs Jerrykans, uebereinander gestapelt, befestigt mit Schnueren. Er fuhr ohne Helm, mit Sandalen, vollkommen routiniert. Fuer ihn war das kein aussergewoehnlicher Transport -- sondern ein normaler Tag. Wer kein fliessendes Wasser hat, kauft es. Wer es kauft, muss es transportieren. Wer es transportiert, braucht einen Bodaboda. Das ist die Versorgungslogistik grosser Teile Ugandas, sichtbar und selbstverstaendlich, mitten auf der Hauptstrasse.',
+          'Im formellen Netz ist NWSC fuer die Wasserversorgung der Stadt zustaendig. Das Leitungsnetz reicht in weite Teile der gewachsenen Stadtquartiere -- aber nicht in alle. In den informellen Siedlungen Kampalas, von denen 31 offiziell anerkannt sind und die sich vor allem in der Kawempe Division konzentrieren, gibt es keine regulaeren Hausanschluesse. Bewohner greifen auf natuerliche Quellen zurueck: Quellwasser, das oft offen zutagetritt, ungesichert, exponiert gegenueber Abwaessern aus Latrinen und dem Abfluss nach Regenfall. In der Trockenzeit liefern diese Quellen; in der Regenzeit koennen sie zur Gefahrenquelle werden.',
+          'Ein Programm mit dem Namen "Lake Victoria Water and Sanitation for Millions" soll das Versorgungsnetz im Kampala Metropolitan Area systematisch ausbauen. Das Projekt ist langfristig angelegt und soll Teile des Stadtgebiets erstmals an eine regulaere Wasserversorgung anschliessen. Wie schnell der Ausbau fortschreitet, haengt von Finanzierungskontinuitaet, Landrechten und der koordinierten Zusammenarbeit der beteiligten Behoerden ab -- genau jenen Faktoren, die in Kampala traditionell schwierig sind. Im KCCA-Ministerialstatement 2017/18 waren bereits "Pre-Paid Water Taps" -- Prepaid-Wasserentnahmestationen -- als Uebergangsloesung fuer Stadtteile ohne Hauptanschluss aufgefuehrt. Zehn Jahre spaeter sind sie immer noch Teil der Planungssprache, was zeigt, dass formale Vollversorgung weiterhin eine Zielperspektive und keine Realitaet ist.',
+          'Fuer die Gesundheit der Stadtbevoelkerung hat unsicheres Wasser direkte Konsequenzen. Ernaehrungsunsicherheit, Durchfallerkrankungen und Typhus haengen eng mit dem Zugang zu sauberem Trinkwasser zusammen. In einem KCCA-Aktionsplan wird mangelhafter Wasserzugang explizit als einer der Hauptfaktoren fuer mangelhafte Ernaehrung und eingeschraenkte koerperliche Entwicklung bei Kindern genannt -- ein Zusammenhang, der in Europa selten so direkt formuliert werden muss.',
+        ],
+      },
+      {
+        id: 'sanitaer-informelle-siedlungen',
+        title: 'Grubenlatrinen und Hochwasser: Sanitaer in informellen Stadtteilen',
+        content: [
+          'Im Juni 2026 besuchte ich das Waisenhaus in Buhoma -- jenem kleinen Ort am Rand des Bwindi Impenetrable National Park, rund 370 Kilometer suedwestlich von Kampala. Drei Kinder aus der Nachbarschaft standen vor dem Eingangsgebaeude. Sie sahen nicht gut aus: Die Kleidung abgenutzt, die Koerpersprache still und zurueckhaltend. Wir luden sie ein, mit uns zu essen. Es war kein dramatischer Moment -- aber er machte etwas deutlich, das man in Zahlen nicht sieht: Kinder, die regelmaessig hungern, schlafen weniger gut, erkranken haeufiger, entwickeln sich langsamer. Hinter jeder Statistik zu mangelhafter Sanitaerversorgung und unsicherem Wasser stehen solche Gesichter.',
+          'In Kampalas informellen Siedlungen ist die Toilettenfrage eine der akutesten. Der verbreitetste Sanitaertyp ist die Grubenlatrine -- ein einfaches Loch im Boden, abgedeckt, mit einer Umhuellung aus Blech oder Holz. In ebenen, drainagestabilen Lagen funktioniert das als Basisloesung, solange das Grundwasser tief genug liegt. In Kampalas Niederungen, entlang von Drainagekorridoren wie dem JKM-Korridor (Jinja Road, Kibuye, Munyonyo), wird die Latrine in der Regenzeit zum Problem: Wenn der Boden gesaettigt ist und das Wasser steigt, werden Grubenlatrinen ueberschwemmt, werden unnutzbar, und was in ihnen lagert fliesst aus -- in denselben Boden, aus dem nebenan die Naturquelle gespeist wird. Der Zusammenhang ist direkt und unvermeidlich: Ueberflutung und Sanitaerkrise verstaerken sich gegenseitig.',
+          'Cholera ist in Kampala kein historisches Thema. Nach starken Regenereignissen treten Ausbrueche von Cholera und anderen wasserbedingten Erkrankungen auf -- vor allem in Stadtteilen mit schlechter Drainage und dicht besiedelten informellen Siedlungen. Die staedtische Bevoelkerung in diesen Gebieten ist am staerksten betroffen, weil sie auf Wasser aus denselben Quellen angewiesen ist, die durch ueberflutete Latrinen kontaminiert werden. Das ist keine Frage mangelnden Wissens -- die Menschen in diesen Siedlungen wissen, was das Problem ist. Es ist eine Frage fehlender Alternativen.',
+          'Die KCCA unternimmt Schritte. Mobile Sanitaer-Einheiten werden bei Grossveranstaltungen eingesetzt. Toilettenbauprojekte an Schulen, Maerkten und Parks werden ueber das jaehrliche Sanitaer-Budget gefördert. Die Huerden sind bekannt: Landrechtsprobleme, die verhindern, dass auf bestimmten Flaechen dauerhaft gebaut werden kann; fehlende Kanalisation, ohne die Toiletten Gruben bleiben; und das schiere Tempo des Bevoelkerungswachstums, das jeden infrastrukturellen Fortschritt teilweise aufzehrt.',
+        ],
+      },
+      {
+        id: 'kcca-strategie-2030',
+        title: 'Was die KCCA bis 2030 plant: Koordination, Handwaschstationen und systemischer Wandel',
+        content: [
+          'Der Strategieplan der Kampala Capital City Authority fuer die Jahre 2025 bis 2030 behandelt WASH nicht als isoliertes Thema, sondern als Querschnittsaufgabe die mit Ernaehrung, Gesundheit, Schule und Klimaanpassung zusammenhaengt. Das ist konzeptionell richtig -- weil Wasserversorgung und Sanitaer keine technischen Einzelprobleme sind, sondern vernetzte Infrastruktur, die gemeinsam funktioniert oder gemeinsam versagt.',
+          'Konkrete Massnahmen umfassen den Ausbau oeffentlicher Sanitaereinrichtungen an Schnittstellen des oeffentlichen Lebens: Schulen, Gesundheitszentren, Maerkte, Parks. Jaehrlich sind 3,5 Milliarden Uganda-Schillinge fuer Sanitaerinfrastruktur eingeplant -- eine substanzielle Summe, die in einem Land mit begrenztem Steueraufkommen ernstgemeint ist. Handwaschstationen sollen an strategischen Punkten aufgestellt werden, nicht nur als Hygienemassnahme sondern als Teil einer breiteren Kampagne zur Verhaltensaenderung. Schueler, Markthaendler und Buerger sollen Hygienepraktiken erlernen, nicht bloss Einrichtungen vorfinden.',
+          'Parallel dazu strebt die KCCA eine bessere Koordination mit dem Nationalen Wasserministerium, dem Gesundheitsministerium und dem Bildungsministerium an. Ein staedtisches Koordinationsforum soll Doppelarbeit verhindern und eine gemeinsame Datengrundlage schaffen -- der erste Schritt weg von der zersplitterten Behoerdenlandschaft, die das Problem jahrzehntelang vergroessert hat. Ein GIS-gestuetztes Monitoring-Dashboard ist ebenfalls geplant, um Fortschritte bei Sanitaer und Abfallversorgung transparent zu erfassen.',
+          'Klimaanpassung ist ein fester Bestandteil dieser Planung. Kampala hat offiziell eine Klimawandelstrategie -- der "Kampala Climate Change Strategy" genannte Rahmen -- die explizit die Wechselwirkung zwischen haeufigeren Starkregenereignissen und der Vulnerabilitaet informeller Siedlungen benennt. Ueberflutungen werden in Zukunft haeufiger und intensiver werden. Das macht Investitionen in Drainage, in hochwasserresilientere Latrinendesigns und in alternative Wasserquellen nicht zu Luxusmassnahmen, sondern zu Grundversorgung unter veraenderten klimatischen Bedingungen. Die 103 Boxdurchlaesse, die im Strategieplan als Gesamtziel ueber fuenf Jahre veranschlagt sind, sind in diesem Kontext zu verstehen: urbane Klimaanpassung, sichtbar als Betonkanal.',
+          'Was dieser Plan noch nicht loest, ist die Frage nach den Naturquellen. Solange ein erheblicher Teil der informellen Stadtbevoelkerung auf ungesichertes Quellwasser angewiesen ist, bleiben saisonale Cholera-Ausbrueche unvermeidbar. Die Loesung liegt nicht in Verboten, sondern in der Erschliessung alternativer, sicherer Wasserquellen -- durch Netzausbau, durch Quellsanierung oder durch dezentrale Aufbereitungsanlagen. Das erfordert mehr als ein Jahresbudget: Es braucht dauerhafte Investitionen, stabile Partnerschaften mit NWSC und die Bereitschaft, auch in Gebiete ohne formale Landtitel zu investieren.',
+        ],
+      },
+      {
+        id: 'reisende-praktisch',
+        title: 'Was Reisende wissen und sehen sollten',
+        content: [
+          'Waehrend meiner Aufenthalte im Oktober 2024 und im Juni 2026 habe ich die WASH-Situation in Uganda aus verschiedenen Perspektiven erlebt -- nicht als Tourist hinter Hotelglasfenstern, sondern auf Landstrassen, in Doerfern, beim Besuch von Gemeinschaftsprojekten. Die Erfahrung, die das hinterlaesst, ist weder dramatisch noch beruhigend: Es ist einfach real. Infrastruktur ist sichtbar und abwesend zugleich.',
+          'Fuer Reisende aus Europa gelten in Kampala und ueberall in Uganda die gleichen Grundregeln: Leitungswasser nicht trinken, Eiswuerfel in unsicheren Kontexten meiden, rohes Gemuese und geschaeltes Obst mit Vorsicht geniessen. Abgefuelltes Wasser bekannter Marken -- darunter Rwenzori Water und Uganda Breweries Water -- ist in Supermärkten, Kiosken und Tankstellen ueberall erhaeltlich und guenstig. In mittleren und gehobenen Hotels und Lodges ist Trinkwasser selbstverstaendlich bereitgestellt.',
+          'Wer Restaurants oder Garkasuchen auf Maerkten nutzt, setzt auf frisch zubereitete, heisse Speisen -- das Garen eliminiert Keime zuverlaessiger als jede andere Massnahme. Der ugandische Rolex (in Ei gehuelltes Chapati mit Gemuese), frisch vor Augen zubereitet, ist eine der sichereren Strassenspeisen. Der fertige Salat in einer Plastikschuessel am Nachmittag weniger. Das ist keine ugandische Besonderheit, sondern gilt fuer alle Laender mit begrenztem Wasserzugang in der Lebensmittelverarbeitung.',
+          'Der soziale Kontext verdient Aufmerksamkeit. Wenn man in Buhoma drei Kinder sieht, die nicht gut aussehen und leise zurueckhaltend sind, und sie einladet, zusammen zu essen -- dann ist das keine aussergewoehnliche humanitaere Geste. Es ist Alltag. Organisationen wie Hope on the Road arbeiten in Buhoma genau an dieser Schnittstelle: HopeKitchen soll taeglich rund 100 Kindern eine warme Mahlzeit sicherstellen. Eine Kueche, sauberes Wasser, ein Essensplatz -- das sind keine grossen Worte. Das sind Grundbedingungen, die hier nicht selbstverstaendlich sind.',
+          'Wer Uganda reist und durch Kampala faehrt, sieht die Stadt in Transition: Neubauten neben Blechdaechern, asphaltierende Strassenabschnitte neben ungepflasterten Lehmwegen, ein Krankenhaus-Referenzsystem neben informellen Heilerinnen. Das WASH-System spiegelt diese Spannung besonders deutlich. Es ist kein Versagen -- es ist der Stand einer Stadt, die schneller waechst als ihre Infrastruktur. Wer das versteht, sieht Kampala nicht als Problem, sondern als Arbeit im Gang.',
+        ],
+      },
+    ],
+    faq: [
+      {
+        q: 'Kann man in Kampala Leitungswasser trinken?',
+        a: 'Nein. Leitungswasser sollte in Kampala und grundsaetzlich in ganz Uganda nicht getrunken werden. Das gilt auch fuer Wasser aus natuerlichen Quellen in der Stadt. Abgefuelltes Mineralwasser gaengiger Marken ist ueberall erhaeltlich und guenstig -- in Supermärkten, Kiosken und an Tankstellen.',
+      },
+      {
+        q: 'Warum ist die WASH-Versorgung in Kampala so schwierig zu verbessern?',
+        a: 'Hauptursache ist die fragmentierte Zustaendigkeit: Wasserversorgung, Sanitaerinfrastruktur, Schultoiletten und Hygieneprogramme liegen bei verschiedenen Behoerden ohne zentrale Koordination. Dazu kommen schnelles Bevoelkerungswachstum, informelle Siedlungen ohne Landtitel auf denen kein Netz verlegt werden kann, und saisonale Ueberschwemmungen die Latrinen unbrauchbar machen.',
+      },
+      {
+        q: 'Wie versorgen sich Menschen in informellen Stadtteilen mit Wasser?',
+        a: 'Haeufig ueber natuerliche Quellen (Quellwasser), Wasserkioske privater Haendler oder durch Transport mit Jerrykans vom naechsten Leitungsanschluss. Jede dieser Loesungen kostet mehr als ein Hausanschluss -- der Aermste zahlt in der Regel am meisten fuer schlechteres Wasser.',
+      },
+      {
+        q: 'Was ist die groesste Gesundheitsgefahr durch schlechte Sanitaerversorgung in Kampala?',
+        a: 'In der Regenzeit (April-Mai und Oktober-November) werden Grubenlatrinen in Tieflagen ueberflutet. Das kontaminiert nahe gelegene Wasserquellen und fuehrt zu Ausbruechen von Cholera und anderen Durchfallerkrankungen. Am staerksten betroffen sind Bewohner informeller Siedlungen in drainageschwachen Niederungen.',
+      },
+      {
+        q: 'Was tut die KCCA konkret gegen die WASH-Probleme?',
+        a: 'Die Kampala Capital City Authority hat ein jaehrliches Sanitaer-Budget von 3,5 Milliarden Uganda-Schillinge fuer den Bau oeffentlicher Toiletten an Schulen, Maerkten und Parks. Handwaschstationen werden an zentralen Punkten eingerichtet. Ein staedtisches Koordinationsforum soll die zersplitterten Behoerdenzustaendigkeiten buendeln. Das Programm "Lake Victoria Water and Sanitation for Millions" soll das Versorgungsnetz im Kampala-Metropolitangebiet langfristig ausbauen.',
+      },
+    ],
+    internalLinks: [
+      { text: 'Kampala -- Ugandas Hauptstadt', href: '/hauptstadt-ugandas' },
+      { text: 'Sanitaer und Gesundheitsinfrastruktur in Kampala', href: '/sanitation-oeffentliche-gesundheit-kampala' },
+      { text: 'Slum-Upgrading in Kampala', href: '/slum-verbesserung-kampala' },
+      { text: 'Bildungsinfrastruktur in Kampala', href: '/bildungsinfrastruktur-kampala' },
+      { text: 'Gesundheitsversorgung in Uganda', href: '/gesundheitsversorgung-uganda' },
+      { text: 'Hope Kitchen Buhoma', href: '/hopekitchen-buhoma' },
+    ],
+  },
+
   'slum-verbesserung-kampala': {
     id: 'slum-verbesserung-kampala',
     slug: '/slum-verbesserung-kampala',
