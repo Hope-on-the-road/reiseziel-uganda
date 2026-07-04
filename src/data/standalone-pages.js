@@ -12339,4 +12339,118 @@ export const standalonePages = {
       { text: 'Hope Kitchen Buhoma', href: '/hopekitchen-buhoma' },
     ],
   },
+
+  'wash-programme-kampala': {
+    slug: '/wash-programme-kampala',
+    title: 'WASH-Programme in Kampala',
+    h1: 'WASH-Programme in Kampala: Wasserversorgung, Schultoiletten und Hygiene in Zahlen',
+    subtitle: 'Was die konkrete Infrastruktur hinter Kampalas Wasserprogrammen aussagt -- von NWSC-Kennzahlen ueber WASHaLOTs an Schulen bis hin zu oeffentlichen Sanitaereinrichtungen',
+    metaDescription: 'Wie gut ist Kampalas Wasserversorgung wirklich? NWSC-Daten, Schultoiletten-Quoten, WASHaLOTs und 720 Gemeinschaftstoiletten -- Fakten und Programme im Ueberblick.',
+    breadcrumbs: [
+      { label: 'Kampala', href: '/regionen/kampala' },
+      { label: 'WASH-Programme und Infrastruktur' },
+    ],
+    publishedTime: '2026-07-04',
+    modifiedTime: '2026-07-04',
+    photoFilter: 'kampala buhoma kinder gemeinschaft wasser',
+    kurzantwort: 'Das National Water and Sewerage Corporation (NWSC) versorgt Kampalas angebundene Haushalte mit rund 69 bis 70 Litern pro Kopf und Tag -- gut unter dem internationalen Richtwert von 100 Litern. Ausserhalb des formalen Netzes liegen die Werte fuer kommunale Wasserversorgungsanlagen (CUO) bei unter 8 Litern pro Kopf taeglich. Insgesamt verfuegen rund 88 Prozent der Kampala-Haushalte ueber eine Toilette. Die KCCA hat in Partnerschaft mit GIZ 110 sogenannte WASHaLOTs in 43 staatlich geförderten Grundschulen installiert -- kombinierte Wasser-, Sanitaer- und Hygieneanlagen, die Schuelern fliessend Wasser und sanitaere Grundinfrastruktur bringen. Das durchschnittliche Verhaeltnis von Schuelern zu Toilettenplaetzen in Kampala liegt bei 42 zu 1.',
+    fakten: [
+      { label: 'NWSC Pro-Kopf-Versorgung', value: 'ca. 69-70 Liter pro Kopf und Tag (NWSC-Servicegebiete)' },
+      { label: 'CUO-Versorgung ausserhalb des Netzes', value: '7,4 Liter pro Kopf und Tag' },
+      { label: 'NWSC-Serviceabdeckung GKUGA', value: 'ca. 55 Prozent der Gesamtbevoelkerung (2021)' },
+      { label: 'Haushalte mit Toilette', value: '364.635 (ca. 88 Prozent, Stand 2019)' },
+      { label: 'Oeffentliche Sanitaereinrichtungen', value: '720 Gemeinschaftstoiletten, 16 KCCA-Toiletten, 23 Urinale' },
+      { label: 'Schultoiletten-Verhaeltnis', value: 'durchschnittlich 42 Schueler pro Toilettenplatz (33:1 bis 58:1)' },
+      { label: 'WASHaLOTs an Schulen', value: '110 Einheiten in 43 KCCA-Grundschulen (alle 5 Divisionen)' },
+      { label: 'CUO-Wasserkapazitaet gesamt', value: '1.860 m3 pro Tag, tatsaechliche Produktion 1.297 m3' },
+    ],
+    sections: [
+      {
+        id: 'buhoma-einstieg-wasser',
+        title: 'Drei Kinder in Buhoma -- und die Frage hinter dem Bild',
+        content: [
+          'Am fruehen Morgen des 21. Juni 2026 standen drei Kinder aus der Nachbarschaft des Waisenhauses in Buhoma vor uns. Sie waren zurueckhaltend, ein wenig verschuechtert. Die Kleidung zeigte Verschleiss, die Koerpersprache war still. Wir luden sie ein, mit uns zu essen -- und sie kamen. Foto: Mark Suer, GPS-Koordinaten -0.9617 Nord, 29.6109 Ost, 06:32 Uhr morgens. Was man in diesem Bild sieht, ist Unmittelbarkeit: ein Moment, in dem sich die Luecke zwischen Bedarf und Hilfe fuer ein paar Stunden schliesst. Was man nicht sieht: Wie diese Kinder trinken, wo sie sich waschen, was sie am Vorabend gegessen haben.',
+          'Buhoma liegt 370 Kilometer suedwestlich von Kampala, am Rand des Bwindi Impenetrable National Park. Hier gibt es keine Wasserleitung ins Haus, keine oeffentliche Toilette in der Naehe, keinen Stromanschluss. Das ist der laendliche Normalzustand Ugandas -- und er macht sichtbar, was in der Diskussion ueber Kampalas Wasserversorgung leicht in Vergessenheit geraet: Selbst die Hauptstadt, mit all ihren Programmen, Kooperationen und Strategiepapieren, hat einen weiten Weg vor sich. Denn was Buhoma hat -- naemlich gar kein formales Netz -- hat Kampala zwar partiell, aber bei weitem nicht flaechendeckend.',
+          'Wer die Zahlen hinter Kampalas WASH-Infrastruktur kennt, versteht die Stadt anders. Nicht als dysfunktionales System, das versagt, sondern als wachsende Metropole, die konkrete Massnahmen ergreift -- mit messbaren Ergebnissen, aber auch mit messbaren Luecken.',
+        ],
+      },
+      {
+        id: 'nwsc-versorgungsdaten',
+        title: 'Was NWSC liefert: Zahlen zur Wasserversorgung im Kampala-Grossraum',
+        content: [
+          'Das National Water and Sewerage Corporation (NWSC) ist Ugandas staatlicher Wasserversorger und verantwortlich fuer die Leitungsinfrastruktur im gesamten Greater Kampala Metropolitan Area (GKUGA). In seinem Versorgungsgebiet, das Kampala, Wakiso und Mukono umfasst, erreicht NWSC Kampala Water eine Pro-Kopf-Versorgung von rund 69 bis 70 Litern pro Tag -- ein Wert, der klar unter dem internationalen Richtwert von 100 Litern liegt, aber als Basis fuer angebundene Haushalte funktionsfaehig ist.',
+          'Die Einschraenkung liegt in der Reichweite: Die Serviceabdeckung des NWSC im gesamten GKUGA lag zuletzt bei rund 55 Prozent der Bevoelkerung. Bei einer geschaetzten Gesamtbevoelkerung im NWSC-Gebiet von ueber 4,7 Millionen Menschen bedeutet das, dass etwa 2,6 Millionen Menschen tatsaechlich versorgt werden -- und der Rest andere Quellen nutzen muss. Eine zweite Tatsache verstaerkt das Bild: Waehrend das Stadtzentrum von Kampala rund um die Uhr mit Wasser beliefert wird, schwankt die Versorgung in den Aussenbereichen zwischen null und zwoelf Stunden pro Tag. Ein Haushalt am Stadtrand, formell ans Netz angebunden, kann nicht damit rechnen, zu jeder Tageszeit Wasser zu bekommen.',
+          'Ausserhalb des NWSC-Netzes existieren sogenannte CUO-Wasserversorgungsanlagen -- Community Utility Organizations, also kleiner dimensionierte Systeme, die von lokalen Gemeinschaften oder kleinen Betreibern verwaltet werden. Im GKUGA gibt es acht solcher Anlagen mit einer Gesamtkapazitaet von 1.860 Kubikmetern pro Tag. Tatsaechlich produziert werden davon im Schnitt 1.297 Kubikmeter -- also rund 70 Prozent der Kapazitaet. In den CUO-Versorgungsgebieten, die zusammen rund 400.000 Menschen abdecken, liegt die Pro-Kopf-Versorgung bei nur 7,4 Litern pro Tag. Das ist nicht einmal ein Zehntel dessen, was NWSC liefert -- und weniger als ein Dreizehntel des internationalen Richtwerts. Fuer Menschen in diesen Gebieten bedeutet das: Wasser ist kostbar, rationiert und oft unzureichend fuer Hygienezwecke.',
+          '[ZITAT: Bewohner einer Siedlung am Stadtrand ueber die taegliche Wasserverfuegbarkeit und wie er oder sie damit umgeht -- beim naechsten Besuch erfragen]',
+        ],
+      },
+      {
+        id: 'toiletten-infrastruktur',
+        title: 'Toiletten in Kampala: 720 Gemeinschaftstoiletten, 16 oeffentliche KCCA-Anlagen',
+        content: [
+          'Wasser ist die eine Seite der WASH-Gleichung, Sanitaerinfrastruktur die andere. In Kampala ergibt sich ein differenziertes Bild. Nach Daten aus 2019 verfuegen rund 88 Prozent der Haushalte -- absolut rund 364.600 -- ueber eine Toilette und entsorgen Festmuell ordnungsgemaess. Das klingt hoch; aber es bedeutet auch, dass rund 50.000 Haushalte ohne eigene Toilette auskommen muessen. Und es sagt nichts darueber aus, welche Art von Toilette. Verbesserte Sanitaeranlagen -- Spuelklosett, VIP-Latrine, abgedeckte Grubenlatrine mit Bodenplatte, Komposttoilette ohne Gemeinschaftsnutzung -- sind eine Minderheit. Unverbesserte Latrinen und geteilte Einrichtungen ueberwiegen in einkommensschwachen Stadtteilen.',
+          'Fuer den oeffentlichen Raum verwaltet die KCCA 16 Toilettenanlagen direkt und 23 oeffentliche Urinale. Hinzu kommen 720 gemeinschaftlich genutzte Toiletten -- also Einrichtungen, die von mehreren Haushalten geteilt werden, oft in dicht besiedelten informellen Siedlungen. Diese 759 Einrichtungen zusammen sind die sanitaere Grundlage fuer eine Stadtbevoelkerung von 1,65 Millionen. Das ergibt, rein rechnerisch, eine sehr duenne Abdeckung -- insbesondere an belebten Knotenpunkten wie Maerkten, Busstationen und laengeren Hauptstrassen.',
+          'Ein Blick auf einzelne Divisionen zeigt die Ungleichverteilung. In der Central Division, dem Stadtkern, ist die Ausgangslage am guenstigsten: Mehr Haushalte, mehr oeffentliche Einrichtungen, kuerzere Wege zu Sanitaerinfrastruktur. In Kawempe und Makindye, den am dichtesten besiedelten und teils informell gewachsenen Divisionen, sind Toilettenversorgung und Wasserzugang am schwaechsten. Das spiegelt ein allgemeines Muster: Oeffentliche Infrastruktur folgt Bevoelkerungsdichte oft mit Verspaetung -- in Kampala wie in vielen anderen wachsenden Staedten.',
+        ],
+      },
+      {
+        id: 'washalots-schulen',
+        title: 'WASHaLOTs: Hygieneprogramm direkt in 43 Kampala-Grundschulen',
+        content: [
+          'Einer der konkretesten und am besten dokumentierten WASH-Fortschritte in Kampala betrifft Grundschulen. In Partnerschaft mit GIZ -- ueber das Programm "Sanitation for Millions" -- hat die KCCA insgesamt 110 sogenannte WASHaLOTs in 43 staatlich geförderten Grundschulen installiert. Das Akronym steht fuer kombinierte Wasser-, Sanitaer- und Hygieneeinheiten: fliessendes Wasser am Schulgelaende, Handwaschstationen und funktionsfaehige Toiletten in einem integrierten Paket. Die Verteilung deckt alle fuenf Divisionen ab: Central 9 Schulen, Makindye 8, Lubaga 10, Nakawa 7, Kawempe 9.',
+          'Der Hintergrund macht diese Massnahme besonders relevant. Das durchschnittliche Schultoilettenverhaeltnis in Kampala liegt bei 42 Schuelern pro Toilettenplatz -- mit einer Spanne von 33 zu 1 in den guenstigsten Divisionen bis 58 zu 1 in den am schlechtesten versorgten. WHO und UNICEF empfehlen fuer Schulen maximal 25 Schuelerinnen und Schueler pro Toilette, in der Praxis noch niedrigere Richtwerte. Ein Verhaeltnis von 42 zu 1 bedeutet in der Praxis Warteschlangen, Hygieneschwierigkeiten und in vielen Faellen Verzicht -- mit direkten Konsequenzen fuer Gesundheit und Schulbesuch, besonders bei Maedchen in der Pubertaet.',
+          'Die WASHaLOTs setzen an diesem Punkt an: nicht nur mit einer Latrine, sondern mit Handwaschstation und Wasser in einem Paket. Das ist methodisch korrekt, weil die Wirksamkeit von Toiletten fuer die Hygienepraxis stark davon abhaengt, ob danach Haende gewaschen werden koennen. Schulen ohne Wasseranschluss und ohne Handwaschstation haben bedingte Hygienewirkung, selbst wenn neue Toiletten gebaut werden. Die Kombination ist der entscheidende Schritt. Zusaetzlich wurden im Rahmen der GIZ-Partnerschaft wassergespeiste Toiletten, Wasseraufbereitungsbehaelter und Handwaschstationen auch in religioesen Einrichtungen und gemeinnuetzigen Gesundheitszentren (PNFP) installiert -- also genau dort, wo viele Kampala-Bewohner taeglich Zeit verbringen.',
+          'Diese Programme zeigen, wie WASH-Intervention systematisch funktionieren kann: Ein Partner liefert Technik und Know-how (GIZ), ein anderer Koordination und Flaeche (KCCA), und die Wirkung faellt direkt bei denjenigen an, die sie am dringendsten brauchen -- Schulkinder und Patienten in oeffentlichen Einrichtungen.',
+        ],
+      },
+      {
+        id: 'stadtadresse-kontext',
+        title: 'Stadtadresse und Infrastrukturplanung: Das Kampala Address Project',
+        content: [
+          'Im Hintergrund des gesamten WASH-Systems steht eine Herausforderung, die zunachst nichts mit Wasser zu tun zu haben scheint: die Adressierung. Kampala hat kein funktionierendes Strassennamen- und Hausnummernsystem fuer alle Gebaeude -- was bedeutet, dass grosse Teile des Stadtgebiets in offiziellen Registern gar nicht existieren. Ein Haushalt ohne Adresse kann keine formale Anmeldung fuer einen Wasseranschluss einreichen, keine Rechnung erhalten, kein Vertragsverhältnis mit NWSC eingehen. Das Kampala City Address Project, Teil des groesseren Infrastruktur- und Institutionenprojekts KIIDP II, das durch die Weltbank mitfinanziert wird, hat seit 2015/16 damit begonnen, Gebaeude zu erfassen. Das Ziel: ueber 314.000 Gebaeude im Stadtgebiet zu registrieren und mit Adressen zu versehen.',
+          'Das klingt buerokratisch -- hat aber direkte Folgen fuer WASH-Infrastruktur. Eine adressierte Stadt ist eine Stadt, in der Versorgungsunternehmen planen koennen. NWSC braucht Standortdaten, um Leitungen zu verlegen. Die KCCA braucht Gebaeudedaten, um Bauprogramme zu priorisieren. Und die Bevoelkerung braucht Adressen, um formalen Zugang zu Dienstleistungen zu beantragen. Das Address Project ist also nicht nur Verwaltungsroutine -- es ist eine Grundvoraussetzung fuer die systematische Ausweitung des WASH-Netzes.',
+          'Bei meinen Aufenthalten in Kampala im Oktober 2024 und im Mai 2026 war das sichtbar: Strassenschilder an Hauptachsen, aber kaum oder gar keine in Seitenstrassen und Wohnquartieren. Wer sich in Kampala bewegt, navigiert ueblicherweise ueber Landmarken -- "an der Total-Tankstelle links", "hinter dem Supermarkt rechts". Fuer lokale Ortskundige ist das selbstverstaendlich. Fuer Infrastrukturplanung ist es ein erhebliches Hindernis.',
+        ],
+      },
+      {
+        id: 'reisende-praxis',
+        title: 'Was das fuer Reisende bedeutet -- und warum es den Besuch bereichert',
+        content: [
+          'Wer Uganda bereist, kommt an Kampala nicht vorbei. Die Stadt ist Eingangstor und oft auch Abschlusspunkt jeder Reise. Wer weiss, was er sieht, sieht mehr. Die Wasserlastik auf den Strassen -- Bodaboda-Fahrer mit Jerrykans, Frauen mit Tragegefaessen auf dem Kopf, Wasserverkaeuferstationen an Strassenecken -- ist nicht Folklore, sondern der direkte Ausdruck einer bestehenden Infrastrukturluecke. Das NWSC-Netz deckt etwas mehr als die Haelfte der Bevoelkerung ab; der Rest organisiert Wasser durch diese sichtbaren informellen Kanale.',
+          'Fuer die eigene Reisehygiene gilt: Leitungswasser in Kampala nicht trinken, auch wenn das Hotel einen Wasseranschluss hat. Das hat nichts mit der Qualitaet des NWSC-Netzes am Hauptpunkt zu tun, sondern mit der langen Strecke vom Aufbereitungswerk bis zum Hahn -- und mit Lecks, Druckschwankungen und Materialalterung in den Verteilungsnetzen. Abgefuelltes Wasser ist in Kampala und in jeder Tourismusregion Ugandas problemlos und guenstig erhaeltlich. Mitgebrachte Wasserfilter oder Aufbereitungstabletten sind eine sinnvolle Ergaenzung fuer Aufenthalte abseits der touristischen Hauptrouten.',
+          'Im Juni 2026 war ich in Buhoma mit den Kindern beim Fruehstueck. Zeitgleich war ich Wochen zuvor in Bwindi beim Gorilla-Trekking -- nach einer Stunde Wanderung durch den Regenwald, GPS-verifiziert bei -0.9735, 29.6281, sassen wir unter einem Baum und beobachteten den ersten Gorilla der Familie, wie er oben in den Aesten Blaetter frass. Zwei sehr unterschiedliche Momente, die beide denselben Kontext teilen: Uganda ist ein Land, in dem das Alltaegliche sichtbar ist. Das Wasser das getragen wird, die Kinder die essen, der Gorilla der Blaetter frisst -- all das ist unvermittelt und nah. Wer offen hinschaut, verlaesst Uganda mit einem Bild, das kein Reisefuehrer liefert.',
+        ],
+      },
+    ],
+    faq: [
+      {
+        q: 'Wie viel Wasser bekommt ein Kampala-Haushalt taeglich?',
+        a: 'Im formal angebundenen NWSC-Netz werden rund 69 bis 70 Liter pro Kopf und Tag geliefert. Ausserhalb des Netzes, in kommunalen Wasserversorgungsgebieten (CUO), sinkt dieser Wert auf unter 8 Liter pro Kopf -- ein Bruchteil des internationalen Richtwerts von 100 Litern. Im Stadtzentrum laeuft die Versorgung rund um die Uhr, in Randbereichen kann die Versorgung auf wenige Stunden taglich beschraenkt sein.',
+      },
+      {
+        q: 'Was ist ein WASHaLOT und wie viele gibt es in Kampala?',
+        a: 'Ein WASHaLOT ist eine kombinierte Wasser-, Sanitaer- und Hygieneeinheit -- also Toilette, Handwaschstation und Wasseranschluss in einem Paket. Die KCCA hat in Partnerschaft mit GIZ 110 WASHaLOTs in 43 staatlich geförderten Grundschulen in allen fuenf Kampala-Divisionen installiert.',
+      },
+      {
+        q: 'Wie viele oeffentliche Toiletten gibt es in Kampala?',
+        a: 'Stand 2018/19 gab es 720 gemeinschaftlich genutzte Toiletten, 16 direkt von der KCCA verwaltete oeffentliche Toiletten und 23 oeffentliche Urinale -- zusammen rund 759 Einrichtungen fuer den oeffentlichen und halboeffentlichen Raum.',
+      },
+      {
+        q: 'Wie schlecht ist das Schultoilettenverhaeltnis in Kampala?',
+        a: 'Das Durchschnittsverhaeltnis liegt bei 42 Schuelern pro Toilettenplatz, mit Divisionsunterschieden von 33:1 bis 58:1. WHO und UNICEF empfehlen maximal 25 Schuelerinnen und Schueler pro Toilette. Das WASHaLOT-Programm adressiert diese Luecke gezielt in Grundschulen.',
+      },
+      {
+        q: 'Kann man in Kampala das Leitungswasser trinken?',
+        a: 'Nein. Trotz eines funktionierenden Versorgungsnetzes sollte Leitungswasser nicht getrunken werden. Abgefuelltes Wasser gaengiger Marken ist ueberall in der Stadt guenstig erhaeltlich. Das gilt auch fuer Hotelzimmer mit Wasseranschluss -- die langen Leitungswege und Druckschwankungen im Netz machen eine Filtration oder Behandlung notwendig.',
+      },
+    ],
+    internalLinks: [
+      { text: 'Wasser und Sanitaer in Kampala: Herausforderungen', href: '/wasser-sanitaer-hygiene-kampala' },
+      { text: 'Sanitaer und Gesundheitsinfrastruktur in Kampala', href: '/sanitation-oeffentliche-gesundheit-kampala' },
+      { text: 'Slum-Upgrading in Kampala', href: '/slum-verbesserung-kampala' },
+      { text: 'Bildungsinfrastruktur in Kampala', href: '/bildungsinfrastruktur-kampala' },
+      { text: 'Kampala -- Ugandas Hauptstadt', href: '/hauptstadt-ugandas' },
+      { text: 'Hope Kitchen Buhoma', href: '/hopekitchen-buhoma' },
+    ],
+  },
 }
