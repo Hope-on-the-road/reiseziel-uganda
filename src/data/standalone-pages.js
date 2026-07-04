@@ -12453,4 +12453,119 @@ export const standalonePages = {
       { text: 'Hope Kitchen Buhoma', href: '/hopekitchen-buhoma' },
     ],
   },
+
+  'kampala-infrastruktur-tourismus': {
+    slug: '/kampala-infrastruktur-tourismus',
+    title: 'Kampala: Infrastruktur und Tourismus',
+    h1: 'Kampala im Wandel: KIIDP-Investitionen, neue Infrastruktur und was das fuer Reisende bedeutet',
+    subtitle: 'Wie das weltbankfinanzierte KIIDP-Programm Kampalas Strassen, Adressen und Tourismuspotenzial veraendert -- und was Besucher 2026 konkret davon sehen',
+    metaDescription: 'Kampala investiert: KIIDP, 44 Tourismuszentren, Expressway nach Entebbe -- was das Weltbank-Programm fuer Reisende bringt. Vor-Ort-Bericht 2026.',
+    breadcrumbs: [
+      { label: 'Kampala', href: '/regionen/kampala' },
+      { label: 'Infrastruktur und Tourismus' },
+    ],
+    publishedTime: '2026-07-04',
+    modifiedTime: '2026-07-04',
+    photoFilter: 'kampala buhoma gemeinschaft strasse',
+    kurzantwort: 'Das Kampala Institutional and Infrastructure Development Project (KIIDP) ist ein von der Weltbank-Tochter International Development Association finanziertes Programm zur systematischen Modernisierung Kampalas -- in zwei Phasen, mit Schwerpunkten auf Strasseninfrastruktur, staedtischer Adresserfassung und institutioneller Kapazitaet. Parallel dazu haben KCCA und Uganda Tourism Board eine strategische Partnerschaft geschlossen, um Kampala als eigenstaendiges Tourismusreiseziel zu positionieren: mit 44 geplanten Tourismusinformationszentren bis 2030, jaehrlich 80 ausgebildeten Guides und einer einheitlichen Routenplanung fuer den Grossraum Kampala.',
+    fakten: [
+      { label: 'Programmbezeichnung', value: 'KIIDP -- Kampala Institutional and Infrastructure Development Project (Phasen 1 und 2)' },
+      { label: 'Finanzierungsquelle', value: 'International Development Association (IDA), Weltbank-Gruppe' },
+      { label: 'Kampala City Address Project', value: 'Erfassung von 314.300 Gebaeuden (Start: FY 2015/16, unter KIIDP II)' },
+      { label: 'Tourismusinformationszentren geplant', value: '44 bis FY2029/30 (Baseline: 13)' },
+      { label: 'Guide-Ausbildung pro Jahr', value: '80 Personen (KCCA-Plan 2025-2030)' },
+      { label: 'Tourismus-Einrichtungsinspektionen/Jahr', value: '500 (KCCA-Plan 2025-2030)' },
+      { label: 'Kampala-Entebbe Expressway', value: '51 km, verbessert Zugang zum Flughafen Entebbe (42 km suedlich Kampalas)' },
+      { label: 'UTB-KCCA-Partnerschaft', value: 'Unterzeichnet November 2021, Laufzeit 5 Jahre' },
+    ],
+    sections: [
+      {
+        id: 'buhoma-kampala-brücke',
+        title: 'Von Buhoma durch Kampala: Was eine Stadt in Transformation zeigt',
+        content: [
+          'Am 21. Juni 2026 standen drei Kinder aus der Nachbarschaft des Waisenhauses in Buhoma vor uns -- leicht verschuechtert, Kleidung abgenutzt, zurueckhaltend in ihrer Koerpersprache. Wir luden sie zum Essen ein. GPS-Koordinaten -0.9617 Nord, 29.6109 Ost, Fotograf Mark Suer. Es war ein stiller Moment der direkten Begegnung, wie er in Uganda immer wieder vorkommt -- unvermittelt, ohne Vorbereitung. Und er steht in einem starken Kontrast zu dem, was man Wochen zuvor in Kampala sehen kann: Baukraene, frisch asphaltierte Strassen, neue Laternenmasten, Schilder mit Strassennamen an bisher namenlosen Ecken.',
+          'Kampala und Buhoma sind nicht zwei verschiedene Laender. Sie sind dasselbe Land in zwei sehr unterschiedlichen Entwicklungsgeschwindigkeiten. In Buhoma aendert sich vieles langsam, durch direkte Hilfe, durch Nachbarschaft, durch Projekte wie HopeKitchen. In Kampala aendert sich vieles durch Investitionen und Programme -- weltbankfinanziert, institutionell geplant, in Jahresberichten dokumentiert. Wer Uganda wirklich verstehen will, braucht beide Perspektiven.',
+          'Mein erster Besuch war im Oktober 2024. Im Januar 2026 war ich neun Tage vor Ort, im Mai 2026 zehn weitere Tage, zuletzt im Juni 2026. In jeder Reise sah Kampala ein wenig anders aus -- nicht dramatisch veraendert, aber erkennbar in Bewegung. Die Stadt baut an sich selbst. Das ist kein Marketingversprechen, das ist beobachtbar -- auf der Strecke vom Flughafen Entebbe ins Zentrum, auf dem Weg zwischen den Stadtteilen, in den Projekttafeln an Strassenbaustellen.',
+        ],
+      },
+      {
+        id: 'kiidp-was-ist-das',
+        title: 'Was ist KIIDP? Das Weltbank-Programm hinter Kampalas Transformation',
+        content: [
+          'Hinter einem Grossteil der Infrastrukturinvestitionen in Kampala steht ein Programm, dessen Name kaum jemand kennt, dessen Wirkung aber sichtbar ist: das Kampala Institutional and Infrastructure Development Project, kurz KIIDP. Es wurde in zwei Phasen umgesetzt -- KIIDP I ab 2009, KIIDP II ab etwa 2015 -- und wird von der International Development Association finanziert, dem Kreditarm der Weltbank fuer einkommensschwache Laender. KIIDP ist kein kleines Sonderprojekt. Es ist der institutionelle Rahmen, in dem Kampala seine Verwaltungskapazitaet aufgebaut, Strasseninfrastruktur modernisiert und grundlegende urbane Systeme entwickelt hat.',
+          'Das Herzstuck von KIIDP II, das fuer Reisende am direktesten relevant ist, ist das Kampala City Address Project. Kampala hatte bis weit in die 2010er-Jahre kein funktionierendes stadtweites Strassenbenennungs- und Gebaeudennummerierungssystem. Das klingt nach einem verwaltungstechnischen Detail -- aber es ist die Grundlage fuer fast alles andere: Postzustellung, Notfallversorgung, Versorgungsunternehmen, Steuereintreibung, Baugenehmigungen. Das Projekt hat sich vorgenommen, mehr als 314.000 Gebaeude zu erfassen, zu registrieren und mit Adressen zu versehen. Fuer Reisende hat das eine direkte Konsequenz: Die Navigation in Kampala ist in beleuchtet-erfassten Bereichen deutlich einfacher geworden. In Stadtteilen, die bereits vollstaendig im System sind, gibt es Strassenschilder, Hausnummern und digitale Kartenbasis fuer GPS-Anwendungen.',
+          'Die institutionelle Seite von KIIDP ist weniger sichtbar, aber genauso wichtig. KCCA ist als Verwaltungskoerper erst 2011 gegrndet worden -- als Nachfolger der frueheren Kampala City Council. KIIDP hat seit Anfang an parallel zur institutionellen Entwicklung der KCCA investiert: in Ausbildung, Systeme, Prozesse. Das erklaert, warum die KCCA heute strategische Fuenfjahrplaene herausgibt mit messbaren Zielen, Budgets und Rechenschaftsberichten -- und warum diese Dokumente existieren und offen zugaenglich sind. Transparenz und Planung auf diesem Niveau sind kein Selbstlaeufer in einer jungen Stadtverwaltung.',
+          '[ZITAT: KCCA-Stadtratsmitglied (Councilor) ueber den sichtbaren Wandel im eigenen Bezirk seit KIIDP -- beim naechsten Kampala-Besuch ansprechen]',
+        ],
+      },
+      {
+        id: 'kampala-als-tourismusdestination',
+        title: 'Kampala als Reiseziel: UTB-Partnerschaft, Tourismuszentren und GKMA Circuit',
+        content: [
+          'Uganda wird im Ausland vor allem als Land der Gorillas und Nationalparks wahrgenommen -- Bwindi, Queen Elizabeth, Murchison Falls. Kampala gilt als Durchgangsstation: Flughafen Entebbe, Transfer, weiterreisen. Die Uganda Tourism Board (UTB) und die KCCA arbeiten seit einigen Jahren aktiv daran, dieses Bild zu aendern. Am 30. November 2021 unterzeichneten beide Institutionen eine fuenfjaehrige Partnerschaftsvereinbarung, die Kampala als eigenstaendiges Tourismusreiseziel positionieren soll -- mit eigenen Angeboten, eigenen Routen und eigenem Flair.',
+          'Der strategische Rahmen, der daraus entstanden ist, ist das Kampala Tourism Improvement Project (KTIP), verankert im KCCA-Strategieplan 2025/26 bis 2029/30. Die Ziele sind konkret: 44 Tourismusinformationszentren bis Ende der Planungsperiode -- von derzeit 13. Pro Jahr werden 80 Tourismus-Fachkraefte und Guides ausgebildet. 500 Tourismus-Einrichtungen werden jaehrlich inspiziert, um Qualitaetsstandards zu sichern. Dazu kommen jaehrliche Stadtfeste, Messeauftritte und die Entwicklung digitaler Promotion-Materialien einschliesslich virtueller Touren fuer internationale Interessenten.',
+          'Konkret erfahrbar fuer Reisende wird das durch den GKMA Tourism Circuit -- einen etablierten Besichtigungsrundweg im Grossraum Kampala, der historische, kulturelle und gastronomische Punkte verbindet. Der Circuit ist nicht touristisch ueberloaden, nicht infantilisiert -- er zeigt Kampala als die lebendige, widerspruechliche, arbeitende Stadt, die sie ist. Wer einen Zwischenstop in Kampala einplant, kann inzwischen auf strukturierte Informationsmaterialien und ausgebildete Guides zurueckgreifen, die Kontext bieten statt bloss Sehenswuerdigkeiten abzuarbeiten.',
+          'Die COVID-19-Periode hat das Tourismusziel Uganda ernsthaft beschaedigt. Zwischen Juli 2021 und Juni 2022 war eine verpflichtende PCR-Testung aller Einreisenden am Flughafen Entebbe in Kraft -- eine Massnahme, die international stark kritisiert wurde und viele Reisende abschreckte. Der UTB-Jahresbericht aus dieser Zeit benennt das offen als Reputationsschaden. Die Erholung seitdem war erkennbar -- im Januar 2026 und im Mai 2026 begegnete mir am Entebbe-Flughafen ein deutlich entspannteres Einreiseverfahren. Keine Zusatztests, keine langen Wartezeiten, kein Unterschied zu anderen ostafrikanischen Einstiegspunkten.',
+        ],
+      },
+      {
+        id: 'expressway-erreichbarkeit',
+        title: 'Kampala-Entebbe Expressway: Die neue Verbindung zum Flughafen',
+        content: [
+          'Wer Uganda bereist, landet in Entebbe -- 42 Kilometer suedlich von Kampala am Nordufer des Viktoriasees. Der Weg in die Stadt war lange einer der frustrierendsten Teile jeder Uganda-Reise: Stau, schlechte Strassen, unvorhersehbare Fahrtzeiten je nach Tageszeit. Der Kampala-Entebbe Expressway, eine vierspurige Schnellstrasse ueber 51 Kilometer, hat das veraendert. Die Fahrt vom Flughafen ins Stadtzentrum, die frueher zu Stosszeiten zwei oder mehr Stunden dauern konnte, ist auf der Expressway erheblich berechenbarer geworden.',
+          'Fuer Reisende ist das eine praktische Verbesserung mit unmittelbarem Einfluss auf den Reiseeinstieg. Wer muede von einem Langstreckenflug ankommt, moechte nicht drei Stunden im Stau verbringen, bevor er die erste Nacht in Kampala oder die Weiterfahrt nach Bwindi oder Murchison antreten kann. Eine verlässliche Verbindung zwischen Flughafen und Innenstadt verbessert das Eingangserlebnis fuer ein ganzes Land. Inzwischen bieten Taxiservices und Shuttles auf der Expressway feste Fahrtzeiten an -- keine Garantie, aber ein erster Schritt zu europaeisch gewohnter Verbindlichkeit.',
+          'Im Kontext der KIIDP-Investitionen ist der Expressway ein eigenstaendiges Infrastrukturprojekt, aber eng verflochten mit dem grösseren Stadterneuerungsprogramm. Bessere Erreichbarkeit macht Kampala attraktiver fuer Tagungs- und Konferenztourismus, fuer Kurzbesuche aus der Region, fuer Businessreisende aus Ostafrika. Der Expressway ist nicht nur Strasse -- er ist Infrastruktur fuer Wirtschaftswachstum.',
+        ],
+      },
+      {
+        id: 'beschaeftigung-jugend-tourismus',
+        title: 'Jugend, Beschaeftigung und die Zukunft des Tourismus in Kampala',
+        content: [
+          'Tourismus schafft Arbeitsplaetze -- direkt und indirekt. Das ist eine oft gehoerte Formel, die in Kampalas Fall konkrete institutionelle Entsprechungen hat. Das Employment Promotion Project der KCCA, Teil des Strategieplans 2025-2027, zielt darauf ab, 200 Jugendliche in bezahlte Beschaeftigung in Landwirtschaft, Tourismus und Gastgewerbe zu vermitteln. Parallel dazu sollen 1.200 Absolventinnen und Absolventen technischer und universitaerer Ausbildungsstaetten zwischen 18 und 35 Jahren in denselben Sektoren sowie in der gruenen Wirtschaft platziert werden -- im Grossraum Kampala, Wakiso und Mukono.',
+          'Das klingt nach Zahlen aus einem Strategiepapier -- und ist es auch. Aber dahinter steht eine Realitaet, die ich auf jeder Reise beobachtet habe: Eine sehr junge Bevoelkerung, hohe Energie, Interesse an Arbeit, und ein Tourismussystem das noch nicht genuegend ausgebildetes Personal hat. Schlechte Guides sind nicht das groesste Problem Ugandas -- aber fehlende Guides sind es teilweise. In Nationalparks ausserhalb der grossen Bwindi-Routen, an Sehenswuerdigkeiten in Kampala, an weniger bekannten Zielen im Sueden und Osten des Landes fehlt es an ausgebildeten, englischsprachigen, informierten Begleitpersonen. Jaehrlich 80 neue Tourismus-Fachkraefte auszubilden ist ein Schritt in die richtige Richtung.',
+          'Der Tourismussektor profitiert auch vom breiteren Beschaeftigungsprogramm, das unter dem nationalen Entwicklungsplan NDP IV gefasst ist -- einem Rahmen, der Fachkraefteluecken in strategischen Sektoren identifiziert und gezielt adressiert. Tourismus ist dort explizit als Prioritaetsektor gelistet, neben Landwirtschaft und gruener Wirtschaft. Das ist kein Zufall: Uganda weiss, dass Tourismus einer seiner wettbewerbsfaehigsten Wirtschaftssektoren ist -- mit Gorillas, Primaaten, Voegeln, Nationalparks und einer Topographie, die so kein anderes ostafrikanisches Land aufweist.',
+        ],
+      },
+      {
+        id: 'reisende-kampala-heute',
+        title: 'Kampala 2026: Was Reisende konkret erleben',
+        content: [
+          'Wer heute nach Kampala kommt, findet eine Stadt, die merklich anders ist als noch 2019. Der Expressway nach Entebbe funktioniert. Die Strassenbeleuchtung im Zentrum und auf vielen Verbindungsstrassen ist verbessert. Strassenschilder gibt es in zunehmend vielen Stadtteilen. Das Tourismusinformationszentrum am Flughafen Entebbe bietet seit 2021 einen 24-Stunden-Helpdesk fuer Reisende. Kurzum: Die Infrastruktur des Touristenerlebnisses ist erkennbar aufgewertet worden.',
+          'Was noch fehlt, ist genauso sichtbar wie das Erreichte. Viele Seitenstrassen sind ungepflastert. In Randquartieren gibt es keine Adressen, keine Beleuchtung, keine oeffentlichen Einrichtungen. Der Unterschied zwischen dem Boulevard an einer Hauptachse und einer Schotterpiste hundert Meter weiter ist gross -- und er zeigt, dass urbane Transformation ein langer Prozess ist, der Jahrzehnte dauert, nicht Finanzjahre. Wer das weiss, erlebt Kampala nicht als enttaeuschend unfertig, sondern als ehrlich arbeitend.',
+          'Fuer Reisende aus Deutschland oder Oesterreich gibt es eine einfache Empfehlung: Planen Sie Kampala nicht als reine Durchgangsstation ein. Ein oder zwei Tage in der Stadt -- Altstadt, Nakasero-Markt, Kasubi-Koenigsgrabstaetten, ein Abendessen in einem der besseren Restaurants -- geben einem Uganda-Aufenthalt einen Kontext, den man in Bwindi oder Murchison nicht bekommt. Die Stadt ist der Spiegel des Landes: laut, lebendig, unfertig, engagiert. Sie lohnt sich.',
+          'Meine persoenliche Empfehlung: Die Fahrt vom Flughafen auf dem Expressway bei Daemmerung -- wenn sich das Licht des Vikoriasees auf der linken Seite verschwindet und die Lichter Kampalas auf den Huegeln vor einem erscheinen -- ist einer der stillen grossen Momente einer Uganda-Reise. Kein Nationalpark, kein Gorilla. Nur eine Millionenstadt, die sich ankuendigt.',
+        ],
+      },
+    ],
+    faq: [
+      {
+        q: 'Was ist KIIDP und wofuer steht es?',
+        a: 'KIIDP steht fuer Kampala Institutional and Infrastructure Development Project. Es ist ein von der Weltbank-Tochter International Development Association finanziertes Programm zur Modernisierung Kampalas -- in zwei Phasen seit 2009. Es umfasst Strasseninfrastruktur, das staedtische Adresssystem (Kampala City Address Project), institutionelle Kapazitaetsentwicklung der KCCA und begleitende Infrastrukturvorhaben.',
+      },
+      {
+        q: 'Ist Kampala als Touristenziel einen Aufenthalt wert?',
+        a: 'Ja. Die KCCA und die Uganda Tourism Board arbeiten seit 2021 aktiv daran, Kampala als eigenstaendiges Reiseziel zu positionieren -- mit einem strukturierten Tourismusrundweg (GKMA Circuit), Tourismusinformationszentren, ausgebildeten Guides und einem Stadtfestprogramm. Ein oder zwei Tage in Kampala erganzen jeden Uganda-Aufenthalt und geben Kontext, den Nationalparks allein nicht liefern.',
+      },
+      {
+        q: 'Wie lange dauert die Fahrt vom Flughafen Entebbe nach Kampala?',
+        a: 'Der Flughafen Entebbe liegt 42 Kilometer suedlich von Kampala. Der Kampala-Entebbe Expressway (51 km) hat die Fahrzeit deutlich berechenbarer gemacht -- unter normalen Bedingungen dauert die Fahrt rund 45 bis 60 Minuten. Zu Hauptstosszeiten kann es laenger werden, aber der Expressway hat die frueheren Stauprobleme erheblich reduziert.',
+      },
+      {
+        q: 'Wie viele Tourismusinformationszentren gibt es in Kampala?',
+        a: 'Ende 2023/24 gab es 13 Tourismusinformationszentren in Kampala als Ausgangsbasis. Das Kampala Tourism Improvement Project (KTIP) plant eine Ausweitung auf 44 Zentren bis FY2029/30.',
+      },
+      {
+        q: 'Hat Uganda seine Tourismusprobleme aus der COVID-Zeit ueberwunden?',
+        a: 'Weitgehend ja. Die verpflichtende PCR-Testung aller Einreisenden am Flughafen Entebbe zwischen 2021 und 2022 hatte international fuer Kritik gesorgt und Reisende abgeschreckt. Seit der Aufhebung dieser Massnahmen ist das Einreiseverfahren problemlos und vergleichbar mit anderen ostafrikanischen Laendern. Der Tourismussektor erholt sich erkennbar.',
+      },
+    ],
+    internalLinks: [
+      { text: 'Kampala -- Ugandas Hauptstadt', href: '/hauptstadt-ugandas' },
+      { text: 'Strassenbeleuchtung in Kampala', href: '/strassenbeleuchtung-kampala' },
+      { text: 'WASH-Programme in Kampala', href: '/wash-programme-kampala' },
+      { text: 'Slum-Upgrading in Kampala', href: '/slum-verbesserung-kampala' },
+      { text: 'Flughaefen in Uganda', href: '/flughaefen-uganda' },
+      { text: 'Gorilla Trekking in Bwindi', href: '/gorilla-trekking-buhoma' },
+    ],
+  },
 }

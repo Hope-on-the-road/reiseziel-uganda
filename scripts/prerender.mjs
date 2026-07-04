@@ -213,6 +213,7 @@ const ROUTES = [
   '/wasser-sanitaer-hygiene-kampala',
   '/strassenbeleuchtung-kampala',
   '/wash-programme-kampala',
+  '/kampala-infrastruktur-tourismus',
   '/gorilla-permit-kosten',
   '/kigali-nach-kampala',
   '/bwindi-gorilla-reisefuehrer',
