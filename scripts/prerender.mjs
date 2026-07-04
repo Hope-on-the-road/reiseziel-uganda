@@ -211,6 +211,7 @@ const ROUTES = [
   '/bildungsinfrastruktur-kampala',
   '/slum-verbesserung-kampala',
   '/wasser-sanitaer-hygiene-kampala',
+  '/strassenbeleuchtung-kampala',
   '/gorilla-permit-kosten',
   '/kigali-nach-kampala',
   '/bwindi-gorilla-reisefuehrer',

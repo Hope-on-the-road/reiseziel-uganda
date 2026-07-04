@@ -12224,4 +12224,119 @@ export const standalonePages = {
       { text: 'Oekotourismus Uganda', href: '/oekotourismus-uganda' },
     ],
   },
+
+  'strassenbeleuchtung-kampala': {
+    slug: '/strassenbeleuchtung-kampala',
+    title: 'Strassenbeleuchtung in Kampala',
+    h1: 'Strassenbeleuchtung in Kampala: Sicherheit, Wirtschaft und 42.000 neue Lichter',
+    subtitle: 'Von 92 Prozent unbeleuchteten Strassen zum groessten Beleuchtungsprojekt in Ostafrika -- wie Kampala seine Naechte neu erfindet',
+    metaDescription: 'Nur 8% von Kampalas Strassen haben Beleuchtung. Wie das KCCA-Masterplan-Projekt mit 42.000 Lichtern Sicherheit und Wirtschaft veraendert -- Vor-Ort-Bericht.',
+    breadcrumbs: [
+      { label: 'Kampala', href: '/regionen/kampala' },
+      { label: 'Strassenbeleuchtung und Sicherheit' },
+    ],
+    publishedTime: '2026-07-04',
+    modifiedTime: '2026-07-04',
+    photoFilter: 'kampala buhoma gemeinschaft nacht',
+    kurzantwort: 'Nur etwa 8 Prozent des rund 2.110 Kilometer umfassenden Strassennetzes von Kampala waren bis vor wenigen Jahren beleuchtet. Die Kampala Capital City Authority (KCCA) hat gemeinsam mit der franzoesischen Entwicklungsagentur AFD und der Europaeischen Union ein Masterplan-Projekt gestartet, das insgesamt 42.000 Strassenlaternen umfasst. Im laufenden Ausbau sollen 20.801 Lichter auf 281 Kilometern Strassen und 97 Kilometern Fusswegen installiert werden -- in allen fuenf Divisionen der Stadt. Ziel ist nicht nur mehr Sicht in der Nacht, sondern eine direkte Verbesserung der oeffentlichen Sicherheit, eine Belebung des Nachtlebens und eine Staerkung der informellen Wirtschaft.',
+    fakten: [
+      { label: 'Strassennetz Kampala gesamt', value: 'rund 2.110 Kilometer' },
+      { label: 'Anteil beleuchtet (vor Masterplan)', value: 'ca. 8 Prozent' },
+      { label: 'Strassenlaternen Masterplan gesamt', value: '42.000 Leuchten (Gesamtziel)' },
+      { label: 'Laufendes Ausbauprojekt', value: '20.801 Lichter auf 281 km Strassen' },
+      { label: 'Fusswege mit Beleuchtung geplant', value: '97 Kilometer' },
+      { label: 'Hauptfoerderer', value: 'AFD (Agence Francaise de Developpement), EU' },
+      { label: 'Abdeckung', value: 'Alle 5 Divisionen: Central, Kawempe, Lubaga, Makindye, Nakawa' },
+      { label: 'Weitere Massnahme', value: '10.000 Lichter ueber PPP-Vereinbarungen' },
+    ],
+    sections: [
+      {
+        id: 'buhoma-nacht-einstieg',
+        title: 'Ein Abend in Buhoma -- und was Dunkelheit in einer Stadt bedeutet',
+        content: [
+          'Am 21. Juni 2026 standen drei Kinder aus der Nachbarschaft des Waisenhauses in Buhoma vor uns. Sie waren leicht zurueckhaltend, ein bisschen verschuechtert. Die Kleidung wirkte abgenutzt, die Koerpersprache still. Wir luden sie direkt ein, mit uns zu essen -- ohne grosse Worte, einfach so. Es war ein klarer Morgen, GPS-verifiziert bei -0.9617 Nord, 29.6109 Ost, Fotograf Mark Suer. Dieser Moment -- drei Kinder, eine Mahlzeit, ein kleines Gebaeude mit Wellblechdach -- hat nichts mit Strassenbeleuchtung zu tun. Und doch fuehrt er direkt dorthin.',
+          'Buhoma liegt am Rand des Bwindi Impenetrable National Park. Nach Einbruch der Dunkelheit -- und die faellt hier, nahe dem Aequator, fast immer gegen halb sieben Uhr ein -- gibt es kein oeffentliches Licht. Keine Laternen entlang der Fusswege, keine beleuchteten Kreuzungen, keine erhellten Marktstraende. Wer sich abends bewegt, tut das mit einer Taschenlampe oder im Licht des Handydisplays. In einem Dorf ist das Alltag. In einer Millionenstadt wie Kampala ist es ein strukturelles Problem.',
+          'Dunkelheit in einem staedtischen Raum ist keine Unannehmlichkeit -- sie ist eine Barriere. Sie schrumpft die nutzbare Zeit des Tages, haelt Fussgaenger von abendlichen Wegen ab, gibt Strassenkriminalitaet Raum und zwingt Haendler dazu, ihre Staende vor Sonnenuntergang zu schliessen. Fuer die informelle Wirtschaft, die in Kampala einen grossen Teil des taeglichen Einkommens einer wachsenden Stadtbevoelkerung sichert, ist Beleuchtung keine Nebensaechlichkeit. Sie ist Betriebsvoraussetzung.',
+        ],
+      },
+      {
+        id: 'neunzig-prozent-dunkel',
+        title: '92 Prozent im Dunkel: Was Kampalas Strassen fehlte',
+        content: [
+          'Wer Kampala zum ersten Mal bei Nacht erlebt, wird von einem Kontrast ueberrascht: Das Zentrum, die Hauptachsen, die grossen Kreuzungen -- beleuchtet, geschaeftig, lebendig. Aber wenige Strassen weiter, in den Wohnquartieren, auf den Verbindungswegen zwischen den Divisionen, auf den Fussgaengerpfaden -- Dunkelheit. Rund 8 Prozent des Strassennetzes waren beleuchtet, 92 Prozent lagen im Dunkeln oder waren nur mangelhaft ausgeleuchtet. Das ist kein marginales Versorgungsproblem -- es ist der Normalzustand einer Millionenstadt, deren Infrastruktur mit dem Bevoelkerungswachstum nicht mitgehalten hat.',
+          'Die Folgen sind dokumentiert. Unbeleuchtete Strassen behindern den Fussgaengerverkehr, erhoehn die Unfallgefahr und verschlechtern die Lage fuer den Strassenhandel, der in Kampala nach Sonnenuntergang erheblich abnimmt. Informelle Maerkte wie der Kalerwe-Markt im Norden der Stadt oder der Markt in Kisenyi im Zentrum verlieren ohne Beleuchtung Haendler und Kundschaft gleichermaassen. Im Kisenyi-Quartier wurden ueber tausend ehemalige Strassenhaendler in den Smart City Bazaar-Markt integriert -- eine Massnahme, die ohne Beleuchtung kaum Wirkung entfalten kann, weil abendlicher Betrieb dann nicht stattfinden kann.',
+          'Die Sicherheitslage spiegelt das wider. Kampalas Strassensicherheitsbericht 2023 dokumentiert Unfaelle, Fahrzeugkollisionen und Fussgaengergefaehrdungen entlang spezifischer Korridore -- und ein erheblicher Teil der gemeldeten Ereignisse konzentriert sich auf schlecht beleuchtete oder gar nicht beleuchtete Abschnitte. Kriminalitaet folgt derselben Logik: Schlechte Sicht ist ein struktureller Vorteil fuer Taeter und ein struktureller Nachteil fuer potenzielle Opfer. Fuer Pendler, Haendler und Schulkinder, die frueh morgens oder spaet abends unterwegs sind, bedeutet fehlende Beleuchtung ein reales Sicherheitsrisiko -- jeden Abend, ueber die gesamte Stadt.',
+          '[ZITAT: Strassenhaendler oder lokaler Unternehmer ueber den Unterschied mit und ohne Strassenbeleuchtung -- beim naechsten Besuch erfragen]',
+        ],
+      },
+      {
+        id: 'masterplan-afd-eu',
+        title: 'Der Masterplan: 42.000 Lichter mit franzoesischer und europaeischer Unterstuetzung',
+        content: [
+          'Die Antwort der Kampala Capital City Authority kam in Form eines der groessten staedtischen Infrastrukturprojekte, die Ostafrika bisher gesehen hat. In Partnerschaft mit der franzoesischen Entwicklungsagentur Agence Francaise de Developpement (AFD) und mit Unterstuetzung der Europaeischen Union hat die KCCA den Kampala Street Lighting Masterplan entwickelt -- ein Gesamtvorhaben, das 42.000 Strassenlaternen ueber das gesamte Stadtgebiet vorsieht. Nicht nur auf den Hauptachsen, nicht nur im Geschaeftszentrum -- sondern ueber alle fuenf Divisionen, auf Asphaltstrassen und auf Schotterwegen, an Fussgaengerpunkte und Marktbereichen, in informellen Siedlungen und Wohnquartieren.',
+          'Die Finanzierungsstruktur zeigt, wie solche Projekte in Uganda realitaetsnah umgesetzt werden: Ein Teil kommt aus dem AFD-Programm -- 15.000 Lichter -- ein weiterer Teil ueber Public-Private-Partnership-Vereinbarungen, also Kooperationen mit privaten Investoren und Unternehmen -- 10.000 Lichter. Der laufende Ausbaustrang umfasst 20.801 Lichter, die auf 281 Kilometern Strassen installiert werden sollen, darunter rund 135 Kilometer asphaltierter Fahrbahnen. Hinzu kommen 97 Kilometer Fusswege, die im gleichen Projektzeitraum mit Beleuchtung ausgestattet werden. Das ergibt eine klare Botschaft an Fussgaenger: Die Stadt plant fuer Menschen, nicht nur fuer Fahrzeuge.',
+          'Der strategische Rahmen hierfuer ist im KCCA-Strategieplan fuer die Finanzjahre 2025/26 bis 2029/30 verankert. Strassenbeleuchtung ist dort nicht als isolierte Massnahme gelistet, sondern als integrierter Bestandteil einer breiteren Sicherheits- und Mobilitaetsstrategie. Zur selben Initiative gehoeren Strassensicherheitsaudits, die Erweiterung signalisierter Kreuzungen, nicht-motorisierte Verkehrsinfrastruktur und die Pilotierung von E-Mobilitaetsmassnahmen. Beleuchtung ist der sichtbarste Teil -- aber er ist eingebettet in ein Gesamtbild, das Kampala langfristig anders denkt.',
+        ],
+      },
+      {
+        id: 'sicherheit-wirtschaft-nacht',
+        title: 'Was Licht veraendert: Sicherheit, Nachtleben und informelle Wirtschaft',
+        content: [
+          'Strassenbeleuchtung hat messbare Wirkungen auf drei miteinander verflochtene Bereiche: Sicherheit, Wirtschaft und soziales Leben. In Kampala sind alle drei direkt betroffen, und die Verbindung zwischen ihnen ist enger, als es auf den ersten Blick scheint.',
+          'Bei der Sicherheit ist der Effekt am direktesten zu benennen. Beleuchtete Kreuzungen reduzieren Unfaelle, beleuchtete Fusswege senken das Risiko fuer Fussgaenger, und Lichter in als Kriminalitaets-Hotspots bekannten Bereichen -- explizit als Kriterium im KCCA-Strategieplan genannt -- wirken praeventiv. Die KCCA installiert Lichter in solchen Bereichen gezielt als Teil des AFD-Projekts. Das ist kein Symbolakt: Internationale Erfahrungen zeigen konsistent, dass Strassenbeleuchtung in sicherheitssensiblen Bereichen die gemeldeten Straftaten messbar senkt. Fuer Reisende bedeutet das: Kampala bei Nacht wird zunehmend zugaenglicher -- aber die Veraenderung ist ungleichmaessig ueber die Stadt verteilt, je nach Stand des Ausbaus.',
+          'Fuer die Wirtschaft ist der Effekt vielleicht noch bedeutsamer, weil er das Einkommenspotenzial einer grossen Zahl von Menschen direkt beruehrt. Die informelle Wirtschaft Kampalas -- Strassenhaendler, Garkasuchen, abendliche Maerkte, Kioske -- hat bislang ihren Betrieb weitgehend auf Tageslicht beschraenken muessen. Mit funktionierender Beleuchtung verlangert sich das Fenster fuer wirtschaftliche Aktivitaet um mehrere Stunden. Ein Haendler, der abends zwei Stunden laenger arbeiten kann, erzielt ein messbares Mehreinkommen. Multipliziert ueber Tausende von Kleinstunternehmen ergibt das eine Veraenderung im wirtschaftlichen Grundgewebe der Stadt. Die KCCA beschreibt diesen Zusammenhang explizit: Die Beschraenkung auf Tagesbetrieb, ausgeloest durch fehlende Beleuchtung, hat die informelle Wirtschaft Kampalas jahrelang gehemmt.',
+          'Das dritte Element ist schwieriger zu messen, aber real: das soziale Leben nach Einbruch der Dunkelheit. Strassenbeleuchtung schafft oeffentlichen Raum, der nach 19 Uhr noch funktioniert. Fussgaenger, die sicher unterwegs sind, nutzen Strassen anders. Nachbarschaften, die beleuchtet sind, entwickeln andere Abendrituale. Das ist kein Luxusproblem -- es ist eine Grundbedingung fuer das, was Stadte zu Staedten macht: oeffentliches Leben, das nicht mit Sonnenuntergang endet.',
+        ],
+      },
+      {
+        id: 'kampala-gorilla-kontext',
+        title: 'Kampala als Durchgangsstadt -- und warum ihre Entwicklung alle betrifft',
+        content: [
+          'Drei Monate vor meinem Buhoma-Besuch im Juni 2026 war ich im Januar 2026 in Bwindi. Nach einer Stunde Wanderung durch den dichten Regenwald traf unsere Gruppe auf die erste Gorilla-Familie. Der erste Gorilla sass im Kronenbereich eines grossen Baums und frass Blaetter -- ruhig, konzentriert, keine zehn Meter entfernt. GPS-Koordinaten -0.9735, 29.6281. Ein Moment, den man nicht vergisst. Die Stille des Waldes, das Rascheln der Blaetter, das Licht das durch das Kronendach faellt. Und dann die Rueckfahrt: Stunden auf staubigen Pisten, durch kleine Staedte, schliesslich wieder nach Kampala -- die Stadt, durch die fast jede Uganda-Reise fuehrt.',
+          'Kampala ist fuer die grosse Mehrheit der Reisenden der erste und letzte Eindruck von Uganda. Sie landen in Entebbe, fahren durch die Metropole, orientieren sich. Wer nachts ankommt, erlebt die Stadt in dem Zustand, in dem sie sich gerade befindet: teils beleuchtet, teils dunkel, in erkennbarer Transformation. Die Bauarbeiten fuer das Beleuchtungsprojekt sind an vielen Punkten im Stadtbild sichtbar -- neue Masten, neue Kabel, neue Leuchten an Kreuzungen, die bisher im Dunkeln lagen. Das ist nicht nur Infrastruktur, das ist ein Signal: Diese Stadt investiert.',
+          'Fuer die Tourismuswirtschaft im Hinterland -- fuer Lodges in Bwindi, Guides in Kibale, Bootssafari-Anbieter am Kazinga-Kanal -- ist Kampalas Entwicklung direkt relevant. Je attraktiver und sicherer die Stadt als Einstiegspunkt wahrgenommen wird, desto eher bleiben Reisende auch in Uganda, desto laenger sind Aufenthalte, desto mehr fliesst in regionale Wirtschaftskreislaeufe. Sicherheit in Kampala ist kein Stadtthema -- es ist ein nationales Tourismusthema.',
+        ],
+      },
+      {
+        id: 'reisende-nacht-kampala',
+        title: 'Was Reisende ueber Kampala bei Nacht wissen sollten',
+        content: [
+          'Bei meinen vier Besuchen in Uganda -- Oktober 2024 zweimal, Januar 2026, Mai 2026 -- habe ich Kampala zu unterschiedlichen Tageszeiten erlebt. Der Unterschied zwischen einem belebten Nachmittag und einem spaeten Abend in einem wenig besuchten Quartier ist erheblich. Das gilt auch fuer europaeische Grossstaedte -- in Kampala ist der Kontrast haerter, weil das Gefaelle zwischen beleuchteten und unbeleuchteten Bereichen groeßer ist.',
+          'Konkrete Empfehlungen fuer Reisende: In beleuchteten Hauptbereichen des Stadtzentrums ist abendlicher Betrieb normal und sicher. Naehert man sich von dort den Randbereichen, lohnt sich Vorsicht -- nicht Angst, aber Aufmerksamkeit. Taxis oder Boda-Boda fuer laengere Strecken nach Einbruch der Dunkelheit sind sinnvoller als zu Fuss gehen auf unbekannten Routen. Wer frueh morgens aus einem Nachtflug ankommt oder spaet nachts aufbricht, bestellt das Fahrzeug am besten ueber das Hotel oder eine zuverlaessige Plattform.',
+          'Das Beleuchtungsprojekt ist in vollem Gange, aber nicht abgeschlossen. Wer heute nach Kampala kommt, wird merken, dass manche Bereiche gut ausgeleuchtet sind und andere noch nicht. Das aendert sich kontinuierlich -- die Bauphasen des Masterplans schreiten Abschnitt fuer Abschnitt voran. In einigen Jahren wird Kampala bei Nacht ein anderes Bild zeigen als heute. Wer die Stadt jetzt besucht, sieht eine Transformation in Echtzeit.',
+          'Ein letzter Gedanke zur Einordnung: Buhoma, wo ich die drei Kinder traf, liegt 370 Kilometer von Kampala entfernt. Es gibt dort keine Strassenbeleuchtung, und das wird so schnell nicht anders werden. Die Massnahmen der KCCA betreffen die Millionenstadt -- nicht das Hinterland. Das ist keine Kritik, sondern eine Einordnung: Urbane Infrastrukturmassnahmen haben ihre Wirkungsgrenzen. Was Buhoma braucht, sind andere Formen von Unterstuetzung -- unmittelbar und direkt, wie eine Gemeinschaftskueche, die jeden Morgen oeffnet.',
+        ],
+      },
+    ],
+    faq: [
+      {
+        q: 'Ist Kampala bei Nacht sicher fuer Reisende?',
+        a: 'Das haengt stark von der Lage und dem Bereich ab. Das Stadtzentrum und Hauptachsen mit Beleuchtung sind abends belebt und zuganglich. In weniger bekannten Quartieren und auf unbeleuchteten Nebenwegen empfiehlt sich auch fuer erfahrene Reisende ein Fahrzeug statt Fussweg. Das laufende Beleuchtungsprojekt verbessert die Lage kontinuierlich.',
+      },
+      {
+        q: 'Warum war Kampala so lange schlecht beleuchtet?',
+        a: 'Die Stadt ist in den letzten Jahrzehnten schneller gewachsen als ihre Infrastruktur nachgezogen ist. Strassenbeleuchtung erfordert Strominfrastruktur, Wartung und laufende Betriebskosten -- alles Bereiche, die in einer schnell wachsenden Stadt mit begrenzten kommunalen Mitteln zuruckgestellt wurden. Erst mit internationaler Foerderung durch AFD und EU wurde ein Masterplan in dieser Groessenordnung moeglich.',
+      },
+      {
+        q: 'Wie viele Strassenlaternen werden insgesamt installiert?',
+        a: 'Das Gesamtziel des Kampala Street Lighting Masterplans liegt bei 42.000 Leuchten. Im aktuellen Ausbaustrang sind 20.801 Lichter auf 281 Kilometern Strassen und 97 Kilometern Fusswegen geplant. Zusaetzlich werden 10.000 Lichter ueber Public-Private-Partnership-Vereinbarungen installiert.',
+      },
+      {
+        q: 'Welche Auswirkungen hat bessere Beleuchtung auf die Wirtschaft?',
+        a: 'Beleuchtung verlaengert den wirtschaftlich nutzbaren Tag fuer Strassenhaendler, Maerkte und Garkasuchen. Die informelle Wirtschaft Kampalas war bisher weitgehend auf Tageslicht beschraenkt -- mit funktionierender Nachtbeleuchtung koennen Haendler mehr Stunden arbeiten, mehr Kunden erreichen und mehr Einkommen erzielen. Fuer den Smart City Bazaar-Markt in Kisenyi mit ueber 1.000 integrierten Strassenhaendlern ist das besonders relevant.',
+      },
+      {
+        q: 'Welche anderen Sicherheitsmassnahmen begleiten das Beleuchtungsprojekt?',
+        a: 'Das Beleuchtungsprojekt ist Teil einer breiteren KCCA-Sicherheits- und Mobilitaetsstrategie, die auch Strassensicherheitsaudits, signalisierte Kreuzungen, Fussgaengerinfrastruktur und die Bloomberg Initiative for Global Road Safety umfasst. Strassenlaternen werden gezielt in ausgewiesenen Kriminalitaets-Hotspots als Praeventionsmassnahme eingesetzt.',
+      },
+    ],
+    internalLinks: [
+      { text: 'Kampala -- Ugandas Hauptstadt', href: '/hauptstadt-ugandas' },
+      { text: 'Sanitaer und Gesundheitsinfrastruktur in Kampala', href: '/sanitation-oeffentliche-gesundheit-kampala' },
+      { text: 'Wasser und Hygiene in Kampala', href: '/wasser-sanitaer-hygiene-kampala' },
+      { text: 'Slum-Upgrading in Kampala', href: '/slum-verbesserung-kampala' },
+      { text: 'Gorilla Trekking in Bwindi', href: '/gorilla-trekking-buhoma' },
+      { text: 'Hope Kitchen Buhoma', href: '/hopekitchen-buhoma' },
+    ],
+  },
 }

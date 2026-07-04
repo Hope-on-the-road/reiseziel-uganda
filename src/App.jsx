@@ -278,6 +278,7 @@ export default function App() {
           <Route path="/bildungsinfrastruktur-kampala" element={<StandalonePage photos={photos} clusters={clusters} pageId="bildungsinfrastruktur-kampala" />} />
           <Route path="/slum-verbesserung-kampala" element={<StandalonePage photos={photos} clusters={clusters} pageId="slum-verbesserung-kampala" />} />
           <Route path="/wasser-sanitaer-hygiene-kampala" element={<StandalonePage photos={photos} clusters={clusters} pageId="wasser-sanitaer-hygiene-kampala" />} />
+          <Route path="/strassenbeleuchtung-kampala" element={<StandalonePage photos={photos} clusters={clusters} pageId="strassenbeleuchtung-kampala" />} />
           <Route path="/tiere" element={<HubPage photos={photos} clusters={clusters} hubId="tiere" />} />
           <Route path="/nationalparks" element={<HubPage photos={photos} clusters={clusters} hubId="nationalparks" />} />
           <Route path="/regionen" element={<HubPage photos={photos} clusters={clusters} hubId="regionen" />} />
