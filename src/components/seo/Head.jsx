@@ -69,6 +69,8 @@ export default function Head({ title, description, canonical, ogImage, ogType = 
       setLink('alternate', 'hreflang="de"', canonical)
       setLink('alternate', 'hreflang="x-default"', canonical)
     }
+
+    document.documentElement.setAttribute('data-page-ready', '1')
   }, [title, description, canonical, ogImage, ogType, noindex, publishedTime, modifiedTime])
 
   return null

@@ -140,6 +140,8 @@ export default function HomeSeo() {
       document.head.appendChild(hreflang)
     }
     hreflang.setAttribute('href', SITE)
+
+    document.documentElement.setAttribute('data-page-ready', '1')
   }, [])
 
   return (
