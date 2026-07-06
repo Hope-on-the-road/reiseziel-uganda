@@ -214,6 +214,7 @@ const ROUTES = [
   '/strassenbeleuchtung-kampala',
   '/wash-programme-kampala',
   '/kampala-infrastruktur-tourismus',
+  '/gorilla-trekking-bwindi-ablauf',
   '/gorilla-permit-kosten',
   '/kigali-nach-kampala',
   '/bwindi-gorilla-reisefuehrer',
