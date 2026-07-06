@@ -34,7 +34,7 @@ for (const page of Object.values(hubPages)) {
   if (page.slug && page.modifiedTime) modifiedTimeBySlug[page.slug] = page.modifiedTime
 }
 
-const BASE_URL = 'https://reiseziel-uganda.de'
+const BASE_URL = 'https://www.reiseziel-uganda.de'
 const today = new Date().toISOString().split('T')[0]
 
 function getMeta(route) {

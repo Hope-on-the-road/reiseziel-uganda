@@ -309,11 +309,15 @@ async function renderRoute(browser, route, counters) {
     await new Promise(r => setTimeout(r, 200))
 
     let html = await page.content()
-    html = html.replace(/http:\/\/localhost:\d+/g, 'https://reiseziel-uganda.de')
+    html = html.replace(/http:\/\/localhost:\d+/g, 'https://www.reiseziel-uganda.de')
 
-    const dir = route === '/' ? DIST : join(DIST, route)
-    mkdirSync(dir, { recursive: true })
-    const filePath = route === '/' ? join(DIST, 'index.html') : join(dir, 'index.html')
+    let filePath
+    if (route === '/') {
+      filePath = join(DIST, 'index.html')
+    } else {
+      filePath = join(DIST, route + '.html')
+      mkdirSync(dirname(filePath), { recursive: true })
+    }
     writeFileSync(filePath, html)
 
     counters.success++
