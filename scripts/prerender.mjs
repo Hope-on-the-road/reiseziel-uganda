@@ -306,7 +306,15 @@ async function renderRoute(browser, route, counters) {
     })
 
     await page.waitForSelector('h1, h2, .kurzantwort, [class*="Hero"]', { timeout: 6000 }).catch(() => {})
-    await new Promise(r => setTimeout(r, 200))
+    // Fuer alle Seiten ausser Homepage: warten bis document.title vom useEffect gesetzt wurde
+    // (indiziert dass React + alle useEffects fertig sind; Fallback nach 5s)
+    if (route !== '/') {
+      await page.waitForFunction(
+        () => document.title !== 'Reiseziel Uganda 2026 | Gorilla Trekking & Safaris',
+        { timeout: 5000 }
+      ).catch(() => {})
+    }
+    await new Promise(r => setTimeout(r, 300))
 
     let html = await page.content()
     html = html.replace(/http:\/\/localhost:\d+/g, 'https://www.reiseziel-uganda.de')
