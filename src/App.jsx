@@ -29,6 +29,7 @@ const NachbarlaenderPage = lazy(() => import('./pages/NachbarlaenderPage.jsx'))
 const WirtschaftPage = lazy(() => import('./pages/WirtschaftPage.jsx'))
 const StandalonePage = lazy(() => import('./pages/StandalonePage.jsx'))
 const GorillaTrekkingAblaufPage = lazy(() => import('./pages/GorillaTrekkingAblaufPage.jsx'))
+const MurchisonFallsNationalparkGuidePage = lazy(() => import('./pages/MurchisonFallsNationalparkGuidePage.jsx'))
 
 function PageLoader() {
   return (
@@ -283,6 +284,7 @@ export default function App() {
           <Route path="/wash-programme-kampala" element={<StandalonePage photos={photos} clusters={clusters} pageId="wash-programme-kampala" />} />
           <Route path="/kampala-infrastruktur-tourismus" element={<StandalonePage photos={photos} clusters={clusters} pageId="kampala-infrastruktur-tourismus" />} />
           <Route path="/gorilla-trekking-bwindi-ablauf" element={<GorillaTrekkingAblaufPage />} />
+          <Route path="/murchison-falls-nationalpark-guide" element={<MurchisonFallsNationalparkGuidePage />} />
           <Route path="/tiere" element={<HubPage photos={photos} clusters={clusters} hubId="tiere" />} />
           <Route path="/nationalparks" element={<HubPage photos={photos} clusters={clusters} hubId="nationalparks" />} />
           <Route path="/regionen" element={<HubPage photos={photos} clusters={clusters} hubId="regionen" />} />

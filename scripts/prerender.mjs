@@ -215,6 +215,7 @@ const ROUTES = [
   '/wash-programme-kampala',
   '/kampala-infrastruktur-tourismus',
   '/gorilla-trekking-bwindi-ablauf',
+  '/murchison-falls-nationalpark-guide',
   '/gorilla-permit-kosten',
   '/kigali-nach-kampala',
   '/bwindi-gorilla-reisefuehrer',
