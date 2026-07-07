@@ -513,7 +513,7 @@ export const tiere = {
     ],
   },
 
-  rothschild_giraffe: {
+  'rothschild-giraffe': {
     slug: '/tiere/rothschild-giraffe',
     title: 'Rothschild-Giraffe Uganda -- Bedrohte Riesen 2026',
     h1: 'Die Rothschild-Giraffe in Uganda',
