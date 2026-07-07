@@ -30,6 +30,26 @@ const WirtschaftPage = lazy(() => import('./pages/WirtschaftPage.jsx'))
 const StandalonePage = lazy(() => import('./pages/StandalonePage.jsx'))
 const GorillaTrekkingAblaufPage = lazy(() => import('./pages/GorillaTrekkingAblaufPage.jsx'))
 const MurchisonFallsNationalparkGuidePage = lazy(() => import('./pages/MurchisonFallsNationalparkGuidePage.jsx'))
+const GrossraubtierUgandaPage = lazy(() => import('./pages/GrossraubtierUgandaPage.jsx'))
+const LoewenQueenElizabethPage = lazy(() => import('./pages/LoewenQueenElizabethPage.jsx'))
+const GorillaPermitPreisePage = lazy(() => import('./pages/GorillaPermitPreisePage.jsx'))
+const UgandischeRolexPage = lazy(() => import('./pages/UgandischeRolexPage.jsx'))
+const NachhaltigerTourismusUgandaPage = lazy(() => import('./pages/NachhaltigerTourismusUgandaPage.jsx'))
+const GesundheitssystemKampalaPage = lazy(() => import('./pages/GesundheitssystemKampalaPage.jsx'))
+const RangerSicherheitGorillaPage = lazy(() => import('./pages/RangerSicherheitGorillaPage.jsx'))
+const GorillaTrekkingVorbereitungPage = lazy(() => import('./pages/GorillaTrekkingVorbereitungPage.jsx'))
+const BwindiVsNationalparksPage = lazy(() => import('./pages/BwindiVsNationalparksPage.jsx'))
+const BwindiTrekkingAnfaengerPage = lazy(() => import('./pages/BwindiTrekkingAnfaengerPage.jsx'))
+const SicherheitRwamparaPage = lazy(() => import('./pages/SicherheitRwamparaPage.jsx'))
+const ReisefreiheitUgandaPage = lazy(() => import('./pages/ReisefreiheitUgandaPage.jsx'))
+const BedrohteArtenUgandaPage = lazy(() => import('./pages/BedrohteArtenUgandaPage.jsx'))
+const QuelleNilJinjaPage = lazy(() => import('./pages/QuelleNilJinjaPage.jsx'))
+const LandwirtschaftWakisoPage = lazy(() => import('./pages/LandwirtschaftWakisoPage.jsx'))
+const GrossraubtierSchutzZielePage = lazy(() => import('./pages/GrossraubtierSchutzZielePage.jsx'))
+const MenschTierKonfliktPage = lazy(() => import('./pages/MenschTierKonfliktPage.jsx'))
+const DrahtschlingenWildereiPage = lazy(() => import('./pages/DrahtschlingenWildereiPage.jsx'))
+const BerggorillaPortraitPage = lazy(() => import('./pages/BerggorillaPortraitPage.jsx'))
+const BwindiBesucherzahlenPage = lazy(() => import('./pages/BwindiBesucherzahlenPage.jsx'))
 
 function PageLoader() {
   return (
@@ -285,6 +305,26 @@ export default function App() {
           <Route path="/kampala-infrastruktur-tourismus" element={<StandalonePage photos={photos} clusters={clusters} pageId="kampala-infrastruktur-tourismus" />} />
           <Route path="/gorilla-trekking-bwindi-ablauf" element={<GorillaTrekkingAblaufPage />} />
           <Route path="/murchison-falls-nationalpark-guide" element={<MurchisonFallsNationalparkGuidePage />} />
+          <Route path="/grossraubtiere-uganda" element={<GrossraubtierUgandaPage />} />
+          <Route path="/loewen-queen-elizabeth-murchison" element={<LoewenQueenElizabethPage />} />
+          <Route path="/gorilla-permit-preise" element={<GorillaPermitPreisePage />} />
+          <Route path="/ugandische-rolex" element={<UgandischeRolexPage />} />
+          <Route path="/nachhaltiger-tourismus-uganda-tipps" element={<NachhaltigerTourismusUgandaPage />} />
+          <Route path="/gesundheitssystem-kampala" element={<GesundheitssystemKampalaPage />} />
+          <Route path="/ranger-sicherheit-gorilla-trekking" element={<RangerSicherheitGorillaPage />} />
+          <Route path="/gorilla-trekking-vorbereitung" element={<GorillaTrekkingVorbereitungPage />} />
+          <Route path="/bwindi-vs-andere-nationalparks" element={<BwindiVsNationalparksPage />} />
+          <Route path="/bwindi-trekking-anfaenger" element={<BwindiTrekkingAnfaengerPage />} />
+          <Route path="/sicherheit-rwampara-uganda" element={<SicherheitRwamparaPage />} />
+          <Route path="/reisefreiheit-uganda-regionen" element={<ReisefreiheitUgandaPage />} />
+          <Route path="/bedrohte-tierarten-uganda" element={<BedrohteArtenUgandaPage />} />
+          <Route path="/quelle-nil-jinja" element={<QuelleNilJinjaPage />} />
+          <Route path="/landwirtschaft-wakiso-uganda" element={<LandwirtschaftWakisoPage />} />
+          <Route path="/grossraubtier-schutz-ziele-uganda" element={<GrossraubtierSchutzZielePage />} />
+          <Route path="/mensch-tier-konflikt-uganda" element={<MenschTierKonfliktPage />} />
+          <Route path="/drahtschlingen-wilderei-uganda" element={<DrahtschlingenWildereiPage />} />
+          <Route path="/berggorilla-portrait-leben-verhalten" element={<BerggorillaPortraitPage />} />
+          <Route path="/bwindi-besucherzahlen-statistik" element={<BwindiBesucherzahlenPage />} />
           <Route path="/tiere" element={<HubPage photos={photos} clusters={clusters} hubId="tiere" />} />
           <Route path="/nationalparks" element={<HubPage photos={photos} clusters={clusters} hubId="nationalparks" />} />
           <Route path="/regionen" element={<HubPage photos={photos} clusters={clusters} hubId="regionen" />} />
