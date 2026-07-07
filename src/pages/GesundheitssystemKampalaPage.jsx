@@ -1,34 +1,31 @@
 import { useState } from 'react'
+import { Link } from 'react-router-dom'
 import Head from '../components/seo/Head.jsx'
+import { FaqJsonLd } from '../components/seo/JsonLd.jsx'
 import PagePhotos from '../components/PagePhotos.jsx'
 
 const SLUG = 'gesundheitssystem-kampala'
 
 const faqs = [
   {
-    frage: 'Welche Krankenhäuser sind für Touristen in Kampala empfehlenswert?',
-    antwort:
-      'Für international Reisende gelten Einrichtungen wie das Aga Khan University Hospital und das International Hospital Kampala als gut ausgestattet. Beide verfügen über englischsprachiges Personal, moderne Diagnostik und Erfahrung mit Tropenkrankheiten. Eine Reisekrankenversicherung mit Rückholklausel ist dennoch dringend anzuraten, da Behandlungskosten im Privatsektor erheblich sein können.',
+    q: 'Welche Krankenhäuser sind für Touristen in Kampala empfehlenswert?',
+    a: 'Für international Reisende gelten Einrichtungen wie das Aga Khan University Hospital und das International Hospital Kampala als gut ausgestattet. Beide verfügen über englischsprachiges Personal, moderne Diagnostik und Erfahrung mit Tropenkrankheiten. Eine Reisekrankenversicherung mit Rückholklausel ist dennoch dringend anzuraten, da Behandlungskosten im Privatsektor erheblich sein können.',
   },
   {
-    frage: 'Wie ist die medizinische Versorgung außerhalb Kampalas?',
-    antwort:
-      'In ländlichen Gebieten wie Buhoma im Bwindi-Impenetrable-Forest-Nationalpark sind die Gesundheitseinrichtungen deutlich einfacher. Health Center II und III bieten Basisversorgung, schwere Fälle werden in die nächste Kreisstadt oder nach Kampala weitergeleitet. Reisende, die abgelegene Regionen besuchen, sollten eine gut ausgestattete Reiseapotheke mitführen.',
+    q: 'Wie ist die medizinische Versorgung außerhalb Kampalas?',
+    a: 'In ländlichen Gebieten wie Buhoma im Bwindi-Impenetrable-Forest-Nationalpark sind die Gesundheitseinrichtungen deutlich einfacher. Health Center II und III bieten Basisversorgung, schwere Fälle werden in die nächste Kreisstadt oder nach Kampala weitergeleitet. Reisende, die abgelegene Regionen besuchen, sollten eine gut ausgestattete Reiseapotheke mitführen.',
   },
   {
-    frage: 'Was plant die KCCA für das Kampala Gesundheitssystem bis 2030?',
-    antwort:
-      'Der KCCA Strategic Plan FY2025/26–FY2029/30 sieht vor, fünf kommunale Gesundheitseinrichtungen auf den Status eines Stadtkrankenhauses anzuheben: Kisenyi HCIV in Central, Komamboga HCIII in Kawempe, Kawala HCIV in Lubaga, Kisugu HCIII in Makindye und Kiswa HCIII in Nakawa. Parallel sollen Notfallmedizin und das Überweisungssystem ausgebaut werden.',
+    q: 'Was plant die KCCA für das Kampala Gesundheitssystem bis 2030?',
+    a: 'Der KCCA Strategic Plan FY2025/26–FY2029/30 sieht vor, fünf kommunale Gesundheitseinrichtungen auf den Status eines Stadtkrankenhauses anzuheben: Kisenyi HCIV in Central, Komamboga HCIII in Kawempe, Kawala HCIV in Lubaga, Kisugu HCIII in Makindye und Kiswa HCIII in Nakawa. Parallel sollen Notfallmedizin und das Überweisungssystem ausgebaut werden.',
   },
   {
-    frage: 'Welche Impfungen brauche ich für eine Uganda-Reise?',
-    antwort:
-      'Eine Gelbfieberimpfung ist bei der Einreise Pflicht und muss im Impfpass dokumentiert sein. Empfohlen werden außerdem Typhus, Hepatitis A und B sowie ein aktueller Tetanusschutz. Für Reisen in Malaria-Endemiegebiete ist eine Chemoprophylaxe sinnvoll. Die Beratung durch einen Tropenmediziner vor Reisebeginn ist in jedem Fall empfehlenswert.',
+    q: 'Welche Impfungen brauche ich für eine Uganda-Reise?',
+    a: 'Eine Gelbfieberimpfung ist bei der Einreise Pflicht und muss im Impfpass dokumentiert sein. Empfohlen werden außerdem Typhus, Hepatitis A und B sowie ein aktueller Tetanusschutz. Für Reisen in Malaria-Endemiegebiete ist eine Chemoprophylaxe sinnvoll. Die Beratung durch einen Tropenmediziner vor Reisebeginn ist in jedem Fall empfehlenswert.',
   },
   {
-    frage: 'Ist Kampala für Reisende mit chronischen Erkrankungen geeignet?',
-    antwort:
-      'Mit guter Vorbereitung ja. In Kampala lassen sich viele Medikamente in gut sortierten Apotheken kaufen, und der Privatsektor bietet solide Diagnostik. Wichtig ist, ausreichend Medikamente für die gesamte Reisedauer mitzunehmen und ärztliche Unterlagen in englischer Sprache dabei zu haben. Für sehr komplexe medizinische Bedürfnisse sollte vorab ein Arzt konsultiert werden.',
+    q: 'Ist Kampala für Reisende mit chronischen Erkrankungen geeignet?',
+    a: 'Mit guter Vorbereitung ja. In Kampala lassen sich viele Medikamente in gut sortierten Apotheken kaufen, und der Privatsektor bietet solide Diagnostik. Wichtig ist, ausreichend Medikamente für die gesamte Reisedauer mitzunehmen und ärztliche Unterlagen in englischer Sprache dabei zu haben. Für sehr komplexe medizinische Bedürfnisse sollte vorab ein Arzt konsultiert werden.',
   },
 ]
 
@@ -46,6 +43,7 @@ export default function GesundheitssystemKampalaPage() {
         description="Kampala Gesundheit im Überblick: KCCA-Investitionen, Krankenhäuser, Impfpflicht und was Reisende wissen müssen. Aktuell für 2025–2030."
         canonical={`https://www.reiseziel-uganda.de/${SLUG}`}
       />
+      <FaqJsonLd faqs={faqs} />
       <main className="bg-white">
         {/* Hero-Bild */}
         <figure className="w-full max-h-[480px] overflow-hidden">
@@ -53,6 +51,8 @@ export default function GesundheitssystemKampalaPage() {
             src="https://eqlnmpmfhxdllkuetury.supabase.co/storage/v1/object/public/thumbnails/uganda_1782126942082_jlwe.jpg"
             alt="Kinder aus der Nachbarschaft eines Waisenhauses in Buhoma, Uganda, vor einem Lehmgebäude mit Wellblechdach"
             className="w-full object-cover max-h-[480px]"
+            fetchpriority="high"
+            loading="eager"
           />
           <figcaption className="text-xs text-gray-500 text-center py-2 px-4">
             Buhoma, Juni 2026 — Foto: Mark Suer
@@ -63,6 +63,13 @@ export default function GesundheitssystemKampalaPage() {
           <h1 className="font-display text-3xl sm:text-4xl font-bold text-gray-900 leading-tight mb-6">
             Kampala Gesundheit: Was Reisende über das ugandische Gesundheitssystem wissen sollten
           </h1>
+
+          {/* Kurzantwort */}
+          <div className="bg-jungle-50 border-l-4 border-jungle-600 rounded-r-xl px-5 py-4 mb-8">
+            <p className="text-gray-800 font-medium leading-relaxed">
+              Kampala verfügt über private Kliniken mit internationalem Standard — allen voran das Aga Khan University Hospital und das International Hospital Kampala. Eine Gelbfieberimpfung ist Einreisepflicht. Die Kampala Capital City Authority (KCCA) baut bis 2030 fünf kommunale Einrichtungen zu Stadtkrankenhäusern aus. Außerhalb der Hauptstadt gilt: Reiseapotheke mitbringen, Versicherung mit Rückholklausel abschließen.
+            </p>
+          </div>
 
           {/* Eroeffnungs-Hook */}
           <p className="text-lg text-gray-700 mb-5 leading-relaxed">
@@ -409,6 +416,25 @@ export default function GesundheitssystemKampalaPage() {
           {/* PagePhotos */}
           <PagePhotos slug={SLUG} title="Eindrücke aus Kampala und Uganda" />
 
+          {/* CTA */}
+          <div className="mt-14 bg-jungle-900 rounded-2xl px-6 py-8 text-center">
+            <p className="text-jungle-100 text-sm uppercase tracking-widest font-semibold mb-2">Uganda-Reise planen</p>
+            <h2 className="font-display text-2xl font-bold text-white mb-3">
+              Individuelle Uganda-Reise mit lokalem Experten-Team
+            </h2>
+            <p className="text-jungle-200 mb-6 max-w-xl mx-auto text-sm leading-relaxed">
+              Misty Gorilla Expeditions berät kostenlos zu Gorilla Trekking, Safaris und Gesundheitsvorsorge für Uganda. Mehr als 10 Jahre Erfahrung, 100 % lokal geführt.
+            </p>
+            <a
+              href="https://www.mistygorillaexpeditions.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-safari-500 hover:bg-safari-600 text-white font-semibold px-7 py-3 rounded-xl transition-colors text-sm"
+            >
+              Tour anfragen
+            </a>
+          </div>
+
           {/* FAQ */}
           <div className="mt-14">
             <h2 className="font-display text-2xl font-bold text-gray-900 mb-6">
@@ -423,7 +449,7 @@ export default function GesundheitssystemKampalaPage() {
                     aria-expanded={offeneFaq === index}
                   >
                     <span className="font-semibold text-gray-800 text-base leading-snug">
-                      {item.frage}
+                      {item.q}
                     </span>
                     <span
                       className={`mt-1 flex-shrink-0 text-jungle-700 transition-transform duration-200 ${
@@ -447,7 +473,7 @@ export default function GesundheitssystemKampalaPage() {
                     </span>
                   </button>
                   {offeneFaq === index && (
-                    <p className="mt-3 text-gray-600 leading-relaxed text-sm">{item.antwort}</p>
+                    <p className="mt-3 text-gray-600 leading-relaxed text-sm">{item.a}</p>
                   )}
                 </div>
               ))}
@@ -461,68 +487,68 @@ export default function GesundheitssystemKampalaPage() {
             </h2>
             <ul className="grid sm:grid-cols-2 gap-3">
               <li>
-                <a
-                  href="/regionen/kampala"
+                <Link
+                  to="/regionen/kampala"
                   className="text-jungle-800 hover:text-jungle-600 underline underline-offset-2 text-sm"
                 >
                   Kampala: Alles zur Hauptstadt Ugandas
-                </a>
+                </Link>
               </li>
               <li>
-                <a
-                  href="/uganda-reisetipps"
+                <Link
+                  to="/uganda-reisetipps"
                   className="text-jungle-800 hover:text-jungle-600 underline underline-offset-2 text-sm"
                 >
                   Uganda Reisetipps: Praktisches für die Vorbereitung
-                </a>
+                </Link>
               </li>
               <li>
-                <a
-                  href="/reiseplanung"
+                <Link
+                  to="/reiseplanung"
                   className="text-jungle-800 hover:text-jungle-600 underline underline-offset-2 text-sm"
                 >
                   Uganda Reiseplanung: Schritt für Schritt
-                </a>
+                </Link>
               </li>
               <li>
-                <a
-                  href="/beste-reisezeit-uganda"
+                <Link
+                  to="/beste-reisezeit-uganda"
                   className="text-jungle-800 hover:text-jungle-600 underline underline-offset-2 text-sm"
                 >
                   Beste Reisezeit Uganda: Wann lohnt sich ein Besuch?
-                </a>
+                </Link>
               </li>
               <li>
-                <a
-                  href="/nachhaltiger-tourismus-uganda"
+                <Link
+                  to="/nachhaltiger-tourismus-uganda"
                   className="text-jungle-800 hover:text-jungle-600 underline underline-offset-2 text-sm"
                 >
                   Nachhaltiger Tourismus in Uganda
-                </a>
+                </Link>
               </li>
               <li>
-                <a
-                  href="/gorilla-trekking"
+                <Link
+                  to="/gorilla-trekking"
                   className="text-jungle-800 hover:text-jungle-600 underline underline-offset-2 text-sm"
                 >
                   Gorilla Trekking in Uganda: Ablauf und Kosten
-                </a>
+                </Link>
               </li>
               <li>
-                <a
-                  href="/nationalparks/bwindi"
+                <Link
+                  to="/nationalparks/bwindi"
                   className="text-jungle-800 hover:text-jungle-600 underline underline-offset-2 text-sm"
                 >
                   Bwindi Impenetrable Forest Nationalpark
-                </a>
+                </Link>
               </li>
               <li>
-                <a
-                  href="/regionen/buhoma"
+                <Link
+                  to="/regionen/buhoma"
                   className="text-jungle-800 hover:text-jungle-600 underline underline-offset-2 text-sm"
                 >
                   Buhoma: Das Tor zum Bwindi-Nationalpark
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
