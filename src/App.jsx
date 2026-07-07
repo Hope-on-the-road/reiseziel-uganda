@@ -325,6 +325,10 @@ export default function App() {
           <Route path="/drahtschlingen-wilderei-uganda" element={<DrahtschlingenWildereiPage />} />
           <Route path="/berggorilla-portrait-leben-verhalten" element={<BerggorillaPortraitPage />} />
           <Route path="/bwindi-besucherzahlen-statistik" element={<BwindiBesucherzahlenPage />} />
+          <Route path="/kibale" element={<StandalonePage photos={photos} clusters={clusters} pageId="kibale" />} />
+          <Route path="/schilling-waehrung-laender" element={<StandalonePage photos={photos} clusters={clusters} pageId="schilling-waehrung-laender" />} />
+          <Route path="/entebbe" element={<StandalonePage photos={photos} clusters={clusters} pageId="entebbe" />} />
+          <Route path="/fort-portal" element={<Navigate to="/fort-portal-reisefuehrer" replace />} />
           <Route path="/tiere" element={<HubPage photos={photos} clusters={clusters} hubId="tiere" />} />
           <Route path="/nationalparks" element={<HubPage photos={photos} clusters={clusters} hubId="nationalparks" />} />
           <Route path="/regionen" element={<HubPage photos={photos} clusters={clusters} hubId="regionen" />} />
