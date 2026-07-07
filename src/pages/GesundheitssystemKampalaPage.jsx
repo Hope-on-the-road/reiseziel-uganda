@@ -378,6 +378,17 @@ export default function GesundheitssystemKampalaPage() {
             wirtschaftlichen Integration — denn wer wirtschaftlich abgesichert ist, kann
             sich auch medizinische Grundversorgung leisten.
           </p>
+          {/* Inline-Foto Community Buhoma */}
+          <figure className="my-8 rounded-xl overflow-hidden">
+            <img
+              src="https://eqlnmpmfhxdllkuetury.supabase.co/storage/v1/object/public/thumbnails/uganda_1782125542350_50o7.jpg"
+              alt="Gemeinschaftsgruppe in Buhoma vor einem Gebäude mit Wellblechdach — Menschen unterschiedlichen Alters stehen zusammen"
+              className="w-full object-cover max-h-[420px]"
+            />
+            <figcaption className="text-xs text-gray-500 text-center py-2 px-4">
+              Buhoma, Juni 2026 — Foto: Mark Suer
+            </figcaption>
+          </figure>
           <p className="text-gray-700 mb-5 leading-relaxed">
             Mary Edward, die mit ihrem Muhaba Pastries Store in Kampala als Unternehmerin tätig
             ist, steht für diesen Weg. Ihr Laden ist ein Beispiel dafür, dass Integration
