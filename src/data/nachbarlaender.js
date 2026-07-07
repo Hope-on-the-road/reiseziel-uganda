@@ -66,52 +66,52 @@ export const nachbarlaender = {
     ],
     faqs: [
       {
-        frage: 'Wie viele Nachbarlaender hat Uganda?',
-        antwort: 'Uganda hat fuenf Nachbarlaender: Kenia im Osten, Tansania im Sueden, Ruanda im Suedwesten, die Demokratische Republik Kongo im Westen und den Suedsudan im Norden. Die Gesamtlaenge aller Grenzen betraegt rund 2.729 Kilometer, wobei die Grenze zu Kenia mit 933 Kilometern die laengste ist.',
+        q: 'Wie viele Nachbarlaender hat Uganda?',
+        a: 'Uganda hat fuenf Nachbarlaender: Kenia im Osten, Tansania im Sueden, Ruanda im Suedwesten, die Demokratische Republik Kongo im Westen und den Suedsudan im Norden. Die Gesamtlaenge aller Grenzen betraegt rund 2.729 Kilometer, wobei die Grenze zu Kenia mit 933 Kilometern die laengste ist.',
       },
       {
-        frage: 'Was ist das East Africa Tourist Visa und welche Laender deckt es ab?',
-        antwort: 'Das East Africa Tourist Visa (EATV) kostet 100 USD und gilt fuer Uganda, Kenia und Ruanda. Es ist 90 Tage gueltig und erlaubt eine einmalige Einreise in die Region sowie beliebig viele Grenzuebertritte zwischen den drei Laendern. Die Beantragung erfolgt online ueber das E-Visa-Portal des Ersteinreiselandes. Es ist guenstiger als drei Einzelvisa und ideal fuer Kombireisen.',
+        q: 'Was ist das East Africa Tourist Visa und welche Laender deckt es ab?',
+        a: 'Das East Africa Tourist Visa (EATV) kostet 100 USD und gilt fuer Uganda, Kenia und Ruanda. Es ist 90 Tage gueltig und erlaubt eine einmalige Einreise in die Region sowie beliebig viele Grenzuebertritte zwischen den drei Laendern. Die Beantragung erfolgt online ueber das E-Visa-Portal des Ersteinreiselandes. Es ist guenstiger als drei Einzelvisa und ideal fuer Kombireisen.',
       },
       {
-        frage: 'Kann ich Uganda und Kenia in einer Reise kombinieren?',
-        antwort: 'Ja, Uganda und Kenia lassen sich hervorragend kombinieren. Mit dem East Africa Tourist Visa benoetigen Sie nur ein Visum fuer beide Laender. Die Grenzuebergaenge Malaba und Busia sind 24 Stunden geoeffnet. Eine beliebte Route fuehrt von Ugandas Gorilla Trekking und Nationalparks ueber die Grenze zur Masai Mara und weiter an Kenias Kueste. Planen Sie mindestens 14 Tage fuer diese Kombination ein.',
+        q: 'Kann ich Uganda und Kenia in einer Reise kombinieren?',
+        a: 'Ja, Uganda und Kenia lassen sich hervorragend kombinieren. Mit dem East Africa Tourist Visa benoetigen Sie nur ein Visum fuer beide Laender. Die Grenzuebergaenge Malaba und Busia sind 24 Stunden geoeffnet. Eine beliebte Route fuehrt von Ugandas Gorilla Trekking und Nationalparks ueber die Grenze zur Masai Mara und weiter an Kenias Kueste. Planen Sie mindestens 14 Tage fuer diese Kombination ein.',
       },
       {
-        frage: 'Ist Tansania noch Teil des East Africa Tourist Visa?',
-        antwort: 'Nein, Tansania ist seit 2016 nicht mehr Teil des East Africa Tourist Visa. Reisende benoetigen ein separates tansanisches Visum, das vorab online als E-Visa fuer 50 USD beantragt werden sollte. Die Kombination Uganda-Tansania ist dennoch moeglich und empfehlenswert, erfordert aber zwei separate Visa.',
+        q: 'Ist Tansania noch Teil des East Africa Tourist Visa?',
+        a: 'Nein, Tansania ist seit 2016 nicht mehr Teil des East Africa Tourist Visa. Reisende benoetigen ein separates tansanisches Visum, das vorab online als E-Visa fuer 50 USD beantragt werden sollte. Die Kombination Uganda-Tansania ist dennoch moeglich und empfehlenswert, erfordert aber zwei separate Visa.',
       },
       {
-        frage: 'Welche Grenzuebergaenge zwischen Uganda und Kenia gibt es?',
-        antwort: 'Es gibt drei wichtige Grenzuebergaenge: Malaba ist der groesste Handelsgrenzuebergang und 24 Stunden geoeffnet. Busia am Victoriasee ist ebenfalls rund um die Uhr geoeffnet und fuer Individualreisende oft schneller. Suam im Nordosten ist kleiner und nur von 6:00 bis 18:00 Uhr geoeffnet, aber relevant fuer Reisen zum Mount Elgon.',
+        q: 'Welche Grenzuebergaenge zwischen Uganda und Kenia gibt es?',
+        a: 'Es gibt drei wichtige Grenzuebergaenge: Malaba ist der groesste Handelsgrenzuebergang und 24 Stunden geoeffnet. Busia am Victoriasee ist ebenfalls rund um die Uhr geoeffnet und fuer Individualreisende oft schneller. Suam im Nordosten ist kleiner und nur von 6:00 bis 18:00 Uhr geoeffnet, aber relevant fuer Reisen zum Mount Elgon.',
       },
       {
-        frage: 'Wo ist Gorilla Trekking guenstiger -- Uganda, Ruanda oder DR Kongo?',
-        antwort: 'Uganda bietet das beste Preis-Leistungs-Verhaeltnis: Ein Gorilla-Permit kostet 800 USD. In Ruanda zahlen Besucher 1.500 USD fuer ein vergleichbares Erlebnis. Im Virunga National Park der DR Kongo ist es mit rund 400 USD am guenstigsten, jedoch schraenkt die instabile Sicherheitslage im Ostkongo die Erreichbarkeit erheblich ein. Das Auswaertige Amt raet von Reisen in den Osten der DR Kongo ab.',
+        q: 'Wo ist Gorilla Trekking guenstiger -- Uganda, Ruanda oder DR Kongo?',
+        a: 'Uganda bietet das beste Preis-Leistungs-Verhaeltnis: Ein Gorilla-Permit kostet 800 USD. In Ruanda zahlen Besucher 1.500 USD fuer ein vergleichbares Erlebnis. Im Virunga National Park der DR Kongo ist es mit rund 400 USD am guenstigsten, jedoch schraenkt die instabile Sicherheitslage im Ostkongo die Erreichbarkeit erheblich ein. Das Auswaertige Amt raet von Reisen in den Osten der DR Kongo ab.',
       },
       {
-        frage: 'Kann ich von Uganda aus in den Suedsudan reisen?',
-        antwort: 'Theoretisch ja, ueber den Grenzuebergang Elegu/Nimule. Allerdings raet das Auswaertige Amt dringend von Reisen in den Suedsudan ab. Das Land befindet sich in einer schweren humanitaeren Krise, die Sicherheitslage ist aeusserst instabil, und eine touristische Infrastruktur existiert praktisch nicht. Eine Reise in den Suedsudan ist derzeit nicht empfehlenswert.',
+        q: 'Kann ich von Uganda aus in den Suedsudan reisen?',
+        a: 'Theoretisch ja, ueber den Grenzuebergang Elegu/Nimule. Allerdings raet das Auswaertige Amt dringend von Reisen in den Suedsudan ab. Das Land befindet sich in einer schweren humanitaeren Krise, die Sicherheitslage ist aeusserst instabil, und eine touristische Infrastruktur existiert praktisch nicht. Eine Reise in den Suedsudan ist derzeit nicht empfehlenswert.',
       },
       {
-        frage: 'Wie komme ich am besten von Uganda nach Ruanda?',
-        antwort: 'Die schnellste Route fuehrt von Kampala ueber Kabale zum Grenzuebergang Katuna/Gatuna und weiter nach Kigali -- die Fahrt dauert etwa 8 bis 10 Stunden. Alternativ koennen Reisende ab Kisoro ueber Cyanika einreisen, was sich besonders fuer die Kombination Bwindi-Volcanoes National Park eignet. Regelmaessige Busverbindungen verkehren auf beiden Routen. Das EATV deckt beide Laender ab.',
+        q: 'Wie komme ich am besten von Uganda nach Ruanda?',
+        a: 'Die schnellste Route fuehrt von Kampala ueber Kabale zum Grenzuebergang Katuna/Gatuna und weiter nach Kigali -- die Fahrt dauert etwa 8 bis 10 Stunden. Alternativ koennen Reisende ab Kisoro ueber Cyanika einreisen, was sich besonders fuer die Kombination Bwindi-Volcanoes National Park eignet. Regelmaessige Busverbindungen verkehren auf beiden Routen. Das EATV deckt beide Laender ab.',
       },
       {
-        frage: 'Ist die DR Kongo als Reiseziel sicher?',
-        antwort: 'Der Osten der DR Kongo, der an Uganda grenzt, wird vom Auswaertigen Amt als nicht sicher eingestuft. Bewaffnete Gruppen operieren in der Region, und die Lage kann sich kurzfristig aendern. Der Virunga National Park wurde mehrfach wegen Sicherheitsbedenken geschlossen. Von individuellen Reisen in den Ostkongo ist dringend abzuraten. Wenn ueberhaupt, sollte eine Reise nur mit einem erfahrenen, lokalen Reiseveranstalter und nach Pruefung der aktuellen Sicherheitslage erfolgen.',
+        q: 'Ist die DR Kongo als Reiseziel sicher?',
+        a: 'Der Osten der DR Kongo, der an Uganda grenzt, wird vom Auswaertigen Amt als nicht sicher eingestuft. Bewaffnete Gruppen operieren in der Region, und die Lage kann sich kurzfristig aendern. Der Virunga National Park wurde mehrfach wegen Sicherheitsbedenken geschlossen. Von individuellen Reisen in den Ostkongo ist dringend abzuraten. Wenn ueberhaupt, sollte eine Reise nur mit einem erfahrenen, lokalen Reiseveranstalter und nach Pruefung der aktuellen Sicherheitslage erfolgen.',
       },
       {
-        frage: 'Welche Reisekombination mit Nachbarlaendern empfehlen Sie fuer zwei Wochen?',
-        antwort: 'Fuer zwei Wochen empfehlen wir die Kombination Uganda und Kenia oder Uganda und Ruanda. Uganda-Kenia: Eine Woche Gorilla Trekking, Kibale und Queen Elizabeth in Uganda, dann eine Woche Masai Mara und Diani Beach in Kenia. Uganda-Ruanda: Eine Woche Uganda mit Bwindi und Queen Elizabeth, dann Volcanoes National Park, Kigali und Lake Kivu in Ruanda. Beide Kombinationen sind mit dem EATV moeglich.',
+        q: 'Welche Reisekombination mit Nachbarlaendern empfehlen Sie fuer zwei Wochen?',
+        a: 'Fuer zwei Wochen empfehlen wir die Kombination Uganda und Kenia oder Uganda und Ruanda. Uganda-Kenia: Eine Woche Gorilla Trekking, Kibale und Queen Elizabeth in Uganda, dann eine Woche Masai Mara und Diani Beach in Kenia. Uganda-Ruanda: Eine Woche Uganda mit Bwindi und Queen Elizabeth, dann Volcanoes National Park, Kigali und Lake Kivu in Ruanda. Beide Kombinationen sind mit dem EATV moeglich.',
       },
       {
-        frage: 'Brauche ich eine Gelbfieberimpfung fuer Grenzuebertritte in Ostafrika?',
-        antwort: 'Ja, die Gelbfieberimpfung ist fuer Reisen in und zwischen den ostafrikanischen Laendern Pflicht. Der internationale Impfausweis mit dem Nachweis der Gelbfieberimpfung wird an praktisch allen Grenzuebergaengen kontrolliert. Die Impfung muss mindestens 10 Tage vor Einreise erfolgt sein und gilt lebenslang. Ohne Nachweis kann die Einreise verweigert oder eine Impfung vor Ort erzwungen werden.',
+        q: 'Brauche ich eine Gelbfieberimpfung fuer Grenzuebertritte in Ostafrika?',
+        a: 'Ja, die Gelbfieberimpfung ist fuer Reisen in und zwischen den ostafrikanischen Laendern Pflicht. Der internationale Impfausweis mit dem Nachweis der Gelbfieberimpfung wird an praktisch allen Grenzuebergaengen kontrolliert. Die Impfung muss mindestens 10 Tage vor Einreise erfolgt sein und gilt lebenslang. Ohne Nachweis kann die Einreise verweigert oder eine Impfung vor Ort erzwungen werden.',
       },
       {
-        frage: 'Was ist die East African Community und was bedeutet sie fuer Touristen?',
-        antwort: 'Die East African Community (EAC) ist eine regionale Wirtschafts- und Politikgemeinschaft mit acht Mitgliedern: Uganda, Kenia, Tansania, Ruanda, Burundi, DR Kongo, Suedsudan und Somalia. Fuer Touristen bedeutet die EAC erleichterte Grenzuebertritte, das East Africa Tourist Visa und langfristig moeglicherweise eine gemeinsame Waehrung. Die EAC foerdert auch den grenzueberschreitenden Naturschutz, etwa beim Schutz der Berggorillas im Virunga-Massiv.',
+        q: 'Was ist die East African Community und was bedeutet sie fuer Touristen?',
+        a: 'Die East African Community (EAC) ist eine regionale Wirtschafts- und Politikgemeinschaft mit acht Mitgliedern: Uganda, Kenia, Tansania, Ruanda, Burundi, DR Kongo, Suedsudan und Somalia. Fuer Touristen bedeutet die EAC erleichterte Grenzuebertritte, das East Africa Tourist Visa und langfristig moeglicherweise eine gemeinsame Waehrung. Die EAC foerdert auch den grenzueberschreitenden Naturschutz, etwa beim Schutz der Berggorillas im Virunga-Massiv.',
       },
     ],
     quellen: [
