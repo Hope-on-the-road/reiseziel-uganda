@@ -50,6 +50,9 @@ const MenschTierKonfliktPage = lazy(() => import('./pages/MenschTierKonfliktPage
 const DrahtschlingenWildereiPage = lazy(() => import('./pages/DrahtschlingenWildereiPage.jsx'))
 const BerggorillaPortraitPage = lazy(() => import('./pages/BerggorillaPortraitPage.jsx'))
 const BwindiBesucherzahlenPage = lazy(() => import('./pages/BwindiBesucherzahlenPage.jsx'))
+const CommunityBenefitBwindiPage = lazy(() => import('./pages/CommunityBenefitBwindiPage.jsx'))
+const UnternehmertumTourismusPage = lazy(() => import('./pages/UnternehmertumTourismusPage.jsx'))
+const StimmenBuhomaPage = lazy(() => import('./pages/StimmenBuhomaPage.jsx'))
 
 function PageLoader() {
   return (
@@ -325,6 +328,9 @@ export default function App() {
           <Route path="/drahtschlingen-wilderei-uganda" element={<DrahtschlingenWildereiPage />} />
           <Route path="/berggorilla-portrait-leben-verhalten" element={<BerggorillaPortraitPage />} />
           <Route path="/bwindi-besucherzahlen-statistik" element={<BwindiBesucherzahlenPage />} />
+          <Route path="/community-benefit-sharing-bwindi" element={<CommunityBenefitBwindiPage />} />
+          <Route path="/unternehmertum-tourismusziele-buhoma" element={<UnternehmertumTourismusPage />} />
+          <Route path="/stimmen-buhoma" element={<StimmenBuhomaPage />} />
           <Route path="/kibale" element={<StandalonePage photos={photos} clusters={clusters} pageId="kibale" />} />
           <Route path="/schilling-waehrung-laender" element={<StandalonePage photos={photos} clusters={clusters} pageId="schilling-waehrung-laender" />} />
           <Route path="/entebbe" element={<StandalonePage photos={photos} clusters={clusters} pageId="entebbe" />} />
