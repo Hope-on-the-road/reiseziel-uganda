@@ -59,6 +59,20 @@ const LakeKasyohaKitomiPage = lazy(() => import('./pages/LakeKasyohaKitomiPage.j
 const LakeMbouroVogelPage = lazy(() => import('./pages/LakeMbouroVogelPage.jsx'))
 const HotelsUnterkuenfteUgandaPage = lazy(() => import('./pages/HotelsUnterkuenfteUgandaPage.jsx'))
 const PauschalreisenUgandaPage = lazy(() => import('./pages/PauschalreisenUgandaPage.jsx'))
+const GlossyIbisUgandaPage = lazy(() => import('./pages/GlossyIbisUgandaPage.jsx'))
+const GreifvoegelUgandaPage = lazy(() => import('./pages/GreifvoegelUgandaPage.jsx'))
+const PapageienUgandaPage = lazy(() => import('./pages/PapageienUgandaPage.jsx'))
+const NatureUgandaMissionPage = lazy(() => import('./pages/NatureUgandaMissionPage.jsx'))
+const SporenkiebitzUgandaPage = lazy(() => import('./pages/SporenkiebitzUgandaPage.jsx'))
+const PriniaArtenUgandaPage = lazy(() => import('./pages/PriniaArtenUgandaPage.jsx'))
+const StareUgandaPage = lazy(() => import('./pages/StareUgandaPage.jsx'))
+const KabaleKisoroVogelPage = lazy(() => import('./pages/KabaleKisoroVogelPage.jsx'))
+const RollerEisvogelUgandaPage = lazy(() => import('./pages/RollerEisvogelUgandaPage.jsx'))
+const VogelbeobachtungAnfaengerPage = lazy(() => import('./pages/VogelbeobachtungAnfaengerPage.jsx'))
+const EchuyaForestPage = lazy(() => import('./pages/EchuyaForestPage.jsx'))
+const KaseseVogelPage = lazy(() => import('./pages/KaseseVogelPage.jsx'))
+const NaturschutzInstitutionenPage = lazy(() => import('./pages/NaturschutzInstitutionenPage.jsx'))
+const RisikotransferReiseveranstalterPage = lazy(() => import('./pages/RisikotransferReiseveranstalterPage.jsx'))
 
 function PageLoader() {
   return (
@@ -343,6 +357,20 @@ export default function App() {
           <Route path="/lake-mburo-vogelbeobachtung" element={<LakeMbouroVogelPage />} />
           <Route path="/hotels-unterkuenfte-uganda" element={<HotelsUnterkuenfteUgandaPage />} />
           <Route path="/pauschalreisen-uganda" element={<PauschalreisenUgandaPage />} />
+          <Route path="/glossy-ibis-uganda" element={<GlossyIbisUgandaPage />} />
+          <Route path="/greifvoegel-uganda" element={<GreifvoegelUgandaPage />} />
+          <Route path="/papageien-uganda-arten" element={<PapageienUgandaPage />} />
+          <Route path="/natureuganda-mission" element={<NatureUgandaMissionPage />} />
+          <Route path="/sporenkiebitz-uganda" element={<SporenkiebitzUgandaPage />} />
+          <Route path="/prinia-arten-uganda" element={<PriniaArtenUgandaPage />} />
+          <Route path="/stare-uganda-arten" element={<StareUgandaPage />} />
+          <Route path="/kabale-kisoro-vogelbeobachtung" element={<KabaleKisoroVogelPage />} />
+          <Route path="/roller-eisvoegel-uganda" element={<RollerEisvogelUgandaPage />} />
+          <Route path="/vogelbeobachtung-anfaenger-uganda" element={<VogelbeobachtungAnfaengerPage />} />
+          <Route path="/echuya-forest-reserve" element={<EchuyaForestPage />} />
+          <Route path="/kasese-vogelbeobachtung" element={<KaseseVogelPage />} />
+          <Route path="/naturschutz-institutionen-uganda" element={<NaturschutzInstitutionenPage />} />
+          <Route path="/risikotransfer-reiseveranstalter" element={<RisikotransferReiseveranstalterPage />} />
           <Route path="/kibale" element={<StandalonePage photos={photos} clusters={clusters} pageId="kibale" />} />
           <Route path="/schilling-waehrung-laender" element={<StandalonePage photos={photos} clusters={clusters} pageId="schilling-waehrung-laender" />} />
           <Route path="/entebbe" element={<StandalonePage photos={photos} clusters={clusters} pageId="entebbe" />} />
