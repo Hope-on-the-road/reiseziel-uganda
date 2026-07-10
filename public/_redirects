@@ -8,6 +8,7 @@
 /soziales                   /spenden                    301
 /wanderung-zu-den-sipi-falls  /sipi-falls               301
 /land-und-leute-uganda      /land-und-leute             301
+/rolex-uganda               /ugandische-rolex           301
 
 # SPA catch-all (muss am Ende stehen)
 /*    /index.html   200

@@ -1,34 +1,30 @@
 import { useState } from 'react'
 import Head from '../components/seo/Head.jsx'
+import { FaqJsonLd } from '../components/seo/JsonLd.jsx'
 import PagePhotos from '../components/PagePhotos.jsx'
 
 const SLUG = 'ugandische-rolex'
 
 const faqs = [
   {
-    frage: 'Was ist eine ugandische Rolex genau?',
-    antwort:
-      'Eine ugandische Rolex ist ein gerolltes Chapati – ein dünnes, in der Pfanne gebratenes Fladenbrot – mit einem gebratenen Ei, das direkt auf dem Chapati aufgeschlagen und zusammen mit Gemüse wie Zwiebeln, Tomaten und Kohl gebraten wird. Anschließend wird alles zu einer Rolle geformt und warm serviert. Die Rolex ist das bekannteste Streetfood Ugandas und an nahezu jedem Marktplatz und jeder Straßenkreuzung erhältlich.'
+    q: 'Was ist eine ugandische Rolex genau?',
+    a: 'Eine ugandische Rolex ist ein gerolltes Chapati – ein dünnes, in der Pfanne gebratenes Fladenbrot – mit einem gebratenen Ei, das direkt auf dem Chapati aufgeschlagen und zusammen mit Gemüse wie Zwiebeln, Tomaten und Kohl gebraten wird. Anschließend wird alles zu einer Rolle geformt und warm serviert. Die Rolex ist das bekannteste Streetfood Ugandas und an nahezu jedem Marktplatz und jeder Straßenkreuzung erhältlich.'
   },
   {
-    frage: 'Woher kommt der Name „Rolex"?',
-    antwort:
-      'Der Name Rolex hat nichts mit der Schweizer Uhrenmarke zu tun. Er leitet sich von den englischen Wörtern „Rolled Eggs" ab – also „gerollte Eier". Im ugandischen Alltag wurde dieser Ausdruck zu „Rolex" verkürzt. Der Name ist heute in ganz Uganda geläufig und bezeichnet eindeutig dieses Straßengericht, nicht die Luxusuhr.'
+    q: 'Woher kommt der Name „Rolex"?',
+    a: 'Der Name Rolex hat nichts mit der Schweizer Uhrenmarke zu tun. Er leitet sich von den englischen Wörtern „Rolled Eggs" ab – also „gerollte Eier". Im ugandischen Alltag wurde dieser Ausdruck zu „Rolex" verkürzt. Der Name ist heute in ganz Uganda geläufig und bezeichnet eindeutig dieses Straßengericht, nicht die Luxusuhr.'
   },
   {
-    frage: 'Was kostet eine Rolex in Uganda?',
-    antwort:
-      'Eine einfache Rolex kostet an einem Straßenstand in der Regel zwischen 2.000 und 4.000 ugandischen Schilling – umgerechnet etwa 0,50 bis 1,00 Euro. Varianten mit zusätzlichem Gemüse, Käse oder Fleisch können etwas teurer sein. An touristisch frequentierten Orten wie in Jinja oder Kampala liegen die Preise teilweise etwas höher.'
+    q: 'Was kostet eine Rolex in Uganda?',
+    a: 'Eine einfache Rolex kostet an einem Straßenstand in der Regel zwischen 2.000 und 4.000 ugandischen Schilling – umgerechnet etwa 0,50 bis 1,00 Euro. Varianten mit zusätzlichem Gemüse, Käse oder Fleisch können etwas teurer sein. An touristisch frequentierten Orten wie in Jinja oder Kampala liegen die Preise teilweise etwas höher.'
   },
   {
-    frage: 'Ist die ugandische Rolex vegetarisch?',
-    antwort:
-      'Die klassische Rolex ist vegetarisch, da sie aus Chapati, Ei und Gemüse besteht. Viele Stands bieten jedoch auch Varianten mit Fleisch oder Käse an. Wer rein vegetarisch oder vegan essen möchte, sollte beim Kauf explizit nachfragen. Eifreie Chapati gibt es ebenfalls, diese gelten dann aber nicht mehr als echte Rolex.'
+    q: 'Ist die ugandische Rolex vegetarisch?',
+    a: 'Die klassische Rolex ist vegetarisch, da sie aus Chapati, Ei und Gemüse besteht. Viele Stands bieten jedoch auch Varianten mit Fleisch oder Käse an. Wer rein vegetarisch oder vegan essen möchte, sollte beim Kauf explizit nachfragen. Eifreie Chapati gibt es ebenfalls, diese gelten dann aber nicht mehr als echte Rolex.'
   },
   {
-    frage: 'Wo in Uganda findet man die beste Rolex?',
-    antwort:
-      'Die beste Rolex findet man oft nicht an bekannten Touristenorten, sondern an gut besuchten Morgen- und Abendmärkten in Kampala, Jinja, Fort Portal oder Mbarara. Ein bekannter Standort für Rucksackreisende ist die Bujagali Chapati Company nahe Jinja am östlichen Nilufer des Nils. Generell gilt: Je mehr Einheimische an einem Stand stehen, desto frischer und authentischer ist die Rolex.'
+    q: 'Wo in Uganda findet man die beste Rolex?',
+    a: 'Die beste Rolex findet man oft nicht an bekannten Touristenorten, sondern an gut besuchten Morgen- und Abendmärkten in Kampala, Jinja, Fort Portal oder Mbarara. Ein bekannter Standort für Rucksackreisende ist die Bujagali Chapati Company nahe Jinja am östlichen Nilufer des Nils. Generell gilt: Je mehr Einheimische an einem Stand stehen, desto frischer und authentischer ist die Rolex.'
   }
 ]
 
@@ -46,6 +42,7 @@ export default function UgandischeRolexPage() {
         description="Die ugandische Rolex ist Ugandas bekanntestes Streetfood – Chapati mit Ei, frisch gerollt. Herkunft, Zubereitung und die besten Orte erklärt."
         canonical={`https://www.reiseziel-uganda.de/${SLUG}`}
       />
+      <FaqJsonLd faqs={faqs} />
       <main className="bg-white">
 
         {/* Hero-Bild */}
@@ -430,14 +427,14 @@ export default function UgandischeRolexPage() {
                     className="w-full text-left px-5 py-4 flex justify-between items-center bg-white hover:bg-gray-50 transition-colors"
                     aria-expanded={openFaq === index}
                   >
-                    <span className="font-semibold text-gray-900 pr-4">{item.frage}</span>
+                    <span className="font-semibold text-gray-900 pr-4">{item.q}</span>
                     <span className="text-jungle-600 text-xl flex-shrink-0">
                       {openFaq === index ? '−' : '+'}
                     </span>
                   </button>
                   {openFaq === index && (
                     <div className="px-5 py-4 bg-gray-50 text-gray-700 leading-relaxed border-t border-gray-200">
-                      {item.antwort}
+                      {item.a}
                     </div>
                   )}
                 </div>

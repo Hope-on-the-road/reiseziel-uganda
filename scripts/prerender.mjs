@@ -45,7 +45,7 @@ const ROUTES = [
   '/spenden',
   '/butiru-freundeskreis',
   '/hopekitchen-buhoma',
-  '/rolex-uganda',
+
   '/ugandische-mahlzeit',
   '/katogo-fruehstueck',
   '/uganda-ostafrika-vergleich',
@@ -262,6 +262,9 @@ const ROUTES = [
   '/drahtschlingen-wilderei-uganda',
   '/berggorilla-portrait-leben-verhalten',
   '/bwindi-besucherzahlen-statistik',
+  '/community-benefit-sharing-bwindi',
+  '/unternehmertum-tourismusziele-buhoma',
+  '/stimmen-buhoma',
   '/',  // Homepage zuletzt -- ueberschreibt index.html
 ]
 
