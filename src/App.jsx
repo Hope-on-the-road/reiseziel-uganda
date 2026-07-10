@@ -56,6 +56,7 @@ const UnternehmertumTourismusPage = lazy(() => import('./pages/UnternehmertumTou
 const StimmenBuhomaPage = lazy(() => import('./pages/StimmenBuhomaPage.jsx'))
 const KormoranUgandaPage = lazy(() => import('./pages/KormoranUgandaPage.jsx'))
 const LakeKasyohaKitomiPage = lazy(() => import('./pages/LakeKasyohaKitomiPage.jsx'))
+const LakeMbouroVogelPage = lazy(() => import('./pages/LakeMbouroVogelPage.jsx'))
 const HotelsUnterkuenfteUgandaPage = lazy(() => import('./pages/HotelsUnterkuenfteUgandaPage.jsx'))
 const PauschalreisenUgandaPage = lazy(() => import('./pages/PauschalreisenUgandaPage.jsx'))
 
@@ -339,6 +340,7 @@ export default function App() {
           <Route path="/stimmen-buhoma" element={<StimmenBuhomaPage />} />
           <Route path="/kormoran-uganda" element={<KormoranUgandaPage />} />
           <Route path="/lake-kasyoha-kitomi-voegel" element={<LakeKasyohaKitomiPage />} />
+          <Route path="/lake-mburo-vogelbeobachtung" element={<LakeMbouroVogelPage />} />
           <Route path="/hotels-unterkuenfte-uganda" element={<HotelsUnterkuenfteUgandaPage />} />
           <Route path="/pauschalreisen-uganda" element={<PauschalreisenUgandaPage />} />
           <Route path="/kibale" element={<StandalonePage photos={photos} clusters={clusters} pageId="kibale" />} />
