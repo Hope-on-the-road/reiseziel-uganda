@@ -32,6 +32,7 @@ const GorillaTrekkingAblaufPage = lazy(() => import('./pages/GorillaTrekkingAbla
 const MurchisonFallsNationalparkGuidePage = lazy(() => import('./pages/MurchisonFallsNationalparkGuidePage.jsx'))
 const GrossraubtierUgandaPage = lazy(() => import('./pages/GrossraubtierUgandaPage.jsx'))
 const LoewenQueenElizabethPage = lazy(() => import('./pages/LoewenQueenElizabethPage.jsx'))
+const KiebitzArtenUgandaPage = lazy(() => import('./pages/KiebitzArtenUgandaPage.jsx'))
 const GorillaPermitPreisePage = lazy(() => import('./pages/GorillaPermitPreisePage.jsx'))
 const UgandischeRolexPage = lazy(() => import('./pages/UgandischeRolexPage.jsx'))
 const NachhaltigerTourismusUgandaPage = lazy(() => import('./pages/NachhaltigerTourismusUgandaPage.jsx'))
@@ -53,6 +54,8 @@ const BwindiBesucherzahlenPage = lazy(() => import('./pages/BwindiBesucherzahlen
 const CommunityBenefitBwindiPage = lazy(() => import('./pages/CommunityBenefitBwindiPage.jsx'))
 const UnternehmertumTourismusPage = lazy(() => import('./pages/UnternehmertumTourismusPage.jsx'))
 const StimmenBuhomaPage = lazy(() => import('./pages/StimmenBuhomaPage.jsx'))
+const KormoranUgandaPage = lazy(() => import('./pages/KormoranUgandaPage.jsx'))
+const LakeKasyohaKitomiPage = lazy(() => import('./pages/LakeKasyohaKitomiPage.jsx'))
 
 function PageLoader() {
   return (
@@ -310,6 +313,7 @@ export default function App() {
           <Route path="/murchison-falls-nationalpark-guide" element={<MurchisonFallsNationalparkGuidePage />} />
           <Route path="/grossraubtiere-uganda" element={<GrossraubtierUgandaPage />} />
           <Route path="/loewen-queen-elizabeth-murchison" element={<LoewenQueenElizabethPage />} />
+          <Route path="/kiebitz-arten-uganda" element={<KiebitzArtenUgandaPage />} />
           <Route path="/gorilla-permit-preise" element={<GorillaPermitPreisePage />} />
           <Route path="/ugandische-rolex" element={<UgandischeRolexPage />} />
           <Route path="/nachhaltiger-tourismus-uganda-tipps" element={<NachhaltigerTourismusUgandaPage />} />
@@ -331,6 +335,8 @@ export default function App() {
           <Route path="/community-benefit-sharing-bwindi" element={<CommunityBenefitBwindiPage />} />
           <Route path="/unternehmertum-tourismusziele-buhoma" element={<UnternehmertumTourismusPage />} />
           <Route path="/stimmen-buhoma" element={<StimmenBuhomaPage />} />
+          <Route path="/kormoran-uganda" element={<KormoranUgandaPage />} />
+          <Route path="/lake-kasyoha-kitomi-voegel" element={<LakeKasyohaKitomiPage />} />
           <Route path="/kibale" element={<StandalonePage photos={photos} clusters={clusters} pageId="kibale" />} />
           <Route path="/schilling-waehrung-laender" element={<StandalonePage photos={photos} clusters={clusters} pageId="schilling-waehrung-laender" />} />
           <Route path="/entebbe" element={<StandalonePage photos={photos} clusters={clusters} pageId="entebbe" />} />
