@@ -122,13 +122,14 @@ export const standalonePages = {
 
   'staedte-in-uganda': {
     slug: '/staedte-in-uganda',
-    title: 'Staedte in Uganda: Kampala, Jinja und mehr',
-    h1: 'Staedte in Uganda -- Von Kampala bis Jinja: Die wichtigsten Orte fuer Reisende',
+    title: 'Stadt in Uganda: Hauptstadt & bekannte Staedte im Ueberblick',
+    h1: 'Stadt in Uganda: Kampala, Jinja, Gulu und alle wichtigen Orte',
     subtitle: 'Kampala als Hauptstadt, Jinja an der Nilquelle, Entebbe am See -- und wie man zwischen den Staedten reist',
-    metaDescription: 'Welche Stadt in Uganda hat 7 Buchstaben? Die Antwort: KAMPALA. Alle wichtigen Staedte in Uganda fuer Reisende -- mit Reiseinfos, Transport und Safaritipps.',
+    metaDescription: 'Stadt in Uganda -- Kampala ist die Hauptstadt, Jinja die Abenteuer-City. Alle wichtigen Staedte Ugandas mit Highlights, Karte und Reisetipps.',
     breadcrumbs: [{ label: 'Staedte in Uganda' }],
     publishedTime: '2026-06-30',
-    modifiedTime: '2026-06-30',
+    modifiedTime: '2026-07-11',
+    intro: 'Wer im Kreuzwortraetsel nach einer Stadt in Uganda sucht, findet hier alle Antworten: KAMPALA (7 Buchstaben) ist die Hauptstadt, ENTEBBE (7 Buchstaben) der internationale Flughafenstandort, JINJA (5 Buchstaben) die Abenteuerstadt an der Nilquelle, MBALE (5 Buchstaben) das Tor zum Mount Elgon im Osten, GULU (4 Buchstaben) das Zentrum Nordugandas und ARUA (4 Buchstaben) die Stadt an der Grenze zur Demokratischen Republik Kongo. Alle wichtigen ugandischen Staedte, ihre Lage, Sehenswuerdigkeiten und Reisetipps -- im Ueberblick.',
     photoFilter: 'murchison_falls',
     kurzantwort: 'Die Hauptstadt Ugandas heisst Kampala -- fuer Kreuzwortraetsel-Fans: KAMPALA schreibt sich mit sieben Buchstaben. Die Stadt liegt auf mehreren Huegeln im Zentrum des Landes, rund 40 Kilometer noerdlich von Entebbe, wo der internationale Flughafen liegt. Neben Kampala sind Jinja an der Nilquelle, Entebbe am Victoriasee, Mbale am Fuss des Mount Elgon und Fort Portal im Westen die wichtigsten Staedte fuer Reisende. Uganda ist kein Land der Grossstaedte -- seine Attraktionen liegen in den Nationalparks und am See. Doch genau deshalb lohnt es sich, die Staedte als das zu begreifen was sie sind: lebendige Ausgangspunkte, Haltepunkte und Ankerpunkte einer Reise durch eines der faszinierendsten Laender Ostafrikas.',
     fakten: [
@@ -140,6 +141,11 @@ export const standalonePages = {
       { label: 'Entfernung Kampala-Murchison', value: 'ca. 300 km (5-6 Stunden)' },
       { label: 'Waehrung', value: 'Ugandischer Schilling (UGX)' },
       { label: 'Amtssprachen', value: 'Englisch und Swahili' },
+      { label: 'Hoehe Kampala', value: 'ca. 1.190 m ue.M.' },
+      { label: 'Hoehe Entebbe', value: 'ca. 1.143 m ue.M.' },
+      { label: 'Hoehe Jinja', value: 'ca. 1.136 m ue.M.' },
+      { label: 'Hoehe Fort Portal', value: 'ca. 1.547 m ue.M.' },
+      { label: 'Hoehe Gulu', value: 'ca. 1.000 m ue.M.' },
     ],
     sections: [
       {
@@ -158,6 +164,12 @@ export const standalonePages = {
         id: 'jinja-entebbe-und-weitere-staedte',
         title: 'Jinja, Entebbe und die anderen wichtigen Staedte in Uganda',
         content: 'Neben Kampala lohnen sich in Uganda vor allem Jinja, Entebbe, Mbale und Fort Portal als eigene Reiseziele oder als Zwischenstopps auf dem Weg in die Nationalparks.\n\nJinja liegt rund 80 Kilometer oestlich von Kampala, wo der Nil den Victoriasee verlaesst und seine mehr als 6.600 Kilometer lange Reise bis zum Mittelmeer beginnt. Diesen historischen Ort entdeckte John Hanning Speke am 28. Juli 1862. Die Nilquelle ist heute ein parkaehnliches Gelaende mit einem Denkmal und Bootsanlegern. Das eigentliche Markenzeichen Jinjas ist das Wildwasser-Rafting auf dem Nil: Klasse III bis V-Stromschnellen auf einer Tagesstrecke von etwa 25 Kilometern, mit professionellen Guides und Sicherheitsstandards, die internationalen Vergleichen standhalten. Auch der Bujagali-Staudamm, ein 250-Megawatt-Wasserkraftwerk knapp oberhalb der urspruenglichen Bujagali Falls, praesentiert das Spannungsfeld zwischen Energieentwicklung und Tourismusbewahrt in Uganda.\n\nEntebbe liegt auf einer Halbinsel im Victoriasee, rund 40 Kilometer suedlich von Kampala. Hier befindet sich Entebbe International Airport, der einzige internationale Flughafen des Landes. Die Stadt hat einen beschaulichen Kolonialcharakter bewahrt -- breite Baumalleen, das Uganda Wildlife Education Centre und der Entebbe Botanical Garden von 1898 laden zum Verweilen ein. Wer Uganda betritt oder verlaesst, landet fast immer in Entebbe, und wer nur einen halben Tag hat, lernt hier das Land auf angenehme Weise kennen.\n\nMbale im Osten ist das Tor zu den Sipi Falls und zum Mount Elgon National Park. Die drei Wasserfaelle am Rande des Elgon-Vulkans, rund 45 Kilometer von Mbale entfernt, gehoeren zu den schoensten Ugandas. Fort Portal im Westen bietet Zugang zu den Kraterseen, dem Kibale Forest National Park und den Rwenzori Mountains. Kabale im Suedwesten ist der letzte groessere Ort vor dem Bwindi Impenetrable National Park, wo das Gorilla Trekking stattfindet. Gulu im Norden, das sich nach Jahren des LRA-Konflikts zu einer dynamischen Universitaetsstadt entwickelt hat, dient als Ausgangspunkt fuer den noerdlichen Murchison Falls National Park.',
+        showPhotos: false,
+      },
+      {
+        id: 'lira-city-uganda',
+        title: 'Lira: Ugandas aufstrebende Wirtschaftsstadt im Norden',
+        content: 'Lira liegt rund 340 Kilometer noerdlich von Kampala im Norden Ugandas und ist eine der am schnellsten wachsenden Staedte des Landes. Die Stadt am Ufer des Lake Kwania, einem Auslaeufer des Lake Kyoga, hat sich in den letzten Jahren zu einem wichtigen regionalen Wirtschafts- und Bildungszentrum entwickelt. Lira University, gegruendet 2015, zieht Studenten aus dem gesamten Norden und Nordosten an. Der Lira Regional Referral Hospital ist einer der bedeutendsten Gesundheitsversorgungspunkte Nordugandas.\n\nLira ist keine klassische Touristenstadt -- und das macht sie fuer Reisende interessant, die Uganda abseits der ausgetretenen Pfade erleben wollen. Auf den Maerkten der Stadt, insbesondere dem zentralen Lira Market, erlebt man das pulsierende Handelsleben Nordugandas hautnah. Die Langi, das Hauptvolk der Region, sind fuer ihre reiche Erzaehltradition und handwerkliche Fertigkeiten bekannt. Lokale Handwerker stellen Flechtware, Toepferwaren und Holzschnitzereien her, die weit weniger touristisch-kommerzialisiert sind als in Kampala.\n\nFuer Reisende bietet Lira eine praktische Zwischenstation auf dem Weg vom Murchison Falls National Park in Richtung Kidepo Valley National Park. Die Strasse von Gulu nach Lira und weiter nach Moroto ist gut ausgebaut und bietet Einblicke in die weite, landwirtschaftlich gepragte Landschaft Nordugandas. Sorghum, Maniok und Hirse praegen die Felder entlang der Strasse. Lake Kwania ist ein unterschaetztes Reiseziel: Die Papyrusssuempfe am Seeufer sind Lebensraum fuer den seltenen Schuhschnabel und zahlreiche Wasservogelarten -- eine Geheimtipp-Destination fuer Ornithologen, die den Betrieb in Entebbe oder Murchison scheuen.',
         showPhotos: false,
       },
       {
@@ -193,6 +205,26 @@ export const standalonePages = {
       {
         q: 'Welche ugandischen Staedte sind Ausgangspunkte fuer Safaris?',
         a: 'Kampala und Entebbe sind die klassischen Ausgangspunkte fuer den Murchison Falls National Park (ca. 300 km) und den Queen Elizabeth National Park (ca. 400 km). Fort Portal im Westen erschliesst den Kibale Forest und Queen Elizabeth Park. Kabale im Suedwesten ist der letzte groessere Ort vor Bwindi (Gorilla Trekking). Jinja im Osten liegt ideal fuer Reisende die Ost-Uganda mit Mount Elgon und Sipi Falls erkunden. Fuer Kidepo im Nordosten ist Gulu die naechste Grossstadt.',
+      },
+      {
+        q: 'Welche Stadt in Uganda hat 5 Buchstaben?',
+        a: 'Zwei ugandische Staedte mit fuenf Buchstaben tauchen haeufig in Kreuzwoertraetseln auf: JINJA (J-I-N-J-A) im Osten an der Nilquelle -- bekannt als Abenteuer-Hauptstadt Ostafrikas fuer Wildwasser-Rafting und Bungee-Jumping -- und MBALE (M-B-A-L-E) am Fuss des Mount Elgon im Nordosten, Ausgangspunkt fuer Trekking zu den Sipi Falls. Beide Staedte sind von Kampala aus in zwei bis drei Stunden erreichbar.',
+      },
+      {
+        q: 'Welche Stadt in Uganda hat 4 Buchstaben?',
+        a: 'Mit vier Buchstaben: GULU (G-U-L-U) ist die bekannteste ugandische Stadt mit vier Buchstaben. Sie liegt rund 340 Kilometer noerdlich von Kampala, ist nach Kampala eine der groessten Staedte des Landes und Ausgangspunkt fuer den noerdlichen Murchison Falls National Park. ARUA (A-R-U-A) im Nordwesten ist eine weitere ugandische Stadt mit vier Buchstaben, nahe der Grenze zur Demokratischen Republik Kongo.',
+      },
+      {
+        q: 'Welche Stadt in Uganda hat 7 Buchstaben -- ausser Kampala?',
+        a: 'Neben KAMPALA (K-A-M-P-A-L-A) hat auch ENTEBBE (E-N-T-E-B-B-E) sieben Buchstaben. Entebbe liegt rund 40 Kilometer suedlich von Kampala auf einer Halbinsel am Victoriasee und beherbergt den einzigen internationalen Flughafen Ugandas -- fast alle Uganda-Reisenden landen und starten hier. Weitere ugandische Staedte mit sieben Buchstaben: MASINDI (Zugang zum Murchison Falls Park von Sueden) und KABAMBA.',
+      },
+      {
+        q: 'Wie heisst die zweitgroesste Stadt in Uganda?',
+        a: 'Nach Kampala gilt Gulu als die bevoelkerungsreichste Stadt Ugandas ausserhalb der Hauptstadtregion. Gulu liegt im Norden des Landes, hat sich nach dem Ende des LRA-Konflikts zur dynamischen Universitaets- und Wirtschaftsstadt entwickelt und zaehlt rund 250.000 Einwohner. Weitere grosse Staedte sind Mbarara im Suedwesten, Jinja im Osten, Lira im Norden und Mbale im Nordosten.',
+      },
+      {
+        q: 'Welche Stadt in Uganda liegt am Victoriasee?',
+        a: 'Entebbe liegt direkt am Victoriasee und ist die Stadt, die die meisten Reisenden als Erstes betreten -- der Entebbe International Airport liegt wenige Kilometer vom Ufer entfernt. Der Entebbe Botanical Garden von 1898 erstreckt sich bis ans Seeufer. Auch Kampala liegt nur rund 40 Kilometer vom Victoriasee entfernt, der Hafen Port Bell verbindet die Hauptstadt mit dem See. Jinja liegt am noerdlichen Ausfluss des Sees, wo der Nil seinen Ursprung hat.',
       },
     ],
     related: [

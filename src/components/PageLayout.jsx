@@ -596,6 +596,13 @@ export default function PageLayout({ page, heroPhoto, contentPhotos = [] }) {
 
           <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-14 md:py-16">
             <ReadingTime sections={page.sections} kurzantwort={page.kurzantwort} />
+            {page.intro && (
+              <div className="text-[15px] sm:text-base text-gray-700 leading-[1.8] mb-8 sm:mb-10">
+                {page.intro.split('\n\n').map((para, i) => (
+                  <p key={i} className="mb-4 last:mb-0">{autoLinkText(para, page.slug)}</p>
+                ))}
+              </div>
+            )}
             <Kurzantwort text={page.kurzantwort} currentSlug={page.slug} />
             <Faktenbox facts={page.fakten} />
             <TableOfContents sections={page.sections} faqs={page.faqs} />
