@@ -123,13 +123,13 @@ export const standalonePages = {
   'staedte-in-uganda': {
     slug: '/staedte-in-uganda',
     title: 'Stadt in Uganda: Hauptstadt & bekannte Staedte im Ueberblick',
-    h1: 'Stadt in Uganda: Kampala, Jinja, Gulu und alle wichtigen Orte',
+    h1: 'Stadt in Uganda: Kampala als Hauptstadt, Jinja an der Nilquelle -- alle wichtigen Orte fuer Reisende',
     subtitle: 'Kampala als Hauptstadt, Jinja an der Nilquelle, Entebbe am See -- und wie man zwischen den Staedten reist',
     metaDescription: 'Stadt in Uganda -- Kampala ist die Hauptstadt, Jinja die Abenteuer-City. Alle wichtigen Staedte Ugandas mit Highlights, Karte und Reisetipps.',
     breadcrumbs: [{ label: 'Staedte in Uganda' }],
     publishedTime: '2026-06-30',
     modifiedTime: '2026-07-11',
-    intro: 'Wer im Kreuzwortraetsel nach einer Stadt in Uganda sucht, findet hier alle Antworten: KAMPALA (7 Buchstaben) ist die Hauptstadt, ENTEBBE (7 Buchstaben) der internationale Flughafenstandort, JINJA (5 Buchstaben) die Abenteuerstadt an der Nilquelle, MBALE (5 Buchstaben) das Tor zum Mount Elgon im Osten, GULU (4 Buchstaben) das Zentrum Nordugandas und ARUA (4 Buchstaben) die Stadt an der Grenze zur Demokratischen Republik Kongo. Alle wichtigen ugandischen Staedte, ihre Lage, Sehenswuerdigkeiten und Reisetipps -- im Ueberblick.',
+    intro: 'Uganda ist kein Land der Grossstaedte -- und trotzdem bestimmen Staedte jede Reise durch das Land. Die Hauptstadt Kampala ist der unvermeidliche Ausgangspunkt, Entebbe der erste Boden unter den Fuessen nach der Landung, Jinja der Ort, an dem der Nil das erste Mal greifbar wird. Wer die Staedte Ugandas versteht, versteht die Logik des Reisens in diesem Land: von Stadt zu Stadt, von Park zu Park, entlang einer Route, die sich an Geographie und Erlebnis orientiert -- nicht an Buslinien.\n\nFuer Kreuzwortraetsel-Fans: Ugandische Staedte nach Buchstabenanzahl -- KAMPALA und ENTEBBE haben je 7 Buchstaben, JINJA und MBALE je 5, GULU und ARUA je 4.',
     photoFilter: 'murchison_falls',
     kurzantwort: 'Die Hauptstadt Ugandas heisst Kampala -- fuer Kreuzwortraetsel-Fans: KAMPALA schreibt sich mit sieben Buchstaben. Die Stadt liegt auf mehreren Huegeln im Zentrum des Landes, rund 40 Kilometer noerdlich von Entebbe, wo der internationale Flughafen liegt. Neben Kampala sind Jinja an der Nilquelle, Entebbe am Victoriasee, Mbale am Fuss des Mount Elgon und Fort Portal im Westen die wichtigsten Staedte fuer Reisende. Uganda ist kein Land der Grossstaedte -- seine Attraktionen liegen in den Nationalparks und am See. Doch genau deshalb lohnt es sich, die Staedte als das zu begreifen was sie sind: lebendige Ausgangspunkte, Haltepunkte und Ankerpunkte einer Reise durch eines der faszinierendsten Laender Ostafrikas.',
     fakten: [
@@ -223,8 +223,8 @@ export const standalonePages = {
         a: 'Nach Kampala gilt Gulu als die bevoelkerungsreichste Stadt Ugandas ausserhalb der Hauptstadtregion. Gulu liegt im Norden des Landes, hat sich nach dem Ende des LRA-Konflikts zur dynamischen Universitaets- und Wirtschaftsstadt entwickelt und zaehlt rund 250.000 Einwohner. Weitere grosse Staedte sind Mbarara im Suedwesten, Jinja im Osten, Lira im Norden und Mbale im Nordosten.',
       },
       {
-        q: 'Welche Stadt in Uganda liegt am Victoriasee?',
-        a: 'Entebbe liegt direkt am Victoriasee und ist die Stadt, die die meisten Reisenden als Erstes betreten -- der Entebbe International Airport liegt wenige Kilometer vom Ufer entfernt. Der Entebbe Botanical Garden von 1898 erstreckt sich bis ans Seeufer. Auch Kampala liegt nur rund 40 Kilometer vom Victoriasee entfernt, der Hafen Port Bell verbindet die Hauptstadt mit dem See. Jinja liegt am noerdlichen Ausfluss des Sees, wo der Nil seinen Ursprung hat.',
+        q: 'Welche Stadt in Uganda hat 6 Buchstaben?',
+        a: 'Mit sechs Buchstaben: KABALE (K-A-B-A-L-E) ist die bekannteste ugandische Stadt mit sechs Buchstaben. Kabale liegt im suedwestlichen Hochland nahe dem Bwindi Impenetrable National Park und ist der letzte groessere Ort vor dem Gorilla Trekking. Weitere ugandische Staedte mit sechs Buchstaben sind MASAKA (Handelszentrum suedlich von Kampala), KISORO (Ausgangspunkt fuer Mgahinga Gorilla National Park) und KASESE (am Fuss der Rwenzori Mountains).',
       },
     ],
     related: [
