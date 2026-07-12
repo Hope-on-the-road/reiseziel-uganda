@@ -266,6 +266,7 @@ const ROUTES = [
   '/unternehmertum-tourismusziele-buhoma',
   '/stimmen-buhoma',
   '/hotels-unterkuenfte-uganda',
+  '/beste-reisezeit-gorilla-trekking',
   '/glossy-ibis-uganda',
   '/greifvoegel-uganda',
   '/papageien-uganda-arten',

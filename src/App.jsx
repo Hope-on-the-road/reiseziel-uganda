@@ -58,6 +58,7 @@ const KormoranUgandaPage = lazy(() => import('./pages/KormoranUgandaPage.jsx'))
 const LakeKasyohaKitomiPage = lazy(() => import('./pages/LakeKasyohaKitomiPage.jsx'))
 const LakeMbouroVogelPage = lazy(() => import('./pages/LakeMbouroVogelPage.jsx'))
 const HotelsUnterkuenfteUgandaPage = lazy(() => import('./pages/HotelsUnterkuenfteUgandaPage.jsx'))
+const BesteReisezeitGorillaTrekkingPage = lazy(() => import('./pages/BesteReisezeitGorillaTrekkingPage.jsx'))
 const PauschalreisenUgandaPage = lazy(() => import('./pages/PauschalreisenUgandaPage.jsx'))
 const GlossyIbisUgandaPage = lazy(() => import('./pages/GlossyIbisUgandaPage.jsx'))
 const GreifvoegelUgandaPage = lazy(() => import('./pages/GreifvoegelUgandaPage.jsx'))
@@ -356,6 +357,7 @@ export default function App() {
           <Route path="/lake-kasyoha-kitomi-voegel" element={<LakeKasyohaKitomiPage />} />
           <Route path="/lake-mburo-vogelbeobachtung" element={<LakeMbouroVogelPage />} />
           <Route path="/hotels-unterkuenfte-uganda" element={<HotelsUnterkuenfteUgandaPage />} />
+          <Route path="/beste-reisezeit-gorilla-trekking" element={<BesteReisezeitGorillaTrekkingPage />} />
           <Route path="/pauschalreisen-uganda" element={<PauschalreisenUgandaPage />} />
           <Route path="/glossy-ibis-uganda" element={<GlossyIbisUgandaPage />} />
           <Route path="/greifvoegel-uganda" element={<GreifvoegelUgandaPage />} />
