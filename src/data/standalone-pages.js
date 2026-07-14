@@ -3014,6 +3014,77 @@ export const standalonePages = {
   photoFilter: 'tiere',
 },
 
+'mgahinga-gorilla-nationalpark': {
+  title: 'Mgahinga Gorilla National Park: Gorillas & Vulkane',
+  h1: 'Mgahinga Gorilla National Park -- Ugandas kleinster Park mit Berggorillas, Goldenen Affen und Vulkanen',
+  subtitle: 'Ugandas kleinster Nationalpark an der Grenze zu Ruanda und der DRC -- mit Berggorilla-Trekking, Goldenem Affen-Trekking und drei besteigbaren Vulkanen.',
+  slug: '/mgahinga-gorilla-nationalpark',
+  metaDescription: 'Mgahinga Gorilla National Park: Berggorillas, Goldene Affen und Vulkan-Trekking. Permits $800, 9.091 Besucher 2025. Reisetipps und Fakten.',
+  publishedTime: '2026-07-14',
+  modifiedTime: '2026-07-14',
+  breadcrumbs: [
+    { label: 'Nationalparks', href: '/nationalparks-uganda' },
+    { label: 'Mgahinga Gorilla NP' },
+  ],
+  kurzantwort: 'Der Mgahinga Gorilla National Park liegt im aeussersten Suedwesten Ugandas im Kisoro-Distrikt, direkt an der Grenze zu Ruanda und der Demokratischen Republik Kongo. Mit 33,9 Quadratkilometern ist er Ugandas kleinster Nationalpark -- und einer der faszinierendsten: Berggorilla-Trekking, Goldene Affen und drei besteigbare Virunga-Vulkane (Muhavura 4.127 m, Gahinga 3.474 m, Sabinyo 3.645 m) machen ihn zu einer einzigartigen Destination.',
+  fakten: [
+    { label: 'Flaeche', value: '33,9 km² (Ugandas kleinster NP)' },
+    { label: 'Lage', value: 'Kisoro-Distrikt, SW-Uganda' },
+    { label: 'Besucher 2025', value: '9.091 (+23,5%)' },
+    { label: 'Auslaenderanteil', value: '70,8%' },
+    { label: 'Gorilla Permit', value: '$800 pro Person' },
+    { label: 'Goldene Affen Permit', value: '$100 pro Person' },
+    { label: 'Vulkane', value: 'Muhavura (4.127 m), Sabinyo (3.645 m), Gahinga (3.474 m)' },
+    { label: 'Steinmauer UWA', value: '16 km gegen Ernteschaeden durch Gorillas' },
+    { label: 'Naechste Stadt', value: 'Kisoro (13 km)' },
+    { label: 'Naechster Flughafen', value: 'Entebbe (ca. 8 Std. Fahrt)' },
+  ],
+  sections: [
+    {
+      id: 'mgahinga-ueberblick',
+      heading: 'Mgahinga Gorilla National Park -- Ueberblick',
+      content: 'Der Mgahinga Gorilla National Park ist Ugandas kleinster und vielleicht ungewoehnlichster Nationalpark. Seine 33,9 Quadratkilometer im aeussersten Suedwesten des Landes liegen inmitten der Virunga-Vulkankette, die sich ueber Uganda, Ruanda und die Demokratische Republik Kongo erstreckt. Diese geopolitische Lage macht Mgahinga zu einem Teil eines der bedeutendsten Berggorilla-Schutzgebiete der Welt.\n\nDer Park wurde 1991 offiziell gegruendet -- spaeter als die meisten ugandischen Nationalparks -- und traegt den Namen des Vulkans Gahinga (3.474 m), dessen Bambuswald einen wichtigen Lebensraum fuer die Goldenen Affen bildet. Namengebend ist ausserdem die Gorilla-Population, die den Park zusammen mit dem Bwindi Impenetrable National Park zum weltweit wichtigsten Refugium fuer Berggorillas macht.\n\n2025 besuchten 9.091 Menschen den Mgahinga Gorilla NP -- ein Anstieg von 23,5 Prozent gegenueber dem Vorjahr. Damit ist Mgahinga der Park mit dem zweitstaerksten Besucherwachstum in Uganda. 70,8 Prozent der Besucher sind internationale Touristen, was die globale Anziehungskraft des Parks unterstreicht. (Quelle: MTWA Statistical Abstract 2025)',
+    },
+    {
+      id: 'gorilla-trekking-mgahinga',
+      heading: 'Gorilla Trekking in Mgahinga -- ruhiger als Bwindi',
+      content: 'Der Mgahinga Gorilla National Park ist neben dem Bwindi Impenetrable Forest der einzige Ort in Uganda, an dem Berggorilla-Trekking moeglich ist. Eine Gorilla-Familie -- die Nyakagezi-Gruppe -- ist im Park habituiert und fuer Besucher zugaenglich. Diese Gruppe zaehlt aktuell mehrere Mitglieder darunter Silberrücken, Weibchen und Jungtiere.\n\nDas Trekking-Erlebnis in Mgahinga unterscheidet sich von Bwindi in einem wesentlichen Punkt: Die Waelder sind offener, das Gelaende weniger steil und die Wanderwege haeufig ueberschaubarer. Fuer Reisende, die die dichten, undurchdringlichen Hainbuchenwaelder von Bwindi als herausfordernd empfinden, kann Mgahinga die zugaenglichere Alternative sein.\n\nDas Gorilla Permit kostet wie in Bwindi $800 pro Person fuer ausllaendische Nicht-Residenten. Pro Gorilla-Session duerfen maximal acht Besucher gleichzeitig die Gorilla-Gruppe aufsuchen. Die maximale Aufenthaltszeit bei den Tieren betraegt eine Stunde. Das Mindestalter fuer das Trekking liegt bei 15 Jahren.\n\nDie Uganda Wildlife Authority (UWA) unterhlt eine 16 Kilometer lange Steinmauer um Teile des Parks, um Ernteraub durch Gorillas zu verhindern. Diese Mauer ist ein Beispiel fuer die Mensch-Wildtier-Konflikttminderung, die fuer das Ueberleben der Gorillas langfristig entscheidend ist. (Quelle: State of Wildlife Resources Uganda 2026)',
+    },
+    {
+      id: 'goldene-affen-mgahinga',
+      heading: 'Goldene Affen -- nur in Mgahinga in Uganda',
+      content: 'Neben den Berggorillas beherbergt der Mgahinga Gorilla National Park eine habituierte Gruppe Goldener Affen (Cercopithecus kandti) -- eine der seltensten Primatenarten der Welt. Diese leuchtend orange-schwarz gemusterten Tiere sind endemisch in der Virunga-Vulkanregion und kommen weltweit nur in Uganda, Ruanda und der DRC vor.\n\nIn Uganda ist Mgahinga der einzige Ort, an dem Golden Monkey Trekking moeglich ist -- ein Alleinstellungsmerkmal, das den Park gegenueber Bwindi klar differenziert. Das Permit kostet $100 pro Person und ist damit deutlich guenstiger als das Gorilla Permit. Die Goldenen Affen leben bevorzugt in den Bambuswaeldern des Gahinga-Vulkans, die im Park ausgedehnt vorhanden sind.\n\nDas Trekking zu den Goldenen Affen ist in der Regel weniger anspruchsvoll als das Gorilla-Trekking und eignet sich auch fuer Reisende mit begrenzter Kondition. Ein Besuch, der beide Primaten-Treks kombiniert, gibt Mgahinga eine Tiefe, die weit ueber ein normales Nationalpark-Erlebnis hinausgeht.',
+    },
+    {
+      id: 'vulkane-besteigen',
+      heading: 'Drei Vulkane besteigen -- Muhavura, Gahinga und Sabinyo',
+      content: 'Mgahinga ist der einzige ugandische Nationalpark, in dem drei besteigbare Vulkane liegen. Alle drei gehoeren zur Virunga-Kette, die aus insgesamt acht Vulkanen besteht -- die uebrigen befinden sich in Ruanda und der DRC.\n\nDer Muhavura (4.127 m) ist der hoechste der drei ugandischen Virunga-Vulkane und eine der anspruchsvollsten Trekking-Touren des Parks. Die Besteigung dauert fuenf bis sieben Stunden und fuehrt durch mehrere Vegetationszonen: von Bambuswaldguertel ueber Heide und Hochmoor bis zur Gipfelzone mit einem kleinen Kratersäume.\n\nDer Sabinyo (3.645 m) ist besonders wegen seines gezackten Gipfelkamms bekannt -- und weil er an drei Laendergrenzen liegt: Wer den Gipfel erreicht, steht gleichzeitig in Uganda, Ruanda und der DRC. Die Besteigung ist technisch und dauert sechs bis acht Stunden.\n\nDer Gahinga (3.474 m) ist der niedrigste der drei und am ehesten fuer weniger erfahrene Trekker geeignet. Sein Gipfel ist von einem Sumpf umgeben, der Lebensraum fuer spezialisierte Hochmoor-Vegetation bietet. Der Name des Vulkans ist namengebend fuer den gesamten Nationalpark. Alle Vulkan-Treks erfordern ein Permit und werden mit einem Ranger-Guide durchgefuehrt.',
+    },
+    {
+      id: 'anreise-praktisches',
+      heading: 'Anreise und praktische Informationen',
+      content: 'Der Mgahinga Gorilla National Park liegt etwa 13 Kilometer von der Stadt Kisoro entfernt und rund 515 Kilometer von Kampala. Die Anreise aus Kampala dauert per Fahrzeug etwa acht bis neun Stunden ueber Mbarara und Kabale -- eine der laengsten Fahrten zu einem ugandischen Nationalpark. Inlandsflueghlen von Entebbe nach Kisoro reduzieren die Reisezeit erheblich; mehrere Charterfluganbieter bedienen diese Strecke regelmaessig.\n\nViele Reisende kombinieren Mgahinga mit dem nahegelegenen Lake Bunyonyi (ca. 1,5 Stunden Fahrt) oder dem Bwindi Impenetrable Forest (ca. 2 bis 3 Stunden, je nach Route). Diese Kombination ermoeglicht es, sowohl Gorilla-Trekking als auch Golden-Monkey-Trekking in einem Reiseabschnitt zu erleben.\n\nUnterkunftsmoeglichkeiten gibt es in unmittelbarer Parknaehe und in Kisoro. Von einfachen Guesthouses bis hin zu komfortablen Lodges ist die Auswahl kleiner als in Bwindi, aber das Angebot waechst. Reservierungen sollten insbesondere in der Hochsaison (Juni bis August sowie Dezember bis Februar) fruehzeitig vorgenommen werden.',
+    },
+  ],
+  faqs: [
+    { q: 'Gibt es Gorillas im Mgahinga Gorilla National Park?', a: 'Ja -- eine habituierte Gorilla-Familie, die Nyakagezi-Gruppe, lebt im Mgahinga Gorilla National Park und ist fuer Besucher zugaenglich. Das Gorilla Permit kostet $800 pro Person. Pro Session duerfen maximal acht Besucher gleichzeitig bei der Gruppe sein, fuer maximal eine Stunde.' },
+    { q: 'Was ist der Unterschied zwischen Mgahinga und Bwindi?', a: 'Beide Parks bieten Berggorilla-Trekking, aber Mgahinga hat drei zusaetzliche Highlights: habituierte Goldene Affen (nur hier in Uganda), drei besteigbare Virunga-Vulkane und ein offeneres, weniger steiles Gelaende. Bwindi ist groesser, hat mehr habituierte Gorilla-Gruppen und mehr Unterkunftsoptionen. Viele Reisende kombinieren beide Parks.' },
+    { q: 'Wie kommt man nach Mgahinga Gorilla National Park?', a: 'Aus Kampala faehrt man ca. 8 bis 9 Stunden ueber Mbarara und Kabale (515 km). Naechster Ort ist Kisoro, ca. 13 km vom Parkeingang. Inlandsfluege von Entebbe nach Kisoro sind moeglich und reduzieren die Reisezeit erheblich.' },
+    { q: 'Was kostet das Gorilla Permit im Mgahinga?', a: 'Das Gorilla Trekking Permit im Mgahinga Gorilla National Park kostet $800 pro Person fuer ausllaendische Nicht-Residenten -- identisch mit dem Preis in Bwindi. Das Golden Monkey Trekking Permit kostet $100 pro Person.' },
+    { q: 'Kann man in Mgahinga auch Goldene Affen sehen?', a: 'Ja -- und das ist Mgahingas wichtigstes Alleinstellungsmerkmal. Der Park ist der einzige Ort in Uganda, an dem Goldene Affen (Cercopithecus kandti) habituiert sind und im Rahmen eines Treks besucht werden koennen. Das Permit kostet $100 pro Person.' },
+    { q: 'Wie viele Besucher hat der Mgahinga National Park pro Jahr?', a: '2025 besuchten 9.091 Menschen den Mgahinga Gorilla National Park -- ein Anstieg von 23,5 Prozent gegenueber dem Vorjahr. Damit zaehlt Mgahinga zu den am schnellsten wachsenden Nationalparks Ugandas. 70,8 Prozent der Besucher sind internationale Touristen. (Quelle: MTWA Statistical Abstract 2025)' },
+  ],
+  links: [
+    { href: '/mgahinga-vs-bwindi', title: 'Mgahinga vs. Bwindi', desc: 'Detaillierter Vergleich beider Gorilla-Parks.' },
+    { href: '/gorilla-trekking', title: 'Gorilla Trekking Uganda', desc: 'Alles ueber Permits, Vorbereitung und Ablauf.' },
+    { href: '/goldene-affen-uganda', title: 'Goldene Affen Uganda', desc: 'Die seltensten Primaten der Virunga-Vulkane.' },
+    { href: '/vulkane-mgahinga', title: 'Vulkane im Mgahinga', desc: 'Muhavura, Gahinga und Sabinyo besteigen.' },
+    { href: '/gorilla-permit-preise', title: 'Gorilla Permit Preise', desc: 'Aktuelle Kosten und Buchungstipps.' },
+    { href: '/beste-reisezeit-gorilla-trekking', title: 'Beste Reisezeit Gorilla Trekking', desc: 'Trockenzeit vs. Regenzeit fuer Gorilla-Trekking.' },
+  ],
+  photoFilter: 'gorilla',
+},
+
 'goldene-affen-uganda': {
   title: 'Goldene Affen Uganda: Trekking in Mgahinga',
   h1: 'Goldene Affen in Uganda',

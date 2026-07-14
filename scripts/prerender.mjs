@@ -124,6 +124,7 @@ const ROUTES = [
   '/gorilla-trekking-sicherheit',
   '/lake-bunyonyi-community',
   '/vulkane-mgahinga',
+  '/mgahinga-gorilla-nationalpark',
   '/kisoro',
   '/leonard-sharp-bwama-island',
   '/community-tourismus-bwindi',

@@ -229,6 +229,7 @@ export default function App() {
           <Route path="/gorilla-trekking-sicherheit" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-trekking-sicherheit" />} />
           <Route path="/lake-bunyonyi-community" element={<StandalonePage photos={photos} clusters={clusters} pageId="lake-bunyonyi-community" />} />
           <Route path="/vulkane-mgahinga" element={<StandalonePage photos={photos} clusters={clusters} pageId="vulkane-mgahinga" />} />
+          <Route path="/mgahinga-gorilla-nationalpark" element={<StandalonePage photos={photos} clusters={clusters} pageId="mgahinga-gorilla-nationalpark" />} />
           <Route path="/kisoro" element={<StandalonePage photos={photos} clusters={clusters} pageId="kisoro" />} />
           <Route path="/leonard-sharp-bwama-island" element={<StandalonePage photos={photos} clusters={clusters} pageId="leonard-sharp-bwama-island" />} />
           <Route path="/community-tourismus-bwindi" element={<StandalonePage photos={photos} clusters={clusters} pageId="community-tourismus-bwindi" />} />
