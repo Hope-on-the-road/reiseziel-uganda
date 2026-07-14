@@ -6,6 +6,10 @@ const SLUG = 'quelle-nil-jinja'
 
 const faqs = [
   {
+    q: 'Welcher Nil fließt durch Uganda?',
+    a: 'Der Viktoria-Nil fließt durch Uganda — er verlässt den Viktoriasee bei Jinja, durchquert den Norden des Landes durch den Murchison Falls National Park und tritt schließlich in den Südsudan über. Der ugandische Nilabschnitt erstreckt sich auf rund 500 Kilometer und bietet auf dieser Strecke einige der eindrucksvollsten Nillandschaften des Kontinents: vom ruhigen Ausfluss in Jinja über die spektakulären Murchison-Wasserfälle bis in die Savannen des Nordens. Erst dort wird der Viktoria-Nil zum Weißen Nil, der später in Khartum mit dem Blauen Nil zum eigentlichen Nil zusammenfließt.',
+  },
+  {
     q: 'Wo genau befindet sich die Nilquelle in Jinja?',
     a: 'Die als "Nilquelle" bezeichnete Stätte liegt im Viktoria-Nil, kurz nach seinem Austritt aus dem Viktoriasee am nordwestlichen Stadtrand von Jinja. Genauer handelt es sich um eine kleine Insel im Fluss, die mit einem Schild und einem Monument markiert ist. Sie ist ausschließlich per Boot erreichbar. Mehrere Anbieter am Flussufer bieten geführte Bootstouren ab etwa 25.000 ugandischen Schilling pro Person an.',
   },
@@ -33,8 +37,8 @@ export default function QuelleNilJinjaPage() {
   return (
     <>
       <Head
-        title="Quelle des Nils in Jinja: Besuch & Geschichte"
-        description="Quelle Nil Jinja: Geschichte der Entdeckung, Bootsfahrt zum Quelldenkmal, Rafting bei Bujagali und praktische Reisetipps für Uganda."
+        title="Nil in Uganda: Nilquelle Jinja, Geschichte & Rafting"
+        description="Nil in Uganda — die Nilquelle in Jinja besuchen: Bootsfahrt zum Quelldenkmal, Wildwasser-Rafting bei Bujagali und Reisetipps für die Abenteuer-Stadt Ostafrikas."
         canonical={`https://www.reiseziel-uganda.de/${SLUG}`}
       />
       <main className="bg-white">
@@ -55,7 +59,7 @@ export default function QuelleNilJinjaPage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
 
           <h1 className="font-display text-3xl sm:text-4xl font-bold text-gray-900 leading-tight mb-6">
-            Die Nilquelle in Jinja: Besuch, Geschichte und Umgebung
+            Der Nil in Uganda: Nilquelle in Jinja, Geschichte der Entdeckung und Abenteuer am Viktoria-Nil
           </h1>
 
           {/* Eroeffnungs-Hook */}
