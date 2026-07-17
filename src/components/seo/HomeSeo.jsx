@@ -33,7 +33,7 @@ function OrganizationSchema() {
     '@type': 'Organization',
     name: 'Reiseziel Uganda',
     url: SITE,
-    logo: `${SITE}/logo.svg`,
+    logo: `${SITE}/favicon.svg`,
     description: 'Die umfassendste deutschsprachige Wissensplattform zu Uganda.',
     sameAs: [],
     parentOrganization: {
@@ -113,16 +113,16 @@ export default function HomeSeo() {
     setMeta('property', 'og:url', SITE)
     setMeta('property', 'og:site_name', 'Reiseziel Uganda')
     setMeta('property', 'og:locale', 'de_DE')
-    setMeta('property', 'og:image', `${SITE}/og-image.jpg`)
+    setMeta('property', 'og:image', 'https://eqlnmpmfhxdllkuetury.supabase.co/storage/v1/object/public/thumbnails/uganda_1780726602862_1to3.jpg')
     setMeta('property', 'og:image:width', '1200')
     setMeta('property', 'og:image:height', '630')
-    setMeta('property', 'og:image:alt', 'Reiseziel Uganda -- Gorilla Trekking, Nationalparks und Safari')
+    setMeta('property', 'og:image:alt', 'Berggorilla im Bwindi Impenetrable National Park, Uganda -- Foto: Mark Suer')
     setMeta('property', 'article:published_time', '2025-01-15T00:00:00+00:00')
     setMeta('property', 'article:modified_time', '2026-06-08T00:00:00+00:00')
     setMeta('name', 'twitter:card', 'summary_large_image')
     setMeta('name', 'twitter:title', TITLE)
     setMeta('name', 'twitter:description', DESC)
-    setMeta('name', 'twitter:image', `${SITE}/og-image.jpg`)
+    setMeta('name', 'twitter:image', 'https://eqlnmpmfhxdllkuetury.supabase.co/storage/v1/object/public/thumbnails/uganda_1780726602862_1to3.jpg')
 
     let canonical = document.querySelector('link[rel="canonical"]')
     if (!canonical) {

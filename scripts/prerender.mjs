@@ -14,7 +14,7 @@
 
 import puppeteer from 'puppeteer'
 import { createServer } from 'http'
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs'
+import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, statSync } from 'fs'
 import { resolve, join, dirname } from 'path'
 import { fileURLToPath } from 'url'
 
@@ -360,6 +360,12 @@ async function renderRoute(browser, route, counters) {
     let html = await page.content()
     html = html.replace(/http:\/\/localhost:\d+/g, 'https://www.reiseziel-uganda.de')
 
+    // Canonical absichern: alle vorhandenen Canonical-Tags entfernen und einen
+    // statisch-korrekten einfügen — unabhängig vom useEffect-Timing
+    const canonicalUrl = `https://www.reiseziel-uganda.de${route === '/' ? '' : route}`
+    html = html.replace(/<link[^>]*rel=["']canonical["'][^>]*>/gi, '')
+    html = html.replace('</head>', `  <link rel="canonical" href="${canonicalUrl}">\n</head>`)
+
     let filePath
     if (route === '/') {
       filePath = join(DIST, 'index.html')
@@ -399,6 +405,46 @@ async function prerender() {
   server.close()
 
   console.log(`\nFertig: ${counters.success} gerendert, ${counters.failed} Fehler\n`)
+
+  // Build-Check: Jede indexierbare HTML-Datei muss genau einen Canonical besitzen
+  validateCanonicals()
+
+  if (counters.failed > 5) {
+    console.error(`\n[BUILD FAIL] ${counters.failed} Routen konnten nicht gerendert werden (Schwelle: 5). Deploy abgebrochen.\n`)
+    process.exit(1)
+  }
+}
+
+function findHtmlFiles(dir, files = []) {
+  for (const entry of readdirSync(dir)) {
+    const full = join(dir, entry)
+    if (statSync(full).isDirectory()) {
+      findHtmlFiles(full, files)
+    } else if (entry.endsWith('.html')) {
+      files.push(full)
+    }
+  }
+  return files
+}
+
+function validateCanonicals() {
+  console.log('\nValidiere Canonical-Tags...')
+  const htmlFiles = findHtmlFiles(DIST)
+  let errors = 0
+  for (const file of htmlFiles) {
+    const content = readFileSync(file, 'utf-8')
+    const matches = (content.match(/<link[^>]*rel=["']canonical["'][^>]*>/gi) || []).length
+    if (matches !== 1) {
+      console.error(`  [CANONICAL] ${matches} Tags in: ${file.replace(DIST, '')}`)
+      errors++
+    }
+  }
+  if (errors === 0) {
+    console.log(`  OK -- ${htmlFiles.length} Dateien, alle haben genau einen Canonical.\n`)
+  } else {
+    console.error(`\n[BUILD FAIL] ${errors} Dateien mit falschem Canonical. Build abgebrochen.\n`)
+    process.exit(1)
+  }
 }
 
 prerender().catch(console.error)

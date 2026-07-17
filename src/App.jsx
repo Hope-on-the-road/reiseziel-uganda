@@ -13,6 +13,7 @@ import GalerieSection from './components/GalerieSection.jsx'
 import Footer from './components/Footer.jsx'
 import ErrorBoundary from './components/ErrorBoundary.jsx'
 import HomeSeo from './components/seo/HomeSeo.jsx'
+import Head from './components/seo/Head.jsx'
 
 // Lazy-loaded page components for code splitting
 const NationalparkPage = lazy(() => import('./pages/NationalparkPage.jsx'))
@@ -28,6 +29,7 @@ const FlughafenPage = lazy(() => import('./pages/FlughafenPage.jsx'))
 const NachbarlaenderPage = lazy(() => import('./pages/NachbarlaenderPage.jsx'))
 const WirtschaftPage = lazy(() => import('./pages/WirtschaftPage.jsx'))
 const StandalonePage = lazy(() => import('./pages/StandalonePage.jsx'))
+const UeberUnsPage = lazy(() => import('./pages/UeberUnsPage.jsx'))
 const GorillaTrekkingAblaufPage = lazy(() => import('./pages/GorillaTrekkingAblaufPage.jsx'))
 const MurchisonFallsNationalparkGuidePage = lazy(() => import('./pages/MurchisonFallsNationalparkGuidePage.jsx'))
 const GrossraubtierUgandaPage = lazy(() => import('./pages/GrossraubtierUgandaPage.jsx'))
@@ -85,19 +87,22 @@ function PageLoader() {
 
 function NotFoundPage() {
   return (
-    <div className="min-h-[70vh] flex items-center justify-center bg-gray-50 px-4">
-      <div className="text-center max-w-md">
-        <p className="text-7xl font-display font-bold text-safari-300 mb-4">404</p>
-        <h1 className="font-display text-2xl sm:text-3xl font-bold text-gray-900 mb-3">Seite nicht gefunden</h1>
-        <p className="text-gray-500 text-sm mb-8">Diese Seite existiert leider nicht. Vielleicht findest du auf der Startseite, was du suchst.</p>
-        <Link to="/" className="inline-flex items-center gap-2 px-6 py-3 bg-jungle-600 text-white rounded-xl text-sm font-medium hover:bg-jungle-700 transition-colors">
-          <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-            <path strokeLinecap="round" strokeLinejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
-          </svg>
-          Zur Startseite
-        </Link>
+    <>
+      <Head noindex={true} title="Seite nicht gefunden" />
+      <div className="min-h-[70vh] flex items-center justify-center bg-gray-50 px-4">
+        <div className="text-center max-w-md">
+          <p className="text-7xl font-display font-bold text-safari-300 mb-4">404</p>
+          <h1 className="font-display text-2xl sm:text-3xl font-bold text-gray-900 mb-3">Seite nicht gefunden</h1>
+          <p className="text-gray-500 text-sm mb-8">Diese Seite existiert leider nicht. Vielleicht findest du auf der Startseite, was du suchst.</p>
+          <Link to="/" className="inline-flex items-center gap-2 px-6 py-3 bg-jungle-600 text-white rounded-xl text-sm font-medium hover:bg-jungle-700 transition-colors">
+            <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
+            </svg>
+            Zur Startseite
+          </Link>
+        </div>
       </div>
-    </div>
+    </>
   )
 }
 
@@ -193,7 +198,7 @@ export default function App() {
           <Route path="/uganda-mit-kindern" element={<StandalonePage photos={photos} clusters={clusters} pageId="uganda-mit-kindern" />} />
           <Route path="/sprachen-in-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="sprachen-in-uganda" />} />
           <Route path="/gorilla-trekking-erfahrungsbericht" element={<StandalonePage photos={photos} clusters={clusters} pageId="gorilla-trekking-erfahrungsbericht" />} />
-          <Route path="/ueber-uns" element={<StandalonePage photos={photos} clusters={clusters} pageId="ueber-uns" />} />
+          <Route path="/ueber-uns" element={<UeberUnsPage photos={photos} clusters={clusters} />} />
           <Route path="/impressum" element={<StandalonePage photos={photos} clusters={clusters} pageId="impressum" />} />
           <Route path="/datenschutz" element={<StandalonePage photos={photos} clusters={clusters} pageId="datenschutz" />} />
           <Route path="/erlebnisse/vogelbeobachten-uganda" element={<StandalonePage photos={photos} clusters={clusters} pageId="vogelbeobachten-uganda" />} />

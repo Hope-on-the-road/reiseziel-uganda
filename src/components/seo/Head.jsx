@@ -57,7 +57,7 @@ export default function Head({ title, description, canonical, ogImage, ogType = 
 
     if (publishedTime) set('property', 'article:published_time', publishedTime)
     if (modifiedTime) set('property', 'article:modified_time', modifiedTime)
-    set('name', 'robots', noindex ? 'noindex, nofollow' : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1')
+    set('name', 'robots', noindex ? 'noindex, follow' : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1')
     set('name', 'author', SITE_NAME)
     set('name', 'publisher', 'Hope on the Road gGmbH')
     set('name', 'geo.region', 'UG')

@@ -121,6 +121,25 @@ export function RecipeJsonLd({ name, description, ingredients, instructions, pre
   return <JsonLd data={data} />
 }
 
+export function PersonJsonLd({ name, url, description, jobTitle, sameAs = [] }) {
+  const data = {
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    name,
+    url,
+    description,
+    jobTitle,
+    inLanguage: 'de',
+    worksFor: {
+      '@type': 'Organization',
+      name: 'Hope on the Road gGmbH',
+      url: 'https://hopeontheroad.de',
+    },
+    ...(sameAs.length > 0 && { sameAs }),
+  }
+  return <JsonLd data={data} />
+}
+
 export function ComparisonJsonLd({ name, description, items, url }) {
   const data = {
     '@context': 'https://schema.org',
