@@ -129,7 +129,6 @@ export function PersonJsonLd({ name, url, description, jobTitle, sameAs = [] }) 
     url,
     description,
     jobTitle,
-    inLanguage: 'de',
     worksFor: {
       '@type': 'Organization',
       name: 'Hope on the Road gGmbH',
