@@ -8,6 +8,8 @@
 /wanderung-zu-den-sipi-falls  /sipi-falls               301
 /land-und-leute-uganda      /land-und-leute             301
 /rolex-uganda               /ugandische-rolex           301
+/wasser-sanitaer-hygiene-kampala  /wash-programme-kampala  301
+/sanitation-oeffentliche-gesundheit-kampala  /wash-programme-kampala  301
 
 # SPA catch-all (muss am Ende stehen)
 /*    /index.html   200
