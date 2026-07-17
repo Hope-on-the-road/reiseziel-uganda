@@ -124,10 +124,15 @@ export const hubPages = {
     related: [
       { href: '/nationalparks/bwindi', title: 'Bwindi Impenetrable National Park', desc: 'UNESCO-Welterbe und Heimat der Berggorillas.' },
       { href: '/nationalparks/queen-elizabeth', title: 'Queen Elizabeth National Park', desc: 'Kazinga-Kanal, Baumloewen und ueber 600 Vogelarten.' },
+      { href: '/kidepo-safari-guide', title: 'Kidepo Valley Safari-Guide', desc: 'Strausse, Geparden und Nashörner im Norden Ugandas.' },
+      { href: '/lake-mburo-zebra-safari', title: 'Lake Mburo: Zebra-Safari', desc: 'Ugandas kompaktester Park -- 3,5 Stunden von Kampala.' },
+      { href: '/semuliki-tieflandregenwald', title: 'Semuliki Tieflandregenwald', desc: 'Kongobecken-Voegel und heisse Quellen im Westen.' },
+      { href: '/ziwa-rhino-sanctuary', title: 'Ziwa Rhino Sanctuary', desc: 'Ugandas einzige frei lebende Nashörner -- Walking Safari.' },
+      { href: '/mt-elgon-trekking-guide', title: 'Mt Elgon Trekking', desc: 'Groesste Vulkankaldera Afrikas und Hoehlene-Elefanten.' },
+      { href: '/pian-upe-wildlife-reserve', title: 'Pian Upe Wildlife Reserve', desc: 'Ugandas groesstes Wildlife Reserve im Nordosten.' },
       { href: '/gorilla-trekking', title: 'Gorilla Trekking Uganda', desc: 'Der komplette Guide zum Gorilla-Trekking.' },
       { href: '/tiere-uganda', title: 'Tiere in Uganda', desc: 'Die 25 faszinierendsten Tiere Ugandas.' },
       { href: '/reiseplanung/beste-reisezeit', title: 'Beste Reisezeit Uganda', desc: 'Monat fuer Monat: Wann lohnt sich die Reise?' },
-      { href: '/reiseplanung/kosten', title: 'Uganda Reise Kosten', desc: 'Was kostet eine Safari in Uganda wirklich?' },
     ],
   },
 
