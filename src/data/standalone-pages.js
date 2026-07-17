@@ -1372,6 +1372,7 @@ export const standalonePages = {
       },
     ],
     related: [
+      { href: '/reiseplanung', title: 'Uganda Reiseplanung', desc: 'Visa, Budget, Impfungen und alle Planungsthemen kompakt.' },
       { href: '/reiseplanung/sicherheit', title: 'Sicherheit in Uganda', desc: 'Allgemeine Sicherheitstipps fuer Uganda-Reisende.' },
       { href: '/reiseplanung/kosten', title: 'Kosten & Budget', desc: 'Was eine Uganda-Reise kostet -- auch fuer Solo-Reisende.' },
       { href: '/staedte', title: 'Staedte in Uganda', desc: 'Kampala, Jinja, Fort Portal und mehr entdecken.' },
@@ -1467,6 +1468,7 @@ export const standalonePages = {
       },
     ],
     related: [
+      { href: '/reiseplanung', title: 'Uganda Reiseplanung', desc: 'Visa, Budget, Impfungen und alle Planungsthemen kompakt.' },
       { href: '/reiseplanung/impfungen', title: 'Impfungen', desc: 'Pflichtimpfungen und Empfehlungen fuer Uganda.' },
       { href: '/reiseplanung/kosten', title: 'Kosten & Budget', desc: 'Was eine Uganda-Reise fuer Familien kostet.' },
       { href: '/gorilla-trekking', title: 'Gorilla-Trekking', desc: 'Alles zum Gorilla-Trekking ab 15 Jahren.' },
@@ -2491,6 +2493,8 @@ export const standalonePages = {
     ],
     related: [
       { href: '/gorilla-trekking', title: 'Gorilla Trekking Uganda', desc: 'Der komplette Guide zum Gorilla Trekking.' },
+      { href: '/gorilla-permit-preise', title: 'Gorilla Permit Preise 2026', desc: 'Was kostet ein Permit und was ist enthalten?' },
+      { href: '/gorilla-permit-kosten', title: 'Permit Kosten und Buchung', desc: 'Buchungswege, Vorlaufzeiten und Erfahrungsbericht aus erster Hand.' },
       { href: '/nationalparks/bwindi', title: 'Bwindi Impenetrable NP', desc: 'Der Hauptstandort fuer Gorilla Trekking.' },
       { href: '/nationalparks/mgahinga', title: 'Mgahinga Gorilla NP', desc: 'Alternative zu Bwindi -- ruhiger und kompakter.' },
       { href: '/uganda-nebensaison', title: 'Uganda Nebensaison', desc: 'April/Mai: guenstig, verfuegbar, entspannt.' },
@@ -2616,6 +2620,7 @@ export const standalonePages = {
       { q: 'Wie viel guenstiger ist Uganda in der Nebensaison?', a: 'Lodge-Preise sinken typisch 20-40% unter Hochsaisonpreise. Permits bleiben zum gleichen Preis ($800). Das Gesamtpaket kann aber 25-35% guenstiger sein.' },
     ],
     related: [
+      { href: '/reiseplanung', title: 'Uganda Reiseplanung', desc: 'Visa, Budget, Impfungen und alle Planungsthemen kompakt.' },
       { href: '/gorilla-permit-verfuegbarkeit', title: 'Gorilla Permit Verfuegbarkeit', desc: 'Monatliche Auslastungsdaten.' },
       { href: '/reiseplanung/beste-reisezeit', title: 'Beste Reisezeit Uganda', desc: 'Kompletter Jahreskalender.' },
       { href: '/erlebnisse/vogelbeobachten-uganda', title: 'Vogelbeobachten Uganda', desc: 'In der Nebensaison besonders reich.' },
@@ -2679,6 +2684,7 @@ export const standalonePages = {
       { q: 'Warum waechst der deutsche Tourismusmarkt in Uganda so stark?', a: 'Deutschland stieg 2025 von Rang 8 auf Rang 5 mit +237% Wachstum. Gruende: wachsendes Interesse an Gorilla Trekking als Premium-Naturerlebnis, verbessertes Angebot an deutschen Informationsquellen, Mundpropaganda zufriedener Reisender (22,1% kehren zurueck).' },
     ],
     related: [
+      { href: '/reiseplanung', title: 'Uganda Reiseplanung', desc: 'Visa, Budget, Impfungen und alle Planungsthemen kompakt.' },
       { href: '/gorilla-trekking', title: 'Gorilla Trekking Uganda', desc: 'Das Hauptmotiv fuer deutsche Uganda-Reisende.' },
       { href: '/reiseplanung/visa', title: 'Visa & Einreise', desc: 'Visum fuer Deutsche -- Schritt fuer Schritt.' },
       { href: '/reiseplanung/sicherheit', title: 'Sicherheit Uganda', desc: 'Ist Uganda sicher fuer Touristen?' },
@@ -11933,6 +11939,7 @@ export const standalonePages = {
     isTouristDestination: false,
     related: [
       { href: '/gorilla-trekking', title: 'Gorilla-Trekking Uganda', desc: 'Vorbereitung, Sektoren und Tipps fuer das Gorilla-Trekking im Bwindi im Ueberblick.' },
+      { href: '/gorilla-permit-preise', title: 'Gorilla Permit Preise 2026', desc: 'Preisvergleich, Saisonrabatte und was im Permit enthalten ist.' },
       { href: '/gorilla-trekking-buhoma', title: 'Gorilla-Trekking Buhoma', desc: 'Der Buhoma-Sektor in Bwindi: Permits, Anreise und persoenlicher Erfahrungsbericht.' },
       { href: '/gorilla-permit-verfuegbarkeit', title: 'Permit-Verfuegbarkeit', desc: 'Wann sind Gorilla-Permits fuer Bwindi ausgebucht? Monatliche Auslastungsdaten.' },
       { href: '/kabale-bwindi', title: 'Kabale als Ausgangspunkt', desc: 'Von Kabale nach Bwindi: Strecke, Unterkuenfte und Tipps fuer die Region.' },

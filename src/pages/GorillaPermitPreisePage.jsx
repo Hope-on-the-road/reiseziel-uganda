@@ -451,6 +451,15 @@ export default function GorillaPermitPreisePage() {
               </li>
               <li>
                 <a
+                  href="/gorilla-permit-kosten"
+                  className="block p-3 rounded-lg border border-gray-200 hover:border-jungle-400 hover:bg-jungle-50 transition-colors"
+                >
+                  <span className="font-semibold text-jungle-800">Permit Kosten und Buchung</span>
+                  <span className="block text-gray-500 mt-0.5">Buchungswege, Vorlaufzeiten und Erfahrungsbericht</span>
+                </a>
+              </li>
+              <li>
+                <a
                   href="/beste-reisezeit-uganda"
                   className="block p-3 rounded-lg border border-gray-200 hover:border-jungle-400 hover:bg-jungle-50 transition-colors"
                 >
