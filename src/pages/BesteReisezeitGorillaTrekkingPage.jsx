@@ -12,35 +12,35 @@ export default function BesteReisezeitGorillaTrekkingPage() {
   const faqs = [
     {
       frage: 'Was ist die beste Reisezeit für Gorilla Trekking in Uganda?',
-      antwort: 'Die beste Reisezeit für Gorilla Trekking in Uganda sind die beiden Trockenzeiten: Juni bis September (lange Trockenzeit) und Dezember bis Februar (kurze Trockenzeit). Feste Wege, übersichtlicheres Unterholz und angenehmere Temperaturen machen das Trekking in dieser Zeit einfacher. Wer in der Regenzeit (März bis Mai, Oktober bis November) reist, findet dafür günstigere Lodgepreise, weniger Mitreisende und einen besonders sattgrünen Wald. Gorilla-Permits gelten ganzjährig — Gorillas verlassen Bwindi zu keiner Jahreszeit.'
+      antwort: 'Die beste Reisezeit für Gorilla Trekking in Uganda sind die beiden Trockenzeiten: Juni bis September und Dezember bis Februar. In diesen Monaten sind die Trails im Bwindi Impenetrable National Park trockener, das Unterholz weniger dicht und die Wanderung körperlich leichter. Wer flexibel ist, kann auch in der Regenzeit (April, Mai, November) trekken — mit weniger Mitreisenden, günstigeren Lodgepreisen und Permits zu 450 statt 800 US-Dollar. Gorillas verlassen Bwindi zu keiner Jahreszeit.'
     },
     {
       frage: 'Wie viele Berggorillas gibt es in Uganda?',
-      antwort: 'Laut dem Zensus 2018-2020 leben in Uganda 459 Berggorillas. Uganda beherbergt damit etwa die Hälfte der weltweiten Berggorilla-Population. Die Tiere verteilen sich auf zwei Parks: Bwindi Impenetrable National Park (der deutlich größere Teil) und Mgahinga Gorilla National Park im Südwesten. Weltweite Gesamtpopulation: rund 1.063 Individuen (Stand: Hochrechnung 2025 basierend auf den letzten offiziellen Zensusdaten).'
+      antwort: 'Laut dem Zensus der Uganda Wildlife Authority (UWA) aus dem Zeitraum 2018 bis 2020 leben 459 Berggorillas in Uganda — konzentriert auf den Bwindi Impenetrable National Park und den Mgahinga Gorilla National Park. Uganda beherbergt damit knapp die Hälfte der Weltpopulation. Insgesamt leben rund 1.063 Berggorillas (Gorilla beringei beringei) im Grenzgebiet Uganda–Ruanda–DR Kongo. Die Gesamtzahl aller Gorilla-Arten in Afrika beträgt etwa 50.000 — darunter rund 3.800 Östliche Flachlandgorillas (Gorilla beringei graueri) im Kahuzi-Biéga-Nationalpark in der DR Kongo.'
     },
     {
-      frage: 'Welche zwei Parks gibt es für Gorilla Trekking in Uganda?',
-      antwort: 'Uganda hat zwei Parks mit habitualisierten Gorilla-Familien: Bwindi Impenetrable National Park mit vier Zugangspunkten (Buhoma, Ruhija, Rushaga, Nkuringo) und Mgahinga Gorilla National Park nahe der Grenze zu Ruanda und DR Kongo. Bwindi bietet mehr Familien und mehr Permit-Verfügbarkeit, Mgahinga ist kleiner, ruhiger und liegt in einer Vulkanlandschaft mit Bambuswald. Die 16 Kilometer lange Steinmauer um Teile von Mgahinga schützt umliegende Felder vor Gorilla-Besuchen.'
+      frage: 'Welche Parks gibt es für Gorilla Trekking in Uganda?',
+      antwort: 'Uganda hat zwei Parks mit habitualisierten Gorilla-Familien: der Bwindi Impenetrable National Park mit vier Zugangspunkten (Buhoma, Ruhija, Rushaga, Nkuringo) und der Mgahinga Gorilla National Park nahe der Grenze zu Ruanda und DR Kongo. Bwindi bietet mehr Familien, mehr tägliche Permit-Kontingente und höhere Buchungssicherheit. Mgahinga ist kompakter, die Landschaft offener (Bambuswälder, Vulkankegel), aber es gibt nur eine habitualisierte Familie — die Nyakagezi-Familie — die sich zeitweise in Ruanda oder den Kongo bewegen kann.'
     },
     {
-      frage: 'Wie teuer ist ein Gorilla-Permit in Uganda?',
-      antwort: 'Ein Gorilla-Tracking-Permit der Uganda Wildlife Authority (UWA) kostet 800 US-Dollar pro Person. Darin enthalten ist die einstündige Zeit bei der Gorilla-Familie. Für die Hochsaison (Juni bis September, Dezember bis Januar) sollten Permits mindestens sechs bis neun Monate im Voraus gebucht werden. Buchungen sind direkt über die UWA oder über zugelassene Reiseveranstalter möglich.'
+      frage: 'Wie teuer ist ein Gorilla-Permit in Uganda und wann gibt es Rabatt?',
+      antwort: 'Ein Gorilla-Trekking-Permit kostet in der Hauptsaison 800 US-Dollar pro Person. In der Nebensaison — April, Mai und November — sinkt der Preis auf 450 US-Dollar. Die Uganda Wildlife Authority (UWA) verwaltet alle Permits; Buchungen sind direkt über die UWA-Website oder über akkreditierte Reiseveranstalter möglich. Für die Hochsaison (Juli und August) sollte man neun bis zwölf Monate im Voraus buchen: Im August sind durchschnittlich 95,8 Prozent aller verfügbaren Permits ausverkauft, im Juli 91,1 Prozent.'
     },
     {
       frage: 'Wie lange dauert Gorilla Trekking in Bwindi?',
-      antwort: 'Die Treckingdauer hängt stark davon ab, wo sich die Gorilla-Familie am jeweiligen Tag aufhält. In günstigen Fällen erreicht man die Gruppe nach 30 bis 60 Minuten Fußmarsch. Es können aber auch drei, vier oder in Ausnahmefällen bis zu sechs Stunden werden. Bei der Familie angekommen, verbringt man exakt eine Stunde mit den Gorillas — das ist die UWA-Regelung für alle Besucher. Das Terrain in Bwindi ist steil und oft schlammig; feste Wanderschuhe und ein guter Fitnesszustand helfen.'
+      antwort: 'Die Treckingdauer variiert je nach Standort der Gorilla-Familie am jeweiligen Tag. In günstigen Fällen erreicht man die Gruppe nach 30 bis 60 Minuten Fußmarsch, manchmal dauert es drei bis vier Stunden. Bei der Familie angekommen verbringt man genau eine Stunde — das ist die UWA-Regelung für alle Besucher. Das Terrain in Bwindi ist steil und oft schlammig; feste Wanderschuhe, eine Regenjacke und guter Fitnesszustand sind empfehlenswert.'
     },
     {
       frage: 'Ist Gorilla Trekking in der Regenzeit möglich?',
-      antwort: 'Ja, Gorilla Trekking findet in Uganda das ganze Jahr statt — auch in der Regenzeit. Die Trails werden dann schlammiger und der Wald dichter, was das Wandern anstrengender macht. Dafür sind die Wälder in der Regenzeit besonders grün, Permit-Verfügbarkeit ist besser und Lodgepreise oft günstiger. Wer körperlich fit ist und kein Problem mit Schlamm hat, kann in der Regenzeit ein intensiveres, weniger touristisches Erlebnis machen.'
+      antwort: 'Ja, Gorilla Trekking findet in Uganda das ganze Jahr statt. In der Regenzeit werden die Trails schlammiger und das Unterholz dichter, was die Wanderung körperlich anspruchsvoller macht. Dafür sind die Wälder in voller Grünpracht, die Permit-Verfügbarkeit ist besser und Lodgepreise sind oft deutlich günstiger. Das eigentliche Erlebnis — die eine Stunde mit der Gorilla-Familie — ist in Qualität und Nähe identisch mit dem in der Trockenzeit.'
     }
   ]
 
   return (
     <>
       <Head
-        title="Beste Reisezeit Gorilla Trekking Uganda 2026"
-        description="Beste Reisezeit Gorilla Trekking in Uganda: Trockenzeit Juni-September und Dez-Feb ideal. Bwindi vs Mgahinga, 800 USD Permit, 459 Berggorillas. Alle Infos."
+        title="Beste Reisezeit Gorilla Trekking Uganda 2026: Wann und wo Gorillas sehen"
+        description="Beste Reisezeit Gorilla Trekking Uganda: Trockenzeit Juni–September ideal, Nebensaison April/Mai mit 450 USD Permit. 459 Berggorillas, Bwindi vs. Mgahinga, Buchungstipps."
         canonical={`https://www.reiseziel-uganda.de/${SLUG}`}
       />
       <main className="bg-white">
@@ -54,22 +54,25 @@ export default function BesteReisezeitGorillaTrekkingPage() {
           <figure className="mb-10 rounded-2xl overflow-hidden">
             <img
               src={HERO_IMG}
-              alt="Berggorilla im Bwindi Impenetrable National Park, Uganda"
+              alt="Berggorilla blickt durch dichtes Blattwerk im Bwindi Impenetrable National Park, Uganda"
               className="w-full h-64 sm:h-80 md:h-96 object-cover"
               loading="eager"
             />
             <figcaption className="text-xs text-gray-400 mt-2 px-1">
-              Berggorilla in seinem natuerlichen Habitat -- Bwindi Impenetrable National Park. Foto: Mark Suer
+              Berggorilla im Bwindi Impenetrable National Park — aufgenommen von Mark Suer während des Gorilla Trekkings im Januar 2026.
             </figcaption>
           </figure>
 
-          {/* Eröffnungsabsatz mit Hook */}
+          {/* Eröffnungsabsatz */}
           <div className="space-y-5 text-gray-700 text-lg leading-relaxed mb-10">
             <p>
-              Nach drei Stunden Wanderung durch den Bwindi Impenetrable Forest -- ueber steile Haenge, durch dichtes Unterholz, entlang von Pfaden, die manchmal mehr Ahnung als Weg sind -- hoert man es vor dem Sehen: ein tiefes, sattes Knacken im Blattwerk, dann Bewegung. Eine Gorilla-Familie taucht auf. Sie ignorieren einen vollstaendig, fressen weiter, bewegen sich langsam, schauen gelegentlich herueberr -- ruhig und ohne Scheu. Diese Begegnung, von der man sich fragt ob man sie wirklich erlebt, dauert eine Stunde. Danach weiss man: Es gibt kein Reiseerlebnis, das man dafuer eintauschen wuerde.
+              Die beste Reisezeit für Gorilla Trekking in Uganda beginnt im Juni und dauert bis September — das sind die Monate, in denen die Pfade im Bwindi Impenetrable National Park trockener sind, das Unterholz weniger dicht und die Wanderung körperlich besser planbar. Wer in dieser Zeit nach Uganda reist, hat die einfachsten Bedingungen für das Trekking selbst. Wer flexibel ist, dem eröffnen sich in der Regenzeit ganz andere Vorteile.
             </p>
             <p>
-              Fuer die beste Reisezeit Gorilla Trekking in Uganda gibt es klare Empfehlungen -- aber auch gute Gruende, die vermeintlich schlechtere Zeit zu waehlen. Dieser Artikel erklaert, wann das Trekking leichter ist, wann Permits einfacher zu bekommen sind, und was die Unterschiede zwischen Bwindi und Mgahinga fuer die Planung bedeuten.
+              Wir waren im Januar 2026 beim Gorilla Trekking im Bwindi Nationalpark — nach drei Stunden Wanderung durch den Regenwald stießen wir auf eine Gorilla-Familie. Sie waren sehr friedlich, und wir kamen sehr nah. Dieser Moment, für den man frühmorgens aufbricht, stundenlang durch dichtes Unterholz steigt und dann plötzlich, ohne Vorwarnung, einem der wenigen über tausend Berggorillas weltweit gegenübersteht — das ist das Versprechen, das Uganda einlöst. Ganzjährig, in der Trockenzeit wie in der Regenzeit.
+            </p>
+            <p>
+              Dieser Artikel erklärt die saisonalen Unterschiede, beschreibt die zwei Parks wo Gorillas in Uganda leben, fasst die aktuellen Populationsdaten zusammen und gibt praktische Hinweise zur Permit-Buchung — einschließlich der Monate, in denen Permits erheblich günstiger sind.
             </p>
           </div>
 
@@ -78,16 +81,16 @@ export default function BesteReisezeitGorillaTrekkingPage() {
             <h2 className="font-display text-xl font-semibold text-jungle-900 mb-4">Gorilla Trekking Uganda auf einen Blick</h2>
             <div className="grid sm:grid-cols-2 gap-4 text-sm text-jungle-800">
               <div className="space-y-2">
-                <div><span className="font-semibold">Beste Reisezeit:</span> Juni-September und Dezember-Februar</div>
-                <div><span className="font-semibold">Ganzjaehrig moeglich:</span> Ja -- Gorillas verlassen Bwindi nicht</div>
-                <div><span className="font-semibold">Permit-Preis:</span> 800 USD pro Person (UWA)</div>
-                <div><span className="font-semibold">Zeit bei der Familie:</span> Genau 1 Stunde (UWA-Regelung)</div>
+                <div><span className="font-semibold">Beste Reisezeit:</span> Juni–September und Dezember–Februar</div>
+                <div><span className="font-semibold">Ganzjährig möglich:</span> Ja — Gorillas verlassen Bwindi nicht</div>
+                <div><span className="font-semibold">Permit Hauptsaison:</span> 800 USD pro Person</div>
+                <div><span className="font-semibold">Permit Nebensaison:</span> 450 USD (April, Mai, November)</div>
               </div>
               <div className="space-y-2">
-                <div><span className="font-semibold">Berggorillas in Uganda:</span> 459 Individuen (Zensus 2018-2020)</div>
+                <div><span className="font-semibold">Berggorillas in Uganda:</span> 459 Individuen (Zensus 2018–2020)</div>
                 <div><span className="font-semibold">Parks:</span> Bwindi Impenetrable NP + Mgahinga Gorilla NP</div>
-                <div><span className="font-semibold">Bwindi-Zugaenge:</span> Buhoma, Ruhija, Rushaga, Nkuringo</div>
-                <div><span className="font-semibold">Buchung im Voraus:</span> 6-9 Monate (Hochsaison)</div>
+                <div><span className="font-semibold">Bwindi-Zugänge:</span> Buhoma, Ruhija, Rushaga, Nkuringo</div>
+                <div><span className="font-semibold">Buchungsvorlauf:</span> 9–12 Monate für Juli/August</div>
               </div>
             </div>
           </div>
@@ -95,81 +98,118 @@ export default function BesteReisezeitGorillaTrekkingPage() {
           {/* H2: Beste Reisezeit */}
           <section className="mb-12">
             <h2 className="font-display text-2xl sm:text-3xl font-bold text-gray-900 mb-5">
-              Beste Reisezeit Gorilla Trekking: Die zwei Trockenzeiten
+              Die beste Reisezeit für Gorilla Trekking: Trockenzeit und Regenzeit im Vergleich
             </h2>
             <div className="space-y-5 text-gray-700 leading-relaxed">
               <p>
-                Uganda hat zwei Trockenzeiten, und beide eignen sich gut fuer das Gorilla Trekking. Die laengere Trockenzeit dauert von Juni bis September -- das sind die Monate mit den festesten Pfaden, der besten Sicht ins Unterholz und den angenehmsten Temperaturen. Bwindi liegt auf ueber 1.600 Metern Hoehe, was selbst in der Trockenzeit fuer kuehle Morgende und frische Nachmittage sorgt. Die kuerzere Trockenzeit von Dezember bis Februar ist ebenfalls verlasslich, mit weniger Regen und gut begehbaren Wegen.
+                Uganda hat zwei Trockenzeiten: die lange von Juni bis September und die kurze von Dezember bis Februar. Beide eignen sich für Gorilla Trekking — mit dem Unterschied, dass die Hauptreisezeit für europäische Besucher in den Sommer (Juli und August) fällt, was sich unmittelbar in der Permit-Nachfrage zeigt. Im August sind laut den Auslastungsdaten der Uganda Wildlife Authority (UWA) durchschnittlich 95,8 Prozent aller verfügbaren Gorilla-Permits ausgebucht, im Juli 91,1 Prozent. Wer in diesen Monaten trekken möchte, muss neun bis zwölf Monate im Voraus buchen.
               </p>
               <p>
-                Der praktische Vorteil der Trockenzeit ist eindeutig: Wege trocknen schneller ab, Schlamm ist seltener ein Problem, und die Wanderung ist weniger kraefte­zehrend. Wer gesundheitliche Einschraenkungen hat oder sich nicht sicher ist wie gut sein Fitnesslevel fuer mehrere Stunden steiles Bergterrain ist, sollte die Trockenzeit bevorzugen. Gleichzeitig ist in dieser Zeit die Nachfrage am hoechsten -- Permits sind begehrter, Lodges schneller ausgebucht, und man trifft unterwegs mehr andere Trekkinggruppen.
+                Der praktische Vorteil der Trockenzeit liegt auf den Trails: Der Bwindi Impenetrable National Park liegt auf Höhen zwischen 1.160 und 2.607 Metern. Die Pfade sind in der Trockenzeit fester, der Unterholz-Bewuchs etwas lichter, und das Risiko tiefer Schlammlöcher ist geringer. Für Reisende, die körperliche Einschränkungen haben oder die sich bei einem langen, steilen Bergaufstieg nicht sicher sind, empfiehlt sich die Trockenzeit. Die Wanderung selbst kann je nach Position der Gorilla-Familie dreißig Minuten oder mehrere Stunden dauern — das Terrain bleibt anspruchsvoll, egal zu welcher Jahreszeit.
+              </p>
+              <p>
+                Die kurze Trockenzeit von Dezember bis Februar ist für viele Reisende interessant, die den Sommerurlaub nicht belegen wollen oder Weihnachten und Silvester mit einer außergewöhnlichen Reise verbinden. Unsere Reise im Januar 2026 — elf Tage vor Ort — fiel genau in diese Zeit. Die Wege waren trocken, die Morgenstunden in Buhoma angenehm kühl, und die Permit-Verfügbarkeit besser als im August.
               </p>
 
-              <h3 className="font-display text-xl font-semibold text-gray-800 mt-6 mb-3">Regenzeit: Weniger Besucher, mehr Wildnis</h3>
+              <h3 className="font-display text-xl font-semibold text-gray-800 mt-6 mb-3">Nebensaison: Günstigere Permits, weniger Besucher</h3>
               <p>
-                Die lange Regenzeit dauert von Maerz bis Mai, die kurze von Oktober bis November. Diese Monate gelten in vielen Reisefuehrern als "schlechtere Zeit" -- was nicht bedeutet, dass Gorilla Trekking dann schlechter ist. Es bedeutet: Die Wege sind schlammiger, das Unterholz dichter, die Anmarschwege koerperlich anspruchsvoller. Dafuer sind die Waelder in voller Gruenpracht, die Fauna und Flora ist aktiver, und man trifft deutlich weniger andere Besucher.
+                Die Regenzeiten in Uganda — März bis Mai (lange Regenzeit) und Oktober bis November (kurze Regenzeit) — gelten in der klassischen Reiseplanung als Nebensaison. Das hat messbare Konsequenzen für die Permit-Kosten: In den Monaten April, Mai und November senkt die UWA den Permit-Preis von 800 auf 450 US-Dollar pro Person. Eine Reisegruppe von vier Personen spart damit 1.400 Dollar allein durch die saisonale Wahl des Reisetermins.
               </p>
               <p>
-                Wer im Oktober oder April nach Uganda reist und ein Gorilla-Permit bucht, hat realistisch gesehen deutlich bessere Chancen auf spontane Verfuegbarkeit. Lodges reduzieren in dieser Zeit ihre Preise. Und das eigentliche Erlebnis -- die eine Stunde mit der Gorilla-Familie -- ist identisch mit dem in der Trockenzeit. Gorillas scheren sich nicht um Monate oder Kalender. Sie sind das ganze Jahr dort.
+                Dazu kommt die Verfügbarkeit: Im April sind durchschnittlich nur 20 Prozent der Permits ausgebucht — der niedrigste Wert des Jahres. Wer kurzfristig planen muss oder will, findet in den Regenmonaten realistische Chancen auf ein Permit ohne monatelangen Vorlauf. Lodges in und um Bwindi reduzieren in der Nebensaison ihre Preise spürbar, und die Parks sind erheblich ruhiger. Gruppen treffen unterwegs weniger andere Trekkinggruppen an.
+              </p>
+              <p>
+                Die Kehrseite ist real: Schlamm. Der Wald hält den Regen, die Pfade werden rutschig, und der Aufstieg zu einer Gorilla-Familie in der Regenzeit kostet mehr Kraft. Wasserdichte Wanderschuhe und Gamaschen sind dann kein optionales Zubehör. Wer körperlich fit ist und kein Problem mit feuchtem Gelände hat, findet in der Regenzeit aber ein intensiveres Erlebnis: Der Bwindi Forest leuchtet in der Regenzeit in einem Grün, das die Trockenzeit nicht bietet. Das eigentliche Ziel — die Stunde mit der Gorilla-Familie — ist qualitativ identisch. Gorillas achten nicht auf Jahreszeiten.
               </p>
             </div>
           </section>
 
-          {/* H2: Bwindi vs Mgahinga */}
+          {/* H2: Wo Gorillas sehen */}
           <section className="mb-12">
             <h2 className="font-display text-2xl sm:text-3xl font-bold text-gray-900 mb-5">
-              Bwindi oder Mgahinga: Wo Gorillas in Uganda sehen?
+              Wo kann man Gorillas in Uganda sehen? Bwindi und Mgahinga im Überblick
             </h2>
             <div className="space-y-5 text-gray-700 leading-relaxed">
               <p>
-                Ugandas Berggorillas leben in zwei Parks. Der groessere, bekanntere und am haeufigsten besuchte ist Bwindi Impenetrable National Park im Suedwesten des Landes. Bwindi hat vier Zugangspunkte: Buhoma im Norden, Ruhija im Osten sowie Rushaga und Nkuringo im Sueden. Jeder dieser Zugaenge hat eigene habitualisierte Gorilla-Familien, eigene Lodges und eigene Permit-Kontingente. In Summe erlaubt Bwindi die groesste Zahl an Trekking-Permits in Uganda taeglich.
+                Uganda hat zwei Parks, in denen Berggorillas für das Trekking habitualisiert wurden: der Bwindi Impenetrable National Park und der Mgahinga Gorilla National Park. Beide liegen im äußersten Südwesten des Landes, nahe der Grenzen zu Ruanda und der Demokratischen Republik Kongo.
               </p>
               <p>
-                Das zweite Gorilla-Trekking-Ziel in Uganda ist Mgahinga Gorilla National Park, der kleinste Nationalpark des Landes. Mgahinga liegt unmittelbar an der Dreilaendergrenze zu Ruanda und der Demokratischen Republik Kongo, inmitten der Virunga-Vulkane. Der Park ist kompakter und ruhiger als Bwindi, die Landschaft offener: Bambuswald, Vulkankegel, Alpenmatten. Die Uganda Wildlife Authority unterhielt bis Dezember 2025 insgesamt 221,76 Kilometer Elektrozaun ueber die wichtigsten Schutzgebiete des Landes -- darunter die 16 Kilometer lange Steinmauer in Mgahinga, die verhindert, dass Gorillas auf umliegende Felder ausweichen und Ernteschaeden anrichten.
+                Bwindi ist der mit Abstand größere, bekanntere und am meisten besuchte Park. Er hat vier Zugangspunkte: Buhoma im Norden, Ruhija im Osten, sowie Rushaga und Nkuringo im Süden. Jeder dieser Sektoren hat eigene habitualisierte Gorilla-Familien, eigene Permit-Kontingente und ein lokales Netz an Lodges. Buhoma ist der traditionell bekannteste Zugang — der Sektor war der erste, der für Touristen geöffnet wurde, und er liegt am nächsten an der kleinen Ortschaft Buhoma, wo auch die <a href="/hopekitchen-buhoma" className="text-jungle-700 underline hover:text-jungle-900">HopeKitchen der Hope on the Road gGmbH</a> arbeitet. Für die Auswahl des Sektors gilt: Wer mehr Abgeschiedenheit sucht, findet diese in Rushaga oder Nkuringo. Wer zum ersten Mal nach Bwindi kommt und sich an eine Basisinfrastruktur halten möchte, ist in Buhoma gut aufgehoben.
               </p>
               <p>
-                Wer zwischen beiden Parks waehlen kann: Bwindi bietet mehr Flexibilitaet bei Terminen und Familien, Mgahinga ein intimeres Erlebnis mit weniger Besucherverkehr. Da in Mgahinga nur eine Gorilla-Familie habitualisiert ist, kann es vorkommen, dass die Familie sich voruebergehend nach Ruanda oder in den Kongo bewegt -- in diesem Fall werden Permits verschoben. Bwindi hat dieses Risiko nicht in demselben Ausmass.
+                Bwindi beherbergt die große Mehrheit der ugandischen Berggorillas. Der zweite Park, der Mgahinga Gorilla National Park, liegt unmittelbar an der Dreiländergrenze zu Ruanda und der DR Kongo, inmitten der Virunga-Vulkane. Der Vulkan Gahinga mit 3.475 Metern Höhe ist namensgebend für den Park — bedeckt von Bambuswald, der für die Gorillas einen wichtigen Nahrungsraum darstellt. Mgahinga ist Ugandas kleinster Nationalpark, die Landschaft deutlich offener als das dichte Kronendach von Bwindi: Bambuswald, Alpenmatten, Vulkankegel.
+              </p>
+              <p>
+                In Mgahinga ist nur eine Gorilla-Familie habitualisiert: die Nyakagezi-Familie. Das bedeutet erheblich weniger tägliche Permit-Kontingente als in Bwindi. Es bedeutet auch: Wenn die Nyakagezi-Familie sich in Richtung Ruanda oder DR Kongo bewegt — was zeitweise vorkommt, da Gorillas keine Staatsgrenzen kennen — können Trekkings für diesen Tag nicht stattfinden. Die UWA verschiebt Permits in solchen Fällen, aber wer einen knappen Reisezeitplan hat, sollte das Risiko einkalkulieren. Bwindi hat dieses Problem nicht in demselben Ausmaß.
+              </p>
+              <p>
+                Zum Schutz der umliegenden Gemeinden unterhält die Uganda Wildlife Authority in Mgahinga eine 16 Kilometer lange Steinmauer entlang der Parkgrenze. Sie verhindert, dass Gorillas auf die angrenzenden Felder ausweichen und Ernteschäden anrichten — ein konkretes Beispiel für die Mensch-Wildtier-Koexistenz, an der die UWA seit Jahren arbeitet.
               </p>
             </div>
           </section>
 
-          {/* H2: Population und Naturschutz */}
+          {/* H2: Population */}
           <section className="mb-12">
             <h2 className="font-display text-2xl sm:text-3xl font-bold text-gray-900 mb-5">
-              Berggorilla-Population in Uganda: Stand 2025
+              Aktuelle Gorilla-Populationszahlen: Stand 2025
             </h2>
             <div className="space-y-5 text-gray-700 leading-relaxed">
               <p>
-                Die letzte offizielle Vollerhebung der Berggorilla-Population in Uganda wurde im Zeitraum 2018 bis 2020 durchgefuehrt und ergab 459 Individuen. Uganda beherbergt damit knapp die Haelfte aller Berggorillas weltweit -- die andere Haelfte lebt im Virunga-Massiv, das sich ueber die Grenzen von Ruanda, der DR Kongo und Uganda erstreckt. Der ugandische Anteil konzentriert sich fast vollstaendig auf Bwindi.
+                Der letzte vollständige Zensus der Berggorilla-Population in Uganda wurde im Zeitraum 2018 bis 2020 durchgeführt und ergab 459 Individuen. Uganda beherbergt damit knapp die Hälfte der weltweiten Berggorilla-Population. Die andere Hälfte lebt im Virunga-Massiv, das sich über das Grenzgebiet von Ruanda, der DR Kongo und Uganda erstreckt. Der ugandische Anteil konzentriert sich fast vollständig auf Bwindi.
               </p>
               <p>
-                Berggorillas sind die einzige Menschenaffenart, deren Bestand in den vergangenen drei Jahrzehnten trotz aller Bedrohungen zugenommen hat. In den fruehen 1980er-Jahren wurde die Weltpopulation auf unter 300 geschaetzt. Der Anstieg auf ueber 1.000 ist das Ergebnis intensiver Schutzprogramme: Habituierungsprogramme, Anti-Wilderei-Massnahmen, Community-Revenue-Sharing-Modelle und -- nicht zuletzt -- der Tourismus selbst, der wirtschaftliche Anreize schafft, Gorilla-Lebensraum zu schuetzen. Jedes verkaufte Gorilla-Permit finanziert anteilig die Uganda Wildlife Authority und den Naturschutz in den Pufferzonengemeinschaften rund um Bwindi.
+                Zum Vergleich: In ganz Afrika gibt es noch rund 50.000 Gorillas — die große Mehrheit davon sind Westliche und Östliche Flachlandgorillas, die in anderen Ländern Zentralafrikas leben. Berggorillas (Gorilla beringei beringei) sind die seltenste Unterart: Insgesamt leben rund 1.063 Individuen in Uganda, Ruanda und der DR Kongo. Dazu kommen rund 3.800 Östliche Flachlandgorillas (Gorilla beringei graueri), die vor allem im Kahuzi-Biéga-Nationalpark in der DR Kongo leben und ebenfalls als kritisch gefährdet gelten.
               </p>
               <p>
-                Waehrend unserer Besuche in Bwindi -- zuletzt im Mai 2026 -- war die Praesenz der UWA-Ranger in und um den Park deutlich sichtbar. Regelmassige Patrouillen, Fallenfallen und das Monitoring der habitualierten Familien gehoeren zum Tagesgeschaeft. Die Gorilla-Familien, die fuer das Trekking zugaenglich sind, werden taeglich von Trackern lokalisiert, damit die Besucher am Morgen ohne langes Suchen eine zielgenaue Route gehen koennen.
+                Berggorillas sind die einzige Menschenaffenart, deren Bestand in den vergangenen vier Jahrzehnten trotz aller Bedrohungen zugenommen hat. In den frühen 1980er-Jahren wurde die Weltpopulation auf unter 300 geschätzt. Der Anstieg auf über 1.000 ist das Ergebnis intensiver Schutzprogramme: Habituierungsarbeit, Anti-Wilderei-Maßnahmen, Community-Revenue-Sharing-Modelle und — nicht zuletzt — der Tourismus selbst. Jedes verkaufte Gorilla-Permit finanziert anteilig die Arbeit der Uganda Wildlife Authority und die Gemeindeprogramme rund um Bwindi.
+              </p>
+              <p>
+                Uganda gilt international als Erfolgsbeispiel für naturschutzbasierten Tourismus. Bis Mitte der 1960er-Jahre war Uganda nach den Daten des UWA-Berichts "State of Wildlife Resources 2026" das führende Safari-Ziel Afrikas — noch vor Kenia und Tansania. Nach Jahrzehnten politischer Instabilität und Wilderei hat das Land diesen Status im Bereich der Primaten-Tourismus zurückgewonnen.
+              </p>
+              <p>
+                Während unserer Besuche in Bwindi — zuletzt zwölf Tage im Oktober 2024 und dreizehn Tage im Mai 2026 — war die Präsenz der UWA-Ranger im und um den Park durchgehend sichtbar. Habituierte Gorilla-Familien werden täglich von spezialisierten Trackern lokalisiert, damit die Trekking-Gruppen morgens eine präzise Route erhalten. Das System funktioniert reibungslos und macht das Erlebnis trotz der unvorhersehbaren Terrain-Variablen planbar.
               </p>
             </div>
           </section>
 
-          {/* H2: Permit, Planung, Praktisches */}
+          {/* H2: Gorilla Trekking Kongo */}
           <section className="mb-12">
             <h2 className="font-display text-2xl sm:text-3xl font-bold text-gray-900 mb-5">
-              Gorilla-Permit 2026: Buchung, Kosten und praktische Vorbereitung
+              Gorilla Trekking Kongo: Reisezeit und Vergleich mit Uganda
             </h2>
             <div className="space-y-5 text-gray-700 leading-relaxed">
               <p>
-                Ein Gorilla-Tracking-Permit kostet 800 US-Dollar pro Person. Das Permit gilt fuer genau eine Stunde bei einer habitualierten Gorilla-Familie und schliesst den Transfer zum Parkeingang nicht ein. Buchungen erfolgen ueber die Uganda Wildlife Authority (UWA) direkt oder ueber zugelassene Reiseveranstalter. Fuer die Hochsaison -- Juni bis September und Dezember bis Februar -- sollte man sechs bis neun Monate im Voraus buchen. In der Nebensaison sind oft auch kurzfristige Buchungen moeglich.
+                Wer Gorilla Trekking im Kongo in Betracht zieht — konkret im Virunga National Park im Osten der DR Kongo — findet saisonal ähnliche Muster wie in Uganda: Die Trockenzeiten von Juni bis September und Dezember bis Februar sind auch dort die einfacheren Monate für das Trekking. Berggorillas im Virunga-Massiv folgen denselben Klimamustern wie die Bwindi-Populationen, da das gesamte Grenzgebiet klimatisch ähnlich strukturiert ist.
               </p>
               <p>
-                Koerperliche Vorbereitung zahlt sich aus. Das Trekking-Terrain in Bwindi ist steil, das Unterholz dicht, und der Weg zu den Gorillas dauert manchmal nur dreissig Minuten, manchmal drei Stunden -- je nachdem wo die Familie am betreffenden Tag lagert. Feste Wanderschuhe mit gutem Profil, Regen­jacke, Handschuhe fuer das Unterholz und genuegend Wasser sind Pflicht. Gaiters -- Gamaschen die den Schuh-Hosen-Uebergang abdichten -- sind in der Regenzeit sehr empfehlenswert.
+                Der wesentliche Unterschied liegt nicht im Klima, sondern in der Sicherheitslage und der logistischen Verlässlichkeit. Im Virunga National Park gab es in den vergangenen Jahren wiederholt Phasen, in denen der Park für Touristen geschlossen war — bedingt durch bewaffnete Konflikte im Osten der DR Kongo. Uganda bleibt für deutschsprachige Reisende die deutlich verlässlichere Option: die politische und Sicherheitslage ist stabil, Permits sind planbar buchbar, und die touristische Infrastruktur rund um Bwindi ist gut entwickelt.
               </p>
               <p>
-                Jede Trekkinggruppe besteht aus maximal acht Besuchern, wird von einem erfahrenen Guide geleitet und von bewaffneten UWA-Rangern begleitet. Das Briefing am Morgen erklaert die Verhaltensregeln: kein direkter Augenkontakt mit den Gorillas, kein Blitz beim Fotografieren, Mindestabstand von sieben Metern, und -- falls sich ein Gorilla naehert -- ruhig stehen bleiben und den Blick senken. [ZITAT: Guide ueber Verhalten wenn ein Silberruecken auf einen zukommt]
+                Für Reisende, die sowohl Ruanda als auch Uganda in eine Reise integrieren, ergibt sich ein weiterer Vergleichspunkt: das Volcanoes National Park in Ruanda bietet Gorilla Trekking ebenfalls ganzjährig, mit saisonal ähnlichen Verhältnissen. Die Permit-Preise in Ruanda liegen jedoch bei 1.500 US-Dollar pro Person — nahezu doppelt so hoch wie in Uganda. Wer ein tiefes Gorilla-Trekking-Erlebnis mit vernünftigem Budget sucht, findet es in Uganda.
               </p>
+            </div>
+          </section>
 
-              <h3 className="font-display text-xl font-semibold text-gray-800 mt-6 mb-3">Beste Reisezeit Gorilla Trekking Kongo: Kurzer Vergleich</h3>
+          {/* H2: Permit und Vorbereitung */}
+          <section className="mb-12">
+            <h2 className="font-display text-2xl sm:text-3xl font-bold text-gray-900 mb-5">
+              Gorilla Permit 2026: Buchung, Kosten und Vorbereitung
+            </h2>
+            <div className="space-y-5 text-gray-700 leading-relaxed">
               <p>
-                Wer erwaegt, Gorilla Trekking in der Demokratischen Republik Kongo (Virunga National Park) zu kombinieren oder als Alternative zu betrachten: Der Kongo hatte zuletzt unterschiedliche Sicherheitsphasen und Betriebszeiten fuer Touristen. In Uganda ist die Situation verlasslich stabil. Die beste Reisezeit Gorilla Trekking Kongo folgt aehnlichen Mustern wie Uganda -- Trockenzeiten sind praktikabler -- aber die logistische Komplexitaet und die Sicherheitslage sind andere Variablen. Uganda bleibt fuer deutschsprachige Reisende die zuverlaessigere Option.
+                Ein Gorilla-Trekking-Permit kostet in der Hauptsaison 800 US-Dollar pro Person, in der Nebensaison (April, Mai, November) 450 US-Dollar. Das Permit gilt für genau eine Stunde bei einer habitualisierten Gorilla-Familie und schließt den Transfer zum Parkeingang nicht ein. Buchungen erfolgen über die Uganda Wildlife Authority direkt — online über die UWA-Website, persönlich im Gorilla Tourism Office in Kabale, oder über akkreditierte Reiseveranstalter.
+              </p>
+              <p>
+                Für die Hochsaison — Juli, August, Dezember, Anfang Januar — sollte man neun bis zwölf Monate im Voraus buchen. Für die Nebensaison und die Schulterperioden (Juni, September, Oktober) sind Buchungen mit zwei bis vier Monaten Vorlauf meist realistisch. In der Regenzeit (April/Mai) sind in manchen Jahren auch Permits mit wenigen Wochen Vorlauf erhältlich. Die <a href="/gorilla-permit-verfuegbarkeit" className="text-jungle-700 underline hover:text-jungle-900">monatlichen Auslastungsdaten für Gorilla Permits</a> zeigen die Nachfrage für jeden Monat im Jahresvergleich.
+              </p>
+              <p>
+                Für die praktische Vorbereitung: Feste Wanderschuhe mit gutem Profil sind unerlässlich — keine Turnschuhe. Eine Regenjacke gehört in jeden Rucksack, auch in der Trockenzeit (der Regenwald im Bwindi hat sein eigenes Klima). Gamaschen schützen in der Regenzeit vor Schlamm und Insekten. Kamera und Handy sollten in wasserdichten Hüllen gesichert sein. Am Eingang der meisten Sektoren können Porter engagiert werden — gegen ein Trinkgeld von üblicherweise 15 bis 20 US-Dollar. Auf steilem Terrain ist das eine echte Hilfe.
+              </p>
+              <p>
+                Jede Trekkinggruppe besteht aus maximal acht Besuchern, wird von einem erfahrenen Guide geleitet und von bewaffneten UWA-Rangern begleitet. Das Briefing am Morgen klärt die Verhaltensregeln: kein direkter Augenkontakt mit den Gorillas, kein Blitz beim Fotografieren, Mindestabstand von sieben Metern, und — falls sich ein Gorilla nähert — ruhig stehen bleiben und den Blick senken. [ZITAT: Guide über Verhalten wenn ein Silberrücken auf einen zukommt]
+              </p>
+              <p>
+                Wer nach Bwindi reist, übernachtet am besten in der Region — ein langer Anreiseweg am Trekking-Tag kostet Energie. Kabale ist der nächste Ausgangspunkt für den südlichen Bwindi (Rushaga, Nkuringo), Buhoma liegt direkt am nördlichen Parkeingang. Mehr zu Unterkünften und Anreise findet sich im <a href="/gorilla-trekking" className="text-jungle-700 underline hover:text-jungle-900">kompletten Gorilla Trekking Guide für Uganda</a>.
               </p>
             </div>
           </section>
@@ -180,7 +220,7 @@ export default function BesteReisezeitGorillaTrekkingPage() {
           {/* FAQ */}
           <section className="mb-12 mt-12">
             <h2 className="font-display text-2xl font-bold text-gray-900 mb-6">
-              Haeufige Fragen zur besten Reisezeit Gorilla Trekking Uganda
+              Häufige Fragen zur besten Reisezeit Gorilla Trekking Uganda
             </h2>
             <div className="space-y-3">
               {faqs.map((item, i) => (
@@ -206,27 +246,30 @@ export default function BesteReisezeitGorillaTrekkingPage() {
           {/* Interne Links */}
           <section className="mt-12 pt-8 border-t border-gray-200">
             <h2 className="font-display text-xl font-semibold text-gray-800 mb-5">
-              Mehr zum Gorilla Trekking in Uganda
+              Weiterführende Seiten zum Gorilla Trekking in Uganda
             </h2>
-            <div className="grid sm:grid-cols-2 gap-3">
+            <ul className="grid sm:grid-cols-2 gap-3 text-sm">
               {[
-                { href: '/gorilla-trekking', label: 'Gorilla Trekking Uganda: Der komplette Guide' },
-                { href: '/nationalparks/bwindi', label: 'Bwindi Impenetrable National Park' },
-                { href: '/gorilla-permit-kosten', label: 'Gorilla Permit Kosten 2026' },
-                { href: '/beste-reisezeit-uganda', label: 'Beste Reisezeit Uganda gesamt' },
-                { href: '/gorilla-trekking-vorbereitung', label: 'Vorbereitung fuer das Gorilla Trekking' },
-                { href: '/gorilla-familien-bwindi', label: 'Gorilla-Familien in Bwindi' },
-              ].map(({ href, label }) => (
-                <a
-                  key={href}
-                  href={href}
-                  className="flex items-center gap-2 text-jungle-700 hover:text-jungle-900 hover:underline text-sm py-1"
-                >
-                  <span className="text-jungle-400">&#8594;</span>
-                  {label}
-                </a>
+                { href: '/gorilla-trekking', label: 'Gorilla Trekking Uganda: Der komplette Guide', desc: 'Ablauf, Vorbereitung, Erfahrungen' },
+                { href: '/nationalparks/bwindi', label: 'Bwindi Impenetrable National Park', desc: 'Sektoren, Fauna, Anreise' },
+                { href: '/nationalparks/mgahinga', label: 'Mgahinga Gorilla National Park', desc: 'Nyakagezi-Familie, Vulkane, Permits' },
+                { href: '/gorilla-permit-verfuegbarkeit', label: 'Gorilla Permit Verfügbarkeit', desc: 'Monatliche Auslastungsdaten' },
+                { href: '/gorilla-permit-kosten', label: 'Gorilla Permit Kosten 2026', desc: 'Was kostet das Permit, wo buchen?' },
+                { href: '/beste-reisezeit-uganda', label: 'Beste Reisezeit Uganda gesamt', desc: 'Alle Parks und Aktivitäten im Saisonkalender' },
+                { href: '/gorilla-trekking-erfahrungsbericht', label: 'Gorilla Trekking Erfahrungsbericht', desc: 'Persönliche Eindrücke aus Bwindi' },
+                { href: '/nationalparks-uganda', label: 'Alle Nationalparks Ugandas', desc: 'Zehn Parks im Überblick' },
+              ].map(({ href, label, desc }) => (
+                <li key={href}>
+                  <a
+                    href={href}
+                    className="block p-3 rounded-lg border border-gray-200 hover:border-jungle-400 hover:bg-jungle-50 transition-colors"
+                  >
+                    <span className="font-semibold text-jungle-800 block">{label}</span>
+                    <span className="block text-gray-500 mt-0.5">{desc}</span>
+                  </a>
+                </li>
               ))}
-            </div>
+            </ul>
           </section>
 
         </div>
