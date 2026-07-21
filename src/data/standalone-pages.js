@@ -393,6 +393,7 @@ export const standalonePages = {
       },
     ],
     related: [
+      { href: '/hauptstadt-ugandas', title: 'Kampala -- Hauptstadt Ugandas', desc: 'Die ugandische Hauptstadt auf sieben Huegeln: Geschichte, Sehenswuerdigkeiten und Reisetipps.' },
       { href: '/regionen/jinja', title: 'Jinja', desc: 'Die Abenteuer-Hauptstadt an der Nilquelle.' },
       { href: '/nationalparks/murchison_falls', title: 'Murchison Falls National Park', desc: 'Ugandas groesster Nationalpark mit den gewaltigen Wasserfaellen.' },
       { href: '/tiere/schuhschnabel', title: 'Schuhschnabel', desc: 'Der seltenste Vogel am Nil.' },
@@ -10589,10 +10590,10 @@ export const standalonePages = {
 
   'hauptstadt-ugandas': {
     slug: '/hauptstadt-ugandas',
-    title: 'Hauptstadt Ugandas: Kampala',
+    title: 'Hauptstadt von Uganda: Kampala',
     h1: 'Kampala -- Hauptstadt Ugandas und Tor zur Wildnis',
     subtitle: 'Sieben Huegel, UNESCO-Welterbe, 65 Prozent des nationalen BIP -- und fuenf Stunden von Ugandas groesstem Nationalpark entfernt',
-    metaDescription: 'Die Hauptstadt Ugandas ist Kampala: 7 Huegel, Kasubi-Graeberstaette (UNESCO), 65 % des BIP. Reiseguide 2026 inkl. Murchison Falls.',
+    metaDescription: 'Die Hauptstadt von Uganda ist Kampala: sieben Huegel, Kasubi-Graeberstaette (UNESCO), Viktoriasee. Entebbe ist der Flughafen, Kampala die Hauptstadt. Reiseguide 2026.',
     breadcrumbs: [{ label: 'Kampala' }],
     publishedTime: '2026-06-26',
     modifiedTime: '2026-06-29',
@@ -10715,8 +10716,17 @@ export const standalonePages = {
         q: 'Wann ist die beste Reisezeit fuer den Murchison Falls Nationalpark?',
         a: 'Die besten Bedingungen herrschen in der Trockenzeit: Dezember bis Februar sowie Juni bis September. Die Pisten sind dann gut befahrbar, Tiere sammeln sich haeufiger an Wasserloechern und die Sicht ist klar. Wir haben den Park im Oktober besucht -- unmittelbar nach der kurzen Regenzeit -- und haben trotzdem exzellente Tiersichtungen gehabt: niederes Gras, aktive Tiere, wenig andere Besucher.',
       },
+      {
+        q: 'Ist Entebbe die Hauptstadt von Uganda?',
+        a: 'Nein. Die Hauptstadt von Uganda ist Kampala. Entebbe ist eine separate Stadt rund 40 Kilometer suedlich von Kampala, direkt am Viktoriasee. In Entebbe liegt zwar der einzige internationale Flughafen Ugandas -- weshalb viele Reisende Entebbe als ersten Berueehrungspunkt mit dem Land kennen -- die Regierung und alle staatlichen Institutionen sind jedoch in Kampala. Entebbe war bis 1962 Verwaltungssitz der britischen Kolonie; mit der Unabhaengigkeit uebernahm Kampala diese Rolle.',
+      },
+      {
+        q: 'Hauptstadt von Uganda -- wie viele Buchstaben?',
+        a: 'Kampala hat sieben Buchstaben: K-A-M-P-A-L-A. Kampala ist seit der ugandischen Unabhaengigkeit am 9. Oktober 1962 die offizielle Hauptstadt Ugandas.',
+      },
     ],
     related: [
+      { href: '/regionen/entebbe', title: 'Entebbe', desc: 'Ugandas Flughafenstadt am Viktoriasee -- Botanischer Garten, UWEC und Schuhschnabel.' },
       { href: '/regionen/kampala', title: 'Kampala als Region', desc: 'Sehenswuerdigkeiten, Unterkunft und Tipps fuer einen Kampala-Aufenthalt.' },
       { href: '/murchison-falls-nationalpark', title: 'Murchison Falls Nationalpark', desc: 'Kompletter Reisefuehrer: Bootsfahrt, Game Drive, Anreise und beste Reisezeit.' },
       { href: '/kigali-nach-kampala', title: 'Von Kigali nach Kampala', desc: 'Busreise, Grenzuebergang Katuna und erste Eindruecke in der ugandischen Hauptstadt.' },
@@ -12989,6 +12999,10 @@ export const standalonePages = {
       {
         q: 'Was ist das Uganda Wildlife Education Centre (UWEC)?',
         a: 'Das UWEC ist ein Natur- und Bildungszentrum in Entebbe direkt am Viktoriasee. Es beherbergt Schimpansen, Schuhschnabel, Nilkrokodile, Antilopenarten und viele weitere ugandische Wildtiere -- oft aus Konfiszierungen oder Verletzungsfoerderung. Der Schuhschnabel ist das meistfotografierte Tier. Das UWEC ist besonders fuer einen halben Tag vor oder nach dem Flug geeignet.',
+      },
+      {
+        q: 'Ist Entebbe die Hauptstadt von Uganda?',
+        a: 'Nein. Die Hauptstadt von Uganda ist Kampala. Entebbe ist eine separate Stadt am Viktoriasee rund 40 Kilometer von Kampala entfernt. Der internationale Flughafen Ugandas liegt in Entebbe -- deshalb verbinden viele Reisende Entebbe mit dem Begriff Hauptstadt. Bis 1962 war Entebbe tatsaechlich Verwaltungssitz der britischen Kolonie. Seit der Unabhaengigkeit ist Kampala die offizielle Hauptstadt.',
       },
     ],
     related: [
