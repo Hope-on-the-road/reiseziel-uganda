@@ -1643,7 +1643,8 @@ export const standalonePages = {
       },
     ],
     related: [
-      { href: '/gorilla-trekking', title: 'Gorilla Trekking -- Der komplette Guide', desc: 'Alles ueber Gorilla Trekking in Uganda.' },
+      { href: '/beste-reisezeit-gorilla-trekking', title: 'Beste Reisezeit Gorilla Trekking', desc: 'Trockenzeit vs. Regenzeit -- wann und wo Berggorillas in Uganda sehen.' },
+      { href: '/gorilla-trekking', title: 'Gorilla Trekking -- Der komplette Guide', desc: 'Alles ueber Gorilla Trekking in Uganda: Permits, Kosten, Sektoren.' },
       { href: '/nationalparks/bwindi', title: 'Bwindi Impenetrable Nationalpark', desc: 'Der Nationalpark im Detail.' },
       { href: '/tiere/berggorilla', title: 'Berggorilla -- Alles ueber die Art', desc: 'Steckbrief und Wissenswertes zum Berggorilla.' },
       { href: '/rundreisen/14-tage', title: '14 Tage Uganda Rundreise', desc: 'Rundreise mit Gorilla Trekking planen.' },

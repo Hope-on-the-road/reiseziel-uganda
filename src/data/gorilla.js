@@ -118,6 +118,8 @@ export const gorillaTrekking = {
     'MTWA Statistical Abstract 2025, Uganda Ministry of Tourism, Wildlife and Antiquities, April 2026',
   ],
   related: [
+    { href: '/beste-reisezeit-gorilla-trekking', title: 'Beste Reisezeit Gorilla Trekking', desc: 'Trockenzeit vs. Regenzeit, Bwindi vs. Mgahinga -- wann und wo Berggorillas sehen.' },
+    { href: '/gorilla-trekking-erfahrungsbericht', title: 'Gorilla Trekking Erfahrungsbericht', desc: 'Persoenlicher Bericht: Wecker um 4:30 Uhr bis zur Stunde mit den Berggorillas.' },
     { href: '/nationalparks/bwindi', title: 'Bwindi Impenetrable National Park', desc: 'Der groesste Gorilla-Park mit ueber 22 habituierten Familien und vier Trekking-Sektoren.' },
     { href: '/nationalparks/mgahinga', title: 'Mgahinga Gorilla National Park', desc: 'Gorilla Trekking vor der Kulisse der Virunga-Vulkane plus Goldmeerkatzen-Tracking.' },
     { href: '/reiseplanung/kosten', title: 'Kosten einer Uganda-Reise', desc: 'Was kostet eine Reise nach Uganda wirklich? Detaillierte Budget-Planung.' },
