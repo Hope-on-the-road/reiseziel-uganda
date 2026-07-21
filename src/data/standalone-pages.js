@@ -492,6 +492,10 @@ export const standalonePages = {
         q: 'Gibt es Flusspferde im Victoriasee?',
         a: 'Ja, Flusspferde leben am Victoriasee, allerdings in deutlich geringerer Zahl als frueher. Man findet sie vor allem in weniger besiedelten Buchten und auf einigen Inseln. In der Naehe groesserer Staedte sind sie selten geworden. Wer Flusspferde in grosser Zahl sehen moechte, besucht besser den Murchison Falls National Park oder den Queen Elizabeth National Park am Kazinga-Kanal.',
       },
+      {
+        q: 'Welche ugandischen Staedte liegen am Victoriasee?',
+        a: 'Die wichtigsten ugandischen Staedte am Victoriasee sind Entebbe und Kampala. Entebbe liegt direkt am Seeufer rund 40 Kilometer suedlich von Kampala und beherbergt den einzigen internationalen Flughafen Ugandas. Kampala selbst liegt am Nordufer des Sees, etwas landeinwaerts, ist aber geografisch eng mit dem See verbunden -- der Flughafen in der Partnerstadt Entebbe ist de facto der Flughafen der Hauptstadt. Weitere Staedte am ugandischen Seeufer sind Jinja im Osten (dort verlaesst der Nil den See) und Port Bell, der historische Hafen Kampalas.',
+      },
     ],
     related: [
       { href: '/tiere/schuhschnabel', title: 'Schuhschnabel', desc: 'Alles ueber den seltensten Vogel Ugandas.' },

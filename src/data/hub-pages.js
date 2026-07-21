@@ -124,6 +124,7 @@ export const hubPages = {
     related: [
       { href: '/nationalparks/bwindi', title: 'Bwindi Impenetrable National Park', desc: 'UNESCO-Welterbe und Heimat der Berggorillas.' },
       { href: '/nationalparks/queen-elizabeth', title: 'Queen Elizabeth National Park', desc: 'Kazinga-Kanal, Baumloewen und ueber 600 Vogelarten.' },
+      { href: '/murchison-falls-nationalpark-guide', title: 'Murchison Falls Nationalpark', desc: 'Ugandas groesster Park: Bootsfahrt, Safari und der Nil im freien Fall.' },
       { href: '/kidepo-safari-guide', title: 'Kidepo Valley Safari-Guide', desc: 'Strausse, Geparden und Nashörner im Norden Ugandas.' },
       { href: '/lake-mburo-zebra-safari', title: 'Lake Mburo: Zebra-Safari', desc: 'Ugandas kompaktester Park -- 3,5 Stunden von Kampala.' },
       { href: '/semuliki-tieflandregenwald', title: 'Semuliki Tieflandregenwald', desc: 'Kongobecken-Voegel und heisse Quellen im Westen.' },
