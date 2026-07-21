@@ -609,7 +609,7 @@ export default function PageLayout({ page, heroPhoto, contentPhotos = [] }) {
 
             {page.sections?.map((section, i) => (
               <ContentSection key={i} title={section.title} id={section.id} isFirst={i === 0 && !page.kurzantwort && !page.fakten}>
-                {section.content.split('\n\n').map((para, j) => (
+                {(Array.isArray(section.content) ? section.content : section.content.split('\n\n')).map((para, j) => (
                   <p key={j} className="mb-5">{autoLinkText(para, page.slug)}</p>
                 ))}
                 {sectionPhotoMap.has(i) && (
