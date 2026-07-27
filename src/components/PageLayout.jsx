@@ -402,7 +402,7 @@ function QuellenSection({ quellen }) {
 }
 
 function TableOfContents({ sections, faqs }) {
-  const items = (sections || []).filter(s => s.title)
+  const items = (sections || []).filter(s => s.title || s.heading)
   if (items.length < 3) return null
 
   return (
@@ -434,7 +434,7 @@ function TableOfContents({ sections, faqs }) {
 }
 
 function ReadingTime({ sections, kurzantwort }) {
-  const text = (kurzantwort || '') + (sections || []).map(s => s.content).join(' ')
+  const text = (kurzantwort || '') + (sections || []).map(s => Array.isArray(s.content) ? s.content.join(' ') : s.content || (s.paragraphs || []).join(' ')).join(' ')
   const words = text.split(/\s+/).length
   const minutes = Math.max(1, Math.ceil(words / 200))
   return (
@@ -607,16 +607,22 @@ export default function PageLayout({ page, heroPhoto, contentPhotos = [] }) {
             <Faktenbox facts={page.fakten} />
             <TableOfContents sections={page.sections} faqs={page.faqs} />
 
-            {page.sections?.map((section, i) => (
-              <ContentSection key={i} title={section.title} id={section.id} isFirst={i === 0 && !page.kurzantwort && !page.fakten}>
-                {(Array.isArray(section.content) ? section.content : section.content.split('\n\n')).map((para, j) => (
-                  <p key={j} className="mb-5">{autoLinkText(para, page.slug)}</p>
-                ))}
-                {sectionPhotoMap.has(i) && (
-                  <PhotoGallery photos={sectionPhotoMap.get(i)} maxItems={2} />
-                )}
-              </ContentSection>
-            ))}
+            {page.sections?.map((section, i) => {
+              const sectionTitle = section.title || section.heading
+              const contentArray = Array.isArray(section.content) ? section.content
+                : section.content ? section.content.split('\n\n')
+                : section.paragraphs || []
+              return (
+                <ContentSection key={i} title={sectionTitle} id={section.id} isFirst={i === 0 && !page.kurzantwort && !page.fakten}>
+                  {contentArray.map((para, j) => (
+                    <p key={j} className="mb-5">{autoLinkText(para, page.slug)}</p>
+                  ))}
+                  {sectionPhotoMap.has(i) && (
+                    <PhotoGallery photos={sectionPhotoMap.get(i)} maxItems={2} />
+                  )}
+                </ContentSection>
+              )
+            })}
 
             {stripPhotos.length > 0 && (
               <FullWidthPhotoStrip photos={stripPhotos} />
