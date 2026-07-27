@@ -11,5 +11,9 @@
 /wasser-sanitaer-hygiene-kampala  /wash-programme-kampala  301
 /sanitation-oeffentliche-gesundheit-kampala  /wash-programme-kampala  301
 
+# Trailing-Slash-Korrekturen (Canonical ohne Slash laut Sitemap)
+/reiseplanung/trinkgeld/    /reiseplanung/trinkgeld     301
+/reiseplanung/internet/     /reiseplanung/internet      301
+
 # SPA catch-all (muss am Ende stehen)
 /*    /index.html   200
