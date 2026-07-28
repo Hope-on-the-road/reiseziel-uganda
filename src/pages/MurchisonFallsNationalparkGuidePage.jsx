@@ -92,8 +92,8 @@ export default function MurchisonFallsNationalparkGuidePage() {
   return (
     <>
       <Head
-        title="Murchison Falls Nationalpark: Safari, Löwen und Nil"
-        description="Murchison Falls Nationalpark: 240 Löwen, Rothschild-Giraffen, Nilpferde. Vollständiger Safari-Guide für Ugandas größten Nationalpark."
+        title="Murchison Falls Nationalpark Uganda: Safari-Guide, Löwen & Nil"
+        description="Murchison Falls Nationalpark: Ugandas größter Nationalpark mit 240 Löwen, Rothschild-Giraffen, Nilpferden und der spektakulären 43-Meter-Schlucht. Vollständiger Safari-Guide."
         canonical={CANONICAL}
         publishedTime="2026-07-06T00:00:00+00:00"
         modifiedTime="2026-07-06T00:00:00+00:00"
@@ -118,12 +118,12 @@ export default function MurchisonFallsNationalparkGuidePage() {
 
           {/* Titel */}
           <h1 className="font-display text-3xl sm:text-4xl font-bold text-gray-900 leading-tight mb-6">
-            Murchison Falls Nationalpark: Safari, Löwen und der Viktoria-Nil
+            Murchison Falls Nationalpark: Safari-Guide für Ugandas größten Schutzpark
           </h1>
 
           {/* Einstieg */}
           <p className="text-lg text-gray-700 leading-relaxed mb-5">
-            Murchison Falls Nationalpark ist der größte Nationalpark Ugandas — und vielleicht der am wenigsten bekannte unter deutschsprachigen Reisenden. Dabei verbindet er zwei Erfahrungen, die in Afrika selten so nah beieinander liegen: eine der mächtigsten Wasserfälle des Kontinents und eine der dichtesten Löwenpopulationen Ostafrikas.
+            Der Murchison Falls Nationalpark ist Ugandas größter und ältester Nationalpark — 3.893 Quadratkilometer Savanne, Flusskorridore und tropischer Wald im Nordwesten des Landes. Er verbindet zwei Erfahrungen, die in Ostafrika selten so nah beieinander liegen: einen der engsten Wasserfälle der Erde, durch den der gesamte Viktoria-Nil auf sieben Meter Breite gepresst wird, und eine Löwenpopulation von rund 240 Tieren — eine der größten in Uganda.
           </p>
           <p className="text-lg text-gray-700 leading-relaxed mb-5">
             Uganda zeigt sich auf vielen Ebenen gleichzeitig. Während unserer mehrwöchigen Aufenthalte — verteilt auf vierzehn Reisen, davon allein im Januar 2026 elf Tage vor Ort — begegneten wir immer wieder Momenten, die das Land abseits seiner berühmten Nationalparks zeigen. Im Dorf Buhoma standen eines Morgens drei Kinder vor einem einfachen Lehmgebäude. Sie waren zurückhaltend, ihre Kleidung und Körperhaltung verrieten schwierige Lebensumstände. Es war selbstverständlich, sie zum Essen einzuladen — kein Programm, kein Konzept, nur der nächste Schritt. Dieser Moment und tausend andere wie er gehören zu Uganda genauso wie die Wasserfälle und die Savanne. Beides ist echt, beides ist das Land.

@@ -37,8 +37,8 @@ export default function QuelleNilJinjaPage() {
   return (
     <>
       <Head
-        title="Nil in Uganda: Nilquelle Jinja, Geschichte & Rafting"
-        description="Nil in Uganda — die Nilquelle in Jinja besuchen: Bootsfahrt zum Quelldenkmal, Wildwasser-Rafting bei Bujagali und Reisetipps für die Abenteuer-Stadt Ostafrikas."
+        title="Weißer Nil: Ursprung in Uganda, Nilquelle Jinja & Geschichte"
+        description="Weißer Nil — der Viktoria-Nil entspringt dem Viktoriasee bei Jinja, Uganda. Bootsfahrt zur Nilquelle, Rafting bei Bujagali, Geschichte der Entdeckung durch Speke 1862."
         canonical={`https://www.reiseziel-uganda.de/${SLUG}`}
       />
       <main className="bg-white">
@@ -59,7 +59,7 @@ export default function QuelleNilJinjaPage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
 
           <h1 className="font-display text-3xl sm:text-4xl font-bold text-gray-900 leading-tight mb-6">
-            Der Nil in Uganda: Nilquelle in Jinja, Geschichte der Entdeckung und Abenteuer am Viktoria-Nil
+            Weißer Nil: Ursprung in Uganda, Nilquelle Jinja und der Weg durch Afrika
           </h1>
 
           {/* Eroeffnungs-Hook */}
@@ -131,6 +131,30 @@ export default function QuelleNilJinjaPage() {
               </div>
             </div>
           </div>
+
+          {/* H2: Weißer Nil vs Blauer Nil */}
+          <h2 className="font-display text-2xl sm:text-3xl font-bold text-gray-900 mt-10 mb-4">
+            Weißer Nil und Blauer Nil: Zwei Quellen, ein Fluss
+          </h2>
+          <p className="text-gray-700 leading-relaxed mb-5">
+            Der Nil setzt sich aus zwei Hauptarmen zusammen. Der <strong>Weiße Nil</strong> entspringt
+            dem Äquatorialen Hochland — sein hydrologischer Ausgangspunkt ist der Viktoriasee in
+            Uganda, wo das Wasser bei Jinja als Viktoria-Nil in nördliche Richtung abfließt.
+            Unterwegs durchquert er Uganda (Murchison Falls), den Südsudan und tritt schließlich
+            als Weißer Nil in den Sudan ein. Der <strong>Blaue Nil</strong> hat seinen Ursprung
+            im Hochland Äthiopiens, am Tanasee südlich von Bahir Dar. Er trägt mehr als 80 Prozent
+            des Jahreswassers und nahezu den gesamten Nilschlamm — das Fundament der ägyptischen
+            Landwirtschaft seit der Antike.
+          </p>
+          <p className="text-gray-700 leading-relaxed mb-5">
+            Beide Arme vereinigen sich in Khartum, der Hauptstadt des Sudan, zum eigentlichen Nil,
+            der von dort durch Ägypten bis zum Mittelmeer fließt. Die Frage "wo entspringt der Nil"
+            ist also eine Frage der Definition: Wer den längsten zusammenhängenden Flussweg sucht,
+            findet den Ursprung des Weißen Nils im Victoria-See bei Jinja — oder, wenn man die
+            Zuflüsse des Sees mitrechnet, im Kagera-Fluss, dessen fernste Quelle in den burundischen
+            Bergen liegt. Wer den wasserreichsten Arm sucht, landet in Äthiopien. Uganda gibt die
+            geografisch und emotional überzeugendere Antwort.
+          </p>
 
           {/* H2: Geschichte der Entdeckung */}
           <h2 className="font-display text-2xl sm:text-3xl font-bold text-gray-900 mt-10 mb-4">
