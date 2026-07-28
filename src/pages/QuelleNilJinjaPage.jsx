@@ -434,6 +434,15 @@ export default function QuelleNilJinjaPage() {
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               <a
+                href="/regionen/entebbe"
+                className="block p-4 rounded-xl border border-gray-200 hover:border-safari-400 hover:bg-safari-50 transition-colors"
+              >
+                <span className="font-semibold text-gray-800 text-sm">Entebbe — Ankunft &amp; Transfer</span>
+                <p className="text-gray-500 text-xs mt-1">
+                  Flughafen, Visa, SIM-Karte und Transfer nach Jinja (2,5 Std.)
+                </p>
+              </a>
+              <a
                 href="/regionen/jinja"
                 className="block p-4 rounded-xl border border-gray-200 hover:border-safari-400 hover:bg-safari-50 transition-colors"
               >
@@ -443,12 +452,12 @@ export default function QuelleNilJinjaPage() {
                 </p>
               </a>
               <a
-                href="/murchison-falls-nationalpark"
+                href="/murchison-falls-nationalpark-guide"
                 className="block p-4 rounded-xl border border-gray-200 hover:border-safari-400 hover:bg-safari-50 transition-colors"
               >
                 <span className="font-semibold text-gray-800 text-sm">Murchison Falls Nationalpark</span>
                 <p className="text-gray-500 text-xs mt-1">
-                  Nilsafaris, Wasserfälle und die größte Löwenpopulation Ugandas
+                  Nilsafaris, Wasserfälle und 240 Löwen im größten Nationalpark Ugandas
                 </p>
               </a>
               <a

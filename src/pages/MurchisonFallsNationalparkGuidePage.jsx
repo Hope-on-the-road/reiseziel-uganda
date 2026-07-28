@@ -297,11 +297,11 @@ export default function MurchisonFallsNationalparkGuidePage() {
             <p className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-5">Weiterführende Themen</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               {[
+                { href: '/regionen/entebbe', label: 'Entebbe — Ankunft & Transfer (6 Std. südlich)' },
+                { href: '/quelle-nil-jinja', label: 'Weißer Nil: Nilquelle in Jinja' },
                 { href: '/nationalparks/murchison_falls', label: 'Murchison Falls — Nationalpark-Übersicht' },
                 { href: '/nordwesten-ugandas-murchison-falls', label: 'Nordwesten Ugandas erkunden' },
                 { href: '/lodges-murchison-falls', label: 'Lodges am Murchison Falls' },
-                { href: '/tiere/loewe', label: 'Löwen in Uganda' },
-                { href: '/tiere/giraffe', label: 'Rothschild-Giraffe in Uganda' },
                 { href: '/nationalparks-uganda', label: 'Alle Nationalparks Ugandas' },
               ].map(({ href, label }) => (
                 <a

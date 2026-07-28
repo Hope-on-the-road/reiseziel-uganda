@@ -10480,11 +10480,11 @@ export const standalonePages = {
       },
     ],
     related: [
+      { href: '/regionen/entebbe', title: 'Entebbe — Ankunft & Transfer', desc: 'Flughafen EBB, Visa, SIM-Karte. Transfer Entebbe–Jinja: ca. 2,5 Stunden.' },
+      { href: '/quelle-nil-jinja', title: 'Weisser Nil & Nilquelle', desc: 'Weisser Nil vs. Blauer Nil — Ursprung, Geschichte und Bootsfahrt.' },
+      { href: '/murchison-falls-nationalpark-guide', title: 'Murchison Falls Nationalpark', desc: 'Der Nil auf Safari: Ugandas groesster Nationalpark, 350 km ab Jinja.' },
       { href: '/regionen/jinja', title: 'Region Jinja', desc: 'Ueberblick ueber die Region Jinja: Nil-Quelle, Aktivitaeten und praktische Infos.' },
-      { href: '/nationalparks/murchison_falls', title: 'Murchison Falls Nationalpark', desc: 'Ugandas groesster Nationalpark mit Bootsafari, Elefanten und Nilkrokodilen.' },
-      { href: '/bodaboda-buhoma', title: 'BodaBoda in Uganda', desc: 'Das Motorrad-Taxi als Fortbewegungsmittel: Was du wissen musst.' },
       { href: '/flughaefen-uganda', title: 'Flueghafen Uganda', desc: 'Entebbe und andere Flughafen: Ankommen und weiterreisen.' },
-      { href: '/uganda-fuer-deutsche', title: 'Uganda fuer deutsche Reisende', desc: 'Visum, Gelbfieber, Geld und Sicherheit: Alles fuer den ersten Uganda-Besuch.' },
     ],
     quellen: [
       'Reisefuehrer Uganda 2020, Reise Know-How Verlag (Teil 16: Route Kampala West, Teil 27: Kampala–Jinja Transport)',
