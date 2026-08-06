@@ -25,14 +25,14 @@ export async function loadPagePhotos(slug, projectId) {
 export async function loadPhotos() {
   const { data, error } = await supabase
     .from('media_items')
-    .select('id, file_name, title, description, keywords, category, animals_visible, animal_type, thumbnail_path, orientation')
+    .select('id, file_name, title, description, keywords, category, animals_visible, animal_type, thumbnail_path, orientation, projects')
     .in('status', ['approved', 'used'])
     .order('created_at', { ascending: false })
     .limit(500)
 
   if (error) throw error
   return (data || [])
-    .filter(row => !row.projects?.includes('hotr-de'))
+    .filter(row => !row.projects?.length || row.projects.includes('reiseziel-uganda'))
     .map(row => ({
       ...row,
       thumbnail_url: thumbUrl(row.thumbnail_path),
