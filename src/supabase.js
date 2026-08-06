@@ -32,7 +32,7 @@ export async function loadPhotos() {
 
   if (error) throw error
   return (data || [])
-    .filter(row => !row.projects?.length || row.projects.includes('reiseziel-uganda'))
+    .filter(row => (Array.isArray(row.projects) ? row.projects : []).includes('reiseziel-uganda'))
     .map(row => ({
       ...row,
       thumbnail_url: thumbUrl(row.thumbnail_path),
