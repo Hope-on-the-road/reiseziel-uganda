@@ -64,7 +64,7 @@ export default function GalerieSection({ photos }) {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
               <div className="absolute bottom-0 left-0 right-0 p-3 sm:p-4 translate-y-2 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500">
-                <p className="text-white text-xs sm:text-sm font-medium line-clamp-2">{photo.title || photo.file_name}</p>
+                <p className="text-white text-xs sm:text-sm font-medium line-clamp-2">{photoAlt(photo)}</p>
               </div>
             </div>
           ))}

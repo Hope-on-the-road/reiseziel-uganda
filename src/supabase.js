@@ -31,8 +31,10 @@ export async function loadPhotos() {
     .limit(500)
 
   if (error) throw error
-  return (data || []).map(row => ({
-    ...row,
-    thumbnail_url: thumbUrl(row.thumbnail_path),
-  }))
+  return (data || [])
+    .filter(row => !row.projects?.includes('hotr-de'))
+    .map(row => ({
+      ...row,
+      thumbnail_url: thumbUrl(row.thumbnail_path),
+    }))
 }
