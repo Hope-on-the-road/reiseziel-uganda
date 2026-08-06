@@ -182,11 +182,44 @@ async function main() {
     console.log()
   }
 
+  const GALLERY_STATUSES = ['approved', 'used']
+
+  const galleryCounts = {}
+  const otherStatusCounts = {}
+  for (const [group, items] of Object.entries(byGroup)) {
+    galleryCounts[group]     = items.filter(r => GALLERY_STATUSES.includes(r.status)).length
+    otherStatusCounts[group] = items.filter(r => !GALLERY_STATUSES.includes(r.status)).length
+  }
+
+  const toApply = [
+    ...byGroup['reiseziel-uganda'],
+    ...byGroup['hotr-de'],
+  ]
+
   console.log('═══════════════════════════════════════════════════')
-  console.log(`Gesamt: ${results.length}`)
-  console.log(`  reiseziel-uganda: ${byGroup['reiseziel-uganda'].length}`)
-  console.log(`  hotr-de:          ${byGroup['hotr-de'].length}`)
-  console.log(`  unklar:           ${byGroup['unklar'].length}`)
+  console.log('ZUSAMMENFASSUNG')
+  console.log('═══════════════════════════════════════════════════')
+  console.log()
+  console.log('Gesamt ungetaggt:')
+  console.log(`  ${results.length} Datensätze`)
+  console.log()
+  console.log('Gesamt erkannt (--apply würde alle diese taggen):')
+  console.log(`  ${byGroup['reiseziel-uganda'].length.toString().padStart(4)}  reiseziel-uganda`)
+  console.log(`  ${byGroup['hotr-de'].length.toString().padStart(4)}  hotr-de`)
+  console.log(`  ${toApply.length.toString().padStart(4)}  TOTAL zum Schreiben`)
+  console.log()
+  console.log('Davon galerie-relevant (status: approved/used):')
+  console.log(`  ${galleryCounts['reiseziel-uganda'].toString().padStart(4)}  reiseziel-uganda  ← erscheinen nach --apply in der Galerie`)
+  console.log(`  ${galleryCounts['hotr-de'].toString().padStart(4)}  hotr-de            ← werden korrekt ausgeblendet`)
+  console.log()
+  console.log('Nicht galerie-relevant (other status: new, analyzed, …):')
+  console.log(`  ${otherStatusCounts['reiseziel-uganda'].toString().padStart(4)}  reiseziel-uganda  ← korrekt getaggt, aber heute unsichtbar`)
+  console.log(`  ${otherStatusCounts['hotr-de'].toString().padStart(4)}  hotr-de`)
+  console.log()
+  console.log('Übersprungen (unklar — manuelle Prüfung erforderlich):')
+  console.log(`  ${byGroup['unklar'].length.toString().padStart(4)}  total unklar`)
+  console.log(`  ${(byGroup['unklar'].filter(r => GALLERY_STATUSES.includes(r.status)).length).toString().padStart(4)}  davon approved/used`)
+  console.log('═══════════════════════════════════════════════════')
   console.log()
 
   // JSON-Bericht speichern
@@ -194,9 +227,16 @@ async function main() {
   const { resolve, dirname } = await import('path')
   const { fileURLToPath } = await import('url')
   const __dir = dirname(fileURLToPath(import.meta.url))
+  const summary = {
+    total_untagged: results.length,
+    to_tag: { 'reiseziel-uganda': byGroup['reiseziel-uganda'].length, 'hotr-de': byGroup['hotr-de'].length, total: toApply.length },
+    gallery_relevant: galleryCounts,
+    other_status: otherStatusCounts,
+    unklar: { total: byGroup['unklar'].length, approved_used: byGroup['unklar'].filter(r => GALLERY_STATUSES.includes(r.status)).length },
+  }
   writeFileSync(
     resolve(__dir, '..', reportPath),
-    JSON.stringify({ generated_at: new Date().toISOString(), summary: { total: results.length, ...Object.fromEntries(Object.entries(byGroup).map(([k,v]) => [k, v.length])) }, results }, null, 2)
+    JSON.stringify({ generated_at: new Date().toISOString(), summary, results }, null, 2)
   )
   console.log(`Bericht gespeichert: ${reportPath}`)
 
