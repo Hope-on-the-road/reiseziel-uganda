@@ -22,6 +22,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 const DIST = resolve(__dirname, '..', 'dist')
 const PORT = 4173
 
+import { artikelRouten } from './artikel-dateien.mjs'
+
 const ROUTES = [
   '/gorilla-trekking',
   '/reiseplanung',
@@ -289,6 +291,10 @@ const ROUTES = [
   '/risikotransfer-reiseveranstalter',
   '/',  // Homepage zuletzt -- ueberschreibt index.html
 ]
+
+// Vom HopePlatform-Publisher erzeugte Artikel. Kein Eintrag von Hand noetig:
+// eine neue JSON-Datei genuegt, sie wird hier automatisch mit prerendert.
+ROUTES.push(...artikelRouten().filter(r => !ROUTES.includes(r)))
 
 // Simple static file server
 function startServer() {

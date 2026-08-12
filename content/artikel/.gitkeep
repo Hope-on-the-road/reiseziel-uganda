@@ -1,0 +1,2 @@
+Vom HopePlatform-Publisher beschrieben. Eine JSON-Datei je Artikel.
+Handgeschriebene Seiten in src/data/standalone-pages.js gewinnen bei Slug-Gleichheit.

@@ -1,12 +1,17 @@
 import { useState, useEffect } from 'react'
-import { standalonePages } from '../data/standalone-pages.js'
+import { useParams } from 'react-router-dom'
+import { alleSeiten } from '../data/artikel-loader.js'
 import PageLayout from '../components/PageLayout.jsx'
 import { loadPagePhotos } from '../supabase.js'
 
 const PROJECT_ID = 'reiseziel-uganda'
 
-export default function StandalonePage({ photos, clusters, pageId }) {
-  const page = standalonePages[pageId]
+export default function StandalonePage({ photos, clusters, pageId: pageIdProp }) {
+  // Explizite Routen liefern pageId als Prop. Die generische Artikel-Route
+  // liefert stattdessen einen Slug aus der URL — derselbe Renderer, ein Weg mehr.
+  const { artikelSlug } = useParams()
+  const pageId = pageIdProp ?? artikelSlug
+  const page = alleSeiten[pageId]
   const [pagePhotoIds, setPagePhotoIds] = useState(null)
 
   useEffect(() => {

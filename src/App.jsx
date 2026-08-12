@@ -388,6 +388,9 @@ export default function App() {
           <Route path="/regionen" element={<HubPage photos={photos} clusters={clusters} hubId="regionen" />} />
           <Route path="/rundreisen" element={<HubPage photos={photos} clusters={clusters} hubId="rundreisen" />} />
           <Route path="/land-und-leute" element={<HubPage photos={photos} clusters={clusters} hubId="land-und-leute" />} />
+          {/* Datengetriebene Artikel aus content/artikel/*.json. Steht bewusst
+              ganz unten: alle expliziten Routen darueber gewinnen. */}
+          <Route path="/:artikelSlug" element={<StandalonePage photos={photos} clusters={clusters} />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
         </Suspense>

@@ -22,6 +22,13 @@ if (!routesMatch) {
 }
 const ROUTES = Array.from(routesMatch[1].matchAll(/'([^']+)'/g), m => m[1])
 
+// Vom Publisher erzeugte Artikel ergaenzen. Der Regex oben liest nur das
+// Literal-Array aus prerender.mjs und sieht das dortige ROUTES.push() nicht —
+// deshalb hier dieselbe Quelle noch einmal lesen.
+const { ladeArtikel } = await import('./artikel-dateien.mjs')
+const artikel = ladeArtikel()
+for (const a of artikel) if (!ROUTES.includes(a.slug)) ROUTES.push(a.slug)
+
 // Slug -> modifiedTime aus Datendateien aufbauen
 const { standalonePages } = await import('../src/data/standalone-pages.js')
 const { hubPages } = await import('../src/data/hub-pages.js')
@@ -32,6 +39,9 @@ for (const page of Object.values(standalonePages)) {
 }
 for (const page of Object.values(hubPages)) {
   if (page.slug && page.modifiedTime) modifiedTimeBySlug[page.slug] = page.modifiedTime
+}
+for (const a of artikel) {
+  if (a.slug && a.modifiedTime) modifiedTimeBySlug[a.slug] = a.modifiedTime
 }
 
 const BASE_URL = 'https://www.reiseziel-uganda.de'
