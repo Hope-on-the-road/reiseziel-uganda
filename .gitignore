@@ -28,3 +28,6 @@ dist-ssr
 
 # Research PDFs (too large for git)
 *.pdf
+
+# Analyse-Ausgaben, gehoeren nicht ins Repo
+reports/
