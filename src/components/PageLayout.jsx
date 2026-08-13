@@ -40,6 +40,37 @@ function Kurzantwort({ text, currentSlug }) {
   )
 }
 
+/**
+ * Ab welcher Laenge ein `label` keine Sprechmarke mehr ist, sondern ein Satz.
+ * Die gepflegten Seiten liegen weit darunter ("Population", "Lebensraum",
+ * "Wissenschaftlicher Name" = 24 Zeichen).
+ */
+const LABEL_MAX = 34
+
+/**
+ * Fakten auf einen Blick.
+ *
+ * Zwei Darstellungen, EINE Komponente — weil zwei verschiedene Datenformen
+ * ankommen. Beobachtet am 14.08.2026 auf /kidepo-valley-national-park:
+ * Label-Text und Wert liefen uebereinander.
+ *
+ * Ursache ist der Datencontract, nicht dieses CSS. Anna liefert je Fakt
+ * `{ value, description }` — eine Zahl und eine ERLAEUTERUNG. Der
+ * armut-deutschland-Renderer stellt das passend dar (Zahl gross,
+ * Erlaeuterung darunter). Der Uganda-Zweig des Publishers mappt in
+ * publish-draft.ts `label: f.description` und schiebt damit einen ganzen Satz
+ * in die `dt`-Spalte, die mit `min-w-[120px] shrink-0` fuer Kurzbegriffe
+ * gebaut ist. Ein nicht schrumpfbares `dt` mit Satzlaenge drueckt das `dd`
+ * aus der Zeile.
+ *
+ * Betroffen sind beide automatisch erzeugten Seiten, nicht nur Kidepo —
+ * gepflegte Handseiten wie /tiere/berggorilla tragen echte Kurzlabels und
+ * bleiben unveraendert in der Zeilenform.
+ *
+ * Solange der Publisher-Contract kein echtes Kurzlabel fuehrt, darf das
+ * Layout daran nicht zerbrechen: langer Text wird als Erlaeuterung UNTER dem
+ * Wert gesetzt, kurzer Text bleibt die Zeile aus dem Referenzartikel.
+ */
 function Faktenbox({ facts }) {
   if (!facts || facts.length === 0) return null
   return (
@@ -49,12 +80,21 @@ function Faktenbox({ facts }) {
         Fakten auf einen Blick
       </h3>
       <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4">
-        {facts.map(f => (
-          <div key={f.label} className="flex items-baseline gap-3 py-2.5 border-b border-safari-200/40 last:border-0">
-            <dt className="text-xs text-safari-600/80 min-w-[100px] sm:min-w-[120px] shrink-0">{f.label}</dt>
-            <dd className="text-sm sm:text-[15px] font-semibold text-gray-900">{f.value}</dd>
-          </div>
-        ))}
+        {facts.map((f, i) => {
+          const label = String(f.label ?? '').trim()
+          const istErlaeuterung = label.length > LABEL_MAX
+          return istErlaeuterung ? (
+            <div key={`${label.slice(0, 40)}-${i}`} className="py-2.5 border-b border-safari-200/40 last:border-0">
+              <dd className="text-base sm:text-lg font-semibold text-gray-900 leading-snug">{f.value}</dd>
+              <dt className="text-xs text-safari-600/80 mt-1.5 leading-relaxed break-words">{label}</dt>
+            </div>
+          ) : (
+            <div key={`${label}-${i}`} className="flex items-baseline gap-3 py-2.5 border-b border-safari-200/40 last:border-0">
+              <dt className="text-xs text-safari-600/80 min-w-[100px] sm:min-w-[120px] shrink-0">{label}</dt>
+              <dd className="text-sm sm:text-[15px] font-semibold text-gray-900 break-words">{f.value}</dd>
+            </div>
+          )
+        })}
       </dl>
     </div>
   )
