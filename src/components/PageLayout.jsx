@@ -5,6 +5,7 @@ import { photoAlt } from '../utils/photoAlt.js'
 import Head from './seo/Head.jsx'
 import { ArticleJsonLd, FaqJsonLd, BreadcrumbJsonLd, TouristDestinationJsonLd, RecipeJsonLd } from './seo/JsonLd.jsx'
 import MistyPartner from './MistyPartner.jsx'
+import { erweiterungsAbschnitte } from '../data/erweiterungen-loader.js'
 
 
 function Breadcrumb({ items }) {
@@ -647,7 +648,10 @@ export default function PageLayout({ page, heroPhoto, contentPhotos = [] }) {
             <Faktenbox facts={page.fakten} />
             <TableOfContents sections={page.sections} faqs={page.faqs} />
 
-            {page.sections?.map((section, i) => {
+            {/* Eigene Abschnitte zuerst, danach die vom Publisher ergaenzten.
+                Eine Erweiterung kann bestehende Abschnitte nicht ersetzen — sie
+                haengt nur hinten an. Siehe data/erweiterungen-loader.js. */}
+            {[...(page.sections ?? []), ...erweiterungsAbschnitte(page.slug, page.sections)].map((section, i) => {
               const sectionTitle = section.title || section.heading
               const contentArray = Array.isArray(section.content) ? section.content
                 : section.content ? section.content.split('\n\n')
