@@ -301,6 +301,8 @@ export default function GorillaTrekkingAblaufPage() {
               {[
                 { href: '/nationalparks/bwindi', label: 'Bwindi Impenetrable National Park' },
                 { href: '/gorilla-trekking', label: 'Gorilla Trekking Uganda — Überblick' },
+                { href: '/gorilla-trekking-vorbereitung', label: 'Gorilla Trekking Vorbereitung: Permits und Ausrüstung' },
+                { href: '/ranger-sicherheit-gorilla-trekking', label: 'Gorilla Trekking Sicherheit: Ranger und Schutzprotokoll' },
                 { href: '/gorilla-permit-verfuegbarkeit', label: 'Gorilla Permit Verfügbarkeit' },
                 { href: '/gorilla-trekking-sicherheit', label: 'Sicherheit beim Gorilla Trekking' },
                 { href: '/gorilla-trekking-budget-bwindi', label: 'Gorilla Trekking Budget Bwindi' },

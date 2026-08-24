@@ -44,6 +44,7 @@ export const tiere = {
     related: [
       { href: '/gorilla-trekking', title: 'Gorilla Trekking', desc: 'So erlebst du die Berggorillas hautnah.' },
       { href: '/nationalparks/bwindi', title: 'Bwindi National Park', desc: 'Die Heimat der meisten Berggorillas.' },
+      { href: '/berggorilla-portrait-leben-verhalten', title: 'Berggorilla Portrait', desc: 'Ausfuehrliches Portrait: Biologie, Sozialverhalten, Schutz und persoenliche Begegnung in Bwindi.' },
       { href: '/tiere/schimpanse', title: 'Schimpanse', desc: 'Der andere grosse Primat Ugandas.' },
     ],
   },

@@ -304,6 +304,16 @@ export default function BerggorillaPortraitPage() {
                 </a>
               </li>
               <li>
+                <a href="/gorilla-trekking-vorbereitung" className="text-jungle-700 hover:text-jungle-900 underline underline-offset-2">
+                  Gorilla Trekking Vorbereitung: Permits, Kosten und Ablauf
+                </a>
+              </li>
+              <li>
+                <a href="/gorilla-trekking-bwindi-ablauf" className="text-jungle-700 hover:text-jungle-900 underline underline-offset-2">
+                  Gorilla Trekking in Bwindi: Erfahrungsbericht
+                </a>
+              </li>
+              <li>
                 <a href="/nachhaltiger-tourismus-uganda" className="text-jungle-700 hover:text-jungle-900 underline underline-offset-2">
                   Nachhaltiger Tourismus in Uganda
                 </a>

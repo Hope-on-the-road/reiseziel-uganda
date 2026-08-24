@@ -118,6 +118,11 @@ export const gorillaTrekking = {
     'MTWA Statistical Abstract 2025, Uganda Ministry of Tourism, Wildlife and Antiquities, April 2026',
   ],
   related: [
+    { href: '/gorilla-trekking-vorbereitung', title: 'Gorilla Trekking Vorbereitung', desc: 'Permits buchen, Ausruestung, Kosten und Ablauf am Trekking-Tag -- alles fuer eine gruendliche Vorbereitung.' },
+    { href: '/gorilla-trekking-bwindi-ablauf', title: 'Gorilla Trekking Bwindi: Was beim Trek passiert', desc: 'Persoenlicher Bericht: drei Stunden Wanderung, bewaffnete Ranger und die Begegnung mit einer Berggorilla-Familie.' },
+    { href: '/ranger-sicherheit-gorilla-trekking', title: 'Gorilla Trekking Sicherheit', desc: 'Was Ranger beim Trekking tun, wie das Schutzprotokoll funktioniert und was Besucher wissen muessen.' },
+    { href: '/berggorilla-portrait-leben-verhalten', title: 'Berggorilla: Portrait, Leben und Verhalten', desc: 'Biologie, Sozialverhalten, Schutzstatus und der Berggorilla als Naturschutzerfolg.' },
+    { href: '/bwindi-vs-andere-nationalparks', title: 'Bwindi im Vergleich: Die beste Gorilla-Destination?', desc: 'Bwindi vs. Virunga, Queen Elizabeth und Murchison -- welcher Park passt zu welcher Reise.' },
     { href: '/beste-reisezeit-gorilla-trekking', title: 'Beste Reisezeit Gorilla Trekking', desc: 'Trockenzeit vs. Regenzeit, Bwindi vs. Mgahinga -- wann und wo Berggorillas sehen.' },
     { href: '/gorilla-trekking-erfahrungsbericht', title: 'Gorilla Trekking Erfahrungsbericht', desc: 'Persoenlicher Bericht: Wecker um 4:30 Uhr bis zur Stunde mit den Berggorillas.' },
     { href: '/nationalparks/bwindi', title: 'Bwindi Impenetrable National Park', desc: 'Der groesste Gorilla-Park mit ueber 22 habituierten Familien und vier Trekking-Sektoren.' },

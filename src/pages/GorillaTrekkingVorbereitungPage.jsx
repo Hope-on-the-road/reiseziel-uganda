@@ -452,6 +452,18 @@ export default function GorillaTrekkingVorbereitungPage() {
               >
                 Uganda Reisetipps — Praktische Hinweise
               </a>
+              <a
+                href="/gorilla-trekking-bwindi-ablauf"
+                className="block p-4 rounded-lg border border-gray-200 hover:border-jungle-400 hover:bg-jungle-50 transition-colors text-gray-800 text-sm font-medium"
+              >
+                Gorilla Trekking in Bwindi: Was beim Trek wirklich passiert
+              </a>
+              <a
+                href="/ranger-sicherheit-gorilla-trekking"
+                className="block p-4 rounded-lg border border-gray-200 hover:border-jungle-400 hover:bg-jungle-50 transition-colors text-gray-800 text-sm font-medium"
+              >
+                Gorilla Trekking Sicherheit: Ranger und Schutzprotokoll
+              </a>
             </div>
           </section>
         </div>

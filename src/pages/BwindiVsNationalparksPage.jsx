@@ -270,6 +270,22 @@ export default function BwindiVsNationalparksPage() {
               </li>
               <li>
                 <a
+                  href="/gorilla-trekking-vorbereitung"
+                  className="text-safari-700 hover:text-safari-900 font-medium underline-offset-2 hover:underline text-sm"
+                >
+                  Gorilla Trekking Vorbereitung: Permits, Kosten und Ablauf
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/berggorilla-portrait-leben-verhalten"
+                  className="text-safari-700 hover:text-safari-900 font-medium underline-offset-2 hover:underline text-sm"
+                >
+                  Berggorilla: Portrait, Leben und Verhalten
+                </a>
+              </li>
+              <li>
+                <a
                   href="/gorilla-permit-verfuegbarkeit"
                   className="text-safari-700 hover:text-safari-900 font-medium underline-offset-2 hover:underline text-sm"
                 >
