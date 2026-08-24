@@ -121,7 +121,7 @@ const NAV_ITEMS = [
       { label: 'Uganda mit Kindern', to: '/uganda-mit-kindern' },
       { label: 'Sprachen in Uganda', to: '/sprachen-in-uganda' },
       { label: 'Ugandische Rezepte', to: '/ugandische-kueche' },
-      { label: 'Ugandischer Rolex', to: '/rolex-uganda' },
+      { label: 'Ugandischer Rolex', to: '/ugandische-rolex' },
       { label: 'Ugandische Mahlzeit', to: '/ugandische-mahlzeit' },
       { label: 'Katogo Fruehstueck', to: '/katogo-fruehstueck' },
       { label: 'Flughaefen', to: '/flughaefen-uganda' },

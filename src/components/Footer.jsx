@@ -55,7 +55,7 @@ const LINKS = {
     { label: 'Sipi Falls', to: '/sipi-falls' },
     { label: 'Nachbarlaender', to: '/nachbarlaender-uganda' },
     { label: 'Ugandische Rezepte', to: '/ugandische-kueche' },
-    { label: 'Ugandischer Rolex', to: '/rolex-uganda' },
+    { label: 'Ugandischer Rolex', to: '/ugandische-rolex' },
     { label: 'Ugandische Mahlzeit', to: '/ugandische-mahlzeit' },
     { label: 'Katogo Fruehstueck', to: '/katogo-fruehstueck' },
     { label: 'Sprachen in Uganda', to: '/sprachen-in-uganda' },
