@@ -300,7 +300,7 @@ function Vergleichstabelle({ rows }) {
         {rows.title && (
           <h3 className="text-sm sm:text-base font-semibold text-gray-900 mb-4">{rows.title}</h3>
         )}
-        <div className="overflow-x-auto">
+        <div className="table-wrap overflow-x-auto">
           <table className="w-full text-sm border-collapse">
             <thead>
               <tr className="bg-jungle-800 text-white">
@@ -340,7 +340,7 @@ function Vergleichstabelle({ rows }) {
   const col2Label = { uganda: 'Uganda', kenia: 'Kenia', tansania: 'Tansania', ruanda: 'Ruanda', bwindi: 'Bwindi', volcanoes: 'Volcanoes' }[col2Key] || col2Key
 
   return (
-    <div className="my-10 sm:my-14 overflow-x-auto">
+    <div className="my-10 sm:my-14 table-wrap overflow-x-auto">
       <table className="w-full text-sm border-collapse">
         <thead>
           <tr className="bg-jungle-800 text-white">
