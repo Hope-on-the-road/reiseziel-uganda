@@ -458,9 +458,23 @@ function QuellenSection({ quellen }) {
     <section className="mt-12 sm:mt-16 pt-8 border-t border-gray-200">
       <h3 className="text-xs font-bold text-gray-500 uppercase tracking-[0.15em] mb-4">Quellen</h3>
       <ul className="space-y-1.5">
-        {quellen.map((q, i) => (
-          <li key={i} className="text-sm text-gray-400">{q}</li>
-        ))}
+        {quellen.map((q, i) => {
+          // Quellen liegen als String oder als Objekt vor ({ titel | title, url }).
+          // Ein Objekt direkt als React-Child zu rendern wirft -- deshalb hier
+          // auf den Labeltext reduzieren und die URL, falls vorhanden, verlinken.
+          if (typeof q === 'string') {
+            return <li key={i} className="text-sm text-gray-400">{q}</li>
+          }
+          const label = q?.titel || q?.title || q?.url
+          if (!label) return null
+          return (
+            <li key={i} className="text-sm text-gray-400">
+              {q?.url ? (
+                <a href={q.url} target="_blank" rel="noopener noreferrer" className="hover:text-gray-600 transition-colors">{label}</a>
+              ) : label}
+            </li>
+          )
+        })}
       </ul>
     </section>
   )

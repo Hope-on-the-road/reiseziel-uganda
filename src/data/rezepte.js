@@ -623,7 +623,7 @@ export const rezepte = {
         desc: 'Was kostet eine Reise nach Uganda? Budget-Planung und Preise.',
       },
       {
-        href: '/reiseplanung/gesundheit',
+        href: '/reiseplanung/impfungen',
         title: 'Gesundheit in Uganda',
         desc: 'Impfungen, Malaria-Prophylaxe und Trinkwasser.',
       },
