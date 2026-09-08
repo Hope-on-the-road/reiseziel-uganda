@@ -139,7 +139,11 @@ export default function VogelbeobachtungAnfaengerPage() {
                   Schreiseeadler — Nationaler Ruf über dem Wasser
                 </h3>
                 <p className="text-gray-700 leading-relaxed text-sm sm:text-base">
-                  Der Schreiseeadler ist der lauteste und am leichtesten zu erkennende Greifvogel Ugandas. Sein Ruf — ein mehrtöniger, klagender Schrei — ist an jedem größeren Gewässer zu hören, lange bevor man den Vogel sieht. Er sitzt bevorzugt hoch in kahlen Bäumen am Ufer, oft in Paaren. Am Kazinga-Kanal, am Victoria-See und an den Murchison Falls ist er praktisch garantiert. Die Farbgebung — weißer Kopf, kastanienbrauner Rücken, schwarzer Bauch — macht Verwechslungen unmöglich.
+                  Der Schreiseeadler ist der lauteste und am leichtesten zu erkennende{' '}
+                  <a href="/greifvoegel-uganda" className="text-jungle-700 underline decoration-jungle-300 hover:decoration-jungle-600">
+                    Greifvogel Ugandas
+                  </a>
+                  . Sein Ruf — ein mehrtöniger, klagender Schrei — ist an jedem größeren Gewässer zu hören, lange bevor man den Vogel sieht. Er sitzt bevorzugt hoch in kahlen Bäumen am Ufer, oft in Paaren. Am Kazinga-Kanal, am Victoria-See und an den Murchison Falls ist er praktisch garantiert. Die Farbgebung — weißer Kopf, kastanienbrauner Rücken, schwarzer Bauch — macht Verwechslungen unmöglich.
                 </p>
               </div>
 
@@ -175,7 +179,11 @@ export default function VogelbeobachtungAnfaengerPage() {
                   Buntfischer und Graufischer — Zwei Kingfisher auf einen Blick
                 </h3>
                 <p className="text-gray-700 leading-relaxed text-sm sm:text-base">
-                  Der Buntfischer — im Englischen Pied Kingfisher — ist an jedem Gewässer in Uganda zu sehen. Er schwebt rüttelnd über dem Wasser und stürzt sich mit geschlossenen Flügeln auf seine Beute. Dieses Verhalten ist unverwechselbar und leicht zu beobachten. Uganda hat insgesamt mehrere Eisvogelarten; allein der Buntfischer ist an der Bootsfahrt auf dem Kazinga-Kanal fast obligatorisch. Für Einsteiger ist er eine der befriedigendsten Beobachtungen, weil das Verhalten so klar und wiederholbar ist.
+                  Der Buntfischer — im Englischen Pied Kingfisher — ist an jedem Gewässer in Uganda zu sehen. Er schwebt rüttelnd über dem Wasser und stürzt sich mit geschlossenen Flügeln auf seine Beute. Dieses Verhalten ist unverwechselbar und leicht zu beobachten. Uganda hat insgesamt{' '}
+                  <a href="/roller-eisvoegel-uganda" className="text-jungle-700 underline decoration-jungle-300 hover:decoration-jungle-600">
+                    mehrere Eisvogel- und Rackenarten
+                  </a>
+                  ; allein der Buntfischer ist an der Bootsfahrt auf dem Kazinga-Kanal fast obligatorisch. Für Einsteiger ist er eine der befriedigendsten Beobachtungen, weil das Verhalten so klar und wiederholbar ist.
                 </p>
               </div>
 
@@ -206,6 +214,27 @@ export default function VogelbeobachtungAnfaengerPage() {
                 </p>
               </div>
             </div>
+
+            <p className="text-gray-800 leading-relaxed mt-8">
+              Wer nach diesen acht Arten weitergehen möchte, kommt fast zwangsläufig zu den Artengruppen,
+              die in Uganda besonders vielfältig sind: die{' '}
+              <a href="/papageien-uganda-arten" className="text-jungle-700 underline decoration-jungle-300 hover:decoration-jungle-600">
+                Papageien und Unzertrennlichen
+              </a>{' '}
+              in den Waldgebieten, die metallisch glänzenden{' '}
+              <a href="/stare-uganda-arten" className="text-jungle-700 underline decoration-jungle-300 hover:decoration-jungle-600">
+                Glanzstare
+              </a>{' '}
+              in Savanne und Siedlungsnähe, die unauffälligen{' '}
+              <a href="/prinia-arten-uganda" className="text-jungle-700 underline decoration-jungle-300 hover:decoration-jungle-600">
+                Prinien im Unterholz
+              </a>{' '}
+              und die{' '}
+              <a href="/kiebitz-arten-uganda" className="text-jungle-700 underline decoration-jungle-300 hover:decoration-jungle-600">
+                fünf Kiebitz-Arten
+              </a>{' '}
+              an Ufern und Kurzgrasflächen. Für den Anfang reicht es, eine dieser Gruppen gezielt zu üben.
+            </p>
           </section>
 
           {/* H2: Beste Standorte */}

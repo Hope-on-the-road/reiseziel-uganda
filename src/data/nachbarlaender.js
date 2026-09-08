@@ -130,6 +130,8 @@ export const nachbarlaender = {
       { href: '/vergleiche/uganda-vs-kenia', title: 'Uganda vs. Kenia', desc: 'Safari-Vergleich der beiden Laender.' },
       { href: '/vergleiche/uganda-vs-tansania', title: 'Uganda vs. Tansania', desc: 'Welches Land passt besser zu dir?' },
       { href: '/flughaefen-uganda', title: 'Flughaefen Uganda', desc: 'Alle Airports und Inlandsfluege.' },
+      { href: '/ruanda/akagera-nationalpark', title: 'Akagera Nationalpark Ruanda', desc: 'Savannen-Safari im Osten Ruandas -- Anreise aus Uganda.' },
+      { href: '/grenzuebergang-katuna-cyanika', title: 'Grenzuebergang Katuna und Cyanika', desc: 'Die beiden Landgrenzen nach Ruanda im Detail.' },
     ],
   },
 }

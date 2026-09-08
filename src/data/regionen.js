@@ -47,6 +47,7 @@ export const regionen = {
       { href: '/nationalparks/bwindi', title: 'Bwindi National Park', desc: 'Alles zum Park und allen Sektoren.' },
       { href: '/gorilla-trekking', title: 'Gorilla Trekking', desc: 'Der komplette Trekking-Guide.' },
       { href: '/regionen/kabale', title: 'Kabale', desc: 'Die naechste groessere Stadt.' },
+      { href: '/bwindi-wellness', title: 'Bwindi Wellness', desc: 'Spa, Yoga und Retreats in den Lodges rund um Buhoma.' },
     ],
   },
 
@@ -140,6 +141,7 @@ export const regionen = {
       { href: '/regionen/kampala', title: 'Kampala', desc: 'Ugandas Hauptstadt — 40 km, 1 Stunde ab Entebbe.' },
       { href: '/flughaefen-uganda', title: 'Flughafen Entebbe (EBB)', desc: 'Alle Airlines, Verbindungen und Inlandsfluege.' },
       { href: '/reiseplanung/visa', title: 'Visum Uganda', desc: 'Online-Antrag 50 USD — muss vor Ankunft gestellt werden.' },
+      { href: '/landwirtschaft-wakiso-uganda', title: 'Landwirtschaft im Wakiso-Distrikt', desc: 'Was rund um Entebbe angebaut wird und wovon die Region lebt.' },
     ],
   },
 
@@ -227,6 +229,8 @@ export const regionen = {
       { href: '/reiseplanung/transport', title: 'Transport Uganda', desc: 'Alle Optionen fuer die Fortbewegung ab Kampala.' },
       { href: '/staedte', title: 'Staedte in Uganda', desc: 'Kampala und alle weiteren Staedte im Ueberblick.' },
       { href: '/ugandische-kueche', title: 'Ugandische Kueche', desc: 'Rolex, Matooke, Luwombo und mehr.' },
+      { href: '/kampala-infrastruktur-tourismus', title: 'Kampalas Infrastruktur', desc: 'Was Verkehr, Wasser und Strom fuer Reisende in Kampala bedeuten.' },
+      { href: '/gesundheitssystem-kampala', title: 'Gesundheitssystem Kampala', desc: 'Kliniken, Versorgungslage und was das fuer die Reiseplanung heisst.' },
     ],
   },
 
@@ -425,6 +429,7 @@ export const regionen = {
       { href: '/nationalparks/bwindi', title: 'Bwindi', desc: 'Gorilla Trekking ab Kabale.' },
       { href: '/nationalparks/mgahinga', title: 'Mgahinga', desc: 'Vulkane und Goldmeerkatzen.' },
       { href: '/regionen/buhoma', title: 'Buhoma', desc: 'Das noerdliche Tor zu Bwindi.' },
+      { href: '/echuya-forest-reserve', title: 'Echuya Forest Reserve', desc: 'Bergwald-Vogelbeobachtung zwischen Kabale und Kisoro.' },
     ],
   },
 
@@ -496,6 +501,7 @@ export const regionen = {
       { href: '/regionen/kabale', title: 'Kabale', desc: 'Die naechste Stadt, 25 km entfernt.' },
       { href: '/nationalparks/bwindi', title: 'Bwindi National Park', desc: 'Gorilla Trekking, 1-2 Stunden entfernt.' },
       { href: '/gorilla-trekking', title: 'Gorilla Trekking', desc: 'Der komplette Guide zum Gorilla-Erlebnis.' },
+      { href: '/lake-bunyonyi-nachhaltiges-reisen', title: 'Nachhaltig am Lake Bunyonyi', desc: 'Community-Projekte und Unterkuenfte mit lokalem Nutzen.' },
     ],
   },
 
@@ -585,6 +591,7 @@ export const regionen = {
       { href: '/regionen/fort-portal', title: 'Fort Portal', desc: 'Tourismus-Hub und Tor zu Kibale, Kraterseen und Rwenzori.' },
       { href: '/regionen/kraterseen', title: 'Kraterseen', desc: 'Zum Entspannen nach dem Trekking.' },
       { href: '/nationalparks/queen_elizabeth', title: 'Queen Elizabeth NP', desc: 'Safari-Kombination nach dem Trekking.' },
+      { href: '/rwenzori-gletscher-klimawandel', title: 'Die Rwenzori-Gletscher', desc: 'Afrikas letzte tropische Gletscher und ihr Rueckgang.' },
     ],
   },
 
@@ -770,6 +777,7 @@ export const regionen = {
       { href: '/nationalparks/queen_elizabeth', title: 'Queen Elizabeth NP', desc: 'Safari, 45 Min. suedlich von Kasese.' },
       { href: '/regionen/fort-portal', title: 'Fort Portal', desc: 'Tourismus-Hub, 1,5 Std. noerdlich.' },
       { href: '/nationalparks/semuliki', title: 'Semuliki NP', desc: 'Sempaya Hot Springs, 90 Min. nordwestlich.' },
+      { href: '/kasese-vogelbeobachtung', title: 'Vogelbeobachtung Kasese', desc: 'Rwenzori, Queen Elizabeth NP und Semuliki von Kasese aus.' },
     ],
   },
 }

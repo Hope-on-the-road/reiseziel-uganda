@@ -147,6 +147,8 @@ export default function Footer() {
             <span className="text-white/15">|</span>
             <Link to="/impressum" className="hover:text-white/50 transition-colors">Impressum</Link>
             <span className="text-white/15">|</span>
+            <Link to="/datenschutz" className="hover:text-white/50 transition-colors">Datenschutz</Link>
+            <span className="text-white/15">|</span>
             <Link to="/ueber-uns" className="hover:text-white/50 transition-colors">Ueber uns</Link>
           </div>
         </div>

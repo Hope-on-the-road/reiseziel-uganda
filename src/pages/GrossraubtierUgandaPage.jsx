@@ -437,6 +437,7 @@ export default function GrossraubtierUgandaPage() {
             <div className="grid sm:grid-cols-2 gap-3">
               {[
                 { href: '/tiere/loewe', label: 'Löwen in Uganda: Verbreitung und Beobachtung' },
+                { href: '/grossraubtier-schutz-ziele-uganda', label: 'Schutzziele für Großraubtiere: 30 % Bestandszuwachs bis 2034' },
                 { href: '/nationalparks/queen_elizabeth', label: 'Queen Elizabeth Nationalpark' },
                 { href: '/nationalparks/murchison_falls', label: 'Murchison Falls Nationalpark' },
                 { href: '/ranger-uganda', label: 'Ranger in Uganda: Artenschutz von innen' },

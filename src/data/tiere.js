@@ -139,6 +139,8 @@ export const tiere = {
       { href: '/nationalparks/queen-elizabeth', title: 'Queen Elizabeth Park', desc: 'Heimat der baumkletternden Loewen.' },
       { href: '/nationalparks/kidepo-valley', title: 'Kidepo Valley', desc: 'Ugandas wildester Nationalpark.' },
       { href: '/tiere-uganda', title: 'Alle Tiere', desc: 'Die 25 faszinierendsten Arten Ugandas.' },
+      { href: '/loewen-queen-elizabeth-murchison', title: 'Loewen in Queen Elizabeth und Murchison', desc: 'Wo die Chancen auf eine Loewensichtung am besten sind.' },
+      { href: '/grossraubtiere-uganda', title: 'Grossraubtiere Uganda', desc: 'Bestand und Artenschutz von Loewe, Leopard und Tuepfelhyaene.' },
     ],
   },
 
@@ -625,6 +627,7 @@ export const tiere = {
       { href: '/nationalparks/murchison-falls', title: 'Murchison Falls', desc: 'Krokodile am Fuss des Wasserfalls.' },
       { href: '/nationalparks/queen-elizabeth', title: 'Queen Elizabeth Park', desc: 'Krokodile am Kazinga-Kanal.' },
       { href: '/tiere-uganda', title: 'Alle Tiere', desc: 'Die faszinierendsten Arten Ugandas.' },
+      { href: '/reptilien-uganda', title: 'Reptilien in Uganda', desc: 'Krokodile, Pythons und Warane im Ueberblick.' },
     ],
   },
 }

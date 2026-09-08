@@ -140,6 +140,8 @@ export const wirtschaft = {
       { href: '/reiseplanung/kosten', title: 'Uganda Reisekosten 2026', desc: 'Detaillierte Budget-Uebersicht von Budget bis Luxus.' },
       { href: '/reiseplanung/transport', title: 'Transport in Uganda', desc: 'Fortbewegung, Boda-Bodas, Inlandsfluege und Strassenzustand.' },
       { href: '/reiseplanung/beste-reisezeit', title: 'Beste Reisezeit Uganda', desc: 'Klima, Trockenzeiten und optimale Reisemonate.' },
+      { href: '/landwirtschaft-wakiso-uganda', title: 'Landwirtschaft im Wakiso-Distrikt', desc: 'Anbau, Maerkte und Wirtschaftsstruktur rund um Kampala.' },
+      { href: '/duerrerisiken-nahrungssicherheit-uganda', title: 'Duerre und Nahrungssicherheit', desc: 'Wie Trockenperioden Ernten und Versorgung beeinflussen.' },
     ],
   },
 };

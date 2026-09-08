@@ -148,7 +148,11 @@ export default function QuelleNilJinjaPage() {
           </p>
           <p className="text-gray-700 leading-relaxed mb-5">
             Beide Arme vereinigen sich in Khartum, der Hauptstadt des Sudan, zum eigentlichen Nil,
-            der von dort durch Ägypten bis zum Mittelmeer fließt. Die Frage "wo entspringt der Nil"
+            der von dort durch Ägypten bis zum Mittelmeer fließt — insgesamt{' '}
+            <a href="/durch-laender-fliesst-nil" className="text-jungle-700 underline decoration-jungle-300 hover:decoration-jungle-600">
+              durchquert der Nil elf Länder
+            </a>
+            . Die Frage "wo entspringt der Nil"
             ist also eine Frage der Definition: Wer den längsten zusammenhängenden Flussweg sucht,
             findet den Ursprung des Weißen Nils im Victoria-See bei Jinja — oder, wenn man die
             Zuflüsse des Sees mitrechnet, im Kagera-Fluss, dessen fernste Quelle in den burundischen

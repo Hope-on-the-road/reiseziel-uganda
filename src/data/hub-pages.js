@@ -320,6 +320,9 @@ export const hubPages = {
       { href: '/nationalparks-uganda', title: 'Nationalparks Uganda', desc: 'Alle 10 Nationalparks im Ueberblick.' },
       { href: '/gorilla-trekking', title: 'Gorilla Trekking', desc: 'Der komplette Guide zum Gorilla-Trekking in Uganda.' },
       { href: '/reiseplanung/beste-reisezeit', title: 'Beste Reisezeit', desc: 'Monat fuer Monat: Die optimale Reisezeit.' },
+      { href: '/grossraubtiere-uganda', title: 'Grossraubtiere Uganda', desc: 'Loewe, Leopard, Hyaene: Bestand, Verbreitung und Schutzstatus.' },
+      { href: '/bedrohte-tierarten-uganda', title: 'Bedrohte Tierarten Uganda', desc: 'Gorillas, Elefanten und Pangoline -- Gefaehrdung und Schutzmassnahmen.' },
+      { href: '/vogelbeobachtung-anfaenger-uganda', title: 'Vogelbeobachtung fuer Einsteiger', desc: 'Der einfachste Einstieg in Ugandas Vogelwelt.' },
     ],
   },
 
@@ -617,6 +620,7 @@ export const hubPages = {
       { href: '/reiseplanung/kosten', title: 'Uganda Reise Kosten', desc: 'Was kostet eine Safari in Uganda wirklich?' },
       { href: '/reiseplanung/beste-reisezeit', title: 'Beste Reisezeit Uganda', desc: 'Monat fuer Monat: Die optimale Reisezeit.' },
       { href: '/nationalparks', title: 'Nationalparks Uganda', desc: 'Alle 10 Nationalparks und ihre Highlights.' },
+      { href: '/uganda-rundreise-10-tage', title: 'Uganda Rundreise 10 Tage', desc: 'Konkrete Route, realistische Fahrzeiten und Kostenrahmen.' },
     ],
   },
 

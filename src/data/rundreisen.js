@@ -116,6 +116,7 @@ export const rundreisen = {
       { href: '/rundreisen/14-tage', title: '14 Tage Grand Tour', desc: 'Mehr Zeit und zusaetzliche Highlights.' },
       { href: '/nationalparks/murchison-falls', title: 'Murchison Falls', desc: 'Der maechtigste Wasserfall Ostafrikas.' },
       { href: '/gorilla-trekking', title: 'Gorilla Trekking', desc: 'Der komplette Guide.' },
+      { href: '/uganda-rundreise-10-tage', title: 'Uganda Rundreise 10 Tage: Route und Kosten', desc: 'Alternative Routenplanung mit Budgetrahmen und Buchungstipps.' },
     ],
   },
 

@@ -179,6 +179,30 @@ function RelatedPages({ pages }) {
   )
 }
 
+// Der Publisher schreibt bei manchen Seiten ein internalLinks-Feld
+// ({ text, href }) statt/zusaetzlich zu related. Ohne dieses Rendering
+// blieben diese Links in den Daten stehen und erschienen in keinem HTML.
+function InternalLinks({ links }) {
+  if (!links || links.length === 0) return null
+  return (
+    <section className="mt-12 pt-8 border-t border-gray-200">
+      <h2 className="font-display text-lg sm:text-xl font-semibold text-gray-800 mb-5">Passend dazu</h2>
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2">
+        {links.map(link => (
+          <Link
+            key={link.href}
+            to={link.href}
+            className="flex items-baseline gap-2 text-sm text-jungle-700 hover:text-jungle-900 hover:underline py-1"
+          >
+            <span className="text-jungle-400" aria-hidden="true">&#8594;</span>
+            {link.text}
+          </Link>
+        ))}
+      </div>
+    </section>
+  )
+}
+
 function PhotoHero({ photo, title, subtitle, breadcrumbs }) {
   return (
     <div className="relative min-h-[320px] sm:min-h-[380px] md:min-h-[440px] flex items-end">
@@ -681,6 +705,7 @@ export default function PageLayout({ page, heroPhoto, contentPhotos = [] }) {
 
             <FaqSection faqs={page.faqs} />
             <RelatedPages pages={page.related} />
+            <InternalLinks links={page.internalLinks} />
             <QuellenSection quellen={page.quellen} />
             <ShareBar title={page.title} slug={page.slug} />
             <AuthorBox />

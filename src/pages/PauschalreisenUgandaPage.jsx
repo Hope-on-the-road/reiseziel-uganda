@@ -238,6 +238,7 @@ export default function PauschalreisenUgandaPage() {
                 { href: '/gorilla-trekking', label: 'Gorilla-Trekking in Uganda: Ablauf und Vorbereitung' },
                 { href: '/rundreisen/7-tage', label: '7-Tage-Rundreise Uganda' },
                 { href: '/reiseplanung/kosten', label: 'Reiseplanung: Kosten und Budget' },
+                { href: '/risikotransfer-reiseveranstalter', label: 'Risikotransfer: Welche Risiken der Veranstalter trägt' },
                 { href: '/nachhaltiger-tourismus-uganda', label: 'Nachhaltiger Tourismus in Uganda' },
               ].map(({ href, label }) => (
                 <a

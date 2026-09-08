@@ -358,6 +358,7 @@ export const vergleiche = {
       { href: '/vergleiche/uganda-vs-kenia', title: 'Uganda vs. Kenia', desc: 'Masai Mara oder Gorilla Trekking? Der Safari-Vergleich.' },
       { href: '/gorilla/trekking', title: 'Gorilla Trekking Uganda', desc: 'Alles zu Permits, Vorbereitung und Ablauf.' },
       { href: '/reiseplanung/kosten', title: 'Kosten einer Uganda-Reise', desc: 'Budget-Planung fuer deine Safari.' },
+      { href: '/ruanda/akagera-nationalpark', title: 'Akagera Nationalpark Ruanda', desc: 'Ruandas Savannenpark als Ergaenzung zur Uganda-Route.' },
     ],
   },
 

@@ -131,5 +131,7 @@ export const gorillaTrekking = {
     { href: '/reiseplanung/beste-reisezeit', title: 'Beste Reisezeit Uganda', desc: 'Wann ist die optimale Reisezeit fuer Uganda und Gorilla Trekking?' },
     { href: '/reiseplanung/visa', title: 'Visum Uganda', desc: 'Einreisebestimmungen, E-Visa und East Africa Tourist Visa.' },
     { href: '/rundreisen/7-tage', title: '7 Tage Uganda Highlights', desc: 'Die kompakte Rundreise mit Gorilla Trekking und Queen Elizabeth Safari.' },
+    { href: '/bwindi-gorilla-reisefuehrer', title: 'Bwindi Gorilla-Trekking: Komplettguide', desc: 'Alle Sektoren, Permits und Anreisewege fuer Bwindi in einem Leitfaden.' },
+    { href: '/packliste-gorilla-tracking-uganda', title: 'Packliste Gorilla-Trekking', desc: 'Was wirklich in den Rucksack gehoert -- Schuhe, Regenschutz, Handschuhe.' },
   ],
 }

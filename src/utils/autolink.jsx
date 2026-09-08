@@ -3,6 +3,29 @@ import { Link } from 'react-router-dom'
 
 // Sorted longest-first so multi-word terms match before single-word ones
 const LINK_RULES = [
+  // Eigennamen und Artengruppen mit eindeutiger Zielseite. Stehen bewusst
+  // ganz oben: /Grenzuebergang Katuna/ muss vor der allgemeinen Katuna-Regel
+  // greifen, die auf die Grenzen-Uebersicht zeigt.
+  { pattern: /(?:Grenz[uü]bergang\s+|Grenze\s+)?Katuna\s*(?:\/|\s+und\s+|\s+oder\s+)\s*Cyanika/gi, path: '/grenzuebergang-katuna-cyanika' },
+  { pattern: /Grenz[uü]bergang\s+(?:Katuna|Cyanika)/gi, path: '/grenzuebergang-katuna-cyanika' },
+  { pattern: /\bEchuya\b/gi, path: '/echuya-forest-reserve' },
+  { pattern: /Kasyoha[\s-]Kitomi/gi, path: '/lake-kasyoha-kitomi-voegel' },
+  { pattern: /\bAkagera\b/gi, path: '/ruanda/akagera-nationalpark' },
+  { pattern: /Rwenzori[\s-]Gletscher|Gletscher\s+der\s+Rwenzoris/gi, path: '/rwenzori-gletscher-klimawandel' },
+  { pattern: /Golden\s+Monkey/gi, path: '/golden-monkey-vs-gorilla-trekking' },
+  { pattern: /Bwindi[\s-]Besucherzahlen/gi, path: '/bwindi-besucherzahlen-statistik' },
+  { pattern: /Strauss(?:e|en)?\s+(?:in\s+)?(?:Uganda|Kidepo)/gi, path: '/strauss-kidepo' },
+  { pattern: /\b(?:Gross)?[Kk]ormorane?\b/gi, path: '/kormoran-uganda' },
+  { pattern: /\bGlanzibis\b|\bGlossy\s+Ibis\b/gi, path: '/glossy-ibis-uganda' },
+  { pattern: /\bGlanzstare?n?\b/gi, path: '/stare-uganda-arten' },
+  { pattern: /\bUnzertrennliche[nr]?\b/gi, path: '/papageien-uganda-arten' },
+  { pattern: /\bPrinien?\b|\bPrinia[\s-]Arten\b/gi, path: '/prinia-arten-uganda' },
+  { pattern: /\bGreifv[oö]gel\b/gi, path: '/greifvoegel-uganda' },
+  { pattern: /Kiebitz[\s-]Arten/gi, path: '/kiebitz-arten-uganda' },
+  { pattern: /\bNatureUganda\b/g, path: '/natureuganda-mission' },
+  { pattern: /Wetland\s+Management\s+Department|National\s+Forestry\s+Authority\b/gi, path: '/naturschutz-institutionen-uganda' },
+  { pattern: /\bReptilien\b/gi, path: '/reptilien-uganda' },
+
   { pattern: /Bwindi\s+Impenetrable/gi, path: '/nationalparks/bwindi' },
   { pattern: /Oekotourismus[\s-](?:in\s+)?Uganda/gi, path: '/oekotourismus-uganda' },
   { pattern: /\bOekotourismus\b/gi, path: '/oekotourismus-uganda' },

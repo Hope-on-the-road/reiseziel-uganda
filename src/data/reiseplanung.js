@@ -313,6 +313,9 @@ export const reiseplanung = {
       { href: '/reiseplanung/impfungen', title: 'Impfungen fuer Uganda', desc: 'Gesundheitsvorsorge und Reiseapotheke.' },
       { href: '/reiseplanung/transport', title: 'Transport in Uganda', desc: 'Sicher unterwegs auf Ugandas Strassen.' },
       { href: '/reiseplanung/visa', title: 'Visum Uganda', desc: 'Einreisebestimmungen und Dokumente.' },
+      { href: '/reisefreiheit-uganda-regionen', title: 'Zugaengliche Regionen in Uganda', desc: 'Welche Landesteile problemlos bereisbar sind und welche nicht.' },
+      { href: '/sicherheit-rwampara-uganda', title: 'Sicherheit in Rwampara', desc: 'Lage und Verhaltenshinweise fuer den Distrikt im Suedwesten.' },
+      { href: '/risikotransfer-reiseveranstalter', title: 'Risikotransfer bei Pauschalreisen', desc: 'Welche Risiken der Veranstalter traegt und welche bei dir bleiben.' },
     ],
   },
 
@@ -851,6 +854,7 @@ export const reiseplanung = {
       { href: '/reiseplanung/steckdosen', title: 'Steckdosen in Uganda', desc: 'Steckertyp G, Adapter und Stromversorgung.' },
       { href: '/reiseplanung/malaria', title: 'Malaria-Schutz', desc: 'Mueckenschutz und Prophylaxe fuer die Packliste.' },
       { href: '/reiseplanung/beste-reisezeit', title: 'Beste Reisezeit', desc: 'Packen nach Saison und Region.' },
+      { href: '/packliste-gorilla-tracking-uganda', title: 'Packliste Gorilla-Trekking', desc: 'Die Spezialliste fuer den Trekking-Tag im Bergregenwald.' },
     ],
   },
 

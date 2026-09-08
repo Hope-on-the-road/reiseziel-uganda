@@ -110,6 +110,8 @@ export const nationalparks = {
       { href: '/nationalparks/mgahinga', title: 'Mgahinga Gorilla National Park', desc: 'Der kleine Nachbar am Fuss der Virunga-Vulkane.' },
       { href: '/reiseplanung/kosten', title: 'Uganda Reisekosten', desc: 'Was die Reise inklusive Gorilla-Permit wirklich kostet.' },
       { href: '/regionen/buhoma', title: 'Buhoma', desc: 'Das Tor zum Bwindi Impenetrable Forest.' },
+      { href: '/bwindi-gorilla-reisefuehrer', title: 'Bwindi Gorilla-Trekking: Komplettguide', desc: 'Permits, Sektoren, Anreise und Ablauf in einem Leitfaden.' },
+      { href: '/bwindi-besucherzahlen-statistik', title: 'Bwindi Besucherzahlen', desc: 'Statistiken und Trends -- wie stark der Park wirklich besucht wird.' },
     ],
     showPartner: true,
     partnerContext: 'gorilla-trekking',
@@ -268,6 +270,7 @@ export const nationalparks = {
       { href: '/nationalparks/queen_elizabeth', title: 'Queen Elizabeth', desc: 'Afrikas vielfaeltigster Nationalpark.' },
       { href: '/tiere/nashorn', title: 'Nashorn in Uganda', desc: 'Ziwa Rhino Sanctuary auf dem Weg nach Murchison.' },
       { href: '/tiere/schuhschnabel', title: 'Schuhschnabel', desc: 'Den seltenen Vogel im Albert-Delta finden.' },
+      { href: '/kormoran-uganda', title: 'Grosskormoran am Nil', desc: '827 Sichtungen -- der haeufigste Fischjaeger auf der Nil-Bootsfahrt.' },
     ],
   },
 
@@ -416,6 +419,8 @@ export const nationalparks = {
       { href: '/nationalparks/murchison_falls', title: 'Murchison Falls', desc: 'Ugandas groesster Park -- oft auf dem Weg nach Kidepo besucht.' },
       { href: '/tiere/loewe', title: 'Afrikanischer Loewe', desc: 'Die Loewen von Kidepo und ihre Jagdreviere.' },
       { href: '/reiseplanung/transport', title: 'Transport in Uganda', desc: 'Inlandsfluege und Strassenverbindungen.' },
+      { href: '/kidepo-valley-national-park', title: 'Kidepo Valley National Park Guide', desc: 'Ausfuehrlicher Guide fuer die Anreise und Safari im Nordosten.' },
+      { href: '/strauss-kidepo', title: 'Strauss in Uganda', desc: 'Nur im Kidepo Valley NP -- Ugandas einzige Straussenpopulation.' },
     ],
   },
 
@@ -465,6 +470,7 @@ export const nationalparks = {
       { href: '/nationalparks/queen_elizabeth', title: 'Queen Elizabeth Park', desc: 'Weiter westlich: Afrikas vielfaeltigster Park.' },
       { href: '/nationalparks/bwindi', title: 'Bwindi', desc: 'Gorilla Trekking auf dem weiteren Weg nach Westen.' },
       { href: '/reiseplanung/kosten', title: 'Reisekosten Uganda', desc: 'Budget fuer deine Uganda-Reise.' },
+      { href: '/lake-mburo-vogelbeobachtung', title: 'Vogelbeobachtung Lake Mburo', desc: '350+ Vogelarten in Savanne, Sumpf und Akazienwald.' },
     ],
   },
 
@@ -530,6 +536,7 @@ export const nationalparks = {
       { href: '/nationalparks/bwindi', title: 'Bwindi Impenetrable', desc: 'Der groessere Gorilla-Park mit 25 habituierten Familien.' },
       { href: '/gorilla-trekking', title: 'Gorilla Trekking Uganda', desc: 'Der komplette Guide: Bwindi vs. Mgahinga.' },
       { href: '/tiere/berggorilla', title: 'Der Berggorilla', desc: 'Biologie, Verhalten und Schutzstatus.' },
+      { href: '/golden-monkey-vs-gorilla-trekking', title: 'Golden Monkey oder Gorilla-Trekking?', desc: 'Vergleich von Kosten, Aufwand und Erlebnis in Mgahinga.' },
     ],
   },
 

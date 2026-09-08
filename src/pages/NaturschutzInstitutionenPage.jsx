@@ -391,6 +391,12 @@ export default function NaturschutzInstitutionenPage() {
                 NEMA: Umweltschutz in Uganda
               </a>
               <a
+                href="/natureuganda-mission"
+                className="block bg-jungle-50 hover:bg-jungle-100 border border-jungle-200 rounded-lg px-4 py-3 text-jungle-800 font-medium transition-colors"
+              >
+                NatureUganda: Vogelmonitoring und Naturschutz
+              </a>
+              <a
                 href="/berggorilla-naturschutz"
                 className="block bg-jungle-50 hover:bg-jungle-100 border border-jungle-200 rounded-lg px-4 py-3 text-jungle-800 font-medium transition-colors"
               >
