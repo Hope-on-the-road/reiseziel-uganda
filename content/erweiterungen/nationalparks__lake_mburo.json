@@ -61,6 +61,19 @@
         "Weiterfahrt nach Bwindi",
         "Von Lake Mburo aus führt die Route weiter in den Südwesten. Wer das Gorilla-Trekking plant, findet die Details zu Permits, Sektoren und Ablauf auf unserer Seite zum Bwindi Impenetrable National Park."
       ]
+    },
+    {
+      "id": "reitsafari-in-lake-mburo-ablauf-sicherheit-und-highlights",
+      "title": "Reitsafari in Lake Mburo: Ablauf, Sicherheit und Highlights",
+      "content": [
+        "Lake Mburo ist der einzige Nationalpark Ugandas, in dem eine Reitsafari angeboten wird. Möglich ist dieses Angebot vor allem deshalb, weil im Park keine Löwen leben. Große Raubtiere, die Pferde und Reiter als Beute einschätzen könnten, fehlen hier vollständig. Das reduziert das Risiko gefährlicher Begegnungen erheblich und unterscheidet Lake Mburo von allen anderen Savannenparks des Landes, in denen Reitsafaris aus Sicherheitsgründen nicht durchgeführt werden.",
+        "Auf dem Pferderücken reagieren viele Wildtiere gelassener als auf Fahrzeuge oder Fußgänger. Zebras, Impalas und Elenantilopen lassen sich dadurch häufig aus geringer Distanz beobachten. Auch ein Teil der über 350 im Park erfassten Vogelarten zeigt sich in Ufernähe der Seen, wo Reitrouten oft entlangführen.",
+        "Kapbüffel als Risikofaktor",
+        "Trotz der fehlenden Löwen bleibt der Kapbüffel ein Tier, dem auf einer Reitsafari besondere Aufmerksamkeit gilt. Kapbüffel können bei Störung oder in Herdenverbänden unberechenbar reagieren. Aus diesem Grund wird eine Reitsafari in Lake Mburo grundsätzlich in Begleitung eines erfahrenen Guides durchgeführt, der Distanz und Route so wählt, dass Begegnungen mit Büffelherden kontrolliert ablaufen. Mehr zum Verhalten dieser Tiere ist im Artikel über den Kapbüffel nachzulesen.",
+        "Zebras entlang der Route",
+        "Burchell-Zebras kommen in Uganda ausschließlich in Lake Mburo vor. Sie zählen zu den regelmäßig gesichteten Tieren entlang der Reitrouten und tragen wesentlich zum besonderen Charakter dieser Safariform bei. Details zu Herdenverhalten und Lebensraum sind im Artikel zum Steppenzebra zusammengefasst.",
+        "Zu Anbietern, Preisen, Dauer der Touren und möglichen Altersgrenzen für die Teilnahme liegen aktuell keine verifizierten Angaben vor. Diese Informationen werden an dieser Stelle bewusst nicht angegeben, bis sie durch eine verlässliche Quelle bestätigt sind."
+      ]
     }
   ],
   "faqs": [
@@ -91,6 +104,14 @@
     {
       "q": "Ist eine Wandersafari im Lake Mburo sicher?",
       "a": "Wandersafaris finden immer in Begleitung eines bewaffneten Rangers statt, der die Route festlegt. Löwen und Elefanten fehlen im Park, Büffel, Flusspferde und Krokodile sind jedoch vorhanden — deshalb ist die Rangerbegleitung verbindlich."
+    },
+    {
+      "q": "Ist eine Reitsafari in Lake Mburo auch für Reitanfänger geeignet?",
+      "a": "Ob und unter welchen Bedingungen Reitanfänger an einer Reitsafari teilnehmen können, ist derzeit nicht durch eine verlässliche Quelle belegt. Diese Angabe wird nachgereicht, sobald verifizierte Informationen zu Voraussetzungen und Anbieterpraxis vorliegen."
+    },
+    {
+      "q": "Warum wird die Reitsafari nur in Lake Mburo angeboten?",
+      "a": "Lake Mburo ist der einzige ugandische Nationalpark ohne Löwen. Weil damit ein zentrales Sicherheitsrisiko für Reiter entfällt, ist hier als einzigem Park im Land eine Reitsafari möglich — in anderen Savannenparks würde die Anwesenheit von Löwen dieses Angebot zu riskant machen."
     }
   ],
   "quellen": [
@@ -105,11 +126,13 @@
     "Malaria-Schutz fuer Uganda",
     "Geld und Zahlungsmittel in Uganda",
     "Internet und Mobilfunk in Uganda",
-    "Transport und Fortbewegung in Uganda"
+    "Transport und Fortbewegung in Uganda",
+    "Lake Mburo National Park (doc kd ru 1784582729741 sh3a)",
+    "Der Kapbueffel in Uganda"
   ],
   "hopeplatform": {
-    "draft_id": "d32a3e84-747d-4b11-824e-18e4793df802",
+    "draft_id": "21a91066-8bfe-40fd-8a4d-a9788c753a68",
     "erzeugt_am": "2026-08-20",
-    "zuletzt": "2026-08-20"
+    "zuletzt": "2026-09-17"
   }
 }
