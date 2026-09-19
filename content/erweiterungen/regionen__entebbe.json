@@ -40,6 +40,25 @@
         "Zum Bezahlen: In internationalen Hotels in Entebbe, etwa im Lake Victoria Serena, wird Kartenzahlung mit Visa und Mastercard akzeptiert. Außerhalb solcher Häuser sollte man in Uganda grundsätzlich Bargeld einplanen.",
         "Die Ziele am See erreicht man teils nur per Boot – das gilt für Mabamba Swamp und für Ngamba Island. Die Fahrt sollte deshalb vorab organisiert und zeitlich großzügig geplant werden, besonders wenn am selben Tag noch ein Flug ansteht."
       ]
+    },
+    {
+      "id": "entebbe-als-ehemalige-hauptstadt-ugandas-geschichte-und-bede",
+      "title": "Entebbe als ehemalige Hauptstadt Ugandas: Geschichte und Bedeutung",
+      "content": [
+        "1893 wählten die Briten Entebbe als Sitz ihrer kolonialen Verwaltung in Uganda. Die Lage auf einer Halbinsel am Nordufer des Victoriasees bot Zugang zum Wasser und ein mildes Klima auf rund 1.150 Metern Höhe. Entebbe blieb bis zur Unabhängigkeit Ugandas 1962 die offizielle Hauptstadt des Landes.",
+        "Am 9. Oktober 1962 löste Kampala Entebbe offiziell als Hauptstadt ab. Die aufstrebende Handelsstadt auf ihren sieben Hügeln übernahm die Rolle als politisches und wirtschaftliches Zentrum Ugandas, während Entebbe seine Verwaltungsfunktion verlor.",
+        "Die historische Rolle wirkt bis heute nach: Entebbe wurde im Rahmen eines Berichts zur Stadtentwicklung der Region Kampala als Kandidat für eine höhere urbane Zentrumsklassifikation genannt, unter anderem mit Verweis auf seinen Status als ehemalige Hauptstadt und die zwischenzeitliche Erhebung zur Stadt."
+      ]
+    },
+    {
+      "id": "vom-regierungssitz-zum-flughafen-entebbes-rolle-heute",
+      "title": "Vom Regierungssitz zum Flughafen: Entebbes Rolle heute",
+      "content": [
+        "Entebbe verlor 1962 den Hauptstadt-Status, blieb aber Standort des einzigen internationalen Flughafens Ugandas und bewahrt bis heute Bauten aus der Kolonialzeit.",
+        "Auch nach dem Verlust des Hauptstadt-Status behielt Entebbe eine zentrale Funktion: Der Entebbe International Airport (EBB) ist der einzige internationale Flughafen Ugandas und liegt am Nordufer des Victoriasees, etwa 40 Kilometer südlich von Kampala. Die Fahrt zwischen beiden Städten dauert ohne Stau rund 45 Minuten.",
+        "Aus der Zeit als Regierungssitz sind in Entebbe kolonialzeitliche Gebäude entlang der Hauptstraße erhalten geblieben. Dazu zählt das ehemalige Gouverneurshaus, das heute als State House die offizielle Residenz des Präsidenten ist. Auch der 1898 gegründete Botanische Garten stammt aus dieser Epoche und zählt zu den ältesten botanischen Gärten Tropisch-Afrikas.",
+        "Wer den Zusammenhang verstehen will: Kampala ist seit 1962 die Hauptstadt Ugandas und heute das politische und wirtschaftliche Zentrum des Landes. Entebbe bleibt für die meisten Reisenden der erste und letzte Ort in Uganda – nicht wegen einer politischen Funktion, sondern weil hier der internationale Flughafen liegt."
+      ]
     }
   ],
   "faqs": [
@@ -62,6 +81,26 @@
     {
       "q": "Wie kommt man von Entebbe nach Ngamba Island?",
       "a": "Ngamba Island liegt etwa 23 Kilometer südöstlich von Entebbe im Lake Victoria und ist ausschließlich per Boot erreichbar."
+    },
+    {
+      "q": "Was ist die Hauptstadt von Uganda?",
+      "a": "Die Hauptstadt Ugandas ist Kampala. Sie löste Entebbe am 9. Oktober 1962 offiziell als Hauptstadt ab."
+    },
+    {
+      "q": "War Entebbe früher die Hauptstadt Ugandas?",
+      "a": "Ja. Entebbe war von 1893, als die Briten es zum Sitz ihrer Kolonialverwaltung machten, bis zur Unabhängigkeit Ugandas 1962 die offizielle Hauptstadt."
+    },
+    {
+      "q": "Warum liegt der internationale Flughafen Ugandas in Entebbe und nicht in Kampala?",
+      "a": "Entebbe war historisch der Verwaltungssitz und liegt am Victoriasee. Auch nachdem Kampala 1962 die Hauptstadt-Funktion übernahm, blieb der internationale Flughafen in Entebbe erhalten."
+    },
+    {
+      "q": "Wie weit ist Entebbe von Kampala entfernt?",
+      "a": "Entebbe liegt rund 40 Kilometer südlich von Kampala. Die Fahrt dauert ohne Stau etwa 45 Minuten."
+    },
+    {
+      "q": "Welche Gebäude aus der Kolonialzeit gibt es noch in Entebbe?",
+      "a": "Erhalten sind unter anderem das ehemalige Gouverneurshaus, das heute als State House Residenz des Präsidenten ist, sowie der 1898 gegründete Botanische Garten."
     }
   ],
   "quellen": [
@@ -79,8 +118,8 @@
     "Transport und Fortbewegung in Uganda"
   ],
   "hopeplatform": {
-    "draft_id": "bd427c90-84f6-482f-89d8-b8abc3fb7d0f",
+    "draft_id": "5c218350-6a3f-40fd-ba45-f9cfec43d2f4",
     "erzeugt_am": "2026-08-17",
-    "zuletzt": "2026-08-17"
+    "zuletzt": "2026-09-19"
   }
 }
