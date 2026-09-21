@@ -30,6 +30,34 @@
         "In der Nebensaison sieht es anders aus: Im April wurden nur 20 Prozent der verfügbaren Permits verkauft, im März 32,4 Prozent und im Mai 29,4 Prozent. Wer flexibel ist, hat in diesen Monaten deutlich bessere Chancen auf kurzfristig verfügbare Permits. Mehr zur Nebensaison und ihren Vorteilen findest du auf der Seite Uganda Nebensaison, eine vollständige Monatsübersicht bietet die Seite Gorilla-Permit-Verfügbarkeit.",
         "Der Gorilla-Tourismus finanziert dabei nicht nur die Reise selbst, sondern trägt auch zum Schutz der Berggorilla-Population bei. Mehr dazu liest du auf der Seite Berggorilla-Naturschutz in Uganda und zu den aktuellen Bestandszahlen auf Gorilla-Population Uganda."
       ]
+    },
+    {
+      "id": "permits-kosten-und-ablauf",
+      "title": "Permits, Kosten und Ablauf",
+      "content": [
+        "Ein Gorilla-Permit in Uganda kostet ab 2026 800 US-Dollar pro Person. Es berechtigt zu einer einstündigen Begegnung mit einer habituierten Gorilla-Familie im Bwindi Impenetrable National Park oder im Mgahinga Gorilla National Park. Zum Vergleich: Das gleiche Permit kostet in Ruanda 1.500 US-Dollar – damit fast doppelt so viel wie in Uganda.",
+        "Die Uganda Wildlife Authority (UWA) empfiehlt, das Permit 2 bis 24 Monate vor dem geplanten Trekking-Datum zu buchen. Die Buchung erfolgt entweder direkt über die UWA oder über einen lizenzierten Touroperator. Das Permit-Büro in der Region Bwindi liegt neben dem Green Hills Hotel in Kabale.",
+        "Pro Tag und Gorilla-Familie werden maximal acht Permits ausgegeben. Diese begrenzte Zahl schützt die Gorillas vor Überlastung durch Besuch, sorgt aber auch dafür, dass Permits in nachfragestarken Zeiten schnell vergriffen sind. Details zu den aktuellen Preisstaffelungen finden sich auf der Seite zu den Gorilla-Permit-Kosten, weitere Preisvergleiche unter Gorilla-Permit-Preise."
+      ]
+    },
+    {
+      "id": "auslastungskalender-2025-wann-sind-permits-verfuegbar",
+      "title": "Auslastungskalender 2025: Wann sind Permits verfügbar?",
+      "content": [
+        "Im Jahresdurchschnitt 2025 waren Gorilla-Permits in Uganda zu 60,1 Prozent ausgelastet, mit deutlichen saisonalen Unterschieden zwischen August (fast ausgebucht) und April (größte Verfügbarkeit).",
+        "Nach dem MTWA Statistical Abstract 2025 wurden landesweit 42.960 Gorilla-Permits verkauft. Das entspricht einer Auslastung von 60,1 Prozent bei einer Gesamtkapazität von 71.522 Permits pro Jahr.",
+        "Die Nachfrage schwankt stark je nach Monat. In der Hochsaison August lag die Auslastung 2025 bei 95,8 Prozent, im Juli bei 91,1 Prozent – in diesen Monaten sind Permits häufig schon Wochen im Voraus vergriffen. In der Nebensaison ist die Verfügbarkeit deutlich höher: Der April kam 2025 nur auf 20 Prozent Auslastung, der Mai auf 29,4 Prozent und der März auf 32,4 Prozent.",
+        "Wer zeitlich flexibel ist, findet in der Nebensaison (März bis Mai oder November) gelegentlich auch kurzfristig noch ein Permit. Wer dagegen in der Hochsaison reisen möchte, sollte deutlich früher planen. Mehr zur konkreten Verfügbarkeit nach Reisezeitraum steht auf der Seite Gorilla-Permit-Verfügbarkeit, ausführliche Tipps zur ruhigeren Reisezeit unter Uganda Nebensaison."
+      ]
+    },
+    {
+      "id": "wie-laeuft-die-buchung-eines-gorilla-permits-ab",
+      "title": "Wie läuft die Buchung eines Gorilla-Permits ab?",
+      "content": [
+        "Permits werden entweder direkt bei der Uganda Wildlife Authority oder über einen lizenzierten Touroperator reserviert und in der Regel vorab bezahlt.",
+        "Gorilla-Permits müssen im Voraus gebucht werden – ein spontaner Kauf vor Ort ist praktisch nicht möglich, außer in Ausnahmefällen während der Nebensaison. Die Buchung läuft über zwei Wege: direkt über die Uganda Wildlife Authority oder über einen lizenzierten Touroperator, der die Formalitäten übernimmt.",
+        "Für Reisende, die eine Trekking-Tour im Bwindi Impenetrable National Park planen, lohnt sich außerdem ein Blick auf die habituierten Gorilla-Familien und ihre jeweilige Permit-Vergabe – mehr dazu auf der Seite Gorilla-Familien in Bwindi. Wer sich noch zwischen den beiden ugandischen Trekking-Regionen entscheiden muss, findet einen Überblick unter Mgahinga oder Bwindi."
+      ]
     }
   ],
   "faqs": [
@@ -52,6 +80,18 @@
     {
       "q": "Wie viele Permits gibt es pro Gorilla-Familie und Tag?",
       "a": "Im Bwindi Impenetrable National Park werden pro Tag und Gorilla-Familie genau acht Permits ausgegeben. Diese feste Obergrenze begrenzt die verfügbare Gesamtzahl an Plätzen, besonders in der Hochsaison."
+    },
+    {
+      "q": "Wie viele Gorilla-Permits gibt es pro Tag?",
+      "a": "Pro Tag und Gorilla-Familie werden in Bwindi maximal acht Permits ausgegeben. Diese Begrenzung schützt die Gorillas vor zu viel Besuch und macht Permits in nachfragestarken Monaten besonders knapp."
+    },
+    {
+      "q": "In welchem Monat sind Gorilla-Permits am schwersten zu bekommen?",
+      "a": "Nach dem MTWA Statistical Abstract 2025 war der August mit einer Auslastung von 95,8 Prozent der Monat mit der geringsten Verfügbarkeit, gefolgt vom Juli mit 91,1 Prozent."
+    },
+    {
+      "q": "In welchem Monat sind Gorilla-Permits am leichtesten zu bekommen?",
+      "a": "Der April hatte 2025 mit nur 20 Prozent Auslastung die größte Verfügbarkeit, gefolgt vom März mit 32,4 Prozent und dem Mai mit 29,4 Prozent."
     }
   ],
   "quellen": [
@@ -69,8 +109,8 @@
     "Trinkgeld-Guide fuer Uganda"
   ],
   "hopeplatform": {
-    "draft_id": "a7997c73-09bd-4e0c-98d3-4f16672ec80e",
+    "draft_id": "22a7d0cb-e1d7-459b-93c1-84fc8b20b4eb",
     "erzeugt_am": "2026-09-20",
-    "zuletzt": "2026-09-20"
+    "zuletzt": "2026-09-21"
   }
 }
