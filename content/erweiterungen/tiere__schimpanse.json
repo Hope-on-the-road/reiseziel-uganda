@@ -37,6 +37,18 @@
         "Beim klassischen Trekking, etwa im Kibale Forest oder in der Kyambura Gorge, begegnen Besucher wild lebenden Schimpansengruppen unter Begleitung von Rangern. Details zu Ablauf, Dauer und Kosten der jeweiligen Touren finden sich auf den entsprechenden Themenseiten zum Trekking und zur Habituation Experience.",
         "Das Ngamba Island Chimpanzee Sanctuary verfolgt einen anderen Zweck: Es dient dem Schutz und der Betreuung von Schimpansen, die nicht mehr eigenständig in freier Wildbahn leben können. Ein Besuch dort ist daher kein Trekking-Erlebnis, sondern eine Begegnung mit Tieren in einem geschützten, kontrollierten Umfeld."
       ]
+    },
+    {
+      "id": "wie-unterscheiden-sich-die-trekking-standorte-kibale-kalinzu",
+      "title": "Wie unterscheiden sich die Trekking-Standorte Kibale, Kalinzu und Kyambura?",
+      "content": [
+        "Kibale bietet die Chimpanzee Habituation Experience für 220 USD ganztägig, Kalinzu ein vierstündiges geführtes Tracking für 40 USD zusätzlich zum Parkeintritt mit rund 95 Prozent Erfolgsquote -- beide Angaben mit Stand 2020.",
+        "Die drei bekanntesten Standorte für Schimpansen-Tracking in Uganda unterscheiden sich in Ablauf, Kosten und Charakter:",
+        "• Kibale Forest National Park: Neben dem regulären Trekking bietet die Uganda Wildlife Authority hier die Chimpanzee Habituation Experience (CHEX) an, ein ganztägiges Programm mit einer noch nicht vollständig habituierten Gruppe, begleitet von Forschern. Die CHEX kostete mit Stand 2020 220 US-Dollar inklusive Parkeintrittsgebühren.",
+        "• Kalinzu Forest Reserve: Hier dauert das geführte Tracking vier Stunden und kostet mit Stand 2020 zusätzlich zum Parkeintritt 40 US-Dollar pro Person, bei einer Erfolgsquote von rund 95 Prozent.",
+        "• Kyambura Gorge: Die 40 Meter tiefe Waldschlucht inmitten offener Savanne bietet ein Tracking-Erlebnis in besonderer Kulisse, unterscheidet sich landschaftlich deutlich von den beiden anderen Standorten.",
+        "Die genannten Preise und Erfolgsquoten haben den Datenstand 2020; aktuellere Werte liegen für diesen Vergleich nicht vor."
+      ]
     }
   ],
   "faqs": [
@@ -63,6 +75,18 @@
     {
       "q": "Wie eng sind Schimpansen mit dem Menschen verwandt?",
       "a": "Schimpansen stimmen zu 98,7 % in ihrer DNA mit dem Menschen überein, was sie zu unseren nächsten lebenden Verwandten im Tierreich macht."
+    },
+    {
+      "q": "Was kostet die Chimpanzee Habituation Experience (CHEX)?",
+      "a": "Mit Stand 2020 kostet die CHEX im Kibale Forest National Park 220 US-Dollar für einen ganzen Tag inklusive Parkeintrittsgebühren."
+    },
+    {
+      "q": "Was kostet das Schimpansen-Tracking im Kalinzu Forest Reserve?",
+      "a": "Mit Stand 2020 kostet das vierstündige geführte Tracking im Kalinzu Forest Reserve zusätzlich zum Parkeintritt 40 US-Dollar pro Person, bei rund 95 Prozent Erfolgsquote."
+    },
+    {
+      "q": "Wo liegt die Ngamba Island Chimpanzee Sanctuary?",
+      "a": "Rund 23 Kilometer südöstlich von Entebbe im Lake Victoria, mit täglicher Fütterung der Schimpansen um 14:30 Uhr."
     }
   ],
   "quellen": [
@@ -77,11 +101,13 @@
     "Flughaefen in Uganda",
     "Ugandas Nachbarlaender",
     "Gorilla Trekking Uganda -- Der komplette Guide 2026",
-    "Steckdosen und Stromversorgung in Uganda"
+    "Steckdosen und Stromversorgung in Uganda",
+    "State-of-Wildlife-Resources-in-Uganda-2026-Book-final-1-1",
+    "Reiseführer Uganda 2020"
   ],
   "hopeplatform": {
-    "draft_id": "39adfe05-b915-4bdd-ac74-664ca35ae7b6",
+    "draft_id": "83cb2117-b7fd-405f-9a27-f025082d0435",
     "erzeugt_am": "2026-09-18",
-    "zuletzt": "2026-09-18"
+    "zuletzt": "2026-09-22"
   }
 }
