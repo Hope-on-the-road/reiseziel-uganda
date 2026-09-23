@@ -58,6 +58,34 @@
         "Gorilla-Permits müssen im Voraus gebucht werden – ein spontaner Kauf vor Ort ist praktisch nicht möglich, außer in Ausnahmefällen während der Nebensaison. Die Buchung läuft über zwei Wege: direkt über die Uganda Wildlife Authority oder über einen lizenzierten Touroperator, der die Formalitäten übernimmt.",
         "Für Reisende, die eine Trekking-Tour im Bwindi Impenetrable National Park planen, lohnt sich außerdem ein Blick auf die habituierten Gorilla-Familien und ihre jeweilige Permit-Vergabe – mehr dazu auf der Seite Gorilla-Familien in Bwindi. Wer sich noch zwischen den beiden ugandischen Trekking-Regionen entscheiden muss, findet einen Überblick unter Mgahinga oder Bwindi."
       ]
+    },
+    {
+      "id": "was-kostet-ein-gorilla-permit-in-uganda-und-wie-bucht-man-es",
+      "title": "Was kostet ein Gorilla-Permit in Uganda und wie bucht man es?",
+      "content": [
+        "Das Gorilla-Trekking-Permit in Uganda kostet 800 USD pro Person (Stand 2026). Es muss im Voraus über die Uganda Wildlife Authority oder einen lizenzierten Touroperator gebucht werden – ein Trekking ohne vorab gebuchtes Permit ist nicht möglich.",
+        "Das zuständige Permit-Büro der UWA befindet sich in Kabale, direkt neben dem Green Hills Hotel. Wer die Buchung nicht selbst vor Ort vornehmen möchte, kann sie über einen Touroperator abwickeln lassen, der die Formalitäten übernimmt.",
+        "Zum Vergleich: Im Nachbarland Ruanda kostet das gleiche Permit 1.500 USD und ist damit deutlich teurer als in Uganda. Detaillierte Preisvergleiche und Kostenaufstellungen findest du auf den Seiten Gorilla-Permit-Kosten und Gorilla-Permit-Preise."
+      ]
+    },
+    {
+      "id": "wie-viel-vorlauf-braucht-die-permit-buchung",
+      "title": "Wie viel Vorlauf braucht die Permit-Buchung?",
+      "content": [
+        "Die UWA empfiehlt, ein Permit zwei bis vierundzwanzig Monate vor dem geplanten Trekking-Termin zu buchen – je näher an der Hochsaison, desto früher.",
+        "Die Uganda Wildlife Authority empfiehlt eine Buchung zwei bis vierundzwanzig Monate vor dem geplanten Trekking-Datum. Wie viel Vorlauf tatsächlich nötig ist, hängt stark von der Reisezeit ab: In der Hochsaison sind Permits deutlich knapper als in der Nebensaison.",
+        "Wer flexibel ist, hat es leichter: Detaillierte Auslastungszahlen nach Monat und Empfehlungen zur besten Buchungszeit findest du auf der Seite Gorilla-Permit-Verfügbarkeit. Wer in der Nebensaison reisen kann, profitiert zusätzlich von niedrigeren Lodgepreisen – mehr dazu auf der Seite Uganda Nebensaison."
+      ]
+    },
+    {
+      "id": "wie-laeuft-das-gorilla-trekking-selbst-ab",
+      "title": "Wie läuft das Gorilla-Trekking selbst ab?",
+      "content": [
+        "Pro Tag und Gorilla-Familie werden im Bwindi Impenetrable National Park acht Permits ausgegeben, das eigentliche Trekking dauert je nach Position der Familie zwischen einer und acht Stunden.",
+        "Am Trekking-Tag werden die Besucher in kleinen Gruppen den einzelnen Gorilla-Familien zugeteilt. Pro Tag und Familie stehen im Bwindi Impenetrable National Park genau acht Permits zur Verfügung – die Gruppengröße ist damit bewusst klein gehalten, um die Tiere zu schützen und die Begegnung ruhig zu halten.",
+        "Wie lange das eigentliche Trekking dauert, lässt sich vorab nicht genau sagen: Je nachdem, wo sich die zugeteilte Familie im Wald aufhält, dauert der Fußmarsch zwischen einer und acht Stunden. Wer sich auf die körperliche Anstrengung vorbereiten will, sollte das bei der Reiseplanung einkalkulieren.",
+        "Mehr zu den einzelnen Gorilla-Familien und ihren Besonderheiten findest du auf der Seite Gorilla-Familien in Bwindi."
+      ]
     }
   ],
   "faqs": [
@@ -92,6 +120,18 @@
     {
       "q": "In welchem Monat sind Gorilla-Permits am leichtesten zu bekommen?",
       "a": "Der April hatte 2025 mit nur 20 Prozent Auslastung die größte Verfügbarkeit, gefolgt vom März mit 32,4 Prozent und dem Mai mit 29,4 Prozent."
+    },
+    {
+      "q": "Wie lange im Voraus sollte ich ein Gorilla-Permit für Uganda buchen?",
+      "a": "Die Uganda Wildlife Authority empfiehlt eine Vorlaufzeit von zwei bis vierundzwanzig Monaten. In der Hochsaison ist eine frühzeitige Buchung besonders wichtig, da Permits dann stark nachgefragt sind."
+    },
+    {
+      "q": "Ist das Gorilla-Permit in Uganda günstiger als in Ruanda?",
+      "a": "Ja. In Uganda kostet ein Gorilla-Permit 800 USD pro Person, in Ruanda liegt der Preis bei 1.500 USD."
+    },
+    {
+      "q": "Wie lange dauert das eigentliche Gorilla-Trekking?",
+      "a": "Die Trekkingdauer liegt je nach Position der zugeteilten Gorilla-Familie zwischen einer und acht Stunden."
     }
   ],
   "quellen": [
@@ -109,8 +149,8 @@
     "Trinkgeld-Guide fuer Uganda"
   ],
   "hopeplatform": {
-    "draft_id": "22a7d0cb-e1d7-459b-93c1-84fc8b20b4eb",
+    "draft_id": "6a6d795c-49d3-4a48-914e-39ba514e28e9",
     "erzeugt_am": "2026-09-20",
-    "zuletzt": "2026-09-21"
+    "zuletzt": "2026-09-23"
   }
 }
