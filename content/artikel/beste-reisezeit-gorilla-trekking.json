@@ -5,7 +5,7 @@
   "subtitle": "Die beste Zeit für Gorilla-Trekking in Uganda ist die Trockenzeit von Juni bis August und Dezember bis Februar – allerdings sind die Permits in dieser Zeit oft schon Monate im Voraus ausgebucht.",
   "metaDescription": "Beste Reisezeit für Gorilla-Trekking in Uganda: Trockenzeit, Permit-Auslastung 2025 im Vergleich und wie weit im Voraus du buchen solltest.",
   "publishedTime": "2026-08-13",
-  "modifiedTime": "2026-09-23",
+  "modifiedTime": "2026-09-24",
   "kurzantwort": "Die beste Reisezeit für Gorilla-Trekking in Uganda ist die Trockenzeit von Juni bis August und von Dezember bis Februar, weil die Waldwege dann trockener und leichter begehbar sind.",
   "sections": [
     {
@@ -107,6 +107,21 @@
       "id": "bwindi-oder-mgahinga-welcher-park-passt-zur-gewaehlten-reise",
       "title": "Bwindi oder Mgahinga: Welcher Park passt zur gewählten Reisezeit?",
       "content": "Beide Parks haben getrennte Permit-Kontingente mit identischer Preisstruktur, unterscheiden sich aber in Lage, Zugänglichkeit und Anzahl der Trekking-Gruppen.\n\nBwindi Impenetrable National Park und Mgahinga Gorilla National Park liegen beide im Südwesten Ugandas, verwalten ihre Gorilla-Permits aber unabhängig voneinander. Die Preisstruktur ist identisch: 800 USD in der Hauptsaison, 450 USD in der Nebensaison.\n\nBwindi ist der größere und bekanntere der beiden Parks mit mehreren Trekking-Sektoren und habituierten Gorilla-Familien. Mgahinga ist kleiner: 2025 registrierte der Park insgesamt 9.091 Parkbesucher. Wer die Reisezeit plant, sollte deshalb bei beiden Parks separat prüfen, ob und wie viele Permits für den gewünschten Zeitraum verfügbar sind.\n\nGrundlegende Informationen zum Ablauf des Trekkings selbst gibt es auf der Übersichtsseite Gorilla-Trekking in Uganda."
+    },
+    {
+      "id": "hauptsaison-vs-nebensaison-im-ueberblick",
+      "title": "Hauptsaison vs. Nebensaison im Überblick",
+      "content": "Die Hauptsaison bringt trockenere Wege bei höherem Preis und höherer Auslastung, die Nebensaison einen günstigeren Permit-Preis bei geringerer Auslastung.\n\nKriteriumHauptsaisonNebensaison (Apr., Mai, Nov.)\n\nPermit-Preis800 USD450 USD\n\nAuslastungbis 95,8 % (August 2025)unter dem Jahresschnitt von 60,1 %\n\nBuchungsvorlauflang, da Permits begrenzt (8 pro Familie/Tag)kurzfristiger meist möglich\n\nDie Preis- und Auslastungsunterschiede gelten sowohl für Bwindi als auch für Mgahinga."
+    },
+    {
+      "id": "gorilla-trekking-in-uganda-vs-kongo-reisezeit-im-vergleich",
+      "title": "Gorilla-Trekking in Uganda vs. Kongo: Reisezeit im Vergleich",
+      "content": "Für Uganda liegen konkrete Permit-Preise und Auslastungsdaten vor, für den Kongo (Virunga-Region) fehlen derzeit verifizierte Zahlen zum direkten Vergleich.\n\nViele Reisende vergleichen Uganda mit dem Kongo als Trekking-Ziel, weil die Virunga-Region ebenfalls Berggorillas beheimatet – die Population verteilt sich auf die Vulkane zwischen Ruanda, Kongo und Uganda. Bwindi liegt dabei in einem eigenständigen Habitat außerhalb der Virunga-Vulkane.\n\nFür Uganda sind Permit-Preise und Auslastung durch die Uganda Wildlife Authority klar dokumentiert: 800 US-Dollar in der Hauptsaison, 450 US-Dollar in der Nebensaison, mit einer Auslastung zwischen 60,1 und 95,8 Prozent je nach Monat. Zu Permit-Preisen und Verfügbarkeit im Kongo liegen aktuell keine verifizierten Daten vor, sodass an dieser Stelle kein Zahlenvergleich möglich ist. Wer explizit den Kongo in die Reiseplanung einbezieht, sollte sich für aktuelle Preise und Verfügbarkeiten direkt bei den kongolesischen Nationalparkbehörden informieren."
+    },
+    {
+      "id": "berggorillas-in-uganda-bestand-und-bedeutung",
+      "title": "Berggorillas in Uganda: Bestand und Bedeutung",
+      "content": "Uganda beherbergt 459 Berggorillas und damit rund 52 Prozent der weltweiten Population von etwa 1.004 Tieren.\n\nWeltweit existieren nach Angaben der Uganda Wildlife Authority rund 1.004 Berggorillas. Uganda beheimatet davon 459 Tiere, was etwa 52 Prozent der weltweiten Population entspricht. Die beiden ugandischen Trekking-Standorte sind der Bwindi Impenetrable National Park und der Mgahinga Gorilla National Park."
     }
   ],
   "fakten": [
@@ -209,6 +224,26 @@
     {
       "label": "So viele Berggorillas leben in Uganda – das sind laut UWA-Daten 52 Prozent der weltweiten Population von rund 1.004 Tieren (2025).",
       "value": "459 Berggorillas"
+    },
+    {
+      "label": "Preis für ein Gorilla-Trekking-Permit in Bwindi und Mgahinga in der Hauptsaison (2026).",
+      "value": "800 USD"
+    },
+    {
+      "label": "Preis für ein Gorilla-Trekking-Permit in der Nebensaison (April, Mai, November) in Bwindi und Mgahinga.",
+      "value": "450 USD"
+    },
+    {
+      "label": "Anteil der verkauften Gorilla-Permits im August 2025 – die auslastungsstärkste Zeit im Jahr.",
+      "value": "95,8 %"
+    },
+    {
+      "label": "Durchschnittliche Auslastung aller landesweit verkauften Gorilla-Permits im Jahr 2025 (42.960 Permits).",
+      "value": "60,1 %"
+    },
+    {
+      "label": "Tägliche Permit-Anzahl pro habituierter Gorilla-Familie im Bwindi Impenetrable National Park.",
+      "value": "8 Permits"
     }
   ],
   "faqs": [
@@ -323,6 +358,30 @@
     {
       "q": "Wie groß ist die Berggorilla-Population in Uganda?",
       "a": "Uganda beheimatet 459 Berggorillas, das entspricht 52 Prozent der weltweiten Population von rund 1.004 Tieren laut Uganda Wildlife Authority."
+    },
+    {
+      "q": "Was kostet ein Gorilla-Trekking-Permit in der Nebensaison?",
+      "a": "In der Nebensaison – April, Mai und November – kostet ein Permit für Bwindi oder Mgahinga 450 US-Dollar pro Person. In der Hauptsaison liegt der Preis bei 800 US-Dollar."
+    },
+    {
+      "q": "Wann ist die Auslastung bei Gorilla-Permits am höchsten?",
+      "a": "Im August wird die höchste Auslastung erreicht: 2025 wurden in diesem Monat 95,8 Prozent der verfügbaren Permits verkauft, gegenüber einem Jahresdurchschnitt von 60,1 Prozent."
+    },
+    {
+      "q": "Ist die Nebensaison für Gorilla-Trekking empfehlenswert?",
+      "a": "Die Nebensaison bietet einen niedrigeren Permit-Preis und eine geringere Auslastung als die Hauptsaison. Die Chance, Gorillas zu sehen, ist ganzjährig gegeben, da die habituierten Familien dauerhaft in ihrem Revier leben."
+    },
+    {
+      "q": "Wie viele Permits gibt es pro Tag für eine Gorilla-Familie?",
+      "a": "Im Bwindi Impenetrable National Park vergibt die Uganda Wildlife Authority pro Tag und Gorilla-Familie genau acht Permits."
+    },
+    {
+      "q": "Ist Gorilla-Trekking im Kongo eine Alternative zu Uganda?",
+      "a": "Der Kongo (Virunga-Region) beheimatet ebenfalls Berggorillas, allerdings liegen für Permit-Preise und Verfügbarkeit dort aktuell keine verifizierten Daten vor. Ein direkter Preisvergleich zu Uganda ist deshalb derzeit nicht möglich."
+    },
+    {
+      "q": "Wie viele Berggorillas gibt es insgesamt und wie viele davon in Uganda?",
+      "a": "Weltweit gibt es rund 1.004 Berggorillas. Uganda beheimatet davon 459 Tiere, das entspricht etwa 52 Prozent der weltweiten Population."
     }
   ],
   "quellen": [
