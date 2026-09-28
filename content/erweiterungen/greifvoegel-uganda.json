@@ -1,0 +1,75 @@
+{
+  "slug": "/greifvoegel-uganda",
+  "sections": [
+    {
+      "id": "koerpergroesse-und-gefieder-des-afrikanischen-schreiseeadler",
+      "title": "Körpergröße und Gefieder des Afrikanischen Schreiseeadlers",
+      "content": [
+        "Der Afrikanische Schreiseeadler erreicht laut Reiseführer_Uganda_2020 eine Körpergröße von etwa 75 Zentimetern. Bei der Beschreibung des Gefieders weichen die vorliegenden Quellen voneinander ab: Reiseführer_Uganda_2020 beschreibt einen weißen Kopf, eine weiße Brust, einen weißen Rücken und Schwanz sowie einen rotbraunen Bauch. Der Vogelbeobachtungs-Leitfaden für Einsteiger nennt dagegen einen weißen Kopf, einen kastanienbraunen Rücken und einen schwarzen Bauch. Beide Beschreibungen werden hier bewusst nebeneinander dargestellt, statt sie zu einer einheitlichen Aussage zu vermischen.",
+        "Ein verlässliches akustisches Erkennungsmerkmal ist sein mehrtöniger, klagender Schrei — für viele Beobachter der Inbegriff afrikanischer Wildnis, oft schon hörbar, bevor der Vogel selbst zu sehen ist."
+      ]
+    },
+    {
+      "id": "weitere-beobachtungsorte-kazinga-kanal-und-lake-muhazi",
+      "title": "Weitere Beobachtungsorte: Kazinga-Kanal und Lake Muhazi",
+      "content": [
+        "Neben Viktoria-Nil und Viktoriasee ist der Schreiseeadler auch am Kazinga-Kanal verlässlich zu beobachten und kommt darüber hinaus am Lake Muhazi nahe Kigali vor.",
+        "Neben Viktoria-Nil, Viktoriasee und Albertine Graben ist der Schreiseeadler auch am Kazinga-Kanal im Queen Elizabeth Nationalpark an den Ufergehölzen eine verlässliche Erscheinung. Bootstouren auf dem Kanal ermöglichen Nahbeobachtungen seiner Fischjagd. Ein Reisender berichtet in der Vogelbeobachtung Kasese, während Bootsfahrten auf dem Kazinga-Kanal mehrfach erlebt zu haben, wie ein Schreiseeadler einen Fisch direkt vor dem Bug des Bootes aus der Wasseroberfläche griff — eine persönliche Beobachtung, die eine solche Szene illustriert, aber keine allgemeingültige Aussage über die Häufigkeit dieses Verhaltens darstellt.",
+        "Als Randinfo für Reisende, die eine Uganda-Reise mit einem Abstecher nach Ruanda verbinden: Auch am Lake Muhazi, rund 30 Kilometer östlich von Kigali, kommt der Schreiseeadler vor, dort neben Fleckenhalsottern und weiteren Vogelarten wie Eisvögeln und Sumpfschnäppern."
+      ]
+    },
+    {
+      "id": "fischjagd-des-schreiseeadlers",
+      "title": "Fischjagd des Schreiseeadlers",
+      "content": [
+        "Der Schreiseeadler jagt Fische im Gleitflug und greift sie im letzten Moment mit den Klauen von der Wasseroberfläche.",
+        "Der Schreiseeadler ist ein Fischjäger, der seine Beute aus dem Wasser greift. Auf Bootstouren auf dem Viktoria-Nil im Murchison Falls Nationalpark erlebt man diese Jagdstrategie gelegentlich aus kurzer Distanz — wie der Vogel in einem langen Gleitflug sinkt, im letzten Moment die Klauen vorstreckt und einen Fisch aus der Wasseroberfläche hebt. Auch am Viktoriasee gehört diese Jagdweise zum vertrauten Bild für Vogelbeobachter."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie groß wird der Afrikanische Schreiseeadler?",
+      "a": "Laut Reiseführer_Uganda_2020 erreicht der Schreiseeadler eine Körpergröße von etwa 75 Zentimetern."
+    },
+    {
+      "q": "Welche Farbe hat das Gefieder des Schreiseeadlers?",
+      "a": "Die Quellen weichen hier voneinander ab: Reiseführer_Uganda_2020 beschreibt weißen Kopf, weiße Brust, weißen Rücken und Schwanz sowie rotbraunen Bauch, während der Vogelbeobachtungs-Leitfaden weißen Kopf, kastanienbraunen Rücken und schwarzen Bauch nennt."
+    },
+    {
+      "q": "Wo kann man den Schreiseeadler in Uganda am besten beobachten?",
+      "a": "Verlässliche Beobachtungsorte sind der Viktoria-Nil im Murchison Falls Nationalpark, der Viktoriasee, der Kazinga-Kanal im Queen Elizabeth Nationalpark sowie Feuchtgebiete des Albertine Grabens."
+    },
+    {
+      "q": "Kommt der Schreiseeadler auch außerhalb Ugandas vor?",
+      "a": "Ja, er ist auch am Lake Muhazi rund 30 Kilometer östlich von Kigali in Ruanda anzutreffen."
+    },
+    {
+      "q": "Woran erkennt man den Schreiseeadler akustisch?",
+      "a": "Sein mehrtöniger, klagender Schrei aus großer Höhe gilt als typisches Erkennungsmerkmal und ist oft schon zu hören, bevor der Vogel sichtbar wird."
+    },
+    {
+      "q": "Wie jagt der Schreiseeadler seine Beute?",
+      "a": "Er sinkt im Gleitflug über das Wasser und greift Fische im letzten Moment mit den Klauen direkt von der Oberfläche."
+    }
+  ],
+  "quellen": [
+    "African wild dog | Canids",
+    "African Painted Dog Conservation Efforts",
+    "African Wild Dog (Lycaon pictus) - Wildlife ACT",
+    "Tourism Uganda | Ministry of Tourism Wildlife and Antiquities | Kampala",
+    "Uganda Wildlife Authority - UWA",
+    "Best Time To Go Gorilla Trekking in Africa - Primate Safaris Travels",
+    "Best Time for Gorilla Trekking in Uganda (2026 Guide)",
+    "Gorilla Trekking in Uganda & Rwanda,Tour Costs, Gorilla Safaris Africa 2026",
+    "Hiking Mount Sabyinyo: Stand in Three Countries at the Summit",
+    "Uganda Wildlife Conservation Education Centre – entebbe zoo",
+    "Kyankwanzi-Survey-Report-2017",
+    "Ugandische Kueche"
+  ],
+  "hopeplatform": {
+    "draft_id": "52f31c62-f950-4698-a106-99b73193a223",
+    "erzeugt_am": "2026-09-28",
+    "zuletzt": "2026-09-28"
+  }
+}
