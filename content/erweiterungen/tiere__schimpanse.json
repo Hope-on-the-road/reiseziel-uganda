@@ -49,6 +49,22 @@
         "• Kyambura Gorge: Die 40 Meter tiefe Waldschlucht inmitten offener Savanne bietet ein Tracking-Erlebnis in besonderer Kulisse, unterscheidet sich landschaftlich deutlich von den beiden anderen Standorten.",
         "Die genannten Preise und Erfolgsquoten haben den Datenstand 2020; aktuellere Werte liegen für diesen Vergleich nicht vor."
       ]
+    },
+    {
+      "id": "wo-lebt-der-schimpanse-in-uganda-und-wo-kann-man-ihn-beobach",
+      "title": "Wo lebt der Schimpanse in Uganda und wo kann man ihn beobachten?",
+      "content": [
+        "Die bekanntesten Trekking-Ziele sind der Kibale Forest National Park, die Kyambura Gorge und die Kalinzu Forest Reserve -- jeweils mit unterschiedlichem Ablauf, Preis und Charakter.",
+        "Wer Schimpansen in freier Wildbahn beobachten möchte, findet im Kibale Forest National Park die bekannteste Anlaufstelle Ugandas. Details zum Ablauf, den Permit-Optionen und der Habituation Experience beschreiben die spezialisierten Seiten zum Schimpansen-Trekking und zur CHEX-Erfahrung.",
+        "Auch die Kyambura Gorge im Queen Elizabeth Nationalpark bietet Schimpansen-Tracking in einer besonderen Landschaft: einer bewaldeten Schlucht inmitten offener Savanne.",
+        "Eine kostengünstigere Alternative ist die Kalinzu Forest Reserve: Hier dauert das geführte Tracking vier Stunden und kostet mit Stand 2020 zusätzlich zum Parkeintritt 40 US-Dollar pro Person, bei einer Erfolgsquote von rund 95 Prozent.",
+        "Vergleich der Trekking-Standorte",
+        "StandortAngebotKosten (Stand 2020)Dauer",
+        "Kibale ForestChimpanzee Habituation Experience (CHEX)220 USD inkl. Parkeintrittganztägig",
+        "Kalinzu Forest ReserveGeführtes Tracking40 USD zzgl. Parkeintrittca. 4 Stunden",
+        "Kyambura GorgeTracking in Waldschluchtsiehe spezialisierte Seitevariabel",
+        "Die genannten Preise und Erfolgsquoten haben teils den Datenstand 2020; aktuellere Werte liegen für diesen Vergleich nicht durchgängig vor."
+      ]
     }
   ],
   "faqs": [
@@ -87,6 +103,22 @@
     {
       "q": "Wo liegt die Ngamba Island Chimpanzee Sanctuary?",
       "a": "Rund 23 Kilometer südöstlich von Entebbe im Lake Victoria, mit täglicher Fütterung der Schimpansen um 14:30 Uhr."
+    },
+    {
+      "q": "Wo ist das beste Schimpansen-Trekking in Uganda?",
+      "a": "Der Kibale Forest National Park gilt als bekannteste Adresse für Schimpansen-Trekking in Uganda. Details zu Ablauf und Kosten beschreibt die spezialisierte Trekking-Seite."
+    },
+    {
+      "q": "Ist Ngamba Island dasselbe wie ein Trekking-Gebiet?",
+      "a": "Nein. Ngamba Island ist ein Rehabilitationszentrum für gerettete und verwaiste Schimpansen, kein Ort für die Beobachtung wild lebender Populationen wie Kibale, Kalinzu oder Kyambura."
+    },
+    {
+      "q": "Was kostet Schimpansen-Tracking in der Kalinzu Forest Reserve?",
+      "a": "Mit Stand 2020 kostet das vierstündige geführte Tracking in Kalinzu 40 US-Dollar pro Person zusätzlich zum Parkeintritt, bei einer Erfolgsquote von rund 95 Prozent."
+    },
+    {
+      "q": "Wie unterscheidet sich Kibale von Kalinzu beim Schimpansen-Tracking?",
+      "a": "Kibale bietet unter anderem die ganztägige Chimpanzee Habituation Experience für 220 US-Dollar, Kalinzu ein vierstündiges Tracking für 40 US-Dollar zusätzlich zum Parkeintritt -- beide Preisangaben mit Stand 2020."
     }
   ],
   "quellen": [
@@ -103,11 +135,13 @@
     "Gorilla Trekking Uganda -- Der komplette Guide 2026",
     "Steckdosen und Stromversorgung in Uganda",
     "State-of-Wildlife-Resources-in-Uganda-2026-Book-final-1-1",
-    "Reiseführer Uganda 2020"
+    "Reiseführer Uganda 2020",
+    "Tourism Uganda | Ministry of Tourism Wildlife and Antiquities | Kampala",
+    "Uganda Wildlife Authority - UWA"
   ],
   "hopeplatform": {
-    "draft_id": "83cb2117-b7fd-405f-9a27-f025082d0435",
+    "draft_id": "91cdbdae-131a-4545-aca9-0e811e9b45c7",
     "erzeugt_am": "2026-09-18",
-    "zuletzt": "2026-09-22"
+    "zuletzt": "2026-10-01"
   }
 }
