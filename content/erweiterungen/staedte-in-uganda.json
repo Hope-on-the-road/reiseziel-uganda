@@ -61,6 +61,29 @@
         "Lira liegt rund 340 Kilometer noerdlich von Kampala im Norden Ugandas und ist eine der am schnellsten wachsenden Staedte des Landes. Die Stadt am Ufer des Lake Kwania, einem Auslaeufer des Lake Kyoga, hat sich in den letzten Jahren zu einem wichtigen regionalen Wirtschafts- und Bildungszentrum entwickelt. Lira University, gegruendet 2015, zieht Studenten aus dem gesamten Norden und Nordosten an. Der Lira Regional Referral Hospital ist einer der bedeutendsten Gesundheitsversorgungspunkte Nordugandas.",
         "Lira ist keine klassische Touristenstadt -- und das macht sie fuer Reisende interessant, die Uganda abseits der ausgetretenen Pfade erleben wollen. Auf den Maerkten der Stadt, insbesondere dem zentralen Lira Market, erlebt man das pulsierende Handelsleben Nordugandas hautnah. Die Langi, das Hauptvolk der Region, sind fuer ihre reiche Erzaehltradition und handwerkliche Fertigkeiten bekannt. Lokale Handwerker stellen Flechtware, Toepferwaren und Holzschnitzereien her."
       ]
+    },
+    {
+      "id": "von-kampala-nach-jinja-anreise-dauer-und-kosten",
+      "title": "Von Kampala nach Jinja: Anreise, Dauer und Kosten",
+      "content": [
+        "Jinja liegt östlich von Kampala an der Stelle, an der der Nil den Viktoriasee verlässt. Je nach Quelle wird die Entfernung mit 80, 82 oder 85 Kilometern angegeben – eine einzelne, exakte Zahl lässt sich daraus nicht ableiten, die Bandbreite liegt aber zuverlässig zwischen 80 und 85 Kilometern. Für Reisende heißt das in der Praxis: Mit dem Auto ist man normalerweise zwischen einer und zwei Stunden unterwegs.",
+        "Die Kampala-Jinja Road wurde 2019 teilweise neu asphaltiert, zusätzlich ist mittlerweile die Kampala-Jinja Expressway ausgebaut. Beides hat die Fahrt spürbar komfortabler gemacht im Vergleich zu früheren Jahren.",
+        "Transportoptionen im Überblick",
+        "• Matatu (Minibus): Die günstigste Option, Abfahrt meist ab dem Taxi Park in Kampala. Preis: etwa 5.000 bis 10.000 UGX für die Strecke.",
+        "• Gateway Bus: Expressdienst mit festen Sitzplätzen und verlässlicheren Abfahrtszeiten als beim klassischen Matatu – eine gute Wahl, wenn Planbarkeit wichtiger ist als der niedrigste Preis.",
+        "• Privatwagen oder Mietwagen mit Fahrer: Die schnellste und komfortabelste Variante, Fahrtzeit liegt hier meist bei 1 bis 1,5 Stunden.",
+        "Wer die Fahrt planen kann, sollte die Rushhour in Kampala meiden: Morgens zwischen 7 und 9 Uhr sowie abends zwischen 17 und 19 Uhr staut sich der Verkehr beim Verlassen der Stadt Richtung Osten spürbar, was die Fahrzeit deutlich verlängern kann. Wer früh losfährt oder den ersten Berufsverkehr abwartet, kommt in der Regel schneller durch.",
+        "Unterwegs liegt der Mabira Forest, rund 20 Fahrminuten westlich von Jinja an der Straße nach Kampala – ein möglicher kurzer Zwischenstopp auf der Strecke."
+      ]
+    },
+    {
+      "id": "jinja-die-abenteuerstadt-an-der-nilquelle",
+      "title": "Jinja: Die Abenteuerstadt an der Nilquelle",
+      "content": [
+        "Jinja gilt als Abenteuerhauptstadt Ugandas und ist bekannt für die Nilquelle sowie Wildwasser-Rafting.",
+        "Jinja im gleichnamigen Distrikt in Ostuganda liegt am Nordostufer des Viktoriasees, dort wo der Nil seinen Lauf beginnt. Die Stadt ist Ausgangspunkt für Wildwasser-Rafting auf dem Nil und bietet mit dem Speke Monument an der Nilquelle einen der bekanntesten Aussichtspunkte des Landes. Mehr zu den Attraktionen vor Ort gibt es auf der Seite zu den Sehenswürdigkeiten in Jinja.",
+        "Für Reisende, die Jinja als Tagesausflug von Kampala aus besuchen, lässt sich eine Kombination aus Nilquellen-Bootsfahrt am Morgen und Rafting oder einem Spaziergang am Flussufer am Nachmittag gut umsetzen – die kurze Fahrzeit von Kampala macht das möglich. Wer von Jinja aus weiterreisen möchte, findet mit der Ost-Uganda-Route über die Sipi Falls bis zum Mount Elgon eine naheliegende Anschlussmöglichkeit."
+      ]
     }
   ],
   "faqs": [
@@ -83,16 +106,34 @@
     {
       "q": "Gibt es einen guten Zwischenstopp auf dem Weg nach Jinja?",
       "a": "Ja, der Mabira Forest liegt rund 20 Minuten westlich von Jinja direkt an der Strasse nach Kampala und eignet sich gut als kurzer Zwischenstopp."
+    },
+    {
+      "q": "Was kostet die Fahrt von Kampala nach Jinja mit dem Matatu?",
+      "a": "Eine Matatu-Fahrt (Minibus) kostet für die Strecke etwa 5.000 bis 10.000 UGX."
+    },
+    {
+      "q": "Welche Transportmittel gibt es von Kampala nach Jinja?",
+      "a": "Zur Auswahl stehen das Matatu als günstigste Variante, der Gateway Bus als Expressdienst mit festen Sitzplätzen sowie Privatwagen oder Mietwagen mit Fahrer für mehr Komfort und kürzere Fahrzeit."
+    },
+    {
+      "q": "Gibt es eine Expressway-Verbindung zwischen Kampala und Jinja?",
+      "a": "Ja, die Kampala-Jinja Expressway sowie die 2019 teilweise neu asphaltierte Kampala-Jinja Road machen die Strecke heute komfortabler als früher."
+    },
+    {
+      "q": "Lohnt sich Jinja als Tagesausflug von Kampala aus?",
+      "a": "Ja, dank der kurzen Fahrzeit von 1 bis 2 Stunden lässt sich Jinja gut als Tagesausflug einplanen, etwa mit einer Bootsfahrt zur Nilquelle am Morgen und Rafting oder einem Spaziergang am Nachmittag."
     }
   ],
   "quellen": [
     "Jinja Uganda Sehenswuerdigkeiten: Nil-Quelle, Rafting und das echte Ostuganda",
     "Reiseführer Uganda 2020",
-    "Stadt in Uganda: Kampala als Hauptstadt, Jinja an der Nilquelle -- alle wichtigen Orte fuer Reisende"
+    "Stadt in Uganda: Kampala als Hauptstadt, Jinja an der Nilquelle -- alle wichtigen Orte fuer Reisende",
+    "Jinja -- Sehenswuerdigkeiten & Abenteuer am Nil",
+    "Ost-Uganda in 7 Tagen: Von der Hauptstadt Ugandas ueber Jinja und Sipi Falls zum Mount Elgon"
   ],
   "hopeplatform": {
-    "draft_id": "94a2036b-df12-42fd-91c7-4a364999d574",
+    "draft_id": "fe37cb98-3e7a-48d8-8c74-9c5d8c1bc02b",
     "erzeugt_am": "2026-09-27",
-    "zuletzt": "2026-09-27"
+    "zuletzt": "2026-10-07"
   }
 }
