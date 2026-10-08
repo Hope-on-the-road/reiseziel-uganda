@@ -150,6 +150,32 @@
         "Ein wichtiger limitierender Faktor bei der Planung: Im Bwindi Impenetrable National Park werden pro Tag und Gorilla-Familie genau acht Permits ausgegeben. Diese feste Obergrenze ist der Hauptgrund, warum insbesondere in der Hochsaison eine frühzeitige Buchung notwendig ist – das Kontingent pro Familie und Tag lässt sich nicht erweitern. Welche Familien konkret zur Auswahl stehen, zeigt die Übersicht Gorilla-Familien in Bwindi.",
         "Der Naturschutz-Hintergrund des Permit-Systems – etwa wie Einnahmen aus dem Trekking den Schutz der Berggorillas mitfinanzieren – ist in der Übersicht Berggorilla-Population in Uganda zusammengefasst."
       ]
+    },
+    {
+      "id": "permits-kosten-und-beantragung",
+      "title": "Permits: Kosten und Beantragung",
+      "content": [
+        "Ein Gorilla-Permit in Uganda kostet 800 USD pro Person und berechtigt zu einer einstündigen Begegnung mit einer habituierten Gorilla-Familie im Bwindi Impenetrable National Park oder im Mgahinga Gorilla National Park (Stand 2026). Zum Vergleich: Im Nachbarland Ruanda liegt der Preis für das gleiche Erlebnis bei 1.500 USD. Der ugandische Preis wird von der Uganda Wildlife Authority (UWA) regelmäßig überprüft und kann sich ändern.",
+        "Permits müssen vorab gebucht werden – entweder direkt über die UWA oder über einen lizenzierten Touroperator. Das Permit-Büro der UWA für Gorilla-Trekking befindet sich neben dem Green Hills Hotel in Kabale, nahe der Grenzregion zu Ruanda. Detaillierte Preistabellen und Zusatzkosten findest du in der Übersicht zu Gorilla-Permit-Kosten und bei den aktuellen Gorilla-Permit-Preisen."
+      ]
+    },
+    {
+      "id": "wann-buchen-buchungsfenster-und-saisonale-auslastung",
+      "title": "Wann buchen? Buchungsfenster und saisonale Auslastung",
+      "content": [
+        "Die UWA empfiehlt, Gorilla-Permits zwei bis vierundzwanzig Monate im Voraus zu buchen – in der Hochsaison Juni bis September und Dezember bis Februar reicht kurzfristiges Buchen meist nicht mehr aus.",
+        "Die Uganda Wildlife Authority empfiehlt, ein Permit zwei bis vierundzwanzig Monate vor dem geplanten Trekking-Datum zu reservieren. Wie knapp das Zeitfenster tatsächlich ist, hängt stark von der Saison ab: 2025 wurden landesweit 42.960 Permits verkauft, das entspricht einer Gesamtauslastung von 60,1 Prozent bei einer Jahreskapazität von 71.522 Permits.",
+        "Die Auslastung schwankt deutlich nach Monat. Im August lag sie bei 95,8 Prozent, im Juli bei 91,1 Prozent – in diesen Monaten sind Permits oft schon Wochen oder Monate im Voraus vergriffen. Im April dagegen lag die Auslastung bei nur 20 Prozent, im Mai bei 29,4 Prozent und im März bei 32,4 Prozent. Wer flexibel ist und in dieser Nebensaison reist, findet gelegentlich auch kurzfristig noch ein Permit. Mehr zur saisonalen Verfügbarkeit liefert die Seite zur Uganda Nebensaison sowie die Übersicht zur Permit-Verfügbarkeit."
+      ]
+    },
+    {
+      "id": "ablauf-des-trekkings-am-tag-des-permits",
+      "title": "Ablauf des Trekkings am Tag des Permits",
+      "content": [
+        "Am Trekking-Tag meldest du dich morgens am Park-Eingang, wirst einer Gorilla-Familie zugeteilt und trekkst in kleiner Gruppe mit Ranger-Begleitung in den Wald.",
+        "Der Ablauf am Trekking-Tag ist in Bwindi standardisiert: Besucher melden sich am frühen Morgen am Park-Eingang, werden in Gruppen eingeteilt und einer bestimmten Gorilla-Familie zugewiesen. Pro Tag und Gorilla-Familie werden im Bwindi genau acht Permits ausgegeben, wodurch die Gruppengröße je Familie begrenzt bleibt. Details zu den einzelnen Gorilla-Gruppen und ihrer Zuteilung beschreibt die Seite zu den Gorilla-Familien in Bwindi.",
+        "Die eigentliche Wanderung zur Familie kann je nach Standort der Tiere wenige Stunden bis einen ganzen Tag dauern. Ranger und Guides begleiten die Gruppe durchgehend. Sobald die Gorilla-Familie gefunden ist, bleibt maximal eine Stunde für die Begegnung – das ist im Permit-Preis bereits enthalten."
+      ]
     }
   ],
   "faqs": [
@@ -224,6 +250,22 @@
     {
       "q": "Wie viele Permits werden pro Gorilla-Familie ausgegeben?",
       "a": "Im Bwindi Impenetrable National Park werden pro Tag und Gorilla-Familie genau acht Permits ausgegeben. Diese feste Grenze macht das Kontingent besonders in der Hochsaison knapp."
+    },
+    {
+      "q": "Gibt es Monate mit besserer Verfügbarkeit für Gorilla-Permits?",
+      "a": "Ja. In der Nebensaison April und Mai lag die Auslastung 2025 bei nur rund 20 bis 29 Prozent, während sie im Hochsaison-August bei 95,8 Prozent lag. Wer flexibel ist, findet in der Nebensaison auch kurzfristig noch Permits."
+    },
+    {
+      "q": "Wo bucht man ein Gorilla-Permit in Uganda?",
+      "a": "Permits werden im Voraus über die Uganda Wildlife Authority (UWA) oder über einen lizenzierten Touroperator gebucht. Das UWA-Permit-Büro für Gorilla-Trekking befindet sich neben dem Green Hills Hotel in Kabale."
+    },
+    {
+      "q": "Warum ist ein Gorilla-Permit in Uganda günstiger als in Ruanda?",
+      "a": "Der genaue Grund für den Preisunterschied ist in den vorliegenden Quellen nicht dokumentiert. Belegt ist lediglich, dass das Permit in Uganda 800 USD und in Ruanda 1.500 USD kostet (Stand 2026)."
+    },
+    {
+      "q": "Wie viele Personen trekken gemeinsam zu einer Gorilla-Familie?",
+      "a": "Pro Tag und Gorilla-Familie gibt die Uganda Wildlife Authority in Bwindi genau acht Permits aus, wodurch die Gruppengröße je Familie begrenzt bleibt."
     }
   ],
   "quellen": [
@@ -242,11 +284,13 @@
     "Gorilla Permit Uganda: Wann buchen -- Monatskalender und Auslastung 2025",
     "Was kostet eine Reise nach Uganda?",
     "Geld und Zahlungsmittel in Uganda",
-    "Gorilla-Trekking-Permit fuer Bwindi: Kosten, Buchung und Erfahrungsbericht 2026"
+    "Gorilla-Trekking-Permit fuer Bwindi: Kosten, Buchung und Erfahrungsbericht 2026",
+    "African Fish Eagle - Uganda (“Haliaeetus vocifer”) - Uganda Birding Safaris & Tours",
+    "African Fish-eagle | The Peregrine Fund"
   ],
   "hopeplatform": {
-    "draft_id": "20fc8beb-3e31-47f6-910d-3bca2868bb14",
+    "draft_id": "fd6ef70d-757a-4c5f-85ea-61b97651a0e9",
     "erzeugt_am": "2026-09-20",
-    "zuletzt": "2026-09-29"
+    "zuletzt": "2026-10-08"
   }
 }
