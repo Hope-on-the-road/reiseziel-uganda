@@ -73,6 +73,16 @@
         "Uganda gehört zu den vogelreichsten Ländern Afrikas. Neben den Schuhschnabel-Habitaten lohnen sich für Birder auch andere Regionen des Landes, etwa im Rahmen einer größeren Rundreise.",
         "Mehr dazu in der Übersicht zum Vogelbeobachten in Uganda und im Bericht zur Vogelbeobachtung in Kabale und Kisoro."
       ]
+    },
+    {
+      "id": "bestand-und-bedrohungen-des-schuhschnabels-in-uganda",
+      "title": "Bestand und Bedrohungen des Schuhschnabels in Uganda",
+      "content": [
+        "Die nationale Population wird auf 1.000 bis 1.500 Tiere geschätzt; Hauptbedrohungen sind Feuchtgebietsverlust, Störungen und illegaler Wildtierhandel.",
+        "Für Uganda wird die nationale Population des Schuhschnabels auf 1.000 bis 1.500 Tiere geschätzt (Datenstand 2024). Diese Zahl bezieht sich ausschließlich auf Uganda und ist von der weltweiten Schätzung von 5.000 bis 8.000 Tieren zu unterscheiden.",
+        "Der Schuhschnabel ist auf intakte Papyrussümpfe angewiesen. Als Hauptbedrohungen gelten die Verschlechterung und Trockenlegung von Feuchtgebieten, Störungen durch Fischerei und Tourismus in den Rückzugsgebieten, illegales Einfangen für den Wildtierhandel sowie klimabedingte Veränderungen der Lebensräume.",
+        "Nach IUCN-Einstufung gilt der Schuhschnabel als gefährdet (Vulnerable)."
+      ]
     }
   ],
   "faqs": [
@@ -111,6 +121,18 @@
     {
       "q": "Warum ist der Shoebill vom Aussterben bedroht?",
       "a": "Hauptbedrohungen sind die Verschlechterung und Trockenlegung von Feuchtgebieten, Störungen durch Fischerei und Tourismus, illegaler Wildtierhandel sowie klimabedingte Habitatveränderungen."
+    },
+    {
+      "q": "Wie viele Schuhschnäbel gibt es noch in Uganda?",
+      "a": "Die nationale Population in Uganda wird auf 1.000 bis 1.500 Tiere geschätzt (Datenstand 2024). Das unterscheidet sich von der weltweiten Schätzung von 5.000 bis 8.000 Tieren, die mehrere Länder Ost- und Zentralafrikas umfasst."
+    },
+    {
+      "q": "Welche Gefahren bedrohen den Schuhschnabel in Uganda?",
+      "a": "Die größten Bedrohungen sind die Verschlechterung und Trockenlegung von Feuchtgebieten, Störungen durch Fischerei und Tourismus, illegaler Wildtierhandel sowie klimabedingte Veränderungen der Lebensräume."
+    },
+    {
+      "q": "Gibt es außer Mabamba noch andere Orte, um den Schuhschnabel zu sehen?",
+      "a": "Ja. Neben dem Mabamba Swamp bieten das Albert-Delta im Murchison Falls Nationalpark, das Lutembe Bay Wetland und das Sango Bay-Musambwa Islands-Kagera Wetland System verlässliche Chancen auf eine Sichtung."
     }
   ],
   "quellen": [
@@ -128,11 +150,18 @@
     "Ugandas Nachbarlaender",
     "Der Schuhschnabel (doc kd ru 1784582731056 k8l1)",
     "Das Nashorn in Uganda (doc kd ru 1784582731008 qyjs)",
-    "Vogelbeobachten in Uganda (doc kd ru 1784582733040 93gz)"
+    "Vogelbeobachten in Uganda (doc kd ru 1784582733040 93gz)",
+    "African Fish Eagle - Uganda (“Haliaeetus vocifer”) - Uganda Birding Safaris & Tours",
+    "African Fish-eagle | The Peregrine Fund",
+    "Haliaeetus vocifer (African fish eagle) | INFORMATION | Animal Diversity Web",
+    "African fish eagle - Wikipedia",
+    "African wild dog | Canids",
+    "African Painted Dog Conservation Efforts",
+    "African Wild Dog (Lycaon pictus) - Wildlife ACT"
   ],
   "hopeplatform": {
-    "draft_id": "e47acf2c-c3bc-4c52-bbb3-be7ed5d77164",
+    "draft_id": "5b3b3790-d1ab-45ee-928d-ab20cb0d1c4e",
     "erzeugt_am": "2026-09-19",
-    "zuletzt": "2026-09-28"
+    "zuletzt": "2026-10-08"
   }
 }
