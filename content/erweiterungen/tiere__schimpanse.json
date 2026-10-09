@@ -65,6 +65,36 @@
         "Kyambura GorgeTracking in Waldschluchtsiehe spezialisierte Seitevariabel",
         "Die genannten Preise und Erfolgsquoten haben teils den Datenstand 2020; aktuellere Werte liegen für diesen Vergleich nicht durchgängig vor."
       ]
+    },
+    {
+      "id": "schimpansen-population-in-uganda-aktuelle-zahlen",
+      "title": "Schimpansen-Population in Uganda: Aktuelle Zahlen",
+      "content": [
+        "Schimpansen sind unsere nächsten lebenden Verwandten im Tierreich. Uganda gehört zu den wichtigsten Rückzugsgebieten der Art in Ostafrika. Der Bericht State of Wildlife Resources in Uganda 2026 gibt den Bestand für den Zeitraum 2023 bis 2025 mit 6.075 Individuen an. Im Vergleich zu 2022 entspricht das einem Anstieg um 1.003 Tiere.",
+        "Wie sich die Population regional – etwa in Kibale, Kyambura oder Kalinzu – jeweils entwickelt hat, ist auf Basis der vorliegenden Daten nicht im Detail aufgeschlüsselt. Schimpansen kommen in Uganda in mehreren Waldgebieten vor, darunter der Kibale Forest, der Budongo Forest nahe den Murchison Falls, die Kyambura Gorge im Queen Elizabeth Nationalpark, die Kalinzu Forest Reserve und der Toro-Semliki Wildlife Reserve."
+      ]
+    },
+    {
+      "id": "chimpanzee-trekking-preise-im-ueberblick-nach-park",
+      "title": "Chimpanzee Trekking: Preise im Überblick nach Park",
+      "content": [
+        "Ein Trekking-Permit kostet je nach Park und Status zwischen 30.000 UGX und 250 USD; die aktuellsten Werte stammen aus dem UWA-Tarifblatt 2024-2026.",
+        "Die Preise für Chimpanzee-Trekking unterscheiden sich je nach Nationalpark und Besucherstatus. Grundlage sind die Tarife der Uganda Wildlife Authority für den Zeitraum Juli 2024 bis Juni 2026:",
+        "ParkAusländische Nicht-ResidentenAusländische ResidentenEAC-Bürger",
+        "Kibale Forest National Park250 USD200 USD150.000 UGX",
+        "Kyambura Gorge50 USD40 USD30.000 UGX",
+        "Für den Kibale Forest National Park bietet die Uganda Wildlife Authority zusätzlich die Chimpanzee Habituation Experience (CHEX) an, ein ganztägiges Programm mit einer noch nicht vollständig habituierten Gruppe. Details zu Ablauf und Kosten beschreibt die eigene Seite zur CHEX-Erfahrung.",
+        "Für das Kalinzu Forest Reserve liegen aktuell keine Preisdaten aus dem UWA-Tarifblatt 2024-2026 vor. Nach einem älteren Datenstand aus dem Jahr 2020 dauerte das geführte Tracking dort vier Stunden und kostete zusätzlich zum Parkeintritt 40 US-Dollar pro Person, bei einer Erfolgsquote von rund 95 Prozent. Diese Werte sind veraltet und sollten vor einer Buchung aktuell geprüft werden.",
+        "Eine ausführliche Beschreibung des Trekking-Ablaufs findet sich auf der Seite zum Schimpansen-Trekking, Details zur Schlucht und ihrem besonderen Charakter auf der Seite zum Tracking in der Kyambura Gorge."
+      ]
+    },
+    {
+      "id": "welche-rolle-spielen-schutzorganisationen-beim-schimpansen-m",
+      "title": "Welche Rolle spielen Schutzorganisationen beim Schimpansen-Management?",
+      "content": [
+        "Organisationen wie das Jane Goodall Institute und das Uganda Wildlife Education Centre engagieren sich in Uganda für den Schutz und die Erforschung von Schimpansen, konkrete Details zu ihrer Rolle liegen aus der aktuellen Wissensbasis jedoch nicht vor.",
+        "Für Schimpansen in Uganda engagieren sich verschiedene Organisationen, darunter das Jane Goodall Institute und das Uganda Wildlife Education Centre. Welche konkreten Aufgaben diese Organisationen im Bestandsmanagement und Artenschutz übernehmen, lässt sich auf Basis der vorliegenden Quellen aktuell nicht im Detail darstellen."
+      ]
     }
   ],
   "faqs": [
@@ -119,6 +149,18 @@
     {
       "q": "Wie unterscheidet sich Kibale von Kalinzu beim Schimpansen-Tracking?",
       "a": "Kibale bietet unter anderem die ganztägige Chimpanzee Habituation Experience für 220 US-Dollar, Kalinzu ein vierstündiges Tracking für 40 US-Dollar zusätzlich zum Parkeintritt -- beide Preisangaben mit Stand 2020."
+    },
+    {
+      "q": "Was kostet Chimpanzee Trekking in Uganda?",
+      "a": "Nach dem UWA-Tarifblatt 2024-2026 kostet ein Trekking-Permit im Kibale Forest National Park 250 USD für ausländische Nicht-Residenten, 200 USD für ausländische Residenten und 150.000 UGX für EAC-Bürger. In der Kyambura Gorge liegen die Preise bei 50 USD, 40 USD beziehungsweise 30.000 UGX. Für das Kalinzu Forest Reserve liegen nur ältere Preisangaben aus dem Jahr 2020 vor (40 USD pro Person)."
+    },
+    {
+      "q": "Wie unterscheidet sich Ngamba Island vom klassischen Schimpansen-Trekking?",
+      "a": "Ngamba Island ist ein Sanctuary für verwaiste und gerettete Schimpansen im Lake Victoria und dient dem Schutz, nicht der Beobachtung wild lebender Tiere. Klassisches Trekking in Nationalparks wie Kibale oder Kyambura führt dagegen zu wild lebenden, teilweise habituierten Gruppen."
+    },
+    {
+      "q": "Wie aktuell sind die Preisangaben für Kalinzu?",
+      "a": "Die verfügbaren Preisangaben für das Kalinzu Forest Reserve stammen aus einem Reiseführer von 2020 und sind damit älter als die UWA-Tarife für Kibale und Kyambura, die für den Zeitraum 2024 bis 2026 gelten. Aktuellere Preisdaten für Kalinzu liegen derzeit nicht vor."
     }
   ],
   "quellen": [
@@ -137,11 +179,18 @@
     "State-of-Wildlife-Resources-in-Uganda-2026-Book-final-1-1",
     "Reiseführer Uganda 2020",
     "Tourism Uganda | Ministry of Tourism Wildlife and Antiquities | Kampala",
-    "Uganda Wildlife Authority - UWA"
+    "Uganda Wildlife Authority - UWA",
+    "African Fish Eagle - Uganda (“Haliaeetus vocifer”) - Uganda Birding Safaris & Tours",
+    "African Fish-eagle | The Peregrine Fund",
+    "Haliaeetus vocifer (African fish eagle) | INFORMATION | Animal Diversity Web",
+    "African fish eagle - Wikipedia",
+    "African wild dog | Canids",
+    "African Painted Dog Conservation Efforts",
+    "African Wild Dog (Lycaon pictus) - Wildlife ACT"
   ],
   "hopeplatform": {
-    "draft_id": "91cdbdae-131a-4545-aca9-0e811e9b45c7",
+    "draft_id": "bdd224c4-b08e-44e5-8b01-4ba5e152a576",
     "erzeugt_am": "2026-09-18",
-    "zuletzt": "2026-10-01"
+    "zuletzt": "2026-10-09"
   }
 }
