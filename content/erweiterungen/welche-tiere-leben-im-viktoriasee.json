@@ -136,6 +136,43 @@
         "Nilkrokodile leben in ruhigeren Buchten und schilfbewachsenen Ufern und können vier bis fünf Meter lang werden. Der Nilwaran, die größte Eidechse am See, wird über anderthalb Meter lang und ist unter anderem im Botanical Garden von Entebbe regelmäßig zu beobachten. Verschiedene Süßwasserschildkröten-Arten bewohnen die flacheren Bereiche des Sees, darunter die Pelomedusa-Schildkröte.",
         "Flusspferde zählen zu den größten Säugetieren am Viktoriasee. In den Feuchtgebieten am Ufer erzeugen abends zahlreiche Froscharten eine charakteristische Geräuschkulisse."
       ]
+    },
+    {
+      "id": "geografie-und-entstehung-des-viktoriasees",
+      "title": "Geografie und Entstehung des Viktoriasees",
+      "content": [
+        "Der Viktoriasee prägt die Geografie Ugandas und Ostafrikas wie kaum ein anderes Gewässer. Er wird zu etwa 90 Prozent aus tropischen Niederschlägen gespeist, während nur ein Fünftel seiner Wassermassen in den Nil abfließt. Diese Speisung macht ihn empfindlich gegenüber Klimaschwankungen, da sein Wasserhaushalt stark vom regionalen Niederschlag abhängt.",
+        "Am Nordostufer des Sees, in der Stadt Jinja, tritt das Wasser aus und beginnt als Victoria-Nil seine lange Reise Richtung Mittelmeer. Der britische Forschungsreisende John Hanning Speke dokumentierte diesen Ausfluss 1862 als erster Europäer und nannte ihn \"Ripon Falls\". Strenggenommen ist der Ausfluss bei Jinja aber nur eine von mehreren Nilquellen, denn der Viktoriasee selbst wird unter anderem durch den Kagera-Fluss aus Burundi, Ruanda und dem östlichen Kongo gespeist.",
+        "Rund um den See liegen die bedeutendsten Städte Ugandas: Kampala, die Hauptstadt, grenzt direkt an den See und liegt an ihrem tiefsten Punkt 1.135 Meter über dem Meeresspiegel. Entebbe liegt auf einer Halbinsel, die auf drei Seiten vom Viktoriasee umgeben ist, und Jinja markiert den Ausfluss als Nilquelle."
+      ]
+    },
+    {
+      "id": "umweltprobleme-und-schutz-des-viktoriasees",
+      "title": "Umweltprobleme und Schutz des Viktoriasees",
+      "content": [
+        "Die Wasserhyazinthe und Verschmutzung belasten den Viktoriasee, besonders in der Murchison Bay bei Kampala; regionale Gremien koordinieren den Schutz.",
+        "Der Viktoriasee steht seit Jahrzehnten unter Umweltdruck. Besonders ausgeprägt ist das Problem der Wasserhyazinthe in der Murchison Bay, die an die Stadtteile Ggaba, Salama, Buziga und Luzira grenzt. Die Schwimmpflanze breitet sich dort wiederholt stark aus und beeinträchtigt Fischerei, Schifffahrt und Wasserqualität.",
+        "Auf regionaler Ebene koordiniert die Lake Victoria Basin Commission Maßnahmen zum Schutz des Sees. Sie veröffentlichte 2017 einen Atlas, der den sich verändernden Umweltzustand des Viktoriasees dokumentiert und als Grundlage für weitere Schutzmaßnahmen dient.",
+        "Da weite Uferbereiche des Sees in Tieflandgebieten unter 1.000 Metern liegen, besteht dort zudem ein ganzjährig hohes Malariarisiko – ein Faktor, den Reisende bei der Planung eines Aufenthalts am See berücksichtigen sollten."
+      ]
+    },
+    {
+      "id": "der-viktoriasee-in-der-geschichte-mv-bukoba-und-fischerei",
+      "title": "Der Viktoriasee in der Geschichte: MV Bukoba und Fischerei",
+      "content": [
+        "Das Fährunglück der MV Bukoba 1996 zählt zu den schwersten Schiffskatastrophen auf dem See; Fischerei bleibt bis heute Lebensgrundlage vieler Anrainer.",
+        "Ein einschneidendes historisches Ereignis am Viktoriasee war der Untergang der Fähre MV Bukoba im Jahr 1996. Das Schiff verkehrte zwischen Port Bell in Uganda und Mwanza in Tansania und sank mit mehr als 600 Passagieren an Bord – eine der folgenreichsten Schiffskatastrophen der Region.",
+        "Fischerei prägt das Leben am Viktoriasee bis heute. In Jinja bietet der Hauptmarkt der Stadt frischen Fisch direkt vom See an, was die enge Verbindung zwischen dem Gewässer und der lokalen Versorgung sichtbar macht. Für viele Menschen entlang der Ufer ist der Fischfang nach wie vor eine zentrale Einkommensquelle."
+      ]
+    },
+    {
+      "id": "oekologische-krise-nilbarsch-und-wasserhyazinthe",
+      "title": "Ökologische Krise: Nilbarsch und Wasserhyazinthe",
+      "content": [
+        "Die Einführung des Nilbarsches und die Ausbreitung der Wasserhyazinthe veränderten das Ökosystem des Viktoriasees grundlegend.",
+        "Die Einführung des Nilbarsches in den 1950er Jahren durch die britische Kolonialverwaltung gilt als eine der folgenreichsten ökologischen Veränderungen eines Süßwassersystems. Der Raubfisch dezimierte die endemische Buntbarsch-Population erheblich; viele Arten überlebten nur noch in Aquarien wissenschaftlicher Institute.",
+        "Die Wasserhyazinthe (Eichhornia crassipes), ursprünglich aus Südamerika stammend, erreichte den Viktoriasee in den 1980er Jahren und breitete sich in der Folge stark aus. Die Pflanzenteppiche blockierten Hafeneinfahrten, beeinträchtigten Wasseraufbereitung und Unterwasserleben und boten Brutstätten für Malaria-Mücken. Bekämpfungsmaßnahmen mit Rüsselkäfern und mechanischer Entfernung zeigten Erfolge, die Pflanze bleibt aber eine anhaltende Herausforderung, insbesondere in der Murchison Bay."
+      ]
     }
   ],
   "faqs": [
@@ -194,6 +231,30 @@
     {
       "q": "Besteht am Viktoriasee ein Malariarisiko?",
       "a": "Ja. In den Tieflandgebieten am Ufer des Sees, die unter 1.000 Metern liegen, ist das Malariarisiko ganzjährig hoch."
+    },
+    {
+      "q": "Wie groß ist der Viktoriasee?",
+      "a": "Der Viktoriasee gilt als größter Süßwassersee Afrikas. Verlässliche aktuelle Flächenangaben und die genaue Aufteilung zwischen Uganda, Tansania und Kenia liegen uns derzeit nicht in belastbarer Form vor."
+    },
+    {
+      "q": "Woher stammt das Wasser des Viktoriasees?",
+      "a": "Rund 90 Prozent des Wassers stammen aus tropischen Niederschlägen, die direkt auf den See fallen. Nur etwa ein Fünftel der Wassermassen fließt über den Victoria-Nil bei Jinja ab."
+    },
+    {
+      "q": "Ist Jinja wirklich die Nilquelle?",
+      "a": "Jinja markiert den historisch dokumentierten Ausfluss des Viktoriasees in den Nil, den John Hanning Speke 1862 als Nilquelle bezeichnete. Da der See selbst von mehreren Flüssen gespeist wird, darunter dem Kagera, gilt Jinja genauer als eine der Nilquellen, nicht als einzige."
+    },
+    {
+      "q": "Welches Fährunglück ereignete sich auf dem Viktoriasee?",
+      "a": "1996 sank die Fähre MV Bukoba auf der Strecke zwischen Port Bell in Uganda und Mwanza in Tansania mit mehr als 600 Menschen an Bord."
+    },
+    {
+      "q": "Welche Umweltprobleme bedrohen den Viktoriasee heute?",
+      "a": "Die Ausbreitung der Wasserhyazinthe, besonders in der Murchison Bay bei Kampala, sowie Verschmutzung belasten den See. Die Lake Victoria Basin Commission koordiniert regionale Schutzmaßnahmen."
+    },
+    {
+      "q": "Welche Tiere sind am Viktoriasee besonders sehenswert?",
+      "a": "Zu den bekanntesten Arten zählen der Nilbarsch, der seltene Schuhschnabel in den Mabamba-Sümpfen, Nilkrokodile, Nilwarane und Flusspferde."
     }
   ],
   "quellen": [
@@ -212,11 +273,18 @@
     "Ugandische Kueche",
     "Wirtschaft und Waehrung Ugandas",
     "Flughaefen in Uganda",
-    "Ugandas Nachbarlaender"
+    "Ugandas Nachbarlaender",
+    "African Fish Eagle - Uganda (“Haliaeetus vocifer”) - Uganda Birding Safaris & Tours",
+    "African Fish-eagle | The Peregrine Fund",
+    "Haliaeetus vocifer (African fish eagle) | INFORMATION | Animal Diversity Web",
+    "African fish eagle - Wikipedia",
+    "African wild dog | Canids",
+    "African Painted Dog Conservation Efforts",
+    "African Wild Dog (Lycaon pictus) - Wildlife ACT"
   ],
   "hopeplatform": {
-    "draft_id": "90fe119f-536c-492b-86c1-8c906024b797",
+    "draft_id": "4c294298-2612-4f95-a258-c8a0eae34527",
     "erzeugt_am": "2026-09-12",
-    "zuletzt": "2026-09-28"
+    "zuletzt": "2026-10-13"
   }
 }
