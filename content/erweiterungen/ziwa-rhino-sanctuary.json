@@ -76,6 +76,32 @@
         "Das Sanctuary ist täglich von 7 bis 18 Uhr geöffnet. Buchungen können direkt über die offizielle UWA-Website oder über autorisierte ugandische Reiseveranstalter vorgenommen werden. Vor Ort gibt es einfache Unterkunftsmöglichkeiten, die einen Aufenthalt über Nacht ermöglichen.",
         "Neben dem Rhino Tracking bietet das Sanctuary auch Vogelbeobachtung sowie Einblicke in die Arbeit der Ranger und Nashorn-Pfleger. Wer den vollständigen ugandischen Nashorn-Kontext verstehen möchte, findet Hintergründe im Beitrag zur Rückkehr des Nashorns nach Uganda."
       ]
+    },
+    {
+      "id": "was-kostet-das-rhino-tracking-im-ziwa-rhino-sanctuary",
+      "title": "Was kostet das Rhino Tracking im Ziwa Rhino Sanctuary?",
+      "content": [
+        "Für das Walking-with-Rhinos-Erlebnis im Ziwa Rhino Sanctuary gelten unterschiedliche Preise für internationale und einheimische Besucher. Ausländische Gäste zahlen 50 USD für das geführte Rhino Tracking zu Fuß, ugandische Staatsbürger zahlen 30.000 UGX. Diese Preisangaben stammen aus dem Jahr 2025 und sind aktueller als ältere Pauschalangaben aus früheren Reiseführern, die teils ebenfalls von rund 50 US-Dollar ausgingen, dabei aber nicht zwischen In- und Ausländern unterschieden.",
+        "Buchungen für das Rhino Tracking lassen sich direkt über die offizielle Website der Uganda Wildlife Authority (UWA) vornehmen. Alternativ vermitteln autorisierte ugandische Reiseveranstalter den Besuch, häufig als Teil einer größeren Route Richtung Murchison Falls Nationalpark."
+      ]
+    },
+    {
+      "id": "oeffnungszeiten-und-flaeche-des-sanctuary",
+      "title": "Öffnungszeiten und Fläche des Sanctuary",
+      "content": [
+        "Das Ziwa Rhino Sanctuary ist täglich von 7 bis 18 Uhr geöffnet und erstreckt sich über 70 Quadratkilometer privates Land nördlich von Kampala.",
+        "Das Sanctuary liegt auf einer Fläche von 70 Quadratkilometern privaten Landes nördlich von Kampala und ist täglich von 7 bis 18 Uhr geöffnet. Diese Größe erlaubt es den Nashörnern, sich innerhalb eines gesicherten, aber weiträumigen Geländes frei zu bewegen – sie leben nicht eingepfercht, sondern verhalten sich wie wilde Tiere.",
+        "Für einen Besuch sollte mindestens ein halber Tag eingeplant werden, um sowohl den Walking-with-Rhinos-Treck als auch weitere Angebote des Sanctuary in Ruhe zu erleben."
+      ]
+    },
+    {
+      "id": "ziwa-mit-kindern-familienfreundlichkeit",
+      "title": "Ziwa mit Kindern: Familienfreundlichkeit",
+      "content": [
+        "Das Ziwa Rhino Sanctuary gilt dank flacher, kurzer Fusswanderungen als einer der familienfreundlichsten Orte Ugandas und eignet sich gut für Familien mit älteren Kindern.",
+        "Das Ziwa Rhino Sanctuary gilt als einer der familienfreundlichsten Orte Ugandas, da die Fusswanderungen zu den Breitmaulnashörnern flach und kurz gehalten sind. Das macht den Besuch auch für Familien mit Kindern gut planbar – ohne lange, anstrengende Wanderungen oder unwegsames Gelände.",
+        "Da die Walking-with-Rhinos-Gruppen auf maximal 8 bis 10 Personen begrenzt sind und die Trecks 1 bis 2 Stunden dauern, eignet sich das Erlebnis besonders für Familien mit älteren Kindern, die eine ruhige, geführte Begegnung mit Wildtieren erleben möchten. Mehr zu kinderfreundlichen Zielen in Uganda findest du in unserem Ratgeber Uganda mit Kindern."
+      ]
     }
   ],
   "faqs": [
@@ -126,6 +152,26 @@
     {
       "q": "Was ist Walking with Rhinos?",
       "a": "Walking with Rhinos ist ein geführter Trek zu Fuß durch das Sanctuary, bei dem ein Ranger Besucher auf wenige Meter an frei lebende Nashörner heranführt – ohne Fahrzeug und ohne Zaun."
+    },
+    {
+      "q": "Was kostet das Rhino Tracking im Ziwa Rhino Sanctuary?",
+      "a": "Für ausländische Besucher kostet das Rhino Tracking zu Fuß 50 USD, für ugandische Staatsbürger 30.000 UGX (Stand 2025)."
+    },
+    {
+      "q": "Wann hat das Ziwa Rhino Sanctuary geöffnet?",
+      "a": "Das Sanctuary ist täglich von 7 bis 18 Uhr geöffnet."
+    },
+    {
+      "q": "Ist Ziwa für Familien mit Kindern geeignet?",
+      "a": "Ja, das Sanctuary gilt als einer der familienfreundlichsten Orte Ugandas, da die Fusswanderungen zu den Nashörnern flach und kurz sind und gut für Familien mit älteren Kindern geeignet sind."
+    },
+    {
+      "q": "Wie weit ist Ziwa von Masindi entfernt?",
+      "a": "Das Sanctuary liegt rund 50 Kilometer vor Masindi an der Hauptroute Kampala–Murchison Falls, von der Kreuzung sind es acht Kilometer bis zum Informationsbüro."
+    },
+    {
+      "q": "Profitieren lokale Gemeinden vom Ziwa Rhino Sanctuary?",
+      "a": "Ja, über das UWA Revenue-Sharing-Programm fließt ein Teil der Einnahmen aus dem Sanctuary an lokale Gemeinden."
     }
   ],
   "quellen": [
@@ -142,11 +188,13 @@
     "Flughaefen in Uganda",
     "Ugandas Nachbarlaender",
     "Das Nashorn in Uganda",
-    "Ziwa Rhino Sanctuary: Walking with Rhinos in Uganda"
+    "Ziwa Rhino Sanctuary: Walking with Rhinos in Uganda",
+    "Das Nashorn in Uganda (2025)",
+    "Ziwa Rhino Sanctuary: Walking with Rhinos in Uganda (2025)"
   ],
   "hopeplatform": {
-    "draft_id": "9876deed-2c30-4b2c-ad27-806079f83c7c",
+    "draft_id": "02209b56-04d7-40e2-933a-ec071560f59f",
     "erzeugt_am": "2026-09-23",
-    "zuletzt": "2026-09-29"
+    "zuletzt": "2026-10-14"
   }
 }
