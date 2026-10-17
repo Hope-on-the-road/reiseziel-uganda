@@ -95,6 +95,19 @@
         "Organisationen wie das Jane Goodall Institute und das Uganda Wildlife Education Centre engagieren sich in Uganda für den Schutz und die Erforschung von Schimpansen, konkrete Details zu ihrer Rolle liegen aus der aktuellen Wissensbasis jedoch nicht vor.",
         "Für Schimpansen in Uganda engagieren sich verschiedene Organisationen, darunter das Jane Goodall Institute und das Uganda Wildlife Education Centre. Welche konkreten Aufgaben diese Organisationen im Bestandsmanagement und Artenschutz übernehmen, lässt sich auf Basis der vorliegenden Quellen aktuell nicht im Detail darstellen."
       ]
+    },
+    {
+      "id": "schimpansen-trekking-preise-und-standorte-im-ueberblick",
+      "title": "Schimpansen-Trekking: Preise und Standorte im Überblick",
+      "content": [
+        "Die Preise für Schimpansen-Trekking reichen je nach Standort und Status von 30.000 UGX bis 250 USD; die aktuellen UWA-Tarife gelten für den Zeitraum Juli 2024 bis Juni 2026.",
+        "Die Uganda Wildlife Authority (UWA) legt für Schimpansen-Trekking unterschiedliche Tarife je nach Standort und Status der Besucher fest. Die folgenden Preise gelten laut UWA-Tarifübersicht für den Zeitraum Juli 2024 bis Juni 2026:",
+        "StandortAusländische Nicht-ResidentenAusländische ResidentenEAC-Bürger",
+        "Kibale National Park250 USD200 USD150.000 UGX",
+        "Kyambura Gorge50 USD40 USD30.000 UGX",
+        "Eine kostengünstigere, weniger bekannte Alternative ist die Kalinzu Forest Reserve: Hier dauert das geführte Tracking laut einer Quelle aus dem Jahr 2020 vier Stunden und kostet zusätzlich zum Parkeintritt 40 US-Dollar pro Person, bei einer Erfolgsquote von rund 95 Prozent. Da diese Angaben mit Stand 2020 älter sind als die übrigen Tarife, sollten Reisende die aktuellen Preise vor Ort oder bei der UWA prüfen.",
+        "Ausführliche Informationen zum Ablauf, zu Permit-Optionen und zur Chimpanzee Habituation Experience (CHEX) finden sich auf den spezialisierten Seiten zum Schimpansen-Trekking, zur CHEX-Erfahrung und zum Tracking in der Kyambura Gorge."
+      ]
     }
   ],
   "faqs": [
@@ -161,6 +174,30 @@
     {
       "q": "Wie aktuell sind die Preisangaben für Kalinzu?",
       "a": "Die verfügbaren Preisangaben für das Kalinzu Forest Reserve stammen aus einem Reiseführer von 2020 und sind damit älter als die UWA-Tarife für Kibale und Kyambura, die für den Zeitraum 2024 bis 2026 gelten. Aktuellere Preisdaten für Kalinzu liegen derzeit nicht vor."
+    },
+    {
+      "q": "Wie viel kostet Schimpansen-Trekking in Uganda?",
+      "a": "Die Preise hängen vom Standort und Status ab: Im Kibale National Park kostet ein Permit für ausländische Nicht-Residenten 250 USD, für ausländische Residenten 200 USD und für EAC-Bürger 150.000 UGX. In der Kyambura Gorge liegen die Tarife bei 50 USD, 40 USD bzw. 30.000 UGX. Diese Preise gelten laut UWA für den Zeitraum Juli 2024 bis Juni 2026."
+    },
+    {
+      "q": "Wie viele Schimpansen leben in Uganda?",
+      "a": "Laut dem Bericht State of Wildlife Resources in Uganda 2026 lebten im Zeitraum 2023 bis 2025 insgesamt 6.075 Schimpansen in Uganda, ein Anstieg um 1.003 Tiere gegenüber 2022."
+    },
+    {
+      "q": "Wo ist der beste Ort für Schimpansen-Trekking in Uganda?",
+      "a": "Der Kibale Forest National Park gilt als bekannteste Anlaufstelle für Schimpansen-Trekking in Uganda. Weitere Optionen sind die Kyambura Gorge und die Kalinzu Forest Reserve, die jeweils einen unterschiedlichen Charakter und Preis bieten."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen Schimpansen-Trekking und Ngamba Island?",
+      "a": "Beim Trekking begegnen Besucher wild lebenden, teilweise habituierten Schimpansengruppen in Nationalparks. Ngamba Island ist dagegen ein Sanctuary für gerettete und verwaiste Schimpansen ohne Trekking-Charakter."
+    },
+    {
+      "q": "Ist Kalinzu eine günstigere Alternative zu Kibale?",
+      "a": "Ja, das geführte Tracking in der Kalinzu Forest Reserve kostete laut einer Quelle aus dem Jahr 2020 rund 40 US-Dollar pro Person bei vier Stunden Dauer und etwa 95 Prozent Erfolgsquote. Da diese Daten älter sind als die aktuellen UWA-Tarife, sollten Reisende die Preise vor Ort prüfen."
+    },
+    {
+      "q": "Kann man Gorillas und Schimpansen auf einer Uganda-Reise kombinieren?",
+      "a": "Ja, das ist eine beliebte Kombination. Kibale Forest für Schimpansen und Bwindi für Berggorillas liegen beide im Westen Ugandas und lassen sich gut miteinander verbinden."
     }
   ],
   "quellen": [
@@ -189,8 +226,8 @@
     "African Wild Dog (Lycaon pictus) - Wildlife ACT"
   ],
   "hopeplatform": {
-    "draft_id": "bdd224c4-b08e-44e5-8b01-4ba5e152a576",
+    "draft_id": "2b43502f-ba16-4aa4-a284-b376cf279d0c",
     "erzeugt_am": "2026-09-18",
-    "zuletzt": "2026-10-09"
+    "zuletzt": "2026-10-17"
   }
 }
