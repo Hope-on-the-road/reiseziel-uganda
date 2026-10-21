@@ -135,6 +135,17 @@
         "2005 begann mit der Gründung des Ziwa Rhino Sanctuary die Wiederansiedlung des Südlichen Breitmaulnashorns in Uganda. Die eingezäunte Fläche bot den Tieren geschützte Bedingungen für Zucht und Aufzucht. Aus diesem Grundstock ist die heutige Population von 61 Tieren (2025) hervorgegangen.",
         "Als nächster Schritt ist laut National Rhino Strategic Plan die Wiederansiedlung des Schwarznashorns (Spitzmaulnashorn) in Uganda geplant – einer Art, die historisch ebenfalls im Land vorkam. Die ausführliche Geschichte der Ausrottung und Wiederansiedlung ist auf einer eigenen Themenseite dokumentiert."
       ]
+    },
+    {
+      "id": "was-ist-ein-breitmaulnashorn-und-welche-unterarten-gibt-es",
+      "title": "Was ist ein Breitmaulnashorn und welche Unterarten gibt es?",
+      "content": [
+        "Das Breitmaulnashorn (Ceratotherium simum) ist eine von zwei afrikanischen Nashornarten und gliedert sich in eine nördliche und eine südliche Unterart; in Uganda lebt heute nur noch die südliche Unterart im Ziwa Rhino Sanctuary.",
+        "Das Breitmaulnashorn trägt seinen Namen wegen seines charakteristischen breiten, flachen Mauls, das ideal zum Abgrasen von Gräsern geeignet ist. Damit unterscheidet es sich deutlich vom Spitzmaulnashorn, das ein spitz zulaufendes, greiffähiges Maul besitzt und bevorzugt Blätter und Zweige von Büschen frisst.",
+        "Innerhalb der Art wird zwischen zwei Unterarten unterschieden: dem Nördlichen Breitmaulnashorn und dem Südlichen Breitmaulnashorn (Ceratotherium simum simum). Beide Unterarten kamen historisch auch in Uganda vor, wurden jedoch unterschiedlich stark von Wilderei betroffen. Das Spitzmaulnashorn sowie die nördliche Unterart des Breitmaulnashorns gelten seit Mitte der 1980er-Jahre in Uganda als vollständig ausgerottet und sind im Land heute nicht mehr vertreten.",
+        "Die einzige in Uganda lebende Nashorn-Unterart ist das Südliche Breitmaulnashorn (Ceratotherium simum simum). Diese Tiere wurden ab 2005 im Rahmen des oben beschriebenen Wiederansiedlungsprojekts im Ziwa Rhino Sanctuary angesiedelt. Wie im vorherigen Abschnitt beschrieben, ist die Population dort auf 51 Tiere (Stand 2025) gewachsen und bildet zusammen mit den ausgewilderten Gruppen in Ajai und Kidepo sowie den Tieren in der UWEC die gesamte ugandische Population von 61 Tieren.",
+        "Breitmaulnashörner sind reine Pflanzenfresser, die in Gruppen oder einzeln auf Graslandschaften leben. Sie zählen neben Elefant, Löwe, Leopard und Büffel zu den „Big Five“ der afrikanischen Safari-Tierwelt."
+      ]
     }
   ],
   "faqs": [
@@ -209,6 +220,30 @@
     {
       "q": "Was ist als Nächstes für die Nashorn-Wiederansiedlung in Uganda geplant?",
       "a": "Laut National Rhino Strategic Plan ist die Wiederansiedlung des Schwarznashorns (Spitzmaulnashorn) geplant, das historisch ebenfalls in Uganda vorkam."
+    },
+    {
+      "q": "Wo kann man Nashörner in Uganda sehen?",
+      "a": "Seit 2025 an drei Orten: im Ziwa Rhino Sanctuary (51 Tiere, Rhino Tracking zu Fuss, 50 USD), im Ajai Wildlife Reserve (4 Tiere, Auswilderung 2025) und im Kidepo Valley National Park (4 Tiere, Auswilderung 2025). Das Tracking zu Fuss ist ausschliesslich in Ziwa möglich."
+    },
+    {
+      "q": "Welche Nashornart und welche Unterart lebt in Uganda?",
+      "a": "In Uganda lebt ausschliesslich die südliche Unterart des Breitmaulnashorns, Ceratotherium simum simum. Die nördliche Unterart gilt seit Mitte der 1980er-Jahre in Uganda als vollständig ausgerottet. Gemäss dem National Rhino Strategic Plan ist zudem die Wiederansiedlung des Schwarznashorns (Spitzmaulnashorn) in Planung."
+    },
+    {
+      "q": "Wie viele Nashörner gibt es in Uganda?",
+      "a": "61 Südliche Breitmaulnashörner lebten 2025 in Uganda: 51 im Ziwa Rhino Sanctuary, 4 im Ajai Wildlife Reserve, 4 im Kidepo Valley National Park und 2 in der UWEC in Entebbe. Die Population begann mit 17 Tieren und wuchs über 22, 35, 43, 59 auf 61 Tiere."
+    },
+    {
+      "q": "Warum gibt es keine wilden Nashörner in Uganda?",
+      "a": "Ugandas letzte wilden Nashörner wurden in den 1970er und 1980er Jahren durch Wilderei ausgerottet. Seit 2005 werden im Ziwa Sanctuary Nashörner gezüchtet. 2025 wurden erstmals wieder Tiere in freie Schutzgebiete (Ajai Wildlife Reserve, Kidepo Valley NP) ausgewildert."
+    },
+    {
+      "q": "Kann man Nashörner zu Fuss beobachten?",
+      "a": "Ja, das Rhino Tracking in Ziwa findet zu Fuss statt. Begleitet von Rangern nähert man sich den Tieren auf bis zu 30 Meter. Das Tracking dauert 1-2 Stunden und kostet 50 USD für Ausländer."
+    },
+    {
+      "q": "Was unterscheidet ein Breitmaulnashorn von einem Spitzmaulnashorn?",
+      "a": "Das Breitmaulnashorn hat ein breites, flaches Maul zum Grasen auf offenen Flächen, während das Spitzmaulnashorn ein spitz zulaufendes Maul besitzt, mit dem es Blätter und Zweige von Büschen abzupft. Beide Arten waren historisch in Uganda vertreten, in ihrer ursprünglichen wilden Form gelten sie dort aber als ausgerottet."
     }
   ],
   "quellen": [
@@ -238,8 +273,8 @@
     "Kyankwanzi-Survey-Report-2017"
   ],
   "hopeplatform": {
-    "draft_id": "6009b9d3-8299-4544-a4f5-d29c3cb0455e",
+    "draft_id": "1ab60152-c030-478c-8a39-f8c328d6204d",
     "erzeugt_am": "2026-09-05",
-    "zuletzt": "2026-09-28"
+    "zuletzt": "2026-10-21"
   }
 }
