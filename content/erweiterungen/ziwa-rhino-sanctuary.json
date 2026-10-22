@@ -102,6 +102,32 @@
         "Das Ziwa Rhino Sanctuary gilt als einer der familienfreundlichsten Orte Ugandas, da die Fusswanderungen zu den Breitmaulnashörnern flach und kurz gehalten sind. Das macht den Besuch auch für Familien mit Kindern gut planbar – ohne lange, anstrengende Wanderungen oder unwegsames Gelände.",
         "Da die Walking-with-Rhinos-Gruppen auf maximal 8 bis 10 Personen begrenzt sind und die Trecks 1 bis 2 Stunden dauern, eignet sich das Erlebnis besonders für Familien mit älteren Kindern, die eine ruhige, geführte Begegnung mit Wildtieren erleben möchten. Mehr zu kinderfreundlichen Zielen in Uganda findest du in unserem Ratgeber Uganda mit Kindern."
       ]
+    },
+    {
+      "id": "was-kostet-das-walking-with-rhinos-im-ziwa-rhino-sanctuary",
+      "title": "Was kostet das Walking with Rhinos im Ziwa Rhino Sanctuary?",
+      "content": [
+        "Die Preise für das Walking-with-Rhinos-Erlebnis sind seit 2025 nach Nationalität gestaffelt: Ausländische Besucher zahlen 50 USD, ugandische Staatsangehörige 30.000 UGX. Diese Differenzierung ersetzt den früheren Pauschalpreis und ist bei der Budgetplanung für die Route Kampala–Murchison Falls zu berücksichtigen.",
+        "Ein Trek dauert in der Regel 1-2 Stunden. Ein erfahrener Ranger führt eine kleine Gruppe von maximal 8-10 Personen zu Fuß an die Nashörner heran — ohne Fahrzeug und ohne Zaun. Buchungen sind über die offizielle UWA-Website oder autorisierte Reisebüros möglich."
+      ]
+    },
+    {
+      "id": "flaeche-oeffnungszeiten-und-lage",
+      "title": "Fläche, Öffnungszeiten und Lage",
+      "content": [
+        "Das Sanctuary erstreckt sich über 70 Quadratkilometer privates Land nördlich von Kampala und ist täglich von 7 bis 18 Uhr geöffnet.",
+        "Das Ziwa Rhino Sanctuary liegt in Zentraluganda an der Hauptroute zwischen Kampala und dem Murchison Falls Nationalpark und umfasst 70 Quadratkilometer privates Gelände. Geöffnet ist das Sanctuary täglich von 7 bis 18 Uhr, was einen flexiblen Zwischenstopp auf dem Weg nach Norden erlaubt.",
+        "Diese Lage macht Ziwa zu einem idealen Etappenziel, bevor die Reise weiter zum Murchison Falls Nationalpark führt."
+      ]
+    },
+    {
+      "id": "ziwa-rhino-sanctuary-mit-kindern-familienfreundlichkeit",
+      "title": "Ziwa Rhino Sanctuary mit Kindern: Familienfreundlichkeit",
+      "content": [
+        "Das Sanctuary gilt als einer der familienfreundlichsten Orte Ugandas, da die Fußwanderungen flach und kurz sind.",
+        "Das Ziwa Rhino Sanctuary eignet sich gut für Familien mit Kindern, da die Fußwanderungen zu den Breitmaulnashörnern flach und kurz gehalten sind. Für Familien, die die Route Kampala–Murchison Falls planen, ist Ziwa damit ein praktikabler Zwischenstopp, der auch mit jüngeren Kindern machbar ist.",
+        "Weitere Hinweise zur Reiseplanung mit Kindern finden sich im Artikel Uganda mit Kindern."
+      ]
     }
   ],
   "faqs": [
@@ -172,6 +198,22 @@
     {
       "q": "Profitieren lokale Gemeinden vom Ziwa Rhino Sanctuary?",
       "a": "Ja, über das UWA Revenue-Sharing-Programm fließt ein Teil der Einnahmen aus dem Sanctuary an lokale Gemeinden."
+    },
+    {
+      "q": "Was kostet das Walking with Rhinos im Ziwa Rhino Sanctuary?",
+      "a": "Rhino Tracking zu Fuß kostet 50 USD für ausländische Besucher und 30.000 UGX für Ugander. Die Trecks dauern 1-2 Stunden, Gruppen sind auf 8-10 Personen begrenzt."
+    },
+    {
+      "q": "Ist das Ziwa Rhino Sanctuary für Familien mit Kindern geeignet?",
+      "a": "Ja, die Fußwanderungen zu den Nashörnern sind flach und kurz, weshalb das Sanctuary als einer der familienfreundlichsten Orte Ugandas gilt."
+    },
+    {
+      "q": "Gibt es ein Revenue-Sharing-Programm für lokale Gemeinden?",
+      "a": "Ja, das UWA Revenue-Sharing-Programm leitet einen Teil der Einnahmen aus dem Sanctuary an lokale Gemeinden in der Umgebung weiter."
+    },
+    {
+      "q": "Sind weitere Umsiedlungen von Nashörnern geplant?",
+      "a": "Ja, geplant sind Umsiedlungen von Ziwa nach Ajai sowie von Kenia nach Kidepo, um die Population auf weitere Standorte zu verteilen. Ein genauer Zeitplan liegt bisher nicht vor."
     }
   ],
   "quellen": [
@@ -190,11 +232,18 @@
     "Das Nashorn in Uganda",
     "Ziwa Rhino Sanctuary: Walking with Rhinos in Uganda",
     "Das Nashorn in Uganda (2025)",
-    "Ziwa Rhino Sanctuary: Walking with Rhinos in Uganda (2025)"
+    "Ziwa Rhino Sanctuary: Walking with Rhinos in Uganda (2025)",
+    "African Fish Eagle - Uganda (“Haliaeetus vocifer”) - Uganda Birding Safaris & Tours",
+    "African Fish-eagle | The Peregrine Fund",
+    "Haliaeetus vocifer (African fish eagle) | INFORMATION | Animal Diversity Web",
+    "African fish eagle - Wikipedia",
+    "African wild dog | Canids",
+    "African Painted Dog Conservation Efforts",
+    "African Wild Dog (Lycaon pictus) - Wildlife ACT"
   ],
   "hopeplatform": {
-    "draft_id": "02209b56-04d7-40e2-933a-ec071560f59f",
+    "draft_id": "58efafea-4939-4437-8630-99fb217b0fba",
     "erzeugt_am": "2026-09-23",
-    "zuletzt": "2026-10-14"
+    "zuletzt": "2026-10-22"
   }
 }
