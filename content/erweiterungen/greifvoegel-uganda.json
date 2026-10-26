@@ -63,6 +63,26 @@
         "In der Fortpflanzung ist die Art monogam und geht meist lebenslange Paarbindungen ein. Die Brutzeit findet saisonal einmal im Jahr statt, wobei sich Zeitpunkt und genauer Ablauf je nach Region unterscheiden können. Paare festigen ihre Bindung unter anderem durch gemeinsame Flugmanöver.",
         "Besonders auffällig ist der laute, weit tragende Ruf, der von Brutpaaren häufig im Duett vorgetragen wird. Dieses Duett-Verhalten tritt vor allem zu Beginn der Brutzeit auf und dient der Stärkung der Paarbindung."
       ]
+    },
+    {
+      "id": "merkmale-und-erkennung-des-african-fish-eagle",
+      "title": "Merkmale und Erkennung des African Fish Eagle",
+      "content": [
+        "Der African Fish Eagle (Haliaeetus vocifer) ist ein großer Greifvogel mit einer Körperlänge von 63 bis 77 Zentimetern und einer Flügelspannweite von 175 bis 210 Zentimetern. Erwachsene Tiere wiegen zwischen 2,1 und 3,6 Kilogramm. Weibchen sind dabei typischerweise etwa 10 bis 15 Prozent größer und kräftiger gebaut als Männchen.",
+        "Charakteristisch sind der weiße Kopf und die weiße Brust, der kastanienbraune Körper sowie dunkle Krallen, Schnabel und Augen. Jungvögel sehen deutlich anders aus: Sie tragen ein überwiegend braunes Gefieder mit unregelmäßig verteilten weißen Federn und einem helleren, grauen Gesicht.",
+        "Verwechslung mit dem Weißkopfseeadler",
+        "Optisch erinnert der African Fish Eagle an den nordamerikanischen Weißkopfseeadler (Bald Eagle). Beide Arten sind jedoch nicht eng miteinander verwandt und kommen auf unterschiedlichen Kontinenten vor. Der nächste Verwandte des African Fish Eagle ist der stark gefährdete Madagaskar-Fischadler."
+      ]
+    },
+    {
+      "id": "african-fish-eagle-beobachten-beste-orte-und-reisezeit-in-ug",
+      "title": "African Fish Eagle beobachten: Beste Orte und Reisezeit in Uganda",
+      "content": [
+        "Gute Chancen auf eine Sichtung bieten Ugandas große Gewässer wie der Lake Victoria, der Nil bei Jinja und Murchison Falls sowie Bootssafaris, auf denen der Vogel oft an seinen erhöhten Sitzwarten zu beobachten ist.",
+        "Da der African Fish Eagle an Gewässer gebunden ist, bieten sich für Birdwatcher in Uganda vor allem große Wasserflächen an: der Lake Victoria, der Nil im Bereich Jinja sowie die Flussabschnitte rund um die Murchison Falls. Auch kleinere Seen im Südwesten des Landes, etwa im Bereich des Lake Bunyonyi, zählen zu den Lebensräumen, in denen der Vogel typischerweise vorkommt.",
+        "Bootssafaris, wie sie beispielsweise auf dem Nil im Murchison Falls Nationalpark angeboten werden, sind ein praktischer Rahmen, um den African Fish Eagle an seinen bevorzugten Sitzwarten in Ufernähe zu beobachten. Da der Vogel überwiegend tagaktiv ist und viel Zeit mit der Überwachung seines Reviers von erhöhten Punkten aus verbringt, lässt er sich oft ruhig sitzend auf Bäumen am Wasser entdecken.",
+        "Zu konkreten Sichtungshäufigkeiten oder bevorzugten Tageszeiten an einzelnen ugandischen Standorten liegen keine belastbaren Daten vor – eine Beobachtung lässt sich daher nicht garantieren, grundsätzlich ist der African Fish Eagle an den genannten Gewässern aber eine regelmäßig vorkommende Art."
+      ]
     }
   ],
   "faqs": [
@@ -113,6 +133,26 @@
     {
       "q": "Lebt der African Fish Eagle nur in Uganda?",
       "a": "Nein, die Art ist im gesamten subsaharischen Afrika an Gewässern verbreitet, von Westafrika bis zum Indischen Ozean und bis nach Südafrika. In Uganda ist sie vor allem an Nil und Viktoriasee verbreitet."
+    },
+    {
+      "q": "Wo in Uganda kann man den African Fish Eagle am besten beobachten?",
+      "a": "Gute Lebensraumbedingungen bieten große Gewässer wie der Lake Victoria, der Nil bei Jinja und Murchison Falls sowie Seen im Südwesten des Landes wie der Lake Bunyonyi. Verlässliche Angaben zu Sichtungshäufigkeiten an einzelnen Orten liegen jedoch nicht vor."
+    },
+    {
+      "q": "Ist der African Fish Eagle mit dem amerikanischen Weißkopfseeadler verwandt?",
+      "a": "Nein. Beide Arten ähneln sich im Aussehen, sind aber nicht eng verwandt und kommen auf unterschiedlichen Kontinenten vor. Der engste Verwandte des African Fish Eagle ist der stark gefährdete Madagaskar-Fischadler."
+    },
+    {
+      "q": "Wie laut und charakteristisch ist der Ruf des African Fish Eagle?",
+      "a": "Der Ruf wird häufig als „Weeah kyow-kow-kow“ beschrieben und gilt als eines der bekanntesten, weithin hörbaren Geräusche Afrikas. Männliche Tiere rufen dabei meist höher als Weibchen, und Brutpaare rufen besonders zu Beginn der Brutzeit oft im Duett."
+    },
+    {
+      "q": "Wie groß und schwer wird ein African Fish Eagle?",
+      "a": "Erwachsene Tiere erreichen eine Körperlänge von 63 bis 77 Zentimetern, eine Flügelspannweite von 175 bis 210 Zentimetern und ein Gewicht zwischen 2,1 und 3,6 Kilogramm. Weibchen sind etwa 10 bis 15 Prozent größer und kräftiger als Männchen."
+    },
+    {
+      "q": "Ist der African Fish Eagle in Uganda gefährdet?",
+      "a": "Zur Gefährdungslage speziell in Uganda liegen keine belastbaren Daten vor. International wird die Art nicht als gefährdet eingestuft."
     }
   ],
   "quellen": [
@@ -131,11 +171,12 @@
     "African fish eagle - Uganda (\"Haliaeetus vocifer\") - Uganda Birding Safaris & Tours",
     "Haliaeetus vocifer (African fish eagle) | INFORMATION | Animal Diversity Web",
     "African Fish-eagle | The Peregrine Fund",
-    "African fish eagle - Wikipedia"
+    "African fish eagle - Wikipedia",
+    "African Fish Eagle - Uganda (“Haliaeetus vocifer”) - Uganda Birding Safaris & Tours"
   ],
   "hopeplatform": {
-    "draft_id": "456b1763-d17f-45cc-ba1b-6b5481a8d195",
+    "draft_id": "1e54511c-b19f-40e4-b909-e6f5b6a0aafd",
     "erzeugt_am": "2026-09-28",
-    "zuletzt": "2026-10-01"
+    "zuletzt": "2026-10-26"
   }
 }
