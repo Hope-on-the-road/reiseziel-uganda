@@ -128,6 +128,15 @@
         "Das Ziwa Rhino Sanctuary eignet sich gut für Familien mit Kindern, da die Fußwanderungen zu den Breitmaulnashörnern flach und kurz gehalten sind. Für Familien, die die Route Kampala–Murchison Falls planen, ist Ziwa damit ein praktikabler Zwischenstopp, der auch mit jüngeren Kindern machbar ist.",
         "Weitere Hinweise zur Reiseplanung mit Kindern finden sich im Artikel Uganda mit Kindern."
       ]
+    },
+    {
+      "id": "preise-oeffnungszeiten-und-was-ein-besuch-kostet",
+      "title": "Preise, Öffnungszeiten und was ein Besuch kostet",
+      "content": [
+        "Rhino Tracking kostet aktuell 50 USD für ausländische Besucher bzw. 30.000 UGX für Ugander, das Sanctuary ist täglich von 7 bis 18 Uhr geöffnet.",
+        "Der Walking-with-Rhinos-Trek kostet für ausländische Besucher 50 USD pro Person, ugandische Staatsbürger zahlen 30.000 UGX (Stand 2025). Zum Vergleich: Bereits 2020 lag der Preis für ausländische Besucher bei 50 US-Dollar pro Person für einen zweistündigen Trek -- die Preisstruktur für internationale Gäste ist seitdem weitgehend stabil geblieben, während für ugandische Besucher ein gesonderter, günstigerer Tarif gilt.",
+        "Das Ziwa Rhino Sanctuary ist täglich von 7 bis 18 Uhr geöffnet. Buchungen können direkt über die offizielle UWA-Website oder über autorisierte ugandische Reiseveranstalter vorgenommen werden."
+      ]
     }
   ],
   "faqs": [
@@ -214,6 +223,10 @@
     {
       "q": "Sind weitere Umsiedlungen von Nashörnern geplant?",
       "a": "Ja, geplant sind Umsiedlungen von Ziwa nach Ajai sowie von Kenia nach Kidepo, um die Population auf weitere Standorte zu verteilen. Ein genauer Zeitplan liegt bisher nicht vor."
+    },
+    {
+      "q": "Was ist das UWA Revenue-Sharing-Programm?",
+      "a": "Es handelt sich um ein Programm der Uganda Wildlife Authority, über das ein Teil der Einnahmen aus dem Sanctuary an die umliegenden Gemeinden weitergeleitet wird, um den Naturschutz mit der lokalen Bevölkerung zu verbinden."
     }
   ],
   "quellen": [
@@ -242,8 +255,8 @@
     "African Wild Dog (Lycaon pictus) - Wildlife ACT"
   ],
   "hopeplatform": {
-    "draft_id": "58efafea-4939-4437-8630-99fb217b0fba",
+    "draft_id": "0fc2f450-604e-4074-ab25-663a3a2e40f0",
     "erzeugt_am": "2026-09-23",
-    "zuletzt": "2026-10-22"
+    "zuletzt": "2026-10-30"
   }
 }
