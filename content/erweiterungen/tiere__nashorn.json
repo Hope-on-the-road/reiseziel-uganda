@@ -146,6 +146,35 @@
         "Die einzige in Uganda lebende Nashorn-Unterart ist das Südliche Breitmaulnashorn (Ceratotherium simum simum). Diese Tiere wurden ab 2005 im Rahmen des oben beschriebenen Wiederansiedlungsprojekts im Ziwa Rhino Sanctuary angesiedelt. Wie im vorherigen Abschnitt beschrieben, ist die Population dort auf 51 Tiere (Stand 2025) gewachsen und bildet zusammen mit den ausgewilderten Gruppen in Ajai und Kidepo sowie den Tieren in der UWEC die gesamte ugandische Population von 61 Tieren.",
         "Breitmaulnashörner sind reine Pflanzenfresser, die in Gruppen oder einzeln auf Graslandschaften leben. Sie zählen neben Elefant, Löwe, Leopard und Büffel zu den „Big Five“ der afrikanischen Safari-Tierwelt."
       ]
+    },
+    {
+      "id": "welche-nashornart-lebt-heute-in-uganda",
+      "title": "Welche Nashornart lebt heute in Uganda?",
+      "content": [
+        "Historisch kamen in Uganda zwei Nashornarten vor: das Spitzmaulnashorn und das Breitmaulnashorn, von dem wiederum eine nördliche und eine südliche Unterart existiert. Seit Mitte der 1980er-Jahre gelten sowohl das Spitzmaulnashorn als auch die nördliche Unterart des Breitmaulnashorns in Uganda als vollständig ausgerottet -- Folge jahrzehntelanger Wilderei.",
+        "Die Tiere, die heute im Ziwa Rhino Sanctuary leben, gehören zu einer anderen Art: dem Südlichen Breitmaulnashorn (Ceratotherium simum simum). Diese Unterscheidung ist wichtig, da sie häufig verwechselt werden. Wer heute in Uganda ein Nashorn beobachten möchte, sieht ausschließlich Südliche Breitmaulnashörner -- die ursprünglich heimischen Arten und Unterarten sind aus dem Land verschwunden.",
+        "Die Geschichte dieses Verlusts und der anschließenden Wiederansiedlung ist ausführlich auf der Seite zur Rückkehr des Nashorns nach Uganda beschrieben."
+      ]
+    },
+    {
+      "id": "vom-aussterben-zur-wiederansiedlung",
+      "title": "Vom Aussterben zur Wiederansiedlung",
+      "content": [
+        "Uganda verlor seine letzten wilden Nashörner in den 1980er Jahren durch Wilderei; seit 2005 wird im Ziwa Rhino Sanctuary eine neue Population aufgebaut.",
+        "Noch in den 1960er Jahren lebten sowohl Breitmaul- als auch Spitzmaulnashörner in Ugandas Savannen. Während der politischen Instabilität der folgenden Jahrzehnte wurden die letzten Tiere gewildert. Bis Mitte der 1980er Jahre war das Nashorn in Uganda ausgerottet -- ein Schicksal, das Uganda mit vielen afrikanischen Ländern teilte, in denen Nashornwilderei in dieser Zeit stark zunahm.",
+        "2005 begann ein Wiederansiedlungsprojekt: Das Ziwa Rhino Sanctuary wurde auf 70 Quadratkilometern privatem Land nördlich von Kampala eingerichtet. Sechs Südliche Breitmaulnashörner aus Kenia und aus Disney's Animal Kingdom in den USA bildeten den Grundstock der neuen Population.",
+        "Mehr zum Schutz vor Wilderei, der diese Wiederansiedlung erst ermöglicht hat, erklärt die Seite zur Anti-Wilderei-Arbeit der Uganda Wildlife Authority."
+      ]
+    },
+    {
+      "id": "auswilderung-und-zukunft-des-nashorns-in-uganda",
+      "title": "Auswilderung und Zukunft des Nashorns in Uganda",
+      "content": [
+        "Seit 2025 leben erstmals seit den 1980er Jahren wieder Nashörner außerhalb des Ziwa Sanctuaries in freien Schutzgebieten -- im Ajai Wildlife Reserve und im Kidepo Valley National Park.",
+        "2025 wurden erstmals seit Jahrzehnten wieder Nashörner in freie Schutzgebiete außerhalb des Ziwa Sanctuaries umgesiedelt: Tiere zogen ins Ajai Wildlife Reserve und in den Kidepo Valley National Park. Damit zeigt Uganda, dass die Wiederansiedlung einer zuvor ausgerotteten Großsäugerart gelingen kann.",
+        "Gemäß dem National Rhino Strategic Plan ist als nächster Schritt die Wiederansiedlung des Schwarznashorns (Spitzmaulnashorn) in Uganda geplant -- einer Art, die historisch ebenfalls im Land vorkam und die als noch stärker gefährdet gilt als das Breitmaulnashorn.",
+        "Die aktuelle Entwicklung rund um die Auswilderung 2025 ist im Detail auf der Seite Nashorn in Kidepo 2025 beschrieben."
+      ]
     }
   ],
   "faqs": [
@@ -244,6 +273,18 @@
     {
       "q": "Was unterscheidet ein Breitmaulnashorn von einem Spitzmaulnashorn?",
       "a": "Das Breitmaulnashorn hat ein breites, flaches Maul zum Grasen auf offenen Flächen, während das Spitzmaulnashorn ein spitz zulaufendes Maul besitzt, mit dem es Blätter und Zweige von Büschen abzupft. Beide Arten waren historisch in Uganda vertreten, in ihrer ursprünglichen wilden Form gelten sie dort aber als ausgerottet."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen Spitzmaul- und Breitmaulnashorn?",
+      "a": "Es handelt sich um zwei unterschiedliche Nashornarten. In Uganda sind das Spitzmaulnashorn und die nördliche Unterart des Breitmaulnashorns ausgerottet; nur das Südliche Breitmaulnashorn lebt heute noch im Land, im Ziwa Rhino Sanctuary."
+    },
+    {
+      "q": "Ist die Population der Nashörner in Uganda stabil?",
+      "a": "Die Population der Südlichen Breitmaulnashörner im Ziwa Rhino Sanctuary wächst nach Angaben zum Schutzprogramm stetig. Seit 2025 leben zusätzlich Tiere in ausgewilderten Beständen im Ajai Wildlife Reserve und im Kidepo Valley National Park."
+    },
+    {
+      "q": "Kann man Nashörner zu Fuß beobachten?",
+      "a": "Ja, das Rhino Tracking im Ziwa Rhino Sanctuary findet zu Fuß statt. Begleitet von bewaffneten Rangern nähert man sich den Tieren auf bis zu 30 Meter."
     }
   ],
   "quellen": [
@@ -270,11 +311,20 @@
     "Gorilla Trekking in Uganda & Rwanda,Tour Costs, Gorilla Safaris Africa 2026",
     "Hiking Mount Sabyinyo: Stand in Three Countries at the Summit",
     "Uganda Wildlife Conservation Education Centre – entebbe zoo",
-    "Kyankwanzi-Survey-Report-2017"
+    "Kyankwanzi-Survey-Report-2017",
+    "The Lake Victoria Fisheries Organization Profile – Stop Illegal Fishing",
+    "Fischfang im Viktoriasee: Darwins Alptraum zuende? | Brot für die Welt",
+    "African Fish Eagle - Uganda (“Haliaeetus vocifer”) - Uganda Birding Safaris & Tours",
+    "African Fish-eagle | The Peregrine Fund",
+    "Haliaeetus vocifer (African fish eagle) | INFORMATION | Animal Diversity Web",
+    "African fish eagle - Wikipedia",
+    "African wild dog | Canids",
+    "African Painted Dog Conservation Efforts",
+    "African Wild Dog (Lycaon pictus) - Wildlife ACT"
   ],
   "hopeplatform": {
-    "draft_id": "1ab60152-c030-478c-8a39-f8c328d6204d",
+    "draft_id": "d63e89c4-bc73-4bfa-a62e-f7fa219ccff2",
     "erzeugt_am": "2026-09-05",
-    "zuletzt": "2026-10-21"
+    "zuletzt": "2026-11-01"
   }
 }
