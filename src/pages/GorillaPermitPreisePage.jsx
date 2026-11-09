@@ -190,7 +190,7 @@ export default function GorillaPermitPreisePage() {
           </h2>
           <p className="text-gray-700 leading-relaxed mb-4">
             Gorilla Permits in Uganda werden offiziell über die Uganda Wildlife Authority (UWA) ausgegeben.
-            Laut UWA-Hinweis vom 11. Juli 2024 werden Permits für ausländische Besucher ohne ugandischen
+            Laut <a href="https://ugandawildlife.org/wp-content/uploads/2024/07/Advisory-on-purchase-guidelines-1.pdf" target="_blank" rel="noopener noreferrer" className="underline">UWA-Hinweis vom 11. Juli 2024</a> werden Permits für ausländische Besucher ohne ugandischen
             Wohnsitz (FNR) ausschließlich über Reiseveranstalter verkauft, die von der Uganda Tourism Board
             lizenziert sind. Ausländische Residenten und Bürger der Ostafrikanischen Gemeinschaft können
             Permits direkt bei der UWA kaufen.

@@ -14,7 +14,7 @@ export default function PauschalreisenUgandaPage() {
     },
     {
       frage: 'Wie teuer ist ein Gorilla-Permit in Uganda, und muss es Teil eines Pakets sein?',
-      antwort: 'Ein Gorilla-Permit für Uganda kostet derzeit 800 US-Dollar pro Person und Tag. Es ist nicht an eine bestimmte Lodge oder ein Komplettpaket gebunden — man kann es direkt bei der Uganda Wildlife Authority beantragen oder über einen lokalen Reiseveranstalter besorgen. In der Praxis lohnt sich der Kauf über einen Veranstalter, weil dieser kurzfristige Umplanungen einfacher abwickeln und auf Wartelisten zurückgreifen kann. Der Permit-Preis ist für alle Besucher gleich, unabhängig davon, in welcher Unterkunft man übernachtet oder wie die Reise ansonsten organisiert ist.'
+      antwort: 'Ein Gorilla-Permit für Uganda kostet für ausländische Besucher ohne ugandischen Wohnsitz derzeit 800 US-Dollar pro Person und Tag (Nebensaison April, Mai und November: 600 US-Dollar). Es ist nicht an eine bestimmte Lodge oder ein Komplettpaket gebunden — ausländische Besucher ohne ugandischen Wohnsitz (FNR) kaufen es laut UWA-Hinweis vom 11. Juli 2024 ausschließlich über einen lizenzierten Reiseveranstalter, ausländische Residenten und Bürger der Ostafrikanischen Gemeinschaft können direkt bei der Uganda Wildlife Authority kaufen. Der Permit-Preis hängt von Besuchergruppe und Saison ab, nicht davon, in welcher Unterkunft man übernachtet oder wie die Reise ansonsten organisiert ist.'
     },
     {
       frage: 'Welche Kombination aus Nationalparks gilt als Uganda-Standardroute?',

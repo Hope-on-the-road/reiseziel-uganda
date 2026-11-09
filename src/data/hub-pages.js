@@ -114,7 +114,7 @@ export const hubPages = {
       { q: 'Lohnt sich Kidepo Valley trotz der langen Anreise?', a: 'Absolut. Kidepo Valley gilt unter Safari-Kennern als einer der schoensten Parks Afrikas. Die abgelegene Lage bedeutet kaum andere Touristen, unberuehrte Wildnis und eine Tiervielfalt, die ihresgleichen sucht. Der Inlandsflug ab Kampala oder Entebbe dauert nur etwa 2 Stunden.' },
     ],
     quellen: [
-      'Uganda Wildlife Authority (UWA) -- uwa.or.ug',
+      'Uganda Wildlife Authority (UWA) -- ugandawildlife.org',
       'UNESCO World Heritage Centre -- Bwindi Impenetrable & Rwenzori Mountains',
       'IUCN Red List of Threatened Species',
       'Lonely Planet Uganda (2024)',
@@ -305,7 +305,7 @@ export const hubPages = {
       { q: 'Kann man in Uganda auch Nashoerner sehen?', a: 'Ja, im Ziwa Rhino Sanctuary an der Strasse zwischen Kampala und Murchison Falls. Hier leben ueber 30 Breitmaulnashoerner in einem geschuetzten Areal. Man kann die Tiere zu Fuss begleiten -- eine einzigartige Erfahrung. Eine Auswilderung in Murchison Falls ist fuer die kommenden Jahre geplant.' },
     ],
     quellen: [
-      'Uganda Wildlife Authority (UWA) -- uwa.or.ug',
+      'Uganda Wildlife Authority (UWA) -- ugandawildlife.org',
       'IUCN Red List of Threatened Species -- iucnredlist.org',
       'BirdLife International -- Uganda',
       'Jane Goodall Institute',
@@ -355,7 +355,7 @@ export const hubPages = {
       {
         id: 'primaten',
         title: 'Primaten: Gorillas, Schimpansen und 18 weitere Arten',
-        content: 'Uganda gilt als Primatenparadies schlechthin. Zwanzig verschiedene Primatenarten teilen sich die Waelder des Landes -- eine Vielfalt, die auf dem afrikanischen Kontinent kaum zu uebertreffen ist.\n\nDen Rang der bekanntesten Art nimmt der Berggorilla (Gorilla beringei beringei) ein. Rund 53,9 Prozent der gesamten Weltpopulation dieser stark gefaehrdeten Unterart lebt in Uganda, verteilt auf den Bwindi Impenetrable National Park und den Mgahinga Gorilla National Park an den Virunga-Vulkanen. Ein Trekking zu den habituierten Familien gehoert zu den eindruecklichsten Erlebnissen, die die Natur zu bieten hat. Das Gorilla-Permit kostet 800 USD und ist direkt bei der Uganda Wildlife Authority zu buchen. Mehr unter: /tiere/berggorilla\n\nDer Schimpanse (Pan troglodytes) ist der haeufigste der grossen Menschenaffen in Uganda. Rund 5.000 Tiere leben in verschiedenen Waldgebieten. Der Kibale Forest National Park beherbergt mit rund 1.500 Tieren die groesste habituierte Schimpansenpopulation Afrikas und bietet Sichtungsquoten von ueber 95 Prozent. Weitere Schimpansen-Trekkings sind in Budongo (Murchison Falls) und der Kyambura Gorge (Queen Elizabeth) moeglich. Mehr unter: /tiere/schimpanse\n\nDie Goldmeerkatze (Cercopithecus kandti) ist eine endemische Art der Virunga-Vulkane mit einer Weltpopulation von nur rund 5.000 Tieren. Sie kann ausschliesslich im Mgahinga Gorilla National Park in Uganda beobachtet werden. Ein Tracking kostet 100 USD. Mehr unter: /goldene-affen-uganda\n\nDer Nördliche Guereza (Colobus guereza) -- bekannt fuer sein auffaelliges schwarz-weisses Fell und den langen Schwanzbueschel -- lebt in Kibale, Bwindi und am Mount Elgon; im Bwindi-Wald zaehlt die Population rund 400 Tiere. Mehr unter: /colobus-affe-uganda\n\nDie Schmidt-Weißnasenmeerkatze (Cercopithecus ascanius schmidti) ist mit rund 5.500 Individuen die haeufigste Meerkatzenart im Bwindi Impenetrable National Park -- eine Zahl, die die aussergewoehnliche Primatendichte des Bwindi-Regenwalds verdeutlicht.\n\nWeitere Primatenarten Ugandas: Rotschwanzmeerkatze, Blaumaulmeerkatze, L\'Hoest-Meerkatze, Roter Stummelaffe, Grauwangenmangabe, Olivenpavian, Potto und mehrere Galago-Arten.',
+        content: 'Uganda gilt als Primatenparadies schlechthin. Zwanzig verschiedene Primatenarten teilen sich die Waelder des Landes -- eine Vielfalt, die auf dem afrikanischen Kontinent kaum zu uebertreffen ist.\n\nDen Rang der bekanntesten Art nimmt der Berggorilla (Gorilla beringei beringei) ein. Rund 53,9 Prozent der gesamten Weltpopulation dieser stark gefaehrdeten Unterart lebt in Uganda, verteilt auf den Bwindi Impenetrable National Park und den Mgahinga Gorilla National Park an den Virunga-Vulkanen. Ein Trekking zu den habituierten Familien gehoert zu den eindruecklichsten Erlebnissen, die die Natur zu bieten hat. Das Gorilla-Permit kostet 800 USD und wird ueber die Uganda Wildlife Authority bzw. fuer auslaendische Besucher ohne ugandischen Wohnsitz ueber lizenzierte Touroperatoren gebucht. Mehr unter: /tiere/berggorilla\n\nDer Schimpanse (Pan troglodytes) ist der haeufigste der grossen Menschenaffen in Uganda. Rund 5.000 Tiere leben in verschiedenen Waldgebieten. Der Kibale Forest National Park beherbergt mit rund 1.500 Tieren die groesste habituierte Schimpansenpopulation Afrikas und bietet Sichtungsquoten von ueber 95 Prozent. Weitere Schimpansen-Trekkings sind in Budongo (Murchison Falls) und der Kyambura Gorge (Queen Elizabeth) moeglich. Mehr unter: /tiere/schimpanse\n\nDie Goldmeerkatze (Cercopithecus kandti) ist eine endemische Art der Virunga-Vulkane mit einer Weltpopulation von nur rund 5.000 Tieren. Sie kann ausschliesslich im Mgahinga Gorilla National Park in Uganda beobachtet werden. Ein Tracking kostet 100 USD. Mehr unter: /goldene-affen-uganda\n\nDer Nördliche Guereza (Colobus guereza) -- bekannt fuer sein auffaelliges schwarz-weisses Fell und den langen Schwanzbueschel -- lebt in Kibale, Bwindi und am Mount Elgon; im Bwindi-Wald zaehlt die Population rund 400 Tiere. Mehr unter: /colobus-affe-uganda\n\nDie Schmidt-Weißnasenmeerkatze (Cercopithecus ascanius schmidti) ist mit rund 5.500 Individuen die haeufigste Meerkatzenart im Bwindi Impenetrable National Park -- eine Zahl, die die aussergewoehnliche Primatendichte des Bwindi-Regenwalds verdeutlicht.\n\nWeitere Primatenarten Ugandas: Rotschwanzmeerkatze, Blaumaulmeerkatze, L\'Hoest-Meerkatze, Roter Stummelaffe, Grauwangenmangabe, Olivenpavian, Potto und mehrere Galago-Arten.',
         showPhotos: true,
       },
       {
@@ -391,7 +391,7 @@ export const hubPages = {
     ],
     quellen: [
       'Uganda Wildlife Strategy 2020-2029',
-      'Uganda Wildlife Authority (UWA) -- uwa.or.ug',
+      'Uganda Wildlife Authority (UWA) -- ugandawildlife.org',
       'IUCN Red List of Threatened Species -- iucnredlist.org',
       'BirdLife International -- Uganda',
       'MTWA Statistical Abstract 2025',
@@ -453,7 +453,7 @@ export const hubPages = {
       {
         id: 'buchung-preise',
         title: 'Buchung, Eintrittspreise und praktische Informationen',
-        content: 'Die ugandischen Nationalparks werden von der Uganda Wildlife Authority (UWA) verwaltet. Eintrittspreise, Permit-Buchungen und Campingplaetze koennen direkt ueber die UWA-Website (uwa.or.ug) oder ueber lizenzierte Touroperatoren gebucht werden.\n\nEintrittspreise (Stand 2026, Auslaender):\n-- Bwindi Impenetrable: 45 USD pro Tag (Gorilla-Permit separat: 800 USD)\n-- Queen Elizabeth: 40 USD pro Tag\n-- Murchison Falls: 40 USD pro Tag (Bootstour separat: 30 USD)\n-- Kibale Forest: 45 USD pro Tag (Schimpansen-Permit: 200 USD)\n-- Kidepo Valley: 40 USD pro Tag\n-- Mount Elgon: 35 USD pro Tag\n-- Lake Mburo: 40 USD pro Tag\n-- Mgahinga: 40 USD pro Tag (Gorilla-Permit: 800 USD, Goldmeerkatzen: 100 USD)\n-- Semuliki: 35 USD pro Tag\n-- Rwenzori Mountains: 35 USD pro Tag (Trekking-Pakete: 800-1.500 USD)\n\nGorilla-Permits sollten drei bis sechs Monate im Voraus gebucht werden, insbesondere fuer die Hauptsaison. Die taeglich verfuegbaren Permits sind je nach Familie limitiert (acht Personen pro Gorilla-Gruppe). Schimpansen-Permits in Kibale lassen sich meist mit weniger Vorlauf buchen, sind in der Hauptsaison aber ebenfalls knapp.\n\nInlandsfluege nach Bwindi (Kihihi oder Kisoro), Kidepo und Murchison Falls sparen erheblich Zeit. Anbieter sind Aerolink Uganda und Eagle Air Uganda. Alternativ: Gut ausgebaute asphaltierte Fernstrassen verbinden die meisten Parks.',
+        content: 'Die ugandischen Nationalparks werden von der Uganda Wildlife Authority (UWA) verwaltet. Gorilla- und Schimpansen-Permits kaufen auslaendische Besucher ohne ugandischen Wohnsitz (FNR) laut UWA-Hinweis vom 11. Juli 2024 ausschliesslich ueber von der Uganda Tourism Board lizenzierte Touroperatoren; auslaendische Residenten und Buerger der Ostafrikanischen Gemeinschaft koennen direkt bei der UWA kaufen (ugandawildlife.org).\n\nEintrittspreise (Stand 2026, Auslaender):\n-- Bwindi Impenetrable: 45 USD pro Tag (Gorilla-Permit separat: 800 USD)\n-- Queen Elizabeth: 40 USD pro Tag\n-- Murchison Falls: 40 USD pro Tag (Bootstour separat: 30 USD)\n-- Kibale Forest: 45 USD pro Tag (Schimpansen-Permit: 200 USD)\n-- Kidepo Valley: 40 USD pro Tag\n-- Mount Elgon: 35 USD pro Tag\n-- Lake Mburo: 40 USD pro Tag\n-- Mgahinga: 40 USD pro Tag (Gorilla-Permit: 800 USD, Goldmeerkatzen: 100 USD)\n-- Semuliki: 35 USD pro Tag\n-- Rwenzori Mountains: 35 USD pro Tag (Trekking-Pakete: 800-1.500 USD)\n\nGorilla-Permits sollten drei bis sechs Monate im Voraus gebucht werden, insbesondere fuer die Hauptsaison. Die taeglich verfuegbaren Permits sind je nach Familie limitiert (acht Personen pro Gorilla-Gruppe). Schimpansen-Permits in Kibale lassen sich meist mit weniger Vorlauf buchen, sind in der Hauptsaison aber ebenfalls knapp.\n\nInlandsfluege nach Bwindi (Kihihi oder Kisoro), Kidepo und Murchison Falls sparen erheblich Zeit. Anbieter sind Aerolink Uganda und Eagle Air Uganda. Alternativ: Gut ausgebaute asphaltierte Fernstrassen verbinden die meisten Parks.',
       },
     ],
     faqs: [
@@ -467,7 +467,7 @@ export const hubPages = {
       { q: 'Was kostet ein Gorilla-Permit in Uganda?', a: 'Ein Gorilla-Permit kostet 800 USD pro Person. Es erlaubt ein einmaliges einstuendiges Trekking zu einer habituierten Gorilla-Gruppe. Der Parkeintritt (45 USD fuer Bwindi) kommt hinzu. Permits sind limitiert und sollten fruehzeitig gebucht werden.' },
     ],
     quellen: [
-      'Uganda Wildlife Authority (UWA) -- uwa.or.ug',
+      'Uganda Wildlife Authority (UWA) -- ugandawildlife.org',
       'MTWA Statistical Abstract 2025',
       'UNESCO World Heritage Centre -- Bwindi & Rwenzori',
       'Bradt Travel Guide Uganda (10. Auflage)',
@@ -540,7 +540,7 @@ export const hubPages = {
     quellen: [
       'Uganda Bureau of Statistics (UBOS) -- ubos.org',
       'MTWA Statistical Abstract 2025',
-      'Uganda Wildlife Authority (UWA) -- uwa.or.ug',
+      'Uganda Wildlife Authority (UWA) -- ugandawildlife.org',
       'Bradt Travel Guide Uganda (10. Auflage)',
       'Lonely Planet Uganda (2024)',
     ],
@@ -576,7 +576,7 @@ export const hubPages = {
       {
         id: 'planung',
         title: 'Wie man eine Uganda-Reise plant',
-        content: 'Eine Uganda-Rundreise erfordert etwas mehr Planung als andere Destinationen, da die limitierten Gorilla-Permits fruehzeitig gebucht werden muessen. Hier die wichtigsten Planungsschritte:\n\nSchritt 1 -- Zeitrahmen festlegen: Uganda-Reisen sind ab 7 Tagen sinnvoll, idealerweise 10 bis 14 Tage. Weniger als 7 Tage lassen kaum Zeit, mehr als eine oder zwei Hauptdestinationen zu besuchen.\n\nSchritt 2 -- Gorilla-Permits sichern: Das Gorilla-Permit (800 USD) ist das begehrgteste und am fruehesten ausgebuchte Element jeder Uganda-Reise. In der Hauptsaison (Juni-September, Dezember-Februar) sollte man drei bis sechs Monate im Voraus buchen. Buchung direkt bei der UWA (uwa.or.ug) oder ueber einen lizenzierten Uganda-Touroperator.\n\nSchritt 3 -- Route planen: Die meisten Parks liegen im Westen Ugandas und lassen sich gut verbinden. Kidepo im Nordosten erfordert einen Inlandsflug oder erhebliche Fahrzeit.\n\nSchritt 4 -- Unterkuenfte: In der Hauptsaison sind hochwertige Lodges in Bwindi schnell ausgebucht. Unterkuenfte parallel zu den Permits buchen.\n\nSchritt 5 -- Budget kalkulieren: Gorilla-Permit (800 USD), Parkeintrittsgebuehren (35-45 USD/Tag), Unterkuenfte (50-600 USD/Nacht je nach Kategorie), Transfer und Guides. Durchschnittliche Gesamtausgaben: 2.144 USD laut MTWA 2025, aber hochwertige Reisen liegen deutlich hoeher. (Quelle: MTWA Statistical Abstract 2025)',
+        content: 'Eine Uganda-Rundreise erfordert etwas mehr Planung als andere Destinationen, da die limitierten Gorilla-Permits fruehzeitig gebucht werden muessen. Hier die wichtigsten Planungsschritte:\n\nSchritt 1 -- Zeitrahmen festlegen: Uganda-Reisen sind ab 7 Tagen sinnvoll, idealerweise 10 bis 14 Tage. Weniger als 7 Tage lassen kaum Zeit, mehr als eine oder zwei Hauptdestinationen zu besuchen.\n\nSchritt 2 -- Gorilla-Permits sichern: Das Gorilla-Permit (800 USD) ist das begehrgteste und am fruehesten ausgebuchte Element jeder Uganda-Reise. In der Hauptsaison (Juni-September, Dezember-Februar) sollte man drei bis sechs Monate im Voraus buchen. Auslaendische Besucher ohne ugandischen Wohnsitz (FNR) buchen Gorilla-Permits laut UWA-Hinweis vom 11. Juli 2024 ausschliesslich ueber einen lizenzierten Uganda-Touroperator; FR und EAC koennen direkt bei der UWA kaufen.\n\nSchritt 3 -- Route planen: Die meisten Parks liegen im Westen Ugandas und lassen sich gut verbinden. Kidepo im Nordosten erfordert einen Inlandsflug oder erhebliche Fahrzeit.\n\nSchritt 4 -- Unterkuenfte: In der Hauptsaison sind hochwertige Lodges in Bwindi schnell ausgebucht. Unterkuenfte parallel zu den Permits buchen.\n\nSchritt 5 -- Budget kalkulieren: Gorilla-Permit (800 USD), Parkeintrittsgebuehren (35-45 USD/Tag), Unterkuenfte (50-600 USD/Nacht je nach Kategorie), Transfer und Guides. Durchschnittliche Gesamtausgaben: 2.144 USD laut MTWA 2025, aber hochwertige Reisen liegen deutlich hoeher. (Quelle: MTWA Statistical Abstract 2025)',
       },
       {
         id: 'kurze-routen',
@@ -597,20 +597,20 @@ export const hubPages = {
       {
         id: 'kosten-buchung',
         title: 'Kosten und Buchungstipps',
-        content: 'Die Kosten einer Uganda-Rundreise haengen stark von Unterkunftskategorie, Anzahl der Permits und Reisezeit ab.\n\nOrientierungswerte pro Person fuer eine 10-taegige Reise (Doppelzimmer, Mid-Range-Lodges):\n-- Gorilla-Permit: 800 USD\n-- Parkeintrittsgebuehren (10 Tage, 3 Parks): 400-500 USD\n-- Unterkuenfte Mid-Range (10 Naechte): 800-1.500 USD\n-- Transfer und Guide/Driver: 600-1.000 USD\n-- Inlandsflug (optional, z.B. nach Kidepo): 200-400 USD\n-- Mahlzeiten, Getraenke, Extras: 200-400 USD\nGesamtbudget Mid-Range: ca. 3.000-4.500 USD pro Person\n\nBudget-Reisende koennen Kosten durch Gruppenreisen, guenstigere Unterkuenfte und Verzicht auf optionale Extras reduzieren. Luxus-Safaris mit High-End-Lodges kosten 7.000 USD und mehr pro Person.\n\nBuchung: Gorilla-Permits direkt bei der UWA (uwa.or.ug) oder ueber einen lizenzierten Uganda-Touroperator. Fuer den deutschsprachigen Markt bieten spezialisierte Reiseveranstalter Komplettpakete an, die alle Permits, Unterkuenfte und Transfers beinhalten. Die meisten verlangen eine Anzahlung bei Buchung und den Restbetrag vor Reiseantritt.',
+        content: 'Die Kosten einer Uganda-Rundreise haengen stark von Unterkunftskategorie, Anzahl der Permits und Reisezeit ab.\n\nOrientierungswerte pro Person fuer eine 10-taegige Reise (Doppelzimmer, Mid-Range-Lodges):\n-- Gorilla-Permit: 800 USD\n-- Parkeintrittsgebuehren (10 Tage, 3 Parks): 400-500 USD\n-- Unterkuenfte Mid-Range (10 Naechte): 800-1.500 USD\n-- Transfer und Guide/Driver: 600-1.000 USD\n-- Inlandsflug (optional, z.B. nach Kidepo): 200-400 USD\n-- Mahlzeiten, Getraenke, Extras: 200-400 USD\nGesamtbudget Mid-Range: ca. 3.000-4.500 USD pro Person\n\nBudget-Reisende koennen Kosten durch Gruppenreisen, guenstigere Unterkuenfte und Verzicht auf optionale Extras reduzieren. Luxus-Safaris mit High-End-Lodges kosten 7.000 USD und mehr pro Person.\n\nBuchung: Auslaendische Besucher ohne ugandischen Wohnsitz (FNR) kaufen Gorilla-Permits laut UWA-Hinweis vom 11. Juli 2024 ausschliesslich ueber einen lizenzierten Uganda-Touroperator. Fuer den deutschsprachigen Markt bieten spezialisierte Reiseveranstalter Komplettpakete an, die alle Permits, Unterkuenfte und Transfers beinhalten. Die meisten verlangen eine Anzahlung bei Buchung und den Restbetrag vor Reiseantritt.',
       },
     ],
     faqs: [
       { q: 'Wie lange sollte man fuer Uganda einplanen?', a: 'Die ideale Reisedauer liegt bei 10 bis 14 Tagen. In 10 Tagen kann man Gorilla-Trekking, Schimpansen und eine Grosswild-Safari verbinden. Die durchschnittliche Aufenthaltsdauer von Leisure-Touristen in Uganda lag 2025 bei 9,5 Naechten. (Quelle: MTWA Statistical Abstract 2025)' },
       { q: 'Welche Route empfiehlt sich fuer Erstbesucher?', a: 'Fuer Erstbesucher ist die 10-12-Tages-Route empfehlenswert: Kampala/Entebbe -- Kibale Forest (Schimpansen) -- Queen Elizabeth (Safari, Kazinga-Kanal) -- Bwindi (Gorilla-Trekking). Diese Route deckt die Highlights ab und ist logistisch gut durchfuehrbar.' },
-      { q: 'Wann muss ich das Gorilla-Permit buchen?', a: 'Idealerweise drei bis sechs Monate vor der Reise, insbesondere fuer die Hauptsaison von Juni bis September und Dezember bis Februar. Das Permit kostet 800 USD und ist stark nachgefragt. Buchung ueber uwa.or.ug oder einen lizenzierten Touroperator.' },
+      { q: 'Wann muss ich das Gorilla-Permit buchen?', a: 'Idealerweise drei bis sechs Monate vor der Reise, insbesondere fuer die Hauptsaison von Juni bis September und Dezember bis Februar. Das Permit kostet 800 USD und ist stark nachgefragt. Auslaendische Besucher ohne ugandischen Wohnsitz (FNR) buchen ueber einen lizenzierten Touroperator (UWA-Hinweis vom 11. Juli 2024).' },
       { q: 'Was kostet eine Uganda-Rundreise ungefaehr?', a: 'Eine 10-taegige Rundreise im Mid-Range-Segment kostet pro Person rund 3.000 bis 4.500 USD inklusive Gorilla-Permit, Parkeintritten, Unterkuenften und Transfer. Luxus-Reisen liegen bei 7.000 USD und mehr. Die durchschnittlichen Ausgaben aller Uganda-Touristen lagen 2025 bei 2.144 USD. (Quelle: MTWA Statistical Abstract 2025)' },
       { q: 'Kann man Uganda individuell ohne Reiseveranstalter bereisen?', a: 'Grundsaetzlich ja: Mietfahrzeug, selbst gebuchte Lodges und Permits sind moeglich. Fuer Gorilla-Trekking und Schimpansen-Trekking sind jedoch offizielle UWA-Ranger Pflicht. Viele Reisende buchen ein Komplettpaket bei einem spezialisierten Touroperator, was die Logistik deutlich vereinfacht.' },
       { q: 'Wie viele Deutsche besuchen Uganda?', a: 'Im Jahr 2025 besuchten 14.247 Deutsche Uganda -- ein Plus von 237 Prozent gegenueber dem Vorjahr. Deutschland gehoert damit zu den am staerksten wachsenden Quellmaerkten fuer Uganda-Tourismus. (Quelle: MTWA Statistical Abstract 2025)' },
     ],
     quellen: [
       'MTWA Statistical Abstract 2025',
-      'Uganda Wildlife Authority (UWA) -- uwa.or.ug',
+      'Uganda Wildlife Authority (UWA) -- ugandawildlife.org',
       'Bradt Travel Guide Uganda (10. Auflage)',
       'Lonely Planet Uganda (2024)',
       'Uganda Tourism Board -- visituganda.com',

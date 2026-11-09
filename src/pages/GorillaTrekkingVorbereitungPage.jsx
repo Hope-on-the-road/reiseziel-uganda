@@ -8,7 +8,7 @@ const faqItems = [
   {
     frage: 'Wie weit im Voraus sollte ich ein Gorilla-Permit buchen?',
     antwort:
-      'Für die Hochsaison (Juni bis August sowie Dezember und Januar) empfiehlt sich eine Buchung mindestens drei bis sechs Monate im Voraus. In der Nebensaison sind Permits zwar kurzfristiger verfügbar, aber auch dann ist eine frühzeitige Reservierung sinnvoll, da die tägliche Besucherzahl pro Gruppe auf acht Personen begrenzt ist und Bwindi weltweit bekannt ist. Offizielle Buchung über die Uganda Wildlife Authority.',
+      'Für die Hochsaison (Juni bis August sowie Dezember und Januar) empfiehlt sich eine Buchung mindestens drei bis sechs Monate im Voraus. Auch in der Nebensaison ist eine frühzeitige Reservierung sinnvoll, da die tägliche Besucherzahl pro Gruppe auf acht Personen begrenzt ist und Bwindi weltweit bekannt ist. Offizielle Buchung über die Uganda Wildlife Authority.',
   },
   {
     frage: 'Was kostet ein Gorilla-Permit in Uganda?',

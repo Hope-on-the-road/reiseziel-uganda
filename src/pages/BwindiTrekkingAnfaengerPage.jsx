@@ -31,7 +31,7 @@ export default function BwindiTrekkingAnfaengerPage() {
     {
       frage: 'Kann ich das Gorilla-Trekking in Bwindi ohne Reiseveranstalter buchen?',
       antwort:
-        'Permits können direkt über die Uganda Wildlife Authority (UWA) gebucht werden. Für Logistik, Transport und Unterkunft in der abgelegenen Region empfiehlt sich jedoch zumindest eine teilorganisierte Buchung. Buhoma ist das bekannteste Einstiegsgebiet und am einfachsten per privatem Transfer von Kampala oder Kigali erreichbar (je ca. 8–10 Stunden Fahrt). Wer ohne Reise­veranstalter reist, sollte Permit, Unterkunft und Transport weit im Voraus selbst koordinieren — Permits für die Hauptsaison sind Monate vorher ausverkauft.',
+        'Ausländische Besucher ohne ugandischen Wohnsitz (FNR) kaufen Permits laut UWA-Hinweis vom 11. Juli 2024 ausschließlich über lizenzierte Reiseveranstalter; direkt bei der Uganda Wildlife Authority (UWA) kaufen können ausländische Residenten und Bürger der Ostafrikanischen Gemeinschaft. Für Logistik, Transport und Unterkunft in der abgelegenen Region empfiehlt sich jedoch zumindest eine teilorganisierte Buchung. Buhoma ist das bekannteste Einstiegsgebiet und am einfachsten per privatem Transfer von Kampala oder Kigali erreichbar (je ca. 8–10 Stunden Fahrt). Wer ohne Reise­veranstalter reist (möglich für Unterkunft und Transport), sollte diese weit im Voraus selbst koordinieren — Permits für die Hauptsaison sind Monate vorher ausverkauft.',
     },
   ]
 
