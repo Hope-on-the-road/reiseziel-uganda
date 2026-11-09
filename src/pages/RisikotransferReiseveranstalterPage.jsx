@@ -162,10 +162,10 @@ export default function RisikotransferReiseveranstalterPage() {
           <p className="text-gray-700 leading-relaxed mb-4">
             Die Uganda Wildlife Authority erlaubt unter bestimmten Bedingungen eine wetterbedingte Verschiebung des
             Trekking-Datums. Ob und wie das im Einzelfall funktioniert, hängt von der Verfügbarkeit an einem
-            Ausweichdatum und der Kommunikation mit dem buchenden Operator ab. Bei der direkten Buchung über UWA
-            läuft diese Abstimmung über das UWA-Büro in Kampala; bei Buchung über einen Veranstalter übernimmt
-            dieser die Koordination. Wer ein eigenes Permit eigenständig gebucht hat, muss selbst klären, welche
-            Optionen bestehen.
+            Ausweichdatum und der Kommunikation mit dem buchenden Operator ab. Bei einer direkten Buchung bei der UWA
+            (möglich für ausländische Residenten und Bürger der Ostafrikanischen Gemeinschaft) läuft diese
+            Abstimmung über die UWA; bei Buchung über einen Veranstalter übernimmt dieser die Koordination.
+            Ermäßigte Nebensaison-Permits können laut UWA nicht umgebucht werden.
           </p>
           <p className="text-gray-700 leading-relaxed mb-4">
             Bei der Organisation von Touren haben wir erlebt, dass manche Permits nach Abstimmung mit lokalen
@@ -175,8 +175,9 @@ export default function RisikotransferReiseveranstalterPage() {
             werden. Normale Reiserücktrittsversicherungen decken den Permit-Ausfall oft nicht automatisch ab.
           </p>
           <p className="text-gray-700 leading-relaxed mb-4">
-            Gorilla-Permits sollten ausschließlich direkt über die Uganda Wildlife Authority oder über zertifizierte
-            Operatoren mit UWA-Lizenz gebucht werden. Drittanbieter ohne offizielle Lizenz können keine gültigen
+            Gorilla-Permits sollten ausschließlich über die Uganda Wildlife Authority oder über von der Uganda Tourism
+            Board lizenzierte Operatoren gebucht werden (ausländische Besucher ohne ugandischen Wohnsitz kaufen laut
+            UWA-Hinweis vom 11. Juli 2024 ausschließlich über lizenzierte Operatoren). Drittanbieter ohne offizielle Lizenz können keine gültigen
             Permits ausstellen — das Risiko eines ungültigen oder gefälschten Dokuments besteht bei nicht
             autorisierten Buchungsplattformen.
           </p>

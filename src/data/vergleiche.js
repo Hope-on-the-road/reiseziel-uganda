@@ -105,7 +105,7 @@ export const vergleiche = {
       { q: 'Hat Kenia oder Uganda die besseren Straende?', a: 'Kenia gewinnt diese Kategorie eindeutig mit 536 km Kueste am Indischen Ozean. Diani Beach, Watamu und Lamu gehoeren zu den schoensten Straenden Afrikas. Uganda ist ein Binnenland, bietet aber mit dem Lake Bunyonyi und den Ssese-Inseln auf dem Lake Victoria schoene Alternativen fuer Erholung am Wasser.' },
     ],
     quellen: [
-      'Uganda Wildlife Authority (UWA) -- uwa.or.ug',
+      'Uganda Wildlife Authority (UWA) -- ugandawildlife.org',
       'Kenya Wildlife Service (KWS) -- kws.go.ke',
       'Uganda Tourism Board (UTB) -- visituganda.com',
       'Kenya Tourism Board -- magicalkenya.com',
@@ -228,7 +228,7 @@ export const vergleiche = {
       { q: 'Was ist der Ngorongoro-Krater wirklich wert?', a: 'Der Ngorongoro-Krater ist ein einzigartiges Naturwunder und lohnt den Besuch trotz der hohen Gebuehren (295 USD Crater Fee plus 82 USD Eintritt). Die Tierdichte auf dem Kraterboden ist spektakulaer. Plane den Besuch fuer den fruehen Morgen, um den groessten Touristenandrang zu vermeiden. In der Nebensaison (Maerz-Mai) ist es deutlich ruhiger.' },
     ],
     quellen: [
-      'Uganda Wildlife Authority (UWA) -- uwa.or.ug',
+      'Uganda Wildlife Authority (UWA) -- ugandawildlife.org',
       'Tanzania National Parks Authority (TANAPA) -- tanzaniaparks.go.tz',
       'Uganda Tourism Board (UTB) -- visituganda.com',
       'Tanzania Tourism Board -- tanzaniatourism.go.tz',
@@ -274,7 +274,7 @@ export const vergleiche = {
       {
         id: 'gorilla-familien',
         title: 'Gorilla-Familien: Vielfalt und Verfuegbarkeit',
-        content: 'Uganda hat mit 25 habituierten Gorilla-Familien mehr als doppelt so viele besuchbare Gruppen wie Ruanda mit 12 Familien. Im Bwindi Impenetrable National Park sind 24 Familien auf vier Sektoren verteilt: Buhoma, Ruhija, Rushaga und Nkuringo. Eine weitere Familie lebt im Mgahinga Gorilla National Park. Das bedeutet, dass taeglich bis zu 200 Trekking-Plaetze verfuegbar sind.\n\nIn Ruandas Volcanoes National Park sind 12 Gorilla-Familien habituiert, was taeglichen Platz fuer 96 Besucher bietet. In der Hochsaison von Juni bis September und Dezember bis Februar sind Permits in Ruanda daher schneller ausgebucht als in Uganda. Wer kurzfristig plant, hat in Uganda deutlich bessere Chancen auf ein Permit.\n\nDie Gorilla-Familien unterscheiden sich in Groesse und Zusammensetzung erheblich. Manche Familien haben ueber 20 Mitglieder mit mehreren Silberruecken, andere sind kleinere Gruppen mit einem dominanten Silberruecken und wenigen Weibchen. In Uganda kannst du bei der Buchung Praeferenzen angeben -- erfahrene Anbieter kennen die Familien und koennen die Zuteilung beeinflussen. Die groesseren Familien bieten oft spektakulaerere Begegnungen, da mehr Interaktion zwischen den Tieren stattfindet.',
+        content: 'Uganda hat mit 25 habituierten Gorilla-Familien mehr als doppelt so viele besuchbare Gruppen wie Ruanda mit 12 Familien. Im Bwindi Impenetrable National Park sind 24 Familien auf vier Sektoren verteilt: Buhoma, Ruhija, Rushaga und Nkuringo. Eine weitere Familie lebt im Mgahinga Gorilla National Park. Das bedeutet, dass taeglich bis zu 200 Trekking-Plaetze verfuegbar sind.\n\nIn Ruandas Volcanoes National Park sind 12 Gorilla-Familien habituiert, was taeglichen Platz fuer 96 Besucher bietet. In der Hochsaison von Juni bis September und Dezember bis Februar sind Permits in Ruanda daher schneller ausgebucht als in Uganda.\n\nDie Gorilla-Familien unterscheiden sich in Groesse und Zusammensetzung erheblich. Manche Familien haben ueber 20 Mitglieder mit mehreren Silberruecken, andere sind kleinere Gruppen mit einem dominanten Silberruecken und wenigen Weibchen. In Uganda kannst du bei der Buchung Praeferenzen angeben -- erfahrene Anbieter kennen die Familien und koennen die Zuteilung beeinflussen. Die groesseren Familien bieten oft spektakulaerere Begegnungen, da mehr Interaktion zwischen den Tieren stattfindet.',
       },
       {
         id: 'trekking-erlebnis',
@@ -336,7 +336,7 @@ export const vergleiche = {
       { q: 'Sieht man in Uganda und Ruanda die gleichen Gorillas?', a: 'Nein, es sind unterschiedliche Familien. Ugandas Gorillas leben hauptsaechlich im Bwindi Impenetrable National Park (24 Familien) und Mgahinga (1 Familie). Ruandas Gorillas leben im Volcanoes National Park (12 Familien). Beide Parks gehoeren zum Virunga-Gebirge, aber die Gorilla-Gruppen haben getrennte Territorien.' },
       { q: 'Ist das Gorilla-Trekking in Uganda schwieriger als in Ruanda?', a: 'Tendenziell ja. Bwindi ist dichter bewachsen und die Treks koennen 2-6 Stunden dauern. Im Volcanoes NP sind die Wege offener und die Treks dauern meist 1-3 Stunden. In Uganda gibt es aber Familien fuer jeden Fitness-Level -- die Guides teilen die Gruppen entsprechend ein. Traeger sind in beiden Laendern verfuegbar.' },
       { q: 'Kann man Uganda und Ruanda in einer Reise kombinieren?', a: 'Ja, das ist sogar sehr empfehlenswert. Die Grenze liegt nahe an beiden Gorilla-Parks. Das East Africa Tourist Visa (100 USD) gilt fuer Uganda, Ruanda und Kenia. Eine beliebte Route fuehrt von Kigali ueber Volcanoes NP nach Bwindi und weiter zu Ugandas Savannensafaris. Plane mindestens 12-16 Tage fuer eine Kombinationsreise.' },
-      { q: 'Wie weit im Voraus muss ich das Gorilla-Permit buchen?', a: 'Fuer die Hochsaison (Juni-September, Dezember-Februar) empfehlen wir 3-6 Monate Vorlauf in beiden Laendern. Ruanda ist mit nur 96 Plaetzen pro Tag schneller ausgebucht als Uganda mit bis zu 200 Plaetzen. In der Nebensaison (Maerz-Mai, Oktober-November) sind Permits in Uganda oft kurzfristiger verfuegbar.' },
+      { q: 'Wie weit im Voraus muss ich das Gorilla-Permit buchen?', a: 'Fuer die Hochsaison (Juni-September, Dezember-Februar) empfehlen wir 3-6 Monate Vorlauf in beiden Laendern. Ruanda ist mit nur 96 Plaetzen pro Tag schneller ausgebucht als Uganda mit bis zu 200 Plaetzen. In der Nebensaison (Maerz-Mai, Oktober-November) ist die Auslastung in Uganda niedriger; freie Permits sind aber nicht garantiert.' },
       { q: 'Welches Land hat die besseren Luxuslodges fuer Gorilla-Reisende?', a: 'Ruanda hat mit Singita Kwitonda, One&Only Gorilla Nest und Bisate Lodge einige der exklusivsten Gorilla-Lodges Afrikas. Uganda kontert mit Clouds Mountain Gorilla Lodge, Sanctuary Gorilla Forest Camp und Bwindi Lodge. Qualitativ sind beide Laender auf Weltniveau, Ruanda positioniert sich staerker im Ultra-Luxus-Segment.' },
       { q: 'Gibt es in Ruanda auch Schimpansen?', a: 'Ja, im Nyungwe Forest National Park im Suedwesten Ruandas leben Schimpansen. Das Permit kostet 90 USD und ist damit guenstiger als in Uganda (200 USD in Kibale). Allerdings ist die Population kleiner und die Erfolgsquote niedriger als im ugandischen Kibale Forest, der ueber 1.500 Schimpansen beherbergt.' },
       { q: 'Was ist die Gorilla Habituation Experience in Uganda?', a: 'Die Gorilla Habituation Experience ist ein einzigartiges Angebot in Bwindi, bei dem du bis zu 4 Stunden (statt 1 Stunde) bei einer halb-habituierten Gorilla-Familie verbringst. Du begleitest Forscher und Ranger bei ihrer taeglichen Arbeit. Das Permit kostet 1.500 USD -- gleicher Preis wie ein normales Ruanda-Permit, aber mit deutlich mehr Zeit bei den Gorillas.' },
@@ -344,7 +344,7 @@ export const vergleiche = {
       { q: 'Welches Land eignet sich besser fuer eine kurze Gorilla-Reise?', a: 'Ruanda ist die klare Wahl fuer kurze Trips. Ein Gorilla-Trekking ist als 2-Tages-Ausflung ab Kigali moeglich: Anreise am Nachmittag, Trekking am naechsten Morgen, Rueckfahrt am selben Tag. In Uganda brauchst du mindestens 4 Tage allein fuer Bwindi (2 Tage Transfer, 1 Tag Trekking, 1 Tag Puffer).' },
     ],
     quellen: [
-      'Uganda Wildlife Authority (UWA) -- uwa.or.ug',
+      'Uganda Wildlife Authority (UWA) -- ugandawildlife.org',
       'Rwanda Development Board (RDB) -- rdb.rw',
       'IUCN Red List -- Gorilla beringei beringei Status Report 2024',
       'Greater Virunga Transboundary Collaboration (GVTC) -- greatervirunga.org',
@@ -445,7 +445,7 @@ export const vergleiche = {
       { q: 'Wann ist die beste Reisezeit fuer Gorilla Trekking?', a: 'Die Trockenzeiten von Juni bis September und Dezember bis Februar bieten die besten Bedingungen. Die Wege sind trockener und die Gorillas halten sich in tieferen Lagen auf. In der Regenzeit (Maerz-Mai, Oktober-November) sind die Wege in Bwindi deutlich schlammiger als in Volcanoes. Die Erfolgsquote ist ganzjaehrig aehnlich hoch.' },
     ],
     quellen: [
-      'Uganda Wildlife Authority (UWA) -- uwa.or.ug',
+      'Uganda Wildlife Authority (UWA) -- ugandawildlife.org',
       'Rwanda Development Board (RDB) -- rdb.rw',
       'IUCN Red List -- Gorilla beringei beringei Status Report 2024',
       'Greater Virunga Transboundary Collaboration (GVTC) -- greatervirunga.org',

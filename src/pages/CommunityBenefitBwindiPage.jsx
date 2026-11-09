@@ -20,7 +20,7 @@ export default function CommunityBenefitBwindiPage() {
     },
     {
       q: 'Wie viel vom Gorilla-Permit-Erlös fließt in lokale Gemeinschaften?',
-      a: 'Nach ugandischem Recht fließen 20 Prozent der UWA-Einnahmen aus Nationalparks in Gemeinschaftsprojekte in den angrenzenden Bezirken. Für den Bwindi-Bereich bedeutet dies, dass Teile der Gorilla-Permit-Einnahmen (800 USD in der Hauptsaison, 450 USD in der Nebensaison) in Schulen, Gesundheitsstationen und Infrastrukturprojekte in Buhoma, Rushaga, Nkuringo und Ruhija investiert werden.',
+      a: 'Nach ugandischem Recht fließen 20 Prozent der UWA-Einnahmen aus Nationalparks in Gemeinschaftsprojekte in den angrenzenden Bezirken. Für den Bwindi-Bereich bedeutet dies, dass Teile der Gorilla-Permit-Einnahmen (800 USD in der Hauptsaison, 600 USD in der Nebensaison) in Schulen, Gesundheitsstationen und Infrastrukturprojekte in Buhoma, Rushaga, Nkuringo und Ruhija investiert werden.',
     },
     {
       q: 'Welche Organisationen koordinieren den Batwa-Schutz rund um Bwindi?',
@@ -67,7 +67,7 @@ export default function CommunityBenefitBwindiPage() {
             Uganda hat eines der strukturiertesten Revenue-Sharing-Programme in Ostafrika. Die Uganda Wildlife Authority (UWA) ist gesetzlich verpflichtet, einen Anteil der Parkeinnahmen an die Distriktbehörden der angrenzenden Gebiete weiterzuleiten. Im Bwindi-Bereich betrifft das vor allem die Bezirke Kanungu, Kabale und Kisoro. Die Mittel werden theoretisch für Schulbauten, Gesundheitsversorgung und Infrastruktur eingesetzt – in der Praxis hängt die Wirkung stark von lokaler Verwaltungskapazität ab.
           </p>
           <p className="text-gray-700 leading-relaxed mb-4">
-            Die Gorilla-Permits sind der wichtigste Einnahmekanal: 800 USD in der Hauptsaison (Juni–September, Dezember–Februar) und 450 USD in der Nebensaison. Da der Bwindi-Park mit seinen vier Trekking-Sektoren Buhoma, Ruhija, Rushaga und Nkuringo täglich eine begrenzte Anzahl von Permits ausgibt, ist die Nachfrage konsistent. Über das Jahr kumuliert sich daraus eine beträchtliche Summe, die in das Revenue-Sharing-System einfließt.
+            Die Gorilla-Permits sind der wichtigste Einnahmekanal: 800 USD in der Hauptsaison (Juni–September, Dezember–Februar) und 600 USD in der Nebensaison. Da der Bwindi-Park mit seinen vier Trekking-Sektoren Buhoma, Ruhija, Rushaga und Nkuringo täglich eine begrenzte Anzahl von Permits ausgibt, ist die Nachfrage konsistent. Über das Jahr kumuliert sich daraus eine beträchtliche Summe, die in das Revenue-Sharing-System einfließt.
           </p>
           <p className="text-gray-700 leading-relaxed mb-8">
             Daneben gibt es direkte Beschäftigung: Lokale Männer und Frauen arbeiten als Ranger, Ranger-Tracker, Porter und Guides. Für viele Familien in Buhoma ist ein einziger Familienmitglied in Parkdiensten der entscheidende Unterschied zwischen subsistenzbasierter Landwirtschaft und gesichertem Einkommen. [ZITAT: Ranger über seine Arbeit und was sie für seine Familie bedeutet]
