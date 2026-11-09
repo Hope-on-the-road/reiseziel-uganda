@@ -12,7 +12,7 @@ export default function BesteReisezeitGorillaTrekkingPage() {
   const faqs = [
     {
       frage: 'Was ist die beste Reisezeit für Gorilla Trekking in Uganda?',
-      antwort: 'Die beste Reisezeit für Gorilla Trekking in Uganda sind die beiden Trockenzeiten: Juni bis September und Dezember bis Februar. In diesen Monaten sind die Trails im Bwindi Impenetrable National Park trockener, das Unterholz weniger dicht und die Wanderung körperlich leichter. Wer flexibel ist, kann auch in der Regenzeit (April, Mai, November) trekken — mit weniger Mitreisenden, günstigeren Lodgepreisen und Permits zu 450 statt 800 US-Dollar. Gorillas verlassen Bwindi zu keiner Jahreszeit.'
+      antwort: 'Die beste Reisezeit für Gorilla Trekking in Uganda sind die beiden Trockenzeiten: Juni bis September und Dezember bis Februar. In diesen Monaten sind die Trails im Bwindi Impenetrable National Park trockener, das Unterholz weniger dicht und die Wanderung körperlich leichter. Wer flexibel ist, kann auch in der Regenzeit (April, Mai, November) trekken — mit weniger Mitreisenden, günstigeren Lodgepreisen und Permits zu 600 statt 800 US-Dollar. Gorillas verlassen Bwindi zu keiner Jahreszeit.'
     },
     {
       frage: 'Wie viele Berggorillas gibt es in Uganda?',
@@ -24,7 +24,7 @@ export default function BesteReisezeitGorillaTrekkingPage() {
     },
     {
       frage: 'Wie teuer ist ein Gorilla-Permit in Uganda und wann gibt es Rabatt?',
-      antwort: 'Ein Gorilla-Trekking-Permit kostet in der Hauptsaison 800 US-Dollar pro Person. In der Nebensaison — April, Mai und November — sinkt der Preis auf 450 US-Dollar. Die Uganda Wildlife Authority (UWA) verwaltet alle Permits; Buchungen sind direkt über die UWA-Website oder über akkreditierte Reiseveranstalter möglich. Für die Hochsaison (Juli und August) sollte man neun bis zwölf Monate im Voraus buchen: Im August sind durchschnittlich 95,8 Prozent aller verfügbaren Permits ausverkauft, im Juli 91,1 Prozent.'
+      antwort: 'Ein Gorilla-Trekking-Permit kostet in der Hauptsaison 800 US-Dollar pro Person. In der Nebensaison — April, Mai und November — sinkt der Preis auf 600 US-Dollar. Die Uganda Wildlife Authority (UWA) verwaltet alle Permits; Buchungen sind direkt über die UWA-Website oder über akkreditierte Reiseveranstalter möglich. Für die Hochsaison (Juli und August) sollte man neun bis zwölf Monate im Voraus buchen: Im August sind durchschnittlich 95,8 Prozent aller verfügbaren Permits ausverkauft, im Juli 91,1 Prozent.'
     },
     {
       frage: 'Wie lange dauert Gorilla Trekking in Bwindi?',
@@ -40,7 +40,7 @@ export default function BesteReisezeitGorillaTrekkingPage() {
     <>
       <Head
         title="Beste Reisezeit Gorilla Trekking Uganda 2026: Wann und wo Gorillas sehen"
-        description="Beste Reisezeit Gorilla Trekking Uganda: Trockenzeit Juni–September ideal, Nebensaison April/Mai mit 450 USD Permit. 459 Berggorillas, Bwindi vs. Mgahinga, Buchungstipps."
+        description="Beste Reisezeit Gorilla Trekking Uganda: Trockenzeit Juni–September ideal, Nebensaison April/Mai mit 600 USD Permit. 459 Berggorillas, Bwindi vs. Mgahinga, Buchungstipps."
         canonical={`https://www.reiseziel-uganda.de/${SLUG}`}
       />
       <main className="bg-white">
@@ -84,7 +84,7 @@ export default function BesteReisezeitGorillaTrekkingPage() {
                 <div><span className="font-semibold">Beste Reisezeit:</span> Juni–September und Dezember–Februar</div>
                 <div><span className="font-semibold">Ganzjährig möglich:</span> Ja — Gorillas verlassen Bwindi nicht</div>
                 <div><span className="font-semibold">Permit Hauptsaison:</span> 800 USD pro Person</div>
-                <div><span className="font-semibold">Permit Nebensaison:</span> 450 USD (April, Mai, November)</div>
+                <div><span className="font-semibold">Permit Nebensaison:</span> 600 USD (April, Mai, November)</div>
               </div>
               <div className="space-y-2">
                 <div><span className="font-semibold">Berggorillas in Uganda:</span> 459 Individuen (Zensus 2018–2020)</div>
@@ -113,7 +113,7 @@ export default function BesteReisezeitGorillaTrekkingPage() {
 
               <h3 className="font-display text-xl font-semibold text-gray-800 mt-6 mb-3">Nebensaison: Günstigere Permits, weniger Besucher</h3>
               <p>
-                Die Regenzeiten in Uganda — März bis Mai (lange Regenzeit) und Oktober bis November (kurze Regenzeit) — gelten in der klassischen Reiseplanung als Nebensaison. Das hat messbare Konsequenzen für die Permit-Kosten: In den Monaten April, Mai und November senkt die UWA den Permit-Preis von 800 auf 450 US-Dollar pro Person. Eine Reisegruppe von vier Personen spart damit 1.400 Dollar allein durch die saisonale Wahl des Reisetermins.
+                Die Regenzeiten in Uganda — März bis Mai (lange Regenzeit) und Oktober bis November (kurze Regenzeit) — gelten in der klassischen Reiseplanung als Nebensaison. Das hat messbare Konsequenzen für die Permit-Kosten: In den Monaten April, Mai und November senkt die UWA den Permit-Preis von 800 auf 600 US-Dollar pro Person. Eine Reisegruppe von vier Personen spart damit 800 Dollar allein durch die saisonale Wahl des Reisetermins.
               </p>
               <p>
                 Dazu kommt die Verfügbarkeit: Im April sind durchschnittlich nur 20 Prozent der Permits ausgebucht — der niedrigste Wert des Jahres. Wer kurzfristig planen muss oder will, findet in den Regenmonaten realistische Chancen auf ein Permit ohne monatelangen Vorlauf. Lodges in und um Bwindi reduzieren in der Nebensaison ihre Preise spürbar, und die Parks sind erheblich ruhiger. Gruppen treffen unterwegs weniger andere Trekkinggruppen an.
@@ -197,7 +197,7 @@ export default function BesteReisezeitGorillaTrekkingPage() {
             </h2>
             <div className="space-y-5 text-gray-700 leading-relaxed">
               <p>
-                Ein Gorilla-Trekking-Permit kostet in der Hauptsaison 800 US-Dollar pro Person, in der Nebensaison (April, Mai, November) 450 US-Dollar. Das Permit gilt für genau eine Stunde bei einer habitualisierten Gorilla-Familie und schließt den Transfer zum Parkeingang nicht ein. Buchungen erfolgen über die Uganda Wildlife Authority direkt — online über die UWA-Website, persönlich im Gorilla Tourism Office in Kabale, oder über akkreditierte Reiseveranstalter.
+                Ein Gorilla-Trekking-Permit kostet in der Hauptsaison 800 US-Dollar pro Person, in der Nebensaison (April, Mai, November) 600 US-Dollar. Das Permit gilt für genau eine Stunde bei einer habitualisierten Gorilla-Familie und schließt den Transfer zum Parkeingang nicht ein. Buchungen erfolgen über die Uganda Wildlife Authority direkt — online über die UWA-Website, persönlich im Gorilla Tourism Office in Kabale, oder über akkreditierte Reiseveranstalter.
               </p>
               <p>
                 Für die Hochsaison — Juli, August, Dezember, Anfang Januar — sollte man neun bis zwölf Monate im Voraus buchen. Für die Nebensaison und die Schulterperioden (Juni, September, Oktober) sind Buchungen mit zwei bis vier Monaten Vorlauf meist realistisch. In der Regenzeit (April/Mai) sind in manchen Jahren auch Permits mit wenigen Wochen Vorlauf erhältlich. Die <a href="/gorilla-permit-verfuegbarkeit" className="text-jungle-700 underline hover:text-jungle-900">monatlichen Auslastungsdaten für Gorilla Permits</a> zeigen die Nachfrage für jeden Monat im Jahresvergleich.

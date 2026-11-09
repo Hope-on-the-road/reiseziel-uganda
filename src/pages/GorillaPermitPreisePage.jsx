@@ -123,7 +123,7 @@ export default function GorillaPermitPreisePage() {
               </div>
               <div>
                 <dt className="font-semibold text-jungle-800">Buchung über</dt>
-                <dd className="text-gray-700">Uganda Wildlife Authority (UWA), lizenzierte Veranstalter</dd>
+                <dd className="text-gray-700">FNR: lizenzierte Veranstalter; FR und EAC: direkt bei der UWA</dd>
               </div>
               <div>
                 <dt className="font-semibold text-jungle-800">Buchung empfehlenswert</dt>
@@ -190,16 +190,17 @@ export default function GorillaPermitPreisePage() {
           </h2>
           <p className="text-gray-700 leading-relaxed mb-4">
             Gorilla Permits in Uganda werden offiziell über die Uganda Wildlife Authority (UWA) ausgegeben.
-            Die Buchung ist direkt über das UWA-Online-Portal möglich, in der Praxis erfolgt sie jedoch häufig
-            über lizenzierte Reiseveranstalter, die als autorisierte Reseller fungieren und das Permit als Teil
-            eines Gesamtpakets anbieten.
+            Laut UWA-Hinweis vom 11. Juli 2024 werden Permits für ausländische Besucher ohne ugandischen
+            Wohnsitz (FNR) ausschließlich über Reiseveranstalter verkauft, die von der Uganda Tourism Board
+            lizenziert sind. Ausländische Residenten und Bürger der Ostafrikanischen Gemeinschaft können
+            Permits direkt bei der UWA kaufen.
           </p>
           <p className="text-gray-700 leading-relaxed mb-4">
-            Wer das Permit selbst bucht, benötigt eine gültige E-Mail-Adresse, Passdaten aller Teilnehmer
-            sowie eine Kreditkarte für die Online-Zahlung. Nach bestätigter Zahlung erhält man ein
-            Bestätigungs-E-Mail mit den Buchungsdetails. Das eigentliche Permit wird am Trekking-Tag im
-            jeweiligen Park-Hauptquartier ausgehändigt — in Buhoma, Ruhija, Rushaga oder Nkuringo, je nach
-            dem Sektor, für den das Permit ausgestellt ist.
+            Für die Buchung werden die Passdaten aller Teilnehmer benötigt. Seit dem 1. März 2026 ist ein
+            Permit erst mit vollständiger Zahlung bei der Buchung gesichert; die frühere unbezahlte
+            Reservierungsfrist von sieben Tagen hat die UWA abgeschafft (Mitteilung vom 26. Februar 2026).
+            Am Trekking-Tag melden sich die Teilnehmer im Park-Hauptquartier des jeweiligen Sektors — in
+            Buhoma, Ruhija, Rushaga oder Nkuringo, je nach dem Sektor, für den das Permit ausgestellt ist.
           </p>
           <p className="text-gray-700 leading-relaxed mb-4">
             Die Wahl des Sektors ist nicht trivial. Bwindi erstreckt sich über ein weitläufiges Gebiet und
@@ -219,8 +220,8 @@ export default function GorillaPermitPreisePage() {
           </p>
           <p className="text-gray-700 leading-relaxed mb-4">
             Wann sollte man buchen? Als Faustregel gilt: mindestens drei Monate im Voraus für die Hauptreisemonate
-            Juli, August und Dezember. Wer in der Nebensaison (März bis Mai oder November) reist, findet
-            gelegentlich auch kurzfristig noch Permits — aber verlässlich ist das nicht. Gerade für Gruppen
+            Juli, August und Dezember. Wer in der Nebensaison (April, Mai oder November) reist, findet
+            möglicherweise auch kurzfristig noch Permits — aber verlässlich ist das nicht. Gerade für Gruppen
             ab vier Personen, die denselben Tag und denselben Sektor wünschen, ist eine frühzeitige Buchung
             unerlässlich. Einzelreisende haben etwas mehr Flexibilität, weil einzelne freie Slots in ohnehin
             gebuchten Gruppen leichter zu vergeben sind.
@@ -233,10 +234,10 @@ export default function GorillaPermitPreisePage() {
             schlechte Idee.
           </p>
           <p className="text-gray-700 leading-relaxed mb-4">
-            Zur Zahlungsabwicklung: Die UWA akzeptiert Kreditkarten und bestimmte Mobile-Payment-Methoden.
-            Vor Ort in Uganda ist auch Barzahlung möglich, aber Permit-Buchungen über das UWA-Büro in
-            Kampala oder direkt am Park-Hauptquartier setzen voraus, dass Slots noch verfügbar sind — was
-            ohne Vorausplanung selten der Fall ist.
+            Zur Zahlungsabwicklung: Die UWA nennt als offizielle Zahlungswege unter anderem Mobile Money,
+            Kartenterminals an UWA-Standorten in Kampala und Banküberweisungen. Zahlungen für Gorilla-Permits
+            am Park selbst sind laut UWA nicht zulässig — die Buchung und Zahlung sollten also vor der
+            Anreise in den Park erfolgen.
           </p>
 
           {/* H2-3 */}
@@ -387,7 +388,7 @@ export default function GorillaPermitPreisePage() {
           <div className="divide-y divide-gray-200">
             <FaqItem
               frage="Kann man ein Gorilla Permit Uganda kurzfristig buchen?"
-              antwort="Kurzfristige Buchungen sind möglich, aber riskant. In der Hochsaison (Juli–August, Dezember) sind Permits oft Monate im Voraus ausgebucht. In der Nebensaison gibt es gelegentlich freie Slots für Buchungen wenige Wochen im Voraus — aber das ist nicht planbar. Wer den Termin flexibel halten kann, sollte trotzdem frühzeitig buchen und bei Bedarf umplanen. Veranstalter haben manchmal Zugang zu Last-Minute-Permits aus Stornierungen."
+              antwort="Verlässlich planbar ist das nicht. Ein Kauf am Parkeingang ist nicht möglich: Zahlungen für Gorilla-Permits am Park sind laut UWA nicht zulässig, und seit dem 1. März 2026 ist ein Permit erst mit vollständiger Zahlung bei der Buchung gesichert. In der Hochsaison (Juli–August, Dezember) sind Permits oft Monate im Voraus ausgebucht; in der Nebensaison (April, Mai, November) ist die Nachfrage geringer, freie Permits sind aber nicht garantiert. Zu kurzfristigen Käufen oder Stornierungsplätzen nennt die UWA keine Regel — am besten frühzeitig beim Veranstalter bzw. bei der UWA nachfragen."
             />
             <FaqItem
               frage="Was passiert, wenn ich mein Permit nicht nutzen kann?"
