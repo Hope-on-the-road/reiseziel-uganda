@@ -176,6 +176,38 @@
         "Der Ablauf am Trekking-Tag ist in Bwindi standardisiert: Besucher melden sich am frühen Morgen am Park-Eingang, werden in Gruppen eingeteilt und einer bestimmten Gorilla-Familie zugewiesen. Pro Tag und Gorilla-Familie werden im Bwindi genau acht Permits ausgegeben, wodurch die Gruppengröße je Familie begrenzt bleibt. Details zu den einzelnen Gorilla-Gruppen und ihrer Zuteilung beschreibt die Seite zu den Gorilla-Familien in Bwindi.",
         "Die eigentliche Wanderung zur Familie kann je nach Standort der Tiere wenige Stunden bis einen ganzen Tag dauern. Ranger und Guides begleiten die Gruppe durchgehend. Sobald die Gorilla-Familie gefunden ist, bleibt maximal eine Stunde für die Begegnung – das ist im Permit-Preis bereits enthalten."
       ]
+    },
+    {
+      "id": "kosten-und-permits",
+      "title": "Kosten und Permits",
+      "content": [
+        "Ein Gorilla-Trekking-Permit in Uganda kostet 800 US-Dollar pro Person. Dafür erhältst du eine einstündige Begegnung mit einer habituierten Gorilla-Familie im Bwindi Impenetrable National Park oder im Mgahinga Gorilla National Park — Mgahinga oder Bwindi im Vergleich zeigt, worin sich die beiden Parks für Trekking-Interessierte unterscheiden. Zum Vergleich: Im Nachbarland Ruanda liegt der Preis für dasselbe Erlebnis bei 1.500 US-Dollar — fast doppelt so hoch. Einen ausführlichen Preisvergleich inklusive weiterer Details findest du unter Gorilla Permit Uganda: Preise, Buchung und alles was Sie wissen müssen.",
+        "Permits werden im Voraus über die Uganda Wildlife Authority (UWA) oder einen lizenzierten Touroperator gebucht. Eine spontane Buchung vor Ort ist in der Regel nicht möglich, da die verfügbaren Plätze je Gorilla-Familie begrenzt sind.",
+        "Pro Tag und Gorilla-Familie werden im Bwindi Impenetrable National Park genau acht Permits ausgegeben. Diese feste Obergrenze dient dem Schutz der Tiere vor Stress und Krankheitsübertragung und ist der Hauptgrund für die begrenzte Verfügbarkeit in nachfragestarken Monaten. Wer wissen möchte, welche Gruppen dahinter konkret stehen, findet Details in Die habituierten Gorilla-Familien in Bwindi: Porträts aller Trekking-Gruppen."
+      ]
+    },
+    {
+      "id": "buchung-und-timing",
+      "title": "Buchung und Timing",
+      "content": [
+        "Die UWA empfiehlt, Permits 2 bis 24 Monate im Voraus zu buchen — in der Hochsaison lohnt sich ein deutlich früherer Vorlauf.",
+        "Die Uganda Wildlife Authority empfiehlt, ein Gorilla-Permit 2 bis 24 Monate vor dem geplanten Trekking-Datum zu reservieren. Wie viel Vorlauf tatsächlich nötig ist, hängt stark von der gewählten Reisezeit ab.",
+        "Nach Angaben des MTWA Statistical Abstract 2025 wurden im gesamten Jahr 2025 landesweit 42.960 Gorilla-Permits verkauft. Bei einer jährlichen Gesamtkapazität von 71.522 Permits entspricht das einer Auslastung von 60,1 Prozent — die Nachfrage ist jedoch sehr ungleich über das Jahr verteilt.",
+        "In der Hochsaison lagen die Auslastungszahlen 2025 deutlich höher: Im August waren 95,8 Prozent aller Permits vergeben, im Juli 91,1 Prozent. Wer in diesen Monaten trekken möchte, sollte entsprechend früh planen. In der Nebensaison sieht es anders aus: Im April lag die Auslastung bei nur 20 Prozent, im Mai bei 29,4 Prozent. Hier bestehen deutlich bessere Chancen auf kurzfristig verfügbare Permits — mehr dazu in Nebensaison in Uganda und in der monatsgenauen Übersicht unter aktuelle Permit-Verfügbarkeit nach Monat.",
+        "Diese Zahlen stammen aus dem MTWA Statistical Abstract 2025 und beschreiben den Datenstand des Jahres 2025. Sie können sich in künftigen Saisons verschieben und sind daher als Orientierung, nicht als feste Regel zu verstehen.",
+        "Auslastung nach Reisezeit",
+        "• Hochsaison (z. B. Juli, August): sehr hohe Auslastung, früh buchen",
+        "• Nebensaison (z. B. April, Mai): deutlich mehr Verfügbarkeit, auch kurzfristige Buchung möglich"
+      ]
+    },
+    {
+      "id": "ablauf-des-trekkings",
+      "title": "Ablauf des Trekkings",
+      "content": [
+        "Der Trekking-Tag beginnt mit einem Briefing am Parkeingang, gefolgt von der eigentlichen Wanderung zur zugewiesenen Gorilla-Familie.",
+        "Am Tag des Trekkings melden sich Teilnehmende morgens am Parkeingang, wo eine kurze Einweisung durch Ranger stattfindet. Danach wird jede Besuchergruppe einer bestimmten, habituierten Gorilla-Familie zugeteilt und von einem Guide-Team in den Wald begleitet. Die Dauer der Wanderung bis zur Gorilla-Gruppe variiert je nach aktuellem Standort der Tiere und kann von wenigen Stunden bis zu einem vollen Tag reichen.",
+        "Ist die Gruppe gefunden, bleibt maximal eine Stunde Zeit für die direkte Begegnung — das ist die Zeitspanne, die im Permit-Preis enthalten ist. Anschließend geht es zurück zum Ausgangspunkt."
+      ]
     }
   ],
   "faqs": [
@@ -266,6 +298,14 @@
     {
       "q": "Wie viele Personen trekken gemeinsam zu einer Gorilla-Familie?",
       "a": "Pro Tag und Gorilla-Familie gibt die Uganda Wildlife Authority in Bwindi genau acht Permits aus, wodurch die Gruppengröße je Familie begrenzt bleibt."
+    },
+    {
+      "q": "Wann ist die beste Zeit, um spontan ein Gorilla-Permit zu bekommen?",
+      "a": "In der Nebensaison, vor allem im April, bestehen die besten Chancen: 2025 lag die Auslastung dort bei nur 20 Prozent. Auch der Mai war mit 29,4 Prozent Auslastung vergleichsweise frei. Wer flexibel ist, findet in diesen Monaten eher kurzfristig verfügbare Permits."
+    },
+    {
+      "q": "Wie viele Gorilla-Permits werden pro Tag vergeben?",
+      "a": "Pro Gorilla-Familie werden im Bwindi Impenetrable National Park genau acht Permits pro Tag ausgegeben. Diese Begrenzung dient dem Schutz der Tiere und ist der Grund für die begrenzte Verfügbarkeit in nachfragestarken Zeiten."
     }
   ],
   "quellen": [
@@ -290,11 +330,13 @@
     "Geld und Zahlungsmittel in Uganda",
     "Gorilla-Trekking-Permit fuer Bwindi: Kosten, Buchung und Erfahrungsbericht 2026",
     "African Fish Eagle - Uganda (“Haliaeetus vocifer”) - Uganda Birding Safaris & Tours",
-    "African Fish-eagle | The Peregrine Fund"
+    "African Fish-eagle | The Peregrine Fund",
+    "Gorilla Permit Uganda: Wann buchen -- Monatskalender und Auslastung 2025 (doc kd ru 1784582733197 xyg4)",
+    "Mgahinga oder Bwindi: Welcher Park ist besser fuer Gorilla Trekking? (doc kd ru 1784582735716 xyv0)"
   ],
   "hopeplatform": {
-    "draft_id": "fd6ef70d-757a-4c5f-85ea-61b97651a0e9",
+    "draft_id": "9aef6499-65f7-496c-95e7-c40af94e429b",
     "erzeugt_am": "2026-09-20",
-    "zuletzt": "2026-10-08"
+    "zuletzt": "2026-11-10"
   }
 }
