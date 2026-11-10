@@ -137,6 +137,32 @@
         "Der Walking-with-Rhinos-Trek kostet für ausländische Besucher 50 USD pro Person, ugandische Staatsbürger zahlen 30.000 UGX (Stand 2025). Zum Vergleich: Bereits 2020 lag der Preis für ausländische Besucher bei 50 US-Dollar pro Person für einen zweistündigen Trek -- die Preisstruktur für internationale Gäste ist seitdem weitgehend stabil geblieben, während für ugandische Besucher ein gesonderter, günstigerer Tarif gilt.",
         "Das Ziwa Rhino Sanctuary ist täglich von 7 bis 18 Uhr geöffnet. Buchungen können direkt über die offizielle UWA-Website oder über autorisierte ugandische Reiseveranstalter vorgenommen werden."
       ]
+    },
+    {
+      "id": "praktische-informationen-preise-oeffnungszeiten-und-anfahrt",
+      "title": "Praktische Informationen: Preise, Öffnungszeiten und Anfahrt",
+      "content": [
+        "Das Rhino Tracking zu Fuß kostet für ausländische Besucher 50 USD, für Ugander 30.000 UGX (Stand 2025). Eine ältere Quelle aus dem Jahr 2020 nannte einen Eintrittspreis von 20 USD für Tagesbesucher – diese Angabe ist überholt, aktuell gilt der Preis von 50 USD. Eine geführte Tour dauert nach älteren Angaben etwa ein bis zwei Stunden.",
+        "Das Ziwa Rhino Sanctuary ist täglich von 7 bis 18 Uhr geöffnet. Es erstreckt sich über 70 Quadratkilometer privates Land nördlich von Kampala, auf dem sich die Nashörner innerhalb eines gesicherten Geländes frei bewegen.",
+        "Die Anfahrt erfolgt über die Hauptstrasse Kampala–Masindi: Rund 50 Kilometer vor Masindi zweigt die Strasse westlich ab, von der Kreuzung sind es acht weitere Kilometer bis zum Informationsbüro des Sanctuary. Damit liegt Ziwa ideal als Zwischenstopp auf dem Weg zum Murchison Falls Nationalpark."
+      ]
+    },
+    {
+      "id": "naturschutz-revenue-sharing-und-geplante-umsiedlungen",
+      "title": "Naturschutz: Revenue-Sharing und geplante Umsiedlungen",
+      "content": [
+        "Ein Teil der Einnahmen aus dem Sanctuary fließt über das UWA Revenue-Sharing-Programm an lokale Gemeinden. Ziwa bleibt Ausgangspunkt für die Umsiedlung nach Ajai, zusätzlich ist eine Umsiedlung von Nashörnern aus Kenia nach Kidepo geplant.",
+        "Das Revenue-Sharing-Programm der Uganda Wildlife Authority leitet einen Teil der Einnahmen aus dem Ziwa Rhino Sanctuary an die umliegenden Gemeinden weiter. Damit profitieren auch Menschen vor Ort direkt vom Schutz der Nashörner und vom Tourismus in der Region.",
+        "Ziwa bleibt die zentrale Zucht- und Ausgangsstätte für die Wiederansiedlung von Nashörnern in Uganda. Für die kommenden Jahre sind weitere Umsiedlungen von Tieren aus Ziwa in das Ajai Wildlife Reserve geplant. Unabhängig davon ist eine Umsiedlung von Nashörnern aus Kenia nach Kidepo vorgesehen – diese Tiere stammen nicht aus Ziwa. Beide Vorhaben unterstreichen die Rolle von Ziwa als Grundlage des nationalen Wiederansiedlungsprogramms, auch wenn nicht jede Umsiedlung von dort ausgeht. Mehr zum Gesamtprogramm im Beitrag zur Rückkehr des Nashorns nach Uganda."
+      ]
+    },
+    {
+      "id": "mit-kindern-im-ziwa-rhino-sanctuary",
+      "title": "Mit Kindern im Ziwa Rhino Sanctuary",
+      "content": [
+        "Ja, das Sanctuary gilt als eines der familienfreundlichsten Ziele Ugandas, da die Wanderungen zu den Nashörnern flach und kurz sind.",
+        "Das Ziwa Rhino Sanctuary eignet sich gut für Familien mit Kindern. Die Wege zu den Nashörnern sind flach und kurz, sodass auch jüngere Kinder die Tour zu Fuß gut bewältigen können. Für Familien, die eine Route über Murchison Falls planen, bietet sich Ziwa daher als kindgerechter Zwischenstopp an, bei dem ein intensives Naturerlebnis mit überschaubarem körperlichem Aufwand verbunden wird. Weitere Tipps für Familienreisen gibt es im Beitrag Uganda mit Kindern."
+      ]
     }
   ],
   "faqs": [
@@ -227,6 +253,22 @@
     {
       "q": "Was ist das UWA Revenue-Sharing-Programm?",
       "a": "Es handelt sich um ein Programm der Uganda Wildlife Authority, über das ein Teil der Einnahmen aus dem Sanctuary an die umliegenden Gemeinden weitergeleitet wird, um den Naturschutz mit der lokalen Bevölkerung zu verbinden."
+    },
+    {
+      "q": "Wie viel kostet das Rhino Tracking im Ziwa Rhino Sanctuary?",
+      "a": "Das Rhino Tracking zu Fuß kostet 2025 50 USD für ausländische Besucher und 30.000 UGX für Ugander. Eine Tour dauert nach älteren Angaben etwa ein bis zwei Stunden."
+    },
+    {
+      "q": "Wie komme ich zum Ziwa Rhino Sanctuary?",
+      "a": "Die Anfahrt erfolgt über die Hauptstrasse Kampala–Masindi. Rund 50 Kilometer vor Masindi zweigt die Strasse westlich ab, von dort sind es acht weitere Kilometer bis zum Informationsbüro."
+    },
+    {
+      "q": "Profitieren lokale Gemeinden vom Sanctuary?",
+      "a": "Ja, über das UWA Revenue-Sharing-Programm fliesst ein Teil der Einnahmen aus dem Sanctuary an die umliegenden Gemeinden."
+    },
+    {
+      "q": "Werden weitere Nashörner aus Ziwa umgesiedelt?",
+      "a": "Für die kommenden Jahre ist eine Umsiedlung von Nashörnern aus Ziwa nach Ajai geplant. Unabhängig davon sollen Nashörner aus Kenia nach Kidepo umgesiedelt werden – diese Tiere stammen nicht aus Ziwa."
     }
   ],
   "quellen": [
@@ -252,11 +294,12 @@
     "African fish eagle - Wikipedia",
     "African wild dog | Canids",
     "African Painted Dog Conservation Efforts",
-    "African Wild Dog (Lycaon pictus) - Wildlife ACT"
+    "African Wild Dog (Lycaon pictus) - Wildlife ACT",
+    "Uganda's 2025 Conservation Journey | African Wildlife Foundation"
   ],
   "hopeplatform": {
-    "draft_id": "0fc2f450-604e-4074-ab25-663a3a2e40f0",
+    "draft_id": "adbc60fc-1c7d-437d-af55-a67254c84330",
     "erzeugt_am": "2026-09-23",
-    "zuletzt": "2026-10-30"
+    "zuletzt": "2026-11-10"
   }
 }
